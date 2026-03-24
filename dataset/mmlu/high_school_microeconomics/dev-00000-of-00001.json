@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "high_school_microeconomics",
+    "question": "In a competitive labor market for housepainters, which of the following would increase the demand for housepainters?",
+    "choices": [
+      "An effective minimum wage imposed on this labor market.",
+      "An increase in the price of gallons of paint.",
+      "An increase in the construction of new houses.",
+      "An increase in the price of mechanical painters so long as the output effect exceeds the substitution effect."
+    ],
+    "answer": "C",
+    "input": "Question: In a competitive labor market for housepainters, which of the following would increase the demand for housepainters?\nOptions:\n(A) An effective minimum wage imposed on this labor market.\n(B) An increase in the price of gallons of paint.\n(C) An increase in the construction of new houses.\n(D) An increase in the price of mechanical painters so long as the output effect exceeds the substitution effect.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If the government subsidizes producers in a perfectly competitive market, then",
+    "choices": [
+      "the demand for the product will increase",
+      "the demand for the product will decrease",
+      "the consumer surplus will increase",
+      "the consumer surplus will decrease"
+    ],
+    "answer": "C",
+    "input": "Question: If the government subsidizes producers in a perfectly competitive market, then\nOptions:\n(A) the demand for the product will increase\n(B) the demand for the product will decrease\n(C) the consumer surplus will increase\n(D) the consumer surplus will decrease\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "The concentration ratio for a monopoly is",
+    "choices": [
+      "0",
+      "5",
+      "10",
+      "100"
+    ],
+    "answer": "D",
+    "input": "Question: The concentration ratio for a monopoly is\nOptions:\n(A) 0\n(B) 5\n(C) 10\n(D) 100\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is true of a price floor?",
+    "choices": [
+      "The price floor shifts the demand curve to the left.",
+      "An effective floor creates a shortage of the good.",
+      "The price floor shifts the supply curve of the good to the right.",
+      "To be an effective floor, it must be set above the equilibrium price."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is true of a price floor?\nOptions:\n(A) The price floor shifts the demand curve to the left.\n(B) An effective floor creates a shortage of the good.\n(C) The price floor shifts the supply curve of the good to the right.\n(D) To be an effective floor, it must be set above the equilibrium price.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is necessarily a characteristic of oligopoly?",
+    "choices": [
+      "Free entry into and exit from the market",
+      "A few large producers",
+      "One producer of a good with no close substitutes",
+      "A homogenous product"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is necessarily a characteristic of oligopoly?\nOptions:\n(A) Free entry into and exit from the market\n(B) A few large producers\n(C) One producer of a good with no close substitutes\n(D) A homogenous product\nAnswer:",
+    "target": "(B)"
+  }
+]

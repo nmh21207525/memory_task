@@ -1,0 +1,405 @@
+[
+  {
+    "subject": "professional_accounting",
+    "question": "Under a divorce settlement, Joan transferred her 50% ownership of their personal residence to Jim. The joint basis of the residence was $200,000. At the time of the transfer, the property's fair market value was $300,000. What was Joan's recognized gain and Jim's basis for the residence?\nRecognized gain; Basis",
+    "choices": [
+      "$50,000; $250,000",
+      "$50,000; $300,000",
+      "$0; $200,000",
+      "$0; $300,000"
+    ],
+    "answer": "C",
+    "input": "Question: Under a divorce settlement, Joan transferred her 50% ownership of their personal residence to Jim. The joint basis of the residence was $200,000. At the time of the transfer, the property's fair market value was $300,000. What was Joan's recognized gain and Jim's basis for the residence?\nRecognized gain; Basis\nOptions:\n(A) $50,000; $250,000\n(B) $50,000; $300,000\n(C) $0; $200,000\n(D) $0; $300,000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Below are data from the income statement of Brown Inc: Beginning inventory finished goods $16000 Ending inventory finished goods 21000 Cost of goods sold 43000 Gross margin from sales 39000 Operating expenses ‚Äì marketing and selling 20000 Net income 19000 What was Brown's cost of goods manufactured?",
+    "choices": [
+      "$37,000",
+      "$38,000",
+      "$48,000",
+      "50000"
+    ],
+    "answer": "C",
+    "input": "Question: Below are data from the income statement of Brown Inc: Beginning inventory finished goods $16000 Ending inventory finished goods 21000 Cost of goods sold 43000 Gross margin from sales 39000 Operating expenses ‚Äì marketing and selling 20000 Net income 19000 What was Brown's cost of goods manufactured?\nOptions:\n(A) $37,000\n(B) $38,000\n(C) $48,000\n(D) 50000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "BackInSoon, Inc., has estimated that a proposed project's 10-year annual net cash benefit, received each year end, will be $2,500 with an additional terminal benefit of $5,000 at the end of the tenth year. Assuming that these cash inflows satisfy exactly BackInSoon's required rate of return of 8 percent, calculate the initial cash outlay. (Hint: With a desired IRR of 8%, use the IRR formula: ICO = discounted cash flows.)",
+    "choices": [
+      "$16,775",
+      "$19,090",
+      "$25,000",
+      "$30,000"
+    ],
+    "answer": "B",
+    "input": "Question: BackInSoon, Inc., has estimated that a proposed project's 10-year annual net cash benefit, received each year end, will be $2,500 with an additional terminal benefit of $5,000 at the end of the tenth year. Assuming that these cash inflows satisfy exactly BackInSoon's required rate of return of 8 percent, calculate the initial cash outlay. (Hint: With a desired IRR of 8%, use the IRR formula: ICO = discounted cash flows.)\nOptions:\n(A) $16,775\n(B) $19,090\n(C) $25,000\n(D) $30,000\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Which of the following fraudulent activities most likely could be perpetrated due to the lack of effective internal controls in the revenue cycle?",
+    "choices": [
+      "Fictitious transactions may be recorded that cause an understatement of revenues and an overstatement of receivables.",
+      "Claims received from customers for goods returned may be intentionally recorded in other customers' accounts.",
+      "Authorization of credit memos by personnel who receive cash may permit the misappropriation of cash.",
+      "The failure to prepare shipping documents may cause an overstatement of inventory balances."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following fraudulent activities most likely could be perpetrated due to the lack of effective internal controls in the revenue cycle?\nOptions:\n(A) Fictitious transactions may be recorded that cause an understatement of revenues and an overstatement of receivables.\n(B) Claims received from customers for goods returned may be intentionally recorded in other customers' accounts.\n(C) Authorization of credit memos by personnel who receive cash may permit the misappropriation of cash.\n(D) The failure to prepare shipping documents may cause an overstatement of inventory balances.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Order the following (risk, return) pairs from least to most favourable assuming the perspective of a rational and risk-averse investor: (2,2), (3,2) and (3,4). Risk is measured in standard deviations and return in percentage. HINT: Imagine a scatter diagram with standard deviation on the x-axis and return on the y-axis.",
+    "choices": [
+      "(3,2), (3,4), (2,2)",
+      "(3,2), (2,2), (3,4)",
+      "(2,2), (3,2), (3,4)",
+      "(3,4), (3,2), (2,2)"
+    ],
+    "answer": "B",
+    "input": "Question: Order the following (risk, return) pairs from least to most favourable assuming the perspective of a rational and risk-averse investor: (2,2), (3,2) and (3,4). Risk is measured in standard deviations and return in percentage. HINT: Imagine a scatter diagram with standard deviation on the x-axis and return on the y-axis.\nOptions:\n(A) (3,2), (3,4), (2,2)\n(B) (3,2), (2,2), (3,4)\n(C) (2,2), (3,2), (3,4)\n(D) (3,4), (3,2), (2,2)\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "An issuer's board of directors would ordinarily participate in each of the following activities except",
+    "choices": [
+      "Establishing long-term strategy and objectives to which their information technology system should be aligned.",
+      "Supervising and monitoring the quality control testing upon the installation of a new information technology system.",
+      "Ensuring that suitable information technology resources and skills are available to meet the company's strategic objectives.",
+      "Maintaining awareness of current technology used by the organization to assure its efficiency and effectiveness for financial reporting."
+    ],
+    "answer": "B",
+    "input": "Question: An issuer's board of directors would ordinarily participate in each of the following activities except\nOptions:\n(A) Establishing long-term strategy and objectives to which their information technology system should be aligned.\n(B) Supervising and monitoring the quality control testing upon the installation of a new information technology system.\n(C) Ensuring that suitable information technology resources and skills are available to meet the company's strategic objectives.\n(D) Maintaining awareness of current technology used by the organization to assure its efficiency and effectiveness for financial reporting.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "An auditor is considering whether the omission of the confirmation of investments impairs the auditor’s ability to support a previously expressed unmodified opinion. The auditor need not perform this omitted procedure if",
+    "choices": [
+      "The results of alternative procedures that were performed compensate for the omission.",
+      "The auditor’s assessed level of detection risk is low.",
+      "The omission is documented in a communication with the audit committee.",
+      "No individual investment is material to the financial statements taken as a whole."
+    ],
+    "answer": "A",
+    "input": "Question: An auditor is considering whether the omission of the confirmation of investments impairs the auditor’s ability to support a previously expressed unmodified opinion. The auditor need not perform this omitted procedure if\nOptions:\n(A) The results of alternative procedures that were performed compensate for the omission.\n(B) The auditor’s assessed level of detection risk is low.\n(C) The omission is documented in a communication with the audit committee.\n(D) No individual investment is material to the financial statements taken as a whole.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "The market price of K-T-Lew Corporation's common stock is $60 per share, and each share gives its owner one subscription right. Four rights are required to purchase an additional share of common stock at the subscription price of $54 per share. If the common stock is currently selling \"rights-on,\" the theoretical value of a right is closest to",
+    "choices": [
+      "$0.96",
+      "$1.20",
+      "$1.50",
+      "$6.00"
+    ],
+    "answer": "B",
+    "input": "Question: The market price of K-T-Lew Corporation's common stock is $60 per share, and each share gives its owner one subscription right. Four rights are required to purchase an additional share of common stock at the subscription price of $54 per share. If the common stock is currently selling \"rights-on,\" the theoretical value of a right is closest to\nOptions:\n(A) $0.96\n(B) $1.20\n(C) $1.50\n(D) $6.00\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Which of the following statements that relate to capital budgeting is true?",
+    "choices": [
+      "The impact of taxes on capital budgeting will not make a difference in the decision to purchase new equipment.",
+      "Accelerated methods of depreciation provide tax shields that are advantageous from a present-value point of view.",
+      "The depreciation method used for financial accounting reporting and not the depreciation method used for tax purposes should be used in capital budgeting decisions.",
+      "If the depreciable life of a project is shorter than the expected useful life of the project then the anticipated after-tax cash flows should be evaluated over the depreciable life."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following statements that relate to capital budgeting is true?\nOptions:\n(A) The impact of taxes on capital budgeting will not make a difference in the decision to purchase new equipment.\n(B) Accelerated methods of depreciation provide tax shields that are advantageous from a present-value point of view.\n(C) The depreciation method used for financial accounting reporting and not the depreciation method used for tax purposes should be used in capital budgeting decisions.\n(D) If the depreciable life of a project is shorter than the expected useful life of the project then the anticipated after-tax cash flows should be evaluated over the depreciable life.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "A company has a 22% investment in another company that it accounts for using the equity method. Which of the following disclosures should be included in the company’s annual financial statements?",
+    "choices": [
+      "The names and ownership percentages of the other stockholders in the investee company.",
+      "The reason for the company’s decision to invest in the investee company.",
+      "The company’s accounting policy for the investment.",
+      "Whether the investee company is involved in any litigation."
+    ],
+    "answer": "C",
+    "input": "Question: A company has a 22% investment in another company that it accounts for using the equity method. Which of the following disclosures should be included in the company’s annual financial statements?\nOptions:\n(A) The names and ownership percentages of the other stockholders in the investee company.\n(B) The reason for the company’s decision to invest in the investee company.\n(C) The company’s accounting policy for the investment.\n(D) Whether the investee company is involved in any litigation.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "When a PCAOB auditing standard indicates that an auditor “could” perform a specific procedure, how should the auditor decide whether and how to perform the procedure?",
+    "choices": [
+      "By comparing the PCAOB standard with related AICPA auditing standards.",
+      "By exercising professional judgment in the circumstances.",
+      "By soliciting input from the issuer’s audit committee.",
+      "By evaluating whether the audit is likely to be subject to inspection by the PCAOB."
+    ],
+    "answer": "B",
+    "input": "Question: When a PCAOB auditing standard indicates that an auditor “could” perform a specific procedure, how should the auditor decide whether and how to perform the procedure?\nOptions:\n(A) By comparing the PCAOB standard with related AICPA auditing standards.\n(B) By exercising professional judgment in the circumstances.\n(C) By soliciting input from the issuer’s audit committee.\n(D) By evaluating whether the audit is likely to be subject to inspection by the PCAOB.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "A company headquartered in the United States has operations in 27 countries. The company purchased a subsidiary to expand operations into another country last year. According to COSO, which of the following provides the strongest mechanism for monitoring control in this new foreign venture?",
+    "choices": [
+      "An internal audit is being performed.",
+      "Ethics and fraud training is being conducted.",
+      "An accounting and control manual is being distributed.",
+      "Management has oversight over litigation and foreign regulation."
+    ],
+    "answer": "A",
+    "input": "Question: A company headquartered in the United States has operations in 27 countries. The company purchased a subsidiary to expand operations into another country last year. According to COSO, which of the following provides the strongest mechanism for monitoring control in this new foreign venture?\nOptions:\n(A) An internal audit is being performed.\n(B) Ethics and fraud training is being conducted.\n(C) An accounting and control manual is being distributed.\n(D) Management has oversight over litigation and foreign regulation.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "What is the price of a two-year bond (face value $100), paying 4% coupons semi-annually, with a yield of 8%?",
+    "choices": [
+      "93.01",
+      "92.87",
+      "100.28",
+      "80.13"
+    ],
+    "answer": "A",
+    "input": "Question: What is the price of a two-year bond (face value $100), paying 4% coupons semi-annually, with a yield of 8%?\nOptions:\n(A) 93.01\n(B) 92.87\n(C) 100.28\n(D) 80.13\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Which of the following procedures would a CPA most likely include in planning a financial statement audit?",
+    "choices": [
+      "Determine the extent of involvement of the client's internal auditors.",
+      "Ask the client's lawyer if contingencies have been recorded in conformity with GAAP.",
+      "Obtain a written representation letter from the client's management.",
+      "Scan the client's journals and ledgers to identify any unusual transactions."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following procedures would a CPA most likely include in planning a financial statement audit?\nOptions:\n(A) Determine the extent of involvement of the client's internal auditors.\n(B) Ask the client's lawyer if contingencies have been recorded in conformity with GAAP.\n(C) Obtain a written representation letter from the client's management.\n(D) Scan the client's journals and ledgers to identify any unusual transactions.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Aln Co. incurred the following expenses during the current period: Routine on-going efforts to improve an existing product $50000 Trouble-shooting in connection with breakdowns during commercial production $75000 Routine testing of products during commercial production for quality-control purposes $100000 What is the total amount of research and development expense incurred by Aln during the current period?",
+    "choices": [
+      "$0",
+      "$75,000",
+      "$125,000",
+      "175000"
+    ],
+    "answer": "A",
+    "input": "Question: Aln Co. incurred the following expenses during the current period: Routine on-going efforts to improve an existing product $50000 Trouble-shooting in connection with breakdowns during commercial production $75000 Routine testing of products during commercial production for quality-control purposes $100000 What is the total amount of research and development expense incurred by Aln during the current period?\nOptions:\n(A) $0\n(B) $75,000\n(C) $125,000\n(D) 175000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "True Co. did not record an accrual for a probable loss from a lawsuit in its financial statements. Which of the following explanations for True's not accruing the probable loss is in accordance with generally accepted accounting principles?",
+    "choices": [
+      "No reasonable estimate of the loss can be made.",
+      "An estimated range for the loss can be made but no amount in the range is more accurate than any other amount.",
+      "Recognizing an amount in its financial statements would weaken the company's defense of the lawsuit.",
+      "Accrual was not required because an estimated amount of the loss was disclosed in the notes to the financial statements."
+    ],
+    "answer": "A",
+    "input": "Question: True Co. did not record an accrual for a probable loss from a lawsuit in its financial statements. Which of the following explanations for True's not accruing the probable loss is in accordance with generally accepted accounting principles?\nOptions:\n(A) No reasonable estimate of the loss can be made.\n(B) An estimated range for the loss can be made but no amount in the range is more accurate than any other amount.\n(C) Recognizing an amount in its financial statements would weaken the company's defense of the lawsuit.\n(D) Accrual was not required because an estimated amount of the loss was disclosed in the notes to the financial statements.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "The cost of debt most frequently is measured as",
+    "choices": [
+      "Actual interest rate.",
+      "Actual interest rate adjusted for inflation.",
+      "Actual interest rate plus a risk premium.",
+      "Actual interest rate minus tax savings."
+    ],
+    "answer": "D",
+    "input": "Question: The cost of debt most frequently is measured as\nOptions:\n(A) Actual interest rate.\n(B) Actual interest rate adjusted for inflation.\n(C) Actual interest rate plus a risk premium.\n(D) Actual interest rate minus tax savings.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Zarr Town levied property taxes of $500000 of which 1% is expected to be uncollectible. During the year Zarr Town collected $450000. What amount of property tax revenue should Zarr Town report in its government-wide statement of activities for the current year?",
+    "choices": [
+      "$0",
+      "$450,000",
+      "$495,000",
+      "500000"
+    ],
+    "answer": "C",
+    "input": "Question: Zarr Town levied property taxes of $500000 of which 1% is expected to be uncollectible. During the year Zarr Town collected $450000. What amount of property tax revenue should Zarr Town report in its government-wide statement of activities for the current year?\nOptions:\n(A) $0\n(B) $450,000\n(C) $495,000\n(D) 500000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Press Corp. and Swank Corp. file a consolidated return. The companies had the following items of income and deductions for the current year: Press Corp. Swank Corp. Income from operations $80000 $40000 Section 1231 loss (12000) 0 Capital gain(loss) 4000 (3000) What is Press and Swank's consolidated taxable income?",
+    "choices": [
+      "$109,000",
+      "$112,000",
+      "$121,000",
+      "124000"
+    ],
+    "answer": "A",
+    "input": "Question: Press Corp. and Swank Corp. file a consolidated return. The companies had the following items of income and deductions for the current year: Press Corp. Swank Corp. Income from operations $80000 $40000 Section 1231 loss (12000) 0 Capital gain(loss) 4000 (3000) What is Press and Swank's consolidated taxable income?\nOptions:\n(A) $109,000\n(B) $112,000\n(C) $121,000\n(D) 124000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "On January 1, year 1, a shipping company sells a boat and leases it from the buyer in a sale-leaseback transaction. At the end of the 10-year lease, ownership of the boat reverts to the shipping company. The fair value of the boat, at the time of the transaction, was less than its undepreciated cost. Which of the following outcomes most likely will result from the sale-leaseback transaction?",
+    "choices": [
+      "The boat will not be classified in property, plant and equipment of the shipping company.",
+      "The shipping company will recognize the total profit on the sale of the boat in the current year.",
+      "The shipping company will not recognize depreciation expense for the boat in the current year.",
+      "The shipping company will recognize in the current year a loss on the sale of the boat."
+    ],
+    "answer": "D",
+    "input": "Question: On January 1, year 1, a shipping company sells a boat and leases it from the buyer in a sale-leaseback transaction. At the end of the 10-year lease, ownership of the boat reverts to the shipping company. The fair value of the boat, at the time of the transaction, was less than its undepreciated cost. Which of the following outcomes most likely will result from the sale-leaseback transaction?\nOptions:\n(A) The boat will not be classified in property, plant and equipment of the shipping company.\n(B) The shipping company will recognize the total profit on the sale of the boat in the current year.\n(C) The shipping company will not recognize depreciation expense for the boat in the current year.\n(D) The shipping company will recognize in the current year a loss on the sale of the boat.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "An overfunded single-employer defined benefit postretirement plan should be recognized in a classified statement of financial position as a",
+    "choices": [
+      "Noncurrent liability.",
+      "Current liability.",
+      "Noncurrent asset.",
+      "Current asset."
+    ],
+    "answer": "C",
+    "input": "Question: An overfunded single-employer defined benefit postretirement plan should be recognized in a classified statement of financial position as a\nOptions:\n(A) Noncurrent liability.\n(B) Current liability.\n(C) Noncurrent asset.\n(D) Current asset.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "How should a nongovernmental not-for-profit organization classify gains and losses on investments purchased with permanently restricted assets?",
+    "choices": [
+      "Gains may not be netted against losses in the statement of activities.",
+      "Gains and losses can only be reported net of expenses in the statement of activities.",
+      "Unless explicitly restricted by donor or law, gains and losses should be reported in the statement of activities as increases or decreases in unrestricted net assets.",
+      "Unless explicitly restricted by donor or law, gains and losses should be reported in the statement of activities as increases or decreases in permanently restricted net assets."
+    ],
+    "answer": "C",
+    "input": "Question: How should a nongovernmental not-for-profit organization classify gains and losses on investments purchased with permanently restricted assets?\nOptions:\n(A) Gains may not be netted against losses in the statement of activities.\n(B) Gains and losses can only be reported net of expenses in the statement of activities.\n(C) Unless explicitly restricted by donor or law, gains and losses should be reported in the statement of activities as increases or decreases in unrestricted net assets.\n(D) Unless explicitly restricted by donor or law, gains and losses should be reported in the statement of activities as increases or decreases in permanently restricted net assets.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "In the formula k_e = (D_1/P_0) + g, what does g represent?",
+    "choices": [
+      "the expected price appreciation yield from a common stock.",
+      "the expected dividend yield from a common stock.",
+      "the dividend yield from a preferred stock.",
+      "the interest payment from a bond."
+    ],
+    "answer": "A",
+    "input": "Question: In the formula k_e = (D_1/P_0) + g, what does g represent?\nOptions:\n(A) the expected price appreciation yield from a common stock.\n(B) the expected dividend yield from a common stock.\n(C) the dividend yield from a preferred stock.\n(D) the interest payment from a bond.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "A company has just issued convertible bonds with $1,000 par value and a conversion ratio of 40. Which of the following is most likely to be the market price per share of the company's common stock at present?",
+    "choices": [
+      "Under $25.",
+      "$25.00",
+      "Between $25 and $30.",
+      "Above $30."
+    ],
+    "answer": "A",
+    "input": "Question: A company has just issued convertible bonds with $1,000 par value and a conversion ratio of 40. Which of the following is most likely to be the market price per share of the company's common stock at present?\nOptions:\n(A) Under $25.\n(B) $25.00\n(C) Between $25 and $30.\n(D) Above $30.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Simm Co. has determined its December 31 inventory on a LIFO basis to be $400,000. Information pertaining to the inventory follows:\nEstimated selling price: $408,000\nEstimated cost of disposal: 20,000\nNormal profit margin: 60,000\nCurrent replacement cost: 390,000\nAt December 31, what should be the amount of Simm's inventory?",
+    "choices": [
+      "$400,000",
+      "$390,000",
+      "$388,000",
+      "$328,000"
+    ],
+    "answer": "C",
+    "input": "Question: Simm Co. has determined its December 31 inventory on a LIFO basis to be $400,000. Information pertaining to the inventory follows:\nEstimated selling price: $408,000\nEstimated cost of disposal: 20,000\nNormal profit margin: 60,000\nCurrent replacement cost: 390,000\nAt December 31, what should be the amount of Simm's inventory?\nOptions:\n(A) $400,000\n(B) $390,000\n(C) $388,000\n(D) $328,000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Roger Co. implemented activity-based costing in the current year. To select the appropriate driver for Cost Pool A Roger performed regression analyses for two independent variables Driver 1 and Driver 2 using monthly operating data. The monthly levels of Cost Pool A were the dependent variables in both regressions. Output results from the regression analyses were as follows: Driver 1 Driver 2 R squared 0.46 0.80 Intercept $551.00 $970.00 X variable (slope) $ 0.55 $ 0.33 At the budgeted production level for next month the levels of Driver 1 and Driver 2 are expected to be 5880 and 7000 respectively. Based on this information what is the budgeted amount for Cost Pool A for next month?",
+    "choices": [
+      "$2,624",
+      "$3,280",
+      "$3,464",
+      "3785"
+    ],
+    "answer": "B",
+    "input": "Question: Roger Co. implemented activity-based costing in the current year. To select the appropriate driver for Cost Pool A Roger performed regression analyses for two independent variables Driver 1 and Driver 2 using monthly operating data. The monthly levels of Cost Pool A were the dependent variables in both regressions. Output results from the regression analyses were as follows: Driver 1 Driver 2 R squared 0.46 0.80 Intercept $551.00 $970.00 X variable (slope) $ 0.55 $ 0.33 At the budgeted production level for next month the levels of Driver 1 and Driver 2 are expected to be 5880 and 7000 respectively. Based on this information what is the budgeted amount for Cost Pool A for next month?\nOptions:\n(A) $2,624\n(B) $3,280\n(C) $3,464\n(D) 3785\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Which of the following factors most likely would heighten an auditor's concern about the risk of material misstatement arising from the misappropriation of assets?",
+    "choices": [
+      "There is a potential for bias in the preparation of accounting estimates.",
+      "The entity's fixed assets lack ownership identification.",
+      "Management recently adopted new accounting principles.",
+      "The entity recently experienced rapid growth in revenue."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following factors most likely would heighten an auditor's concern about the risk of material misstatement arising from the misappropriation of assets?\nOptions:\n(A) There is a potential for bias in the preparation of accounting estimates.\n(B) The entity's fixed assets lack ownership identification.\n(C) Management recently adopted new accounting principles.\n(D) The entity recently experienced rapid growth in revenue.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Sunshine Corp. a wholly owned subsidiary of Pierpoint Corp. purchased land from Pierpoint for its fair market value of $10000 on January 1 of the previous tax year. Pierpoint's adjusted basis of the land on the date of sale was $8000. During the current tax year Sunshine sold the land for $9000 to an unrelated taxpayer. What gain or loss will be reported on a consolidated tax return filed by Sunshine and Pierpoint for the current tax year?",
+    "choices": [
+      "-$1,000",
+      "$0",
+      "$1,000",
+      "2000"
+    ],
+    "answer": "C",
+    "input": "Question: Sunshine Corp. a wholly owned subsidiary of Pierpoint Corp. purchased land from Pierpoint for its fair market value of $10000 on January 1 of the previous tax year. Pierpoint's adjusted basis of the land on the date of sale was $8000. During the current tax year Sunshine sold the land for $9000 to an unrelated taxpayer. What gain or loss will be reported on a consolidated tax return filed by Sunshine and Pierpoint for the current tax year?\nOptions:\n(A) -$1,000\n(B) $0\n(C) $1,000\n(D) 2000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Decker an individual owns 100% of Acre an S corporation. At the beginning of the year Decker‚Äôs basis in Acre was $25000. Acre had ordinary income during the year in the amount of $10000 and a long-term capital loss in the amount of $4000. Decker has no other capital gains or losses during the year. What amount of the long-term capital loss may Decker deduct this year?",
+    "choices": [
+      "$0",
+      "$1,000",
+      "$3,000",
+      "4000"
+    ],
+    "answer": "C",
+    "input": "Question: Decker an individual owns 100% of Acre an S corporation. At the beginning of the year Decker‚Äôs basis in Acre was $25000. Acre had ordinary income during the year in the amount of $10000 and a long-term capital loss in the amount of $4000. Decker has no other capital gains or losses during the year. What amount of the long-term capital loss may Decker deduct this year?\nOptions:\n(A) $0\n(B) $1,000\n(C) $3,000\n(D) 4000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Each of the following is a method to evaluate internal controls based on the framework set by the Committee of Sponsoring Organizations (COSO), except",
+    "choices": [
+      "Distinguishing economy risk from industry risk and enterprise risk.",
+      "Evaluating internal control systems that focus first on risk identification of specific losses.",
+      "Identifying mitigating controls to prevent losses.",
+      "Testing to determine whether the controls are operating effectively and have prevented losses in the past."
+    ],
+    "answer": "A",
+    "input": "Question: Each of the following is a method to evaluate internal controls based on the framework set by the Committee of Sponsoring Organizations (COSO), except\nOptions:\n(A) Distinguishing economy risk from industry risk and enterprise risk.\n(B) Evaluating internal control systems that focus first on risk identification of specific losses.\n(C) Identifying mitigating controls to prevent losses.\n(D) Testing to determine whether the controls are operating effectively and have prevented losses in the past.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "professional_accounting",
+    "question": "Under Treasury Circular 230, in which of the following situations is a CPA prohibited from giving written advice concerning one or more federal tax issues?",
+    "choices": [
+      "The CPA takes into account the possibility that a tax return will not be audited.",
+      "The CPA reasonably relies upon representations of the client.",
+      "The CPA considers all relevant facts that are known",
+      "The CPA takes into consideration assumptions about future events related to the relevant facts"
+    ],
+    "answer": "A",
+    "input": "Question: Under Treasury Circular 230, in which of the following situations is a CPA prohibited from giving written advice concerning one or more federal tax issues?\nOptions:\n(A) The CPA takes into account the possibility that a tax return will not be audited.\n(B) The CPA reasonably relies upon representations of the client.\n(C) The CPA considers all relevant facts that are known\n(D) The CPA takes into consideration assumptions about future events related to the relevant facts\nAnswer:",
+    "target": "(A)"
+  }
+]

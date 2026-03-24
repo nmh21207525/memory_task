@@ -1,0 +1,288 @@
+[
+  {
+    "subject": "college_medicine",
+    "question": "A student observes that mercury forms a convex meniscus in the graduated cylinder but that water forms a concave one. This behavior is best explained by the fact that:",
+    "choices": [
+      "the two liquids are being kept in graduated cylinders made of different materials.",
+      "the adhesive forces between water and the walls of the graduated cylinder are greater than the adhesive forces between the mercury and the walls of the graduated cylinder.",
+      "the cohesive forces between two mercury atoms are stronger than the cohesive forces between two water molecules.",
+      "the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones."
+    ],
+    "answer": "D",
+    "input": "Question: A student observes that mercury forms a convex meniscus in the graduated cylinder but that water forms a concave one. This behavior is best explained by the fact that:\nOptions:\n(A) the two liquids are being kept in graduated cylinders made of different materials.\n(B) the adhesive forces between water and the walls of the graduated cylinder are greater than the adhesive forces between the mercury and the walls of the graduated cylinder.\n(C) the cohesive forces between two mercury atoms are stronger than the cohesive forces between two water molecules.\n(D) the mercury has strong cohesive than adhesive forces, whereas water has strong adhesive than cohesive ones.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Human beings require many outside resources in order to survive. An individual will not survive without water, air, etc. Thankfully, the human brain is wired to seek out these resources when they are depleted before harm occurs to the individual. The downside of this, however, is that they can produce too much reward, and become a temptation. Which of the following statements would mean a desire has become a temptation?",
+    "choices": [
+      "A person desiring to lose weight makes a late night snack to quell a craving.",
+      "A marathon runner seeks out water after finishing a race.",
+      "A free diver delays leaving the beach after a dive by a few minutes in order to regain their breath.",
+      "A person pauses their show on TV in order to grab a blanket because they are cold."
+    ],
+    "answer": "A",
+    "input": "Question: Human beings require many outside resources in order to survive. An individual will not survive without water, air, etc. Thankfully, the human brain is wired to seek out these resources when they are depleted before harm occurs to the individual. The downside of this, however, is that they can produce too much reward, and become a temptation. Which of the following statements would mean a desire has become a temptation?\nOptions:\n(A) A person desiring to lose weight makes a late night snack to quell a craving.\n(B) A marathon runner seeks out water after finishing a race.\n(C) A free diver delays leaving the beach after a dive by a few minutes in order to regain their breath.\n(D) A person pauses their show on TV in order to grab a blanket because they are cold.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "How many chromosomes do all human somatic cells contain?",
+    "choices": [
+      "3",
+      "20",
+      "23",
+      "46"
+    ],
+    "answer": "D",
+    "input": "Question: How many chromosomes do all human somatic cells contain?\nOptions:\n(A) 3\n(B) 20\n(C) 23\n(D) 46\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "In all-out exercise such as sprinting the first fibre types to fatigue are the:",
+    "choices": [
+      "Type I fibres.",
+      "Type Ia fibres.",
+      "Type IIa fibres.",
+      "Type IIX fibres."
+    ],
+    "answer": "D",
+    "input": "Question: In all-out exercise such as sprinting the first fibre types to fatigue are the:\nOptions:\n(A) Type I fibres.\n(B) Type Ia fibres.\n(C) Type IIa fibres.\n(D) Type IIX fibres.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The term gene doping refers to:",
+    "choices": [
+      "the use of drugs to modify gene transcription.",
+      "the use of genetic manipulation techniques to enhance performance in sport.",
+      "the activation or inhibition of genes to mask drug taking by athletes.",
+      "the use of drugs to modify the myostatin gene."
+    ],
+    "answer": "B",
+    "input": "Question: The term gene doping refers to:\nOptions:\n(A) the use of drugs to modify gene transcription.\n(B) the use of genetic manipulation techniques to enhance performance in sport.\n(C) the activation or inhibition of genes to mask drug taking by athletes.\n(D) the use of drugs to modify the myostatin gene.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?\"",
+    "choices": [
+      "An intrinsic desire to know the truth.",
+      "Moral drive to act toward what is good.",
+      "A subset of our ego that acts towards what is right.",
+      "Our desire for love."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following would be the most accurate definition of Nietzsche’s Will to Truth?\"\nOptions:\n(A) An intrinsic desire to know the truth.\n(B) Moral drive to act toward what is good.\n(C) A subset of our ego that acts towards what is right.\n(D) Our desire for love.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?",
+    "choices": [
+      "The ability to regulate body temperature.",
+      "The ability to supply oxygen to the exercising muscles.",
+      "The availability of body stores of carbohydrate.",
+      "Muscle ATP and phosphocreatine content."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?\nOptions:\n(A) The ability to regulate body temperature.\n(B) The ability to supply oxygen to the exercising muscles.\n(C) The availability of body stores of carbohydrate.\n(D) Muscle ATP and phosphocreatine content.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "During exercise, adrenaline secretion from the adrenal glands is stimulated by:",
+    "choices": [
+      "increased plasma glucose.",
+      "increased plasma fatty acids.",
+      "increased plasma ACTH.",
+      "increased sympathetic nerve activity."
+    ],
+    "answer": "D",
+    "input": "Question: During exercise, adrenaline secretion from the adrenal glands is stimulated by:\nOptions:\n(A) increased plasma glucose.\n(B) increased plasma fatty acids.\n(C) increased plasma ACTH.\n(D) increased sympathetic nerve activity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A young adult man begins seeing a therapist and tells the therapist that he has homosexual feelings, and that he self-identifies as gay. He is plagued by feelings of worthlessness and fears that he will be subject to what his religion terms “eternal damnation”. He feels alienated from his family and friends, as he knows of no other homosexuals in his peer group or family. In the course of working with the man, the therapist helps him see that his feelings are exceptionally common among people who have recently discovered their same-sex feelings, and encourages him to attend a support group for newly “out” gay men. The therapist’s approach demonstrates which of the following phenomena?",
+    "choices": [
+      "Stereotype threat",
+      "Groupthink",
+      "Universalization",
+      "Spatial discrimination"
+    ],
+    "answer": "C",
+    "input": "Question: A young adult man begins seeing a therapist and tells the therapist that he has homosexual feelings, and that he self-identifies as gay. He is plagued by feelings of worthlessness and fears that he will be subject to what his religion terms “eternal damnation”. He feels alienated from his family and friends, as he knows of no other homosexuals in his peer group or family. In the course of working with the man, the therapist helps him see that his feelings are exceptionally common among people who have recently discovered their same-sex feelings, and encourages him to attend a support group for newly “out” gay men. The therapist’s approach demonstrates which of the following phenomena?\nOptions:\n(A) Stereotype threat\n(B) Groupthink\n(C) Universalization\n(D) Spatial discrimination\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at the very bottom of the side. How fast will water empty from the jug?",
+    "choices": [
+      "4.47 m/s",
+      "6.25 m/s",
+      "8.26 m/s",
+      "2.22 m/s"
+    ],
+    "answer": "A",
+    "input": "Question: A 1 meter tall jug of water, while sitting on a countertop 2 meters high with its lid open, springs a leak from a weak spot in the plastic at the very bottom of the side. How fast will water empty from the jug?\nOptions:\n(A) 4.47 m/s\n(B) 6.25 m/s\n(C) 8.26 m/s\n(D) 2.22 m/s\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The two principal contractile proteins found in skeletal muscle are:",
+    "choices": [
+      "actin and troponin.",
+      "actin and myosin.",
+      "troponin and tropomyosin.",
+      "myosin and tropomyosin."
+    ],
+    "answer": "B",
+    "input": "Question: The two principal contractile proteins found in skeletal muscle are:\nOptions:\n(A) actin and troponin.\n(B) actin and myosin.\n(C) troponin and tropomyosin.\n(D) myosin and tropomyosin.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A psychology study run on a college campus was set up right outside of the gym on a weekday. Chocolate chip cookies were offered right outside the door, and then a sign was placed 15 feet further down the hall that asked people to avoid using the stairs, forcing them to go around in a longer hallway. There were no barriers to using the stairs other than the sign. The results returned, and it showed that individuals who took a sweet from the tray were twice as likely to use the longer hallway as individuals who refused. This is an example of what psychological concept?",
+    "choices": [
+      "Learned helplessness",
+      "Insecure attachment",
+      "Ego depletion",
+      "Tyranny of choice"
+    ],
+    "answer": "C",
+    "input": "Question: A psychology study run on a college campus was set up right outside of the gym on a weekday. Chocolate chip cookies were offered right outside the door, and then a sign was placed 15 feet further down the hall that asked people to avoid using the stairs, forcing them to go around in a longer hallway. There were no barriers to using the stairs other than the sign. The results returned, and it showed that individuals who took a sweet from the tray were twice as likely to use the longer hallway as individuals who refused. This is an example of what psychological concept?\nOptions:\n(A) Learned helplessness\n(B) Insecure attachment\n(C) Ego depletion\n(D) Tyranny of choice\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption?",
+    "choices": [
+      "Lipase",
+      "Elastinogen",
+      "Trypsinogen",
+      "Carboxypeptidase"
+    ],
+    "answer": "C",
+    "input": "Question: Cystic Fibrosis (CF) patients often have a loss of pancreas activity during their adolescent years. Loss of which enzyme, if isolated would lead to the most extensive effects on nutrient absorption?\nOptions:\n(A) Lipase\n(B) Elastinogen\n(C) Trypsinogen\n(D) Carboxypeptidase\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Somatic eukaryotic cells in the human body proceed normally through repetitive phases of the cell cycle in order to divide and make replicates of themselves. The point at which a cell commits to dividing is known as the restriction point (R). Prior to this, how many chromosomes and chromatids does the cell have?",
+    "choices": [
+      "23 chromosomes, 46 chromatids",
+      "46 chromosomes, 92 chromatids",
+      "23 chromosomes, 23 chromatids",
+      "46 chromosomes, 46 chromatids"
+    ],
+    "answer": "D",
+    "input": "Question: Somatic eukaryotic cells in the human body proceed normally through repetitive phases of the cell cycle in order to divide and make replicates of themselves. The point at which a cell commits to dividing is known as the restriction point (R). Prior to this, how many chromosomes and chromatids does the cell have?\nOptions:\n(A) 23 chromosomes, 46 chromatids\n(B) 46 chromosomes, 92 chromatids\n(C) 23 chromosomes, 23 chromatids\n(D) 46 chromosomes, 46 chromatids\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A person suffering from severe dehydration and starvation would NOT be expected to have elevated plasma concentrations for which of the following hormones?",
+    "choices": [
+      "ADH",
+      "Cortisol",
+      "Aldosterone",
+      "Insulin"
+    ],
+    "answer": "D",
+    "input": "Question: A person suffering from severe dehydration and starvation would NOT be expected to have elevated plasma concentrations for which of the following hormones?\nOptions:\n(A) ADH\n(B) Cortisol\n(C) Aldosterone\n(D) Insulin\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The recommended dose of creatine to load the muscles of a 70 kg man within one week is:",
+    "choices": [
+      "2 g/day.",
+      "5 g/day.",
+      "10 g/day.",
+      "20 g/day."
+    ],
+    "answer": "D",
+    "input": "Question: The recommended dose of creatine to load the muscles of a 70 kg man within one week is:\nOptions:\n(A) 2 g/day.\n(B) 5 g/day.\n(C) 10 g/day.\n(D) 20 g/day.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The creatine kinase reaction is:",
+    "choices": [
+      "irreversible.",
+      "slow compared with glycolysis.",
+      "not activated until all the ATP has been used up.",
+      "inhibited by low pH in the muscle."
+    ],
+    "answer": "D",
+    "input": "Question: The creatine kinase reaction is:\nOptions:\n(A) irreversible.\n(B) slow compared with glycolysis.\n(C) not activated until all the ATP has been used up.\n(D) inhibited by low pH in the muscle.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A young woman comes to the clinic for feeling like her “heart is beating too fast”. When her pulse is recorded it is in normal range. Upon interview, you learn that she is often concerned about lots of things. In fact, she can’t remember many instances in which she has not had some event playing over and over in her head. She says that she often seeks out relationships to comfort her self-esteem, and admits she stays in these relationships too long for fear of being alone. What personality cluster would this person fall under?",
+    "choices": [
+      "Cluster A",
+      "Cluster B",
+      "Cluster C",
+      "This does not seem like a personality disorder."
+    ],
+    "answer": "C",
+    "input": "Question: A young woman comes to the clinic for feeling like her “heart is beating too fast”. When her pulse is recorded it is in normal range. Upon interview, you learn that she is often concerned about lots of things. In fact, she can’t remember many instances in which she has not had some event playing over and over in her head. She says that she often seeks out relationships to comfort her self-esteem, and admits she stays in these relationships too long for fear of being alone. What personality cluster would this person fall under?\nOptions:\n(A) Cluster A\n(B) Cluster B\n(C) Cluster C\n(D) This does not seem like a personality disorder.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "An allele that is masked is referred to as:",
+    "choices": [
+      "recessive.",
+      "redundant.",
+      "repressed.",
+      "reclusive."
+    ],
+    "answer": "A",
+    "input": "Question: An allele that is masked is referred to as:\nOptions:\n(A) recessive.\n(B) redundant.\n(C) repressed.\n(D) reclusive.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "In general, the higher the intensity of exercise, the greater the proportional contribution of:",
+    "choices": [
+      "aerobic energy production.",
+      "anaerobic energy production.",
+      "the TCA cycle (Krebs' cycle) to the production of ATP.",
+      "the electron transfer chain to the production of ATP."
+    ],
+    "answer": "B",
+    "input": "Question: In general, the higher the intensity of exercise, the greater the proportional contribution of:\nOptions:\n(A) aerobic energy production.\n(B) anaerobic energy production.\n(C) the TCA cycle (Krebs' cycle) to the production of ATP.\n(D) the electron transfer chain to the production of ATP.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The main factors determining success in sport are:",
+    "choices": [
+      "a high energy diet and large appetite.",
+      "high intelligence and motivation to succeed.",
+      "a good coach and the motivation to succeed.",
+      "innate ability and the capacity to respond to the training stimulus."
+    ],
+    "answer": "D",
+    "input": "Question: The main factors determining success in sport are:\nOptions:\n(A) a high energy diet and large appetite.\n(B) high intelligence and motivation to succeed.\n(C) a good coach and the motivation to succeed.\n(D) innate ability and the capacity to respond to the training stimulus.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "The social phenomenon of groupthink is characterized by all of the following EXCEPT:",
+    "choices": [
+      "A significant over-rating of the decision-making abilities of members of the ingroup.",
+      "A decrease in the creativity of individual group members in contributing to solutions the ingroup wants to achieve.",
+      "High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions.",
+      "An effort to minimize conflict and ensure consensus."
+    ],
+    "answer": "C",
+    "input": "Question: The social phenomenon of groupthink is characterized by all of the following EXCEPT:\nOptions:\n(A) A significant over-rating of the decision-making abilities of members of the ingroup.\n(B) A decrease in the creativity of individual group members in contributing to solutions the ingroup wants to achieve.\n(C) High loyalty and group cohesiveness causing members to feel safe raising controversial issues and proposing alternative solutions.\n(D) An effort to minimize conflict and ensure consensus.\nAnswer:",
+    "target": "(C)"
+  }
+]

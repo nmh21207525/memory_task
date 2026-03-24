@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "global_facts",
+    "question": "As of 2014, about what percentage of primary aged children in Sub-Saharan Africa were out-of-school?",
+    "choices": [
+      "10%",
+      "20%",
+      "35%",
+      "50%"
+    ],
+    "answer": "B",
+    "input": "Question: As of 2014, about what percentage of primary aged children in Sub-Saharan Africa were out-of-school?\nOptions:\n(A) 10%\n(B) 20%\n(C) 35%\n(D) 50%\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "There are two billion children in the world today (2020), aged 0 to 15 years old. How many children will there be in the year 2100 according to the United Nations?",
+    "choices": [
+      "4 billion",
+      "3 billion",
+      "2 billion",
+      "1 billion"
+    ],
+    "answer": "C",
+    "input": "Question: There are two billion children in the world today (2020), aged 0 to 15 years old. How many children will there be in the year 2100 according to the United Nations?\nOptions:\n(A) 4 billion\n(B) 3 billion\n(C) 2 billion\n(D) 1 billion\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in India?",
+    "choices": [
+      "by 4 fold",
+      "by 8 fold",
+      "by 16 fold",
+      "by 32 fold"
+    ],
+    "answer": "A",
+    "input": "Question: Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in India?\nOptions:\n(A) by 4 fold\n(B) by 8 fold\n(C) by 16 fold\n(D) by 32 fold\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "As of 2020, about what percentage of the population in Sub-Saharan Africa, is living on less than $1.90?",
+    "choices": [
+      "10%",
+      "20%",
+      "40%",
+      "80%"
+    ],
+    "answer": "C",
+    "input": "Question: As of 2020, about what percentage of the population in Sub-Saharan Africa, is living on less than $1.90?\nOptions:\n(A) 10%\n(B) 20%\n(C) 40%\n(D) 80%\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "In which of the following country did the largest number of children die under the age of five years in 2017?",
+    "choices": [
+      "China",
+      "United States",
+      "Indonesia",
+      "Pakistan"
+    ],
+    "answer": "D",
+    "input": "Question: In which of the following country did the largest number of children die under the age of five years in 2017?\nOptions:\n(A) China\n(B) United States\n(C) Indonesia\n(D) Pakistan\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "Which of the following is true about the global growth rate?",
+    "choices": [
+      "The global growth rate was four times as high 50 years ago as it is in 2020.",
+      "The global growth rate was two times as high 50 years ago as it is in 2020.",
+      "The global growth rate is two times as high as it is in 2020.",
+      "The global growth rate is four times as high today as it is in 2020."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is true about the global growth rate?\nOptions:\n(A) The global growth rate was four times as high 50 years ago as it is in 2020.\n(B) The global growth rate was two times as high 50 years ago as it is in 2020.\n(C) The global growth rate is two times as high as it is in 2020.\n(D) The global growth rate is four times as high today as it is in 2020.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "Most Latin American countries achieved independence",
+    "choices": [
+      "shortly after World War II",
+      "in the 1960s",
+      "around the time of World War I",
+      "in the early nineteenth century"
+    ],
+    "answer": "D",
+    "input": "Question: Most Latin American countries achieved independence\nOptions:\n(A) shortly after World War II\n(B) in the 1960s\n(C) around the time of World War I\n(D) in the early nineteenth century\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "After the Atom bomb how many Americans support giving aid to Japan even at the cost of food shortages?",
+    "choices": [
+      "33%",
+      "50%",
+      "66%",
+      "85%"
+    ],
+    "answer": "C",
+    "input": "Question: After the Atom bomb how many Americans support giving aid to Japan even at the cost of food shortages?\nOptions:\n(A) 33%\n(B) 50%\n(C) 66%\n(D) 85%\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "In 1948 how many Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing?",
+    "choices": [
+      "92%",
+      "64%",
+      "27%",
+      "11%"
+    ],
+    "answer": "D",
+    "input": "Question: In 1948 how many Americans believed the Kinsey Report on Sexuality in the Male to be a bad thing?\nOptions:\n(A) 92%\n(B) 64%\n(C) 27%\n(D) 11%\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "Total global healthcare expenditure is about what percentage of global GDP as of 2017?",
+    "choices": [
+      "1%",
+      "2%",
+      "5%",
+      "10%"
+    ],
+    "answer": "D",
+    "input": "Question: Total global healthcare expenditure is about what percentage of global GDP as of 2017?\nOptions:\n(A) 1%\n(B) 2%\n(C) 5%\n(D) 10%\nAnswer:",
+    "target": "(D)"
+  }
+]

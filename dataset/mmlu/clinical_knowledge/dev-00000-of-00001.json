@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "clinical_knowledge",
+    "question": "The energy for all forms of muscle contraction is provided by:",
+    "choices": [
+      "ATP.",
+      "ADP.",
+      "phosphocreatine.",
+      "oxidative phosphorylation."
+    ],
+    "answer": "A",
+    "input": "Question: The energy for all forms of muscle contraction is provided by:\nOptions:\n(A) ATP.\n(B) ADP.\n(C) phosphocreatine.\n(D) oxidative phosphorylation.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "What is the difference between a male and a female catheter?",
+    "choices": [
+      "Male and female catheters are different colours.",
+      "Male catheters are longer than female catheters.",
+      "Male catheters are bigger than female catheters.",
+      "Female catheters are longer than male catheters."
+    ],
+    "answer": "B",
+    "input": "Question: What is the difference between a male and a female catheter?\nOptions:\n(A) Male and female catheters are different colours.\n(B) Male catheters are longer than female catheters.\n(C) Male catheters are bigger than female catheters.\n(D) Female catheters are longer than male catheters.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "In the assessment of the hand function which of the following is true?",
+    "choices": [
+      "Abduction of the thumb is supplied by spinal root T2",
+      "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+      "Finger adduction is supplied by the median nerve",
+      "Finger abduction is mediated by the palmar interossei"
+    ],
+    "answer": "B",
+    "input": "Question: In the assessment of the hand function which of the following is true?\nOptions:\n(A) Abduction of the thumb is supplied by spinal root T2\n(B) Opposition of the thumb by opponens policis is supplied by spinal root T1\n(C) Finger adduction is supplied by the median nerve\n(D) Finger abduction is mediated by the palmar interossei\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?",
+    "choices": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C",
+    "input": "Question: How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?\nOptions:\n(A) 4\n(B) 3\n(C) 2\n(D) 1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Glycolysis is the name given to the pathway involving the conversion of:",
+    "choices": [
+      "glycogen to glucose-1-phosphate.",
+      "glycogen or glucose to fructose.",
+      "glycogen or glucose to pyruvate or lactate.",
+      "glycogen or glucose to pyruvate or acetyl CoA."
+    ],
+    "answer": "C",
+    "input": "Question: Glycolysis is the name given to the pathway involving the conversion of:\nOptions:\n(A) glycogen to glucose-1-phosphate.\n(B) glycogen or glucose to fructose.\n(C) glycogen or glucose to pyruvate or lactate.\n(D) glycogen or glucose to pyruvate or acetyl CoA.\nAnswer:",
+    "target": "(C)"
+  }
+]

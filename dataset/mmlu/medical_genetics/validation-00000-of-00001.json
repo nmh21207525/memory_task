@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "medical_genetics",
+    "question": "The allele associated with sickle cell anemia apparently reached a high frequency in some human populations due to:",
+    "choices": [
+      "random mating",
+      "superior fitness of heterozygotes in areas where malaria was present",
+      "migration of individuals with the allele into other populations",
+      "a high mutation rate at that specific gene"
+    ],
+    "answer": "B",
+    "input": "Question: The allele associated with sickle cell anemia apparently reached a high frequency in some human populations due to:\nOptions:\n(A) random mating\n(B) superior fitness of heterozygotes in areas where malaria was present\n(C) migration of individuals with the allele into other populations\n(D) a high mutation rate at that specific gene\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "RFLP analysis is a technique that",
+    "choices": [
+      "uses hybridization to detect specific DNA restriction fragments in genomic DNA",
+      "is used to determine whether a gene is transcribed in specific cells",
+      "measures the transfer frequency of genes during conjugation",
+      "is used to detect genetic variation at the protein level"
+    ],
+    "answer": "A",
+    "input": "Question: RFLP analysis is a technique that\nOptions:\n(A) uses hybridization to detect specific DNA restriction fragments in genomic DNA\n(B) is used to determine whether a gene is transcribed in specific cells\n(C) measures the transfer frequency of genes during conjugation\n(D) is used to detect genetic variation at the protein level\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Repeat core sequences consisting of 2, 3, or 4 base pairs are known as what?",
+    "choices": [
+      "Single nucleotide polymorphisms (SNPs)",
+      "Microsatellites",
+      "Minisatellites",
+      "Satellites"
+    ],
+    "answer": "B",
+    "input": "Question: Repeat core sequences consisting of 2, 3, or 4 base pairs are known as what?\nOptions:\n(A) Single nucleotide polymorphisms (SNPs)\n(B) Microsatellites\n(C) Minisatellites\n(D) Satellites\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Marfan syndrome is caused by mutations in the gene which encodes _______.",
+    "choices": [
+      "Collagen",
+      "Dystrophin",
+      "Elastin",
+      "Fibrillin"
+    ],
+    "answer": "D",
+    "input": "Question: Marfan syndrome is caused by mutations in the gene which encodes _______.\nOptions:\n(A) Collagen\n(B) Dystrophin\n(C) Elastin\n(D) Fibrillin\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "If an autosomal recessive disorder which shows Hardy-Weinberg equilibrium has an incidence of 1 in 6400 then the frequency of carriers is approximately _______.",
+    "choices": [
+      "1 in 20",
+      "1 in 40",
+      "1 in 80",
+      "1 in 160"
+    ],
+    "answer": "B",
+    "input": "Question: If an autosomal recessive disorder which shows Hardy-Weinberg equilibrium has an incidence of 1 in 6400 then the frequency of carriers is approximately _______.\nOptions:\n(A) 1 in 20\n(B) 1 in 40\n(C) 1 in 80\n(D) 1 in 160\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Tracing of a cell lineage during development means that",
+    "choices": [
+      "the cells giving rise to and derived from a specific cell are known",
+      "the sequence of the enhancers for developmental genes is known",
+      "the regulatory genes for the organism have been genetically mapped",
+      "cell components in the membrane involved in signaling have been isolated"
+    ],
+    "answer": "A",
+    "input": "Question: Tracing of a cell lineage during development means that\nOptions:\n(A) the cells giving rise to and derived from a specific cell are known\n(B) the sequence of the enhancers for developmental genes is known\n(C) the regulatory genes for the organism have been genetically mapped\n(D) cell components in the membrane involved in signaling have been isolated\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Mutations which occur in body cells which do not go on to form gametes can be classified as:",
+    "choices": [
+      "auxotrophic mutations",
+      "somatic mutations",
+      "morphological mutations",
+      "oncogenes"
+    ],
+    "answer": "B",
+    "input": "Question: Mutations which occur in body cells which do not go on to form gametes can be classified as:\nOptions:\n(A) auxotrophic mutations\n(B) somatic mutations\n(C) morphological mutations\n(D) oncogenes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Assuming that the level of glucose is low, a mutation in the repressor of the lac operon in E. coli, preventing binding of the repressor to the operator, should result in:",
+    "choices": [
+      "constitutive expression of the lac operon genes",
+      "lack of expression or reduced expression of the lac operon genes under all circumstances",
+      "expression of the genes only when lactose is present",
+      "expression of the genes only when lactose is absent"
+    ],
+    "answer": "A",
+    "input": "Question: Assuming that the level of glucose is low, a mutation in the repressor of the lac operon in E. coli, preventing binding of the repressor to the operator, should result in:\nOptions:\n(A) constitutive expression of the lac operon genes\n(B) lack of expression or reduced expression of the lac operon genes under all circumstances\n(C) expression of the genes only when lactose is present\n(D) expression of the genes only when lactose is absent\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "The “sticky ends” generated by restriction enzymes allow",
+    "choices": [
+      "selection for plasmids lacking antibiotic resistance",
+      "pieces of DNA from different sources to hybridize to each other and to be joined together",
+      "replication of transfer RNA within the bacterial cell",
+      "easy identification of plasmids which carry an insert"
+    ],
+    "answer": "B",
+    "input": "Question: The “sticky ends” generated by restriction enzymes allow\nOptions:\n(A) selection for plasmids lacking antibiotic resistance\n(B) pieces of DNA from different sources to hybridize to each other and to be joined together\n(C) replication of transfer RNA within the bacterial cell\n(D) easy identification of plasmids which carry an insert\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "The presence of an extra digit is referred to as __________.",
+    "choices": [
+      "arachnodactyly",
+      "brachydactyly",
+      "clinodactyly",
+      "polydactyly"
+    ],
+    "answer": "D",
+    "input": "Question: The presence of an extra digit is referred to as __________.\nOptions:\n(A) arachnodactyly\n(B) brachydactyly\n(C) clinodactyly\n(D) polydactyly\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Which of the following statements about heritability are true?",
+    "choices": [
+      "is a measure of the level of heterozygotes in a population",
+      "is a measure of the proportion of variation that is due to genetic causes",
+      "is a measure of proportion of repeated DNA in an organism",
+      "is a measure of level of gene linkage"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following statements about heritability are true?\nOptions:\n(A) is a measure of the level of heterozygotes in a population\n(B) is a measure of the proportion of variation that is due to genetic causes\n(C) is a measure of proportion of repeated DNA in an organism\n(D) is a measure of level of gene linkage\nAnswer:",
+    "target": "(B)"
+  }
+]

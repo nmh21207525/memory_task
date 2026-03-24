@@ -1,0 +1,301 @@
+[
+  {
+    "subject": "high_school_statistics",
+    "question": "What are the mean and standard deviation of a binomial experiment that occurs with probability of success 0.76 and is repeated 150 times?",
+    "choices": [
+      "114, 27.35",
+      "100.5, 5.23",
+      "114, 5.23",
+      "The mean is 114, but there is not enough information given to determine the standard deviation."
+    ],
+    "answer": "D",
+    "input": "Question: What are the mean and standard deviation of a binomial experiment that occurs with probability of success 0.76 and is repeated 150 times?\nOptions:\n(A) 114, 27.35\n(B) 100.5, 5.23\n(C) 114, 5.23\n(D) The mean is 114, but there is not enough information given to determine the standard deviation.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Random samples of size n are drawn from a population. The mean of each sample is calculated, and the standard deviation of this set of sample means is found. Then the procedure is repeated, this time with samples of size 4n. How does the standard deviation of the second group compare with the standard deviation of the first group?",
+    "choices": [
+      "It will be the same.",
+      "It will be twice as large.",
+      "It will be four times as large.",
+      "It will be half as large."
+    ],
+    "answer": "D",
+    "input": "Question: Random samples of size n are drawn from a population. The mean of each sample is calculated, and the standard deviation of this set of sample means is found. Then the procedure is repeated, this time with samples of size 4n. How does the standard deviation of the second group compare with the standard deviation of the first group?\nOptions:\n(A) It will be the same.\n(B) It will be twice as large.\n(C) It will be four times as large.\n(D) It will be half as large.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "In sample surveys, what is meant by bias?",
+    "choices": [
+      "A systematic error in a sampling method that leads to an unrepresentative sample.",
+      "Prejudice, as in ethnic and gender-related studies.",
+      "Natural variability seen between samples.",
+      "Tendency for some distributions to be skewed."
+    ],
+    "answer": "A",
+    "input": "Question: In sample surveys, what is meant by bias?\nOptions:\n(A) A systematic error in a sampling method that leads to an unrepresentative sample.\n(B) Prejudice, as in ethnic and gender-related studies.\n(C) Natural variability seen between samples.\n(D) Tendency for some distributions to be skewed.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Which of the following are examples of continuous data? I. The speed your car goes II. The number of outcomes of a binomial experiment III. The average temperature in San Francisco IV. The wingspan of a bird V. The jersey numbers of a football team",
+    "choices": [
+      "I, III, and IV only",
+      "II and V only",
+      "I, III, and V only",
+      "II, III, and IV only"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following are examples of continuous data? I. The speed your car goes II. The number of outcomes of a binomial experiment III. The average temperature in San Francisco IV. The wingspan of a bird V. The jersey numbers of a football team\nOptions:\n(A) I, III, and IV only\n(B) II and V only\n(C) I, III, and V only\n(D) II, III, and IV only\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A local library has a scanner to detect library materials that have not been checked out. Each item has a chip somewhere inside. Upon checkout, the chip is deactivated so the scanner will not set off the alarm. The scanner has a 98% chance of detecting an active chip (meaning the material has not been checked out) and setting off the alarm. The scanner also has a 3% chance of sounding the alarm when someone passes through without an active chip. It is estimated that 0.5% of library customers actually try to leave the library with an active chip. What is the probability that, if the alarm sounds, the patron leaving the library has an item with an active chip?",
+    "choices": [
+      "0.0049",
+      "0.0348",
+      "0.141",
+      "0.97"
+    ],
+    "answer": "C",
+    "input": "Question: A local library has a scanner to detect library materials that have not been checked out. Each item has a chip somewhere inside. Upon checkout, the chip is deactivated so the scanner will not set off the alarm. The scanner has a 98% chance of detecting an active chip (meaning the material has not been checked out) and setting off the alarm. The scanner also has a 3% chance of sounding the alarm when someone passes through without an active chip. It is estimated that 0.5% of library customers actually try to leave the library with an active chip. What is the probability that, if the alarm sounds, the patron leaving the library has an item with an active chip?\nOptions:\n(A) 0.0049\n(B) 0.0348\n(C) 0.141\n(D) 0.97\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A skeptic decides to conduct an experiment in ESP in which a blindfolded subject calls out the color of a card dealt from a regular deck of cards (half the cards are red; the other half, black). One hundred cards are dealt from a well-shuffled pack, with each card being replaced after a deal. Using a 5 percent level of significance, what is the lowest number of cards that the subject needs to call out correctly in order to show that he is doing better than he would if he were simply guessing?",
+    "choices": [
+      "51",
+      "59",
+      "75",
+      "95"
+    ],
+    "answer": "B",
+    "input": "Question: A skeptic decides to conduct an experiment in ESP in which a blindfolded subject calls out the color of a card dealt from a regular deck of cards (half the cards are red; the other half, black). One hundred cards are dealt from a well-shuffled pack, with each card being replaced after a deal. Using a 5 percent level of significance, what is the lowest number of cards that the subject needs to call out correctly in order to show that he is doing better than he would if he were simply guessing?\nOptions:\n(A) 51\n(B) 59\n(C) 75\n(D) 95\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A survey was conducted to determine the percentage of parents who would support raising the legal driving age to 18. The results were stated as 67% with a margin of error of ±3%. What is meant by ±3%?",
+    "choices": [
+      "Three percent of the population were not surveyed.",
+      "In the sample, the percentage of parents who would support raising the driving age is between 64% and 70%.",
+      "The percentage of the entire population of parents who would support raising the driving age is between 64% and 70%.",
+      "It is unlikely that the given sample proportion result could be obtained unless the true percentage was between 64% and 70%."
+    ],
+    "answer": "D",
+    "input": "Question: A survey was conducted to determine the percentage of parents who would support raising the legal driving age to 18. The results were stated as 67% with a margin of error of ±3%. What is meant by ±3%?\nOptions:\n(A) Three percent of the population were not surveyed.\n(B) In the sample, the percentage of parents who would support raising the driving age is between 64% and 70%.\n(C) The percentage of the entire population of parents who would support raising the driving age is between 64% and 70%.\n(D) It is unlikely that the given sample proportion result could be obtained unless the true percentage was between 64% and 70%.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "In basketball, an offensive rebound occurs when a player shoots and misses, and a player from the same team recovers the ball. For the 176 players on the roster for one season of professional men's basketball, the third quartile for the total number of offensive rebounds for one season was 143. If five players are selected at random (with replacement) from that season, what is the approximate probability that at least three of them had more than 143 rebounds that season?",
+    "choices": [
+      "0.0127",
+      "0.0879",
+      "0.1035",
+      "0.8965"
+    ],
+    "answer": "C",
+    "input": "Question: In basketball, an offensive rebound occurs when a player shoots and misses, and a player from the same team recovers the ball. For the 176 players on the roster for one season of professional men's basketball, the third quartile for the total number of offensive rebounds for one season was 143. If five players are selected at random (with replacement) from that season, what is the approximate probability that at least three of them had more than 143 rebounds that season?\nOptions:\n(A) 0.0127\n(B) 0.0879\n(C) 0.1035\n(D) 0.8965\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "For which of these is a binomial probability model most reasonable?",
+    "choices": [
+      "The number of times, out of 10 attempts, that a particular child can throw a ball into a basket from six feet away",
+      "The colors of the cars in the parking lot of a particular grocery store on a randomly selected Sunday",
+      "The number of times that a randomly selected resident of California has visited a museum in the last 12 months",
+      "The number of cards drawn from a well-shuffled deck until all four aces are found"
+    ],
+    "answer": "A",
+    "input": "Question: For which of these is a binomial probability model most reasonable?\nOptions:\n(A) The number of times, out of 10 attempts, that a particular child can throw a ball into a basket from six feet away\n(B) The colors of the cars in the parking lot of a particular grocery store on a randomly selected Sunday\n(C) The number of times that a randomly selected resident of California has visited a museum in the last 12 months\n(D) The number of cards drawn from a well-shuffled deck until all four aces are found\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "According to the central limit theorem, the sample mean X is approximately normally distributed",
+    "choices": [
+      "for a large sample, regardless of the distribution of random variable X",
+      "for a large sample, provided the random variable X is normally distributed",
+      "regardless of the sample size",
+      "for a small sample, regardless of the distribution of random variable X"
+    ],
+    "answer": "A",
+    "input": "Question: According to the central limit theorem, the sample mean X is approximately normally distributed\nOptions:\n(A) for a large sample, regardless of the distribution of random variable X\n(B) for a large sample, provided the random variable X is normally distributed\n(C) regardless of the sample size\n(D) for a small sample, regardless of the distribution of random variable X\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Jonathan obtained a score of 80 on a statistics exam, placing him at the 90th percentile. Suppose five points are added to everyone's score. Jonathan's new score will be at the",
+    "choices": [
+      "80th percentile.",
+      "85th percentile.",
+      "90th percentile.",
+      "95th percentile."
+    ],
+    "answer": "C",
+    "input": "Question: Jonathan obtained a score of 80 on a statistics exam, placing him at the 90th percentile. Suppose five points are added to everyone's score. Jonathan's new score will be at the\nOptions:\n(A) 80th percentile.\n(B) 85th percentile.\n(C) 90th percentile.\n(D) 95th percentile.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "For which of the following purposes would it be most unreasonable to use a census?",
+    "choices": [
+      "To determine the proportion of students with a learning disability in a small rural area high school",
+      "To determine the proportion of red snappers with a high mercury level in the Gulf of Mexico",
+      "To determine the difference between the proportion of engineering professors and the proportion of business professors in favor of the new teaching initiative at a large university",
+      "To determine the mean wage earned by construction workers in a small town"
+    ],
+    "answer": "B",
+    "input": "Question: For which of the following purposes would it be most unreasonable to use a census?\nOptions:\n(A) To determine the proportion of students with a learning disability in a small rural area high school\n(B) To determine the proportion of red snappers with a high mercury level in the Gulf of Mexico\n(C) To determine the difference between the proportion of engineering professors and the proportion of business professors in favor of the new teaching initiative at a large university\n(D) To determine the mean wage earned by construction workers in a small town\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A random sample of families was taken in order to estimate the relation between fertility and level of education (measured in number of years). A confidence interval needs to be constructed for the slope of the regression line. The social worker in charge of the project is debating whether to use a 90 percent or a 95 percent confidence interval. Which of the following statements about the length of these intervals is true?",
+    "choices": [
+      "The 95 percent confidence interval will be wider than the 90 percent confidence interval.",
+      "The 95 percent confidence interval will be narrower than the 90 percent confidence interval.",
+      "Both intervals will be of the same length, because they are computed from the same sample.",
+      "The length of the confidence interval will depend on the sample size, not on the confidence level."
+    ],
+    "answer": "A",
+    "input": "Question: A random sample of families was taken in order to estimate the relation between fertility and level of education (measured in number of years). A confidence interval needs to be constructed for the slope of the regression line. The social worker in charge of the project is debating whether to use a 90 percent or a 95 percent confidence interval. Which of the following statements about the length of these intervals is true?\nOptions:\n(A) The 95 percent confidence interval will be wider than the 90 percent confidence interval.\n(B) The 95 percent confidence interval will be narrower than the 90 percent confidence interval.\n(C) Both intervals will be of the same length, because they are computed from the same sample.\n(D) The length of the confidence interval will depend on the sample size, not on the confidence level.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A particular crop of one variety of onion has weights that are approximately normally distributed with mean 9.8 oz. and standard deviation 2.1 oz. How does an onion in the 28th percentile for weight compare to the mean?",
+    "choices": [
+      "1.22 ounces below the mean",
+      "0.59 ounces below the mean",
+      "0.59 ounces above the mean",
+      "1.22 ounces above the mean"
+    ],
+    "answer": "A",
+    "input": "Question: A particular crop of one variety of onion has weights that are approximately normally distributed with mean 9.8 oz. and standard deviation 2.1 oz. How does an onion in the 28th percentile for weight compare to the mean?\nOptions:\n(A) 1.22 ounces below the mean\n(B) 0.59 ounces below the mean\n(C) 0.59 ounces above the mean\n(D) 1.22 ounces above the mean\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A set consists of four numbers. The largest value is 200, and the range is 50. Which of the following statements is true?",
+    "choices": [
+      "The mean is less than 185.",
+      "The mean is greater than 165.",
+      "The median is less than 195.",
+      "The median is the mean of the second and third numbers if the set is arranged in ascending order."
+    ],
+    "answer": "D",
+    "input": "Question: A set consists of four numbers. The largest value is 200, and the range is 50. Which of the following statements is true?\nOptions:\n(A) The mean is less than 185.\n(B) The mean is greater than 165.\n(C) The median is less than 195.\n(D) The median is the mean of the second and third numbers if the set is arranged in ascending order.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Which of the following is a true statement?",
+    "choices": [
+      "While observational studies gather information on an already existing condition, they still often involve intentionally forcing some treatment to note the response.",
+      "In an experiment, researchers decide on the treatment but typically allow the subjects to self-select into the control group.",
+      "If properly designed, either observational studies or controlled experiments can easily be used to establish cause and effect.",
+      "Stratifying in sampling is the same idea as blocking for experiments."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is a true statement?\nOptions:\n(A) While observational studies gather information on an already existing condition, they still often involve intentionally forcing some treatment to note the response.\n(B) In an experiment, researchers decide on the treatment but typically allow the subjects to self-select into the control group.\n(C) If properly designed, either observational studies or controlled experiments can easily be used to establish cause and effect.\n(D) Stratifying in sampling is the same idea as blocking for experiments.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "The number of leasable square feet of office space available in a city on any given day has a normal distribution with mean 640,000 square feet and standard deviation 18,000 square feet. What is the interquartile range for this distribution?",
+    "choices": [
+      "652,000 - 628,000",
+      "658,000 - 622,000",
+      "667,000 - 613,000",
+      "676,000 - 604,000"
+    ],
+    "answer": "A",
+    "input": "Question: The number of leasable square feet of office space available in a city on any given day has a normal distribution with mean 640,000 square feet and standard deviation 18,000 square feet. What is the interquartile range for this distribution?\nOptions:\n(A) 652,000 - 628,000\n(B) 658,000 - 622,000\n(C) 667,000 - 613,000\n(D) 676,000 - 604,000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "A sample of size 35 is to be drawn from a large population. The sampling technique is such that every possible sample of size 35 that could be drawn from the population is equally likely. What name is given to this type of sample?",
+    "choices": [
+      "Systematic sample",
+      "Cluster sample",
+      "Voluntary response sample",
+      "Simple random sample"
+    ],
+    "answer": "D",
+    "input": "Question: A sample of size 35 is to be drawn from a large population. The sampling technique is such that every possible sample of size 35 that could be drawn from the population is equally likely. What name is given to this type of sample?\nOptions:\n(A) Systematic sample\n(B) Cluster sample\n(C) Voluntary response sample\n(D) Simple random sample\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "In the correlation coefficient r = 0.78, what percentage of variation in y is explained by the linear regression model?",
+    "choices": [
+      "22%",
+      "39%",
+      "44%",
+      "61%"
+    ],
+    "answer": "D",
+    "input": "Question: In the correlation coefficient r = 0.78, what percentage of variation in y is explained by the linear regression model?\nOptions:\n(A) 22%\n(B) 39%\n(C) 44%\n(D) 61%\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "To conduct a survey of which long distance carriers are used in a particular locality, a researcher opens a telephone book to a random page, closes his eyes, puts his finger down on the page, and then calls the next 75 names. Which of the following is a correct statement?",
+    "choices": [
+      "The procedure results in a simple random sample.",
+      "While the survey design does incorporate chance, the procedure could easily result in selection bias.",
+      "This is an example of cluster sampling with 26 clusters.",
+      "This is an example of stratified sampling with 26 strata."
+    ],
+    "answer": "B",
+    "input": "Question: To conduct a survey of which long distance carriers are used in a particular locality, a researcher opens a telephone book to a random page, closes his eyes, puts his finger down on the page, and then calls the next 75 names. Which of the following is a correct statement?\nOptions:\n(A) The procedure results in a simple random sample.\n(B) While the survey design does incorporate chance, the procedure could easily result in selection bias.\n(C) This is an example of cluster sampling with 26 clusters.\n(D) This is an example of stratified sampling with 26 strata.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "The distribution of weights of 16-ounce bags of a particular brand of potato chips is approximately normal with a standard deviation of 0.28 ounce. How does the weight of a bag at the 40th percentile compare with the mean weight?",
+    "choices": [
+      "0.40 ounce above the mean",
+      "0.25 ounce above the mean",
+      "0.07 ounce above the mean",
+      "0.07 ounce below the mean"
+    ],
+    "answer": "D",
+    "input": "Question: The distribution of weights of 16-ounce bags of a particular brand of potato chips is approximately normal with a standard deviation of 0.28 ounce. How does the weight of a bag at the 40th percentile compare with the mean weight?\nOptions:\n(A) 0.40 ounce above the mean\n(B) 0.25 ounce above the mean\n(C) 0.07 ounce above the mean\n(D) 0.07 ounce below the mean\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Suppose 4% of the population have a certain disease. A laboratory blood test gives a positive reading for 95% of people who have the disease and for 5% of people who do not have the disease. If a person tests positive, what is the probability the person has the disease?",
+    "choices": [
+      "0.038",
+      "0.086",
+      "0.442",
+      "0.558"
+    ],
+    "answer": "C",
+    "input": "Question: Suppose 4% of the population have a certain disease. A laboratory blood test gives a positive reading for 95% of people who have the disease and for 5% of people who do not have the disease. If a person tests positive, what is the probability the person has the disease?\nOptions:\n(A) 0.038\n(B) 0.086\n(C) 0.442\n(D) 0.558\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_statistics",
+    "question": "Two variables, xand y, seem to be exponentially related. The natural logarithm of each yvalue is taken and the least-squares regression line of ln(y) on xis determined to be ln(y) = 3.2 + 0.42x. What is the predicted value of ywhen x= 7?",
+    "choices": [
+      "464.05",
+      "1380384.27",
+      "521.35",
+      "6.14"
+    ],
+    "answer": "A",
+    "input": "Question: Two variables, xand y, seem to be exponentially related. The natural logarithm of each yvalue is taken and the least-squares regression line of ln(y) on xis determined to be ln(y) = 3.2 + 0.42x. What is the predicted value of ywhen x= 7?\nOptions:\n(A) 464.05\n(B) 1380384.27\n(C) 521.35\n(D) 6.14\nAnswer:",
+    "target": "(A)"
+  }
+]

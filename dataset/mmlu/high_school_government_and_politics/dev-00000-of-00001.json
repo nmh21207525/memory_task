@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Uncertainty over the limits to presidential power is caused primarily by the fact that",
+    "choices": [
+      "the constitutional definition of those powers is broad and unspecific",
+      "most people agree that the Constitution places too many limits on presidential power",
+      "the Supreme Court consistently refuses to rule on cases concerning presidential powers",
+      "constitutional amendments have greatly increased presidential powers"
+    ],
+    "answer": "A",
+    "input": "Question: Uncertainty over the limits to presidential power is caused primarily by the fact that\nOptions:\n(A) the constitutional definition of those powers is broad and unspecific\n(B) most people agree that the Constitution places too many limits on presidential power\n(C) the Supreme Court consistently refuses to rule on cases concerning presidential powers\n(D) constitutional amendments have greatly increased presidential powers\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The term \"budget deficit\" refers to the",
+    "choices": [
+      "annual increase in federal spending on the military",
+      "amount of interest on the national debt",
+      "difference between the initial budget proposals made by the president and Congress",
+      "amount the government spends in excess of its revenues"
+    ],
+    "answer": "D",
+    "input": "Question: The term \"budget deficit\" refers to the\nOptions:\n(A) annual increase in federal spending on the military\n(B) amount of interest on the national debt\n(C) difference between the initial budget proposals made by the president and Congress\n(D) amount the government spends in excess of its revenues\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following cases established the precedent that a defendant must be informed of the right to remain silent, the right to a lawyer, and protection from self-incrimination?",
+    "choices": [
+      "Weeks v. United States",
+      "Betts v. Brady",
+      "Mapp v. Ohio",
+      "Miranda v. Arizona"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following cases established the precedent that a defendant must be informed of the right to remain silent, the right to a lawyer, and protection from self-incrimination?\nOptions:\n(A) Weeks v. United States\n(B) Betts v. Brady\n(C) Mapp v. Ohio\n(D) Miranda v. Arizona\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following statements about cabinet departments is FALSE?",
+    "choices": [
+      "They are established by the legislative branch.",
+      "Their members often don't have much influence over presidential decisions.",
+      "They cannot all be run by leaders who belong to the same political party the president does.",
+      "Not every federal agency is a cabinet department."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements about cabinet departments is FALSE?\nOptions:\n(A) They are established by the legislative branch.\n(B) Their members often don't have much influence over presidential decisions.\n(C) They cannot all be run by leaders who belong to the same political party the president does.\n(D) Not every federal agency is a cabinet department.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following best states an argument made by James Madison in The Federalist number 10?",
+    "choices": [
+      "Honest politicians can prevent factions from developing.",
+      "Factions are more likely to occur in large republics than in small ones.",
+      "The negative effects of factionalism can be reduced by a republican government.",
+      "Free elections are the people's best defense against factionalism."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following best states an argument made by James Madison in The Federalist number 10?\nOptions:\n(A) Honest politicians can prevent factions from developing.\n(B) Factions are more likely to occur in large republics than in small ones.\n(C) The negative effects of factionalism can be reduced by a republican government.\n(D) Free elections are the people's best defense against factionalism.\nAnswer:",
+    "target": "(C)"
+  }
+]

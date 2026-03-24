@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "college_medicine",
+    "question": "Glucose is transported into the muscle cell:",
+    "choices": [
+      "via protein transporters called GLUT4.",
+      "only in the presence of insulin.",
+      "via hexokinase.",
+      "via monocarbylic acid transporters."
+    ],
+    "answer": "A",
+    "input": "Question: Glucose is transported into the muscle cell:\nOptions:\n(A) via protein transporters called GLUT4.\n(B) only in the presence of insulin.\n(C) via hexokinase.\n(D) via monocarbylic acid transporters.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "Which of the following is not a true statement?",
+    "choices": [
+      "Muscle glycogen is broken down enzymatically to glucose-1-phosphate",
+      "Elite endurance runners have a high proportion of Type I fibres in their leg muscles",
+      "Liver glycogen is important in the maintenance of the blood glucose concentration",
+      "Insulin promotes glucose uptake by all tissues in the body"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not a true statement?\nOptions:\n(A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate\n(B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles\n(C) Liver glycogen is important in the maintenance of the blood glucose concentration\n(D) Insulin promotes glucose uptake by all tissues in the body\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "In a genetic test of a newborn, a rare genetic disorder is found that has X-linked recessive transmission. Which of the following statements is likely true regarding the pedigree of this disorder?",
+    "choices": [
+      "All descendants on the maternal side will have the disorder.",
+      "Females will be approximately twice as affected as males in this family.",
+      "All daughters of an affected male will be affected.",
+      "There will be equal distribution of males and females affected."
+    ],
+    "answer": "C",
+    "input": "Question: In a genetic test of a newborn, a rare genetic disorder is found that has X-linked recessive transmission. Which of the following statements is likely true regarding the pedigree of this disorder?\nOptions:\n(A) All descendants on the maternal side will have the disorder.\n(B) Females will be approximately twice as affected as males in this family.\n(C) All daughters of an affected male will be affected.\n(D) There will be equal distribution of males and females affected.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",
+    "choices": [
+      "Increasing temperature, increasing moles of gas",
+      "Increasing temperature, increasing volume",
+      "Decreasing volume, decreasing temperature",
+      "Decreasing moles of gas, increasing volume"
+    ],
+    "answer": "A",
+    "input": "Question: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?\nOptions:\n(A) Increasing temperature, increasing moles of gas\n(B) Increasing temperature, increasing volume\n(C) Decreasing volume, decreasing temperature\n(D) Decreasing moles of gas, increasing volume\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_medicine",
+    "question": "An expected side effect of creatine supplementation is:",
+    "choices": [
+      "muscle weakness.",
+      "gain in body mass.",
+      "muscle cramps.",
+      "loss of electrolytes."
+    ],
+    "answer": "B",
+    "input": "Question: An expected side effect of creatine supplementation is:\nOptions:\n(A) muscle weakness.\n(B) gain in body mass.\n(C) muscle cramps.\n(D) loss of electrolytes.\nAnswer:",
+    "target": "(B)"
+  }
+]

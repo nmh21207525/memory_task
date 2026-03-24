@@ -1,0 +1,20 @@
+datasets:
+  arc:
+    # 这里的路径指向你刚才提到的包含 test, train, validation 的文件夹的上级目录
+    data_dir: ./dataset/arc_c
+    file_pattern: "*.jsonl"
+    default_prompt:
+      task_prompt: 'The following are multiple choice questions (with options) about science.'
+      answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+      generation_length: 3
+    task_prompts:
+      # 对应 ARC-Challenge 子集
+      arc_challenge:
+        task_prompt: 'The following are difficult science questions. Think carefully.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      # # 对应 ARC-Easy 子集
+      # arc_easy:
+      #   task_prompt: 'The following are elementary science questions.'
+      #   answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+      #   generation_length: 3

@@ -1,0 +1,119 @@
+[
+  {
+    "subject": "high_school_computer_science",
+    "question": "In Python 3, which of the following function removes all leading and trailing whitespace in string?",
+    "choices": [
+      "replace(old, new [, max])",
+      "strip([chars])",
+      "swapcase()",
+      "title()"
+    ],
+    "answer": "B",
+    "input": "Question: In Python 3, which of the following function removes all leading and trailing whitespace in string?\nOptions:\n(A) replace(old, new [, max])\n(B) strip([chars])\n(C) swapcase()\n(D) title()\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "Which of the following best describes a Web server?",
+    "choices": [
+      "A computer system that delivers Web pages to clients",
+      "A computer system that determines the shortest path between two computers over the Internet",
+      "A computer system running software that provides a user-friendly interface for creating Web pages",
+      "A computer system that translates domain names to IP addresses"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following best describes a Web server?\nOptions:\n(A) A computer system that delivers Web pages to clients\n(B) A computer system that determines the shortest path between two computers over the Internet\n(C) A computer system running software that provides a user-friendly interface for creating Web pages\n(D) A computer system that translates domain names to IP addresses\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "A user purchased a new smart home device with embedded software and connected the device to a home network. The user then registered the device with the manufacturer, setting up an account using a personal e-mail and password. Which of the following explains how a phishing attack could occur against the user of the smart home device?",
+    "choices": [
+      "A vulnerability in the device’s software is exploited to gain unauthorized access to other devices on the user’s home network.",
+      "A vulnerability in the device’s software is exploited to install software that reveals the user’s password to an unauthorized individual.",
+      "The user is sent an e-mail appearing to be from the manufacturer, asking the user to confirm the account password by clicking on a link in the e-mail and entering the password on the resulting page.",
+      "The user’s account is sent an overwhelming number of messages in an attempt to disrupt service on the user’s home network."
+    ],
+    "answer": "C",
+    "input": "Question: A user purchased a new smart home device with embedded software and connected the device to a home network. The user then registered the device with the manufacturer, setting up an account using a personal e-mail and password. Which of the following explains how a phishing attack could occur against the user of the smart home device?\nOptions:\n(A) A vulnerability in the device’s software is exploited to gain unauthorized access to other devices on the user’s home network.\n(B) A vulnerability in the device’s software is exploited to install software that reveals the user’s password to an unauthorized individual.\n(C) The user is sent an e-mail appearing to be from the manufacturer, asking the user to confirm the account password by clicking on a link in the e-mail and entering the password on the resulting page.\n(D) The user’s account is sent an overwhelming number of messages in an attempt to disrupt service on the user’s home network.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "In Python 3, let r = lambda q: q * 2. What is r(3)?",
+    "choices": [
+      "2",
+      "6",
+      "3",
+      "1"
+    ],
+    "answer": "B",
+    "input": "Question: In Python 3, let r = lambda q: q * 2. What is r(3)?\nOptions:\n(A) 2\n(B) 6\n(C) 3\n(D) 1\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "Consider the following list. - Assembly language - Block-based programming language - Logic gate - Machine language Which of the following arranges the list in order from highest level of abstraction to lowest level of abstraction?",
+    "choices": [
+      "Block-based programming language, assembly language, machine language, logic gate",
+      "Block-based programming language, machine language, assembly language, logic gate",
+      "Block-based programming language, machine language, logic gate, assembly language",
+      "Machine language, block-based programming language, assembly language, logic gate"
+    ],
+    "answer": "A",
+    "input": "Question: Consider the following list. - Assembly language - Block-based programming language - Logic gate - Machine language Which of the following arranges the list in order from highest level of abstraction to lowest level of abstraction?\nOptions:\n(A) Block-based programming language, assembly language, machine language, logic gate\n(B) Block-based programming language, machine language, assembly language, logic gate\n(C) Block-based programming language, machine language, logic gate, assembly language\n(D) Machine language, block-based programming language, assembly language, logic gate\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "A large hospital maintains a list of patients’ records in no particular order. To find the record of a given patient, which represents the most efficient method that will work?",
+    "choices": [
+      "Do a sequential search on the name field of the records.",
+      "Do a binary search on the name field of the records.",
+      "Use insertion sort to sort the records alphabetically by name; then do a sequential search on the name field of the records.",
+      "Usemergesort to sort the records alphabetically by name; then do a sequential search on the name field of the records."
+    ],
+    "answer": "A",
+    "input": "Question: A large hospital maintains a list of patients’ records in no particular order. To find the record of a given patient, which represents the most efficient method that will work?\nOptions:\n(A) Do a sequential search on the name field of the records.\n(B) Do a binary search on the name field of the records.\n(C) Use insertion sort to sort the records alphabetically by name; then do a sequential search on the name field of the records.\n(D) Usemergesort to sort the records alphabetically by name; then do a sequential search on the name field of the records.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "Which types of functions grow the slowest?",
+    "choices": [
+      "O(N^(1/2))",
+      "O(N^(1/4))",
+      "O(N^(1/N))",
+      "O(N)"
+    ],
+    "answer": "C",
+    "input": "Question: Which types of functions grow the slowest?\nOptions:\n(A) O(N^(1/2))\n(B) O(N^(1/4))\n(C) O(N^(1/N))\n(D) O(N)\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "Which is a valid expression in Python 3.5?",
+    "choices": [
+      "sort('ab')",
+      "sorted('ab')",
+      "\"ab\".sort()",
+      "1/0"
+    ],
+    "answer": "B",
+    "input": "Question: Which is a valid expression in Python 3.5?\nOptions:\n(A) sort('ab')\n(B) sorted('ab')\n(C) \"ab\".sort()\n(D) 1/0\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_computer_science",
+    "question": "Consider the following segment of code.\n String word = \"conflagration\";\n int x = word.indexOf(\"flag\");\n String s = word.substring(0, x);\n What will be the result of executing the above segment?",
+    "choices": [
+      "String s will be the empty string.",
+      "String s will contain \"flag\".",
+      "String s will contain \"conf\".",
+      "String s will contain \"con\"."
+    ],
+    "answer": "D",
+    "input": "Question: Consider the following segment of code.\n String word = \"conflagration\";\n int x = word.indexOf(\"flag\");\n String s = word.substring(0, x);\n What will be the result of executing the above segment?\nOptions:\n(A) String s will be the empty string.\n(B) String s will contain \"flag\".\n(C) String s will contain \"conf\".\n(D) String s will contain \"con\".\nAnswer:",
+    "target": "(D)"
+  }
+]

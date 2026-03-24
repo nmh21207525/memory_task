@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "prehistory",
+    "question": "The great Mayan king Pacal built temples in the city of Palenque in order to:",
+    "choices": [
+      "satisfy the powerful Mayan astronomer priests.",
+      "display his generosity to the common people, since they were allowed to live in the temples.",
+      "frighten away enemies, in particular the Spaniards.",
+      "legitimize his kingship, since his father was not royal."
+    ],
+    "answer": "D",
+    "input": "Question: The great Mayan king Pacal built temples in the city of Palenque in order to:\nOptions:\n(A) satisfy the powerful Mayan astronomer priests.\n(B) display his generosity to the common people, since they were allowed to live in the temples.\n(C) frighten away enemies, in particular the Spaniards.\n(D) legitimize his kingship, since his father was not royal.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "According to Timothy Pauketat, the evidence for social stratification and political power at Cahokia suggests:",
+    "choices": [
+      "a center of Mississippian civilization with conditions similar to the rise of early states.",
+      "the limitations of authority in a Native American society of egalitarian foragers.",
+      "a simple chiefdom or perhaps a complex chiefdom had evolved by A.D. 1500.",
+      "a center of Mississippian civilization with conditions similar to societies on the Northwest Coast of North America."
+    ],
+    "answer": "A",
+    "input": "Question: According to Timothy Pauketat, the evidence for social stratification and political power at Cahokia suggests:\nOptions:\n(A) a center of Mississippian civilization with conditions similar to the rise of early states.\n(B) the limitations of authority in a Native American society of egalitarian foragers.\n(C) a simple chiefdom or perhaps a complex chiefdom had evolved by A.D. 1500.\n(D) a center of Mississippian civilization with conditions similar to societies on the Northwest Coast of North America.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Researchers now believe that the decline of the Maya was caused chiefly by:",
+    "choices": [
+      "a cataclysm of some kind, such as an earthquake, volcano, or tsunami.",
+      "ecological degradation resulting from slash-and-burn farming techniques.",
+      "endless wars between neighboring Mayan city-states.",
+      "practices of interbreeding that led to a steep rise in congenital disorders."
+    ],
+    "answer": "B",
+    "input": "Question: Researchers now believe that the decline of the Maya was caused chiefly by:\nOptions:\n(A) a cataclysm of some kind, such as an earthquake, volcano, or tsunami.\n(B) ecological degradation resulting from slash-and-burn farming techniques.\n(C) endless wars between neighboring Mayan city-states.\n(D) practices of interbreeding that led to a steep rise in congenital disorders.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Recent research on hominid species dating from the Middle Pliocene indicates there was (as of 2020):",
+    "choices": [
+      "a great amount of species diversity, or a single species that exhibited a lot of diversity.",
+      "very little species diversity during this period and very few hominids.",
+      "decreased species diversity due to a prolonged ice age followed by a severe drought.",
+      "decreased species diversity but increased numbers of hammerstones and flakes, indicating stone tool manufacture."
+    ],
+    "answer": "A",
+    "input": "Question: Recent research on hominid species dating from the Middle Pliocene indicates there was (as of 2020):\nOptions:\n(A) a great amount of species diversity, or a single species that exhibited a lot of diversity.\n(B) very little species diversity during this period and very few hominids.\n(C) decreased species diversity due to a prolonged ice age followed by a severe drought.\n(D) decreased species diversity but increased numbers of hammerstones and flakes, indicating stone tool manufacture.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "What is the approximate mean cranial capacity of Homo erectus?",
+    "choices": [
+      "under 650 cc",
+      "about 800 cc",
+      "just under 1000 cc",
+      "1200 cc"
+    ],
+    "answer": "C",
+    "input": "Question: What is the approximate mean cranial capacity of Homo erectus?\nOptions:\n(A) under 650 cc\n(B) about 800 cc\n(C) just under 1000 cc\n(D) 1200 cc\nAnswer:",
+    "target": "(C)"
+  }
+]

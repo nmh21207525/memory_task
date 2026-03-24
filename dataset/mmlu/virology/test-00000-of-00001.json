@@ -1,0 +1,2160 @@
+[
+  {
+    "subject": "virology",
+    "question": "How many human polyomaviruses are known at present?",
+    "choices": [
+      "100",
+      "1",
+      "10",
+      "unknown"
+    ],
+    "answer": "A",
+    "input": "Question: How many human polyomaviruses are known at present?\nOptions:\n(A) 100\n(B) 1\n(C) 10\n(D) unknown\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "AIDS activism in the U.S. resulted in:",
+    "choices": [
+      "Food and Drug Administration reforms",
+      "Easier access to investigational drugs",
+      "Changes in the way medicine was practiced in the U.S.",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: AIDS activism in the U.S. resulted in:\nOptions:\n(A) Food and Drug Administration reforms\n(B) Easier access to investigational drugs\n(C) Changes in the way medicine was practiced in the U.S.\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Globally, the most deaths are caused by:",
+    "choices": [
+      "Respiratory infections",
+      "Diarrheal diseases",
+      "Malaria",
+      "Tuberculosis"
+    ],
+    "answer": "B",
+    "input": "Question: Globally, the most deaths are caused by:\nOptions:\n(A) Respiratory infections\n(B) Diarrheal diseases\n(C) Malaria\n(D) Tuberculosis\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What happens during the 'incubation period'?",
+    "choices": [
+      "The virus is cleared from the body by the immune system",
+      "Virus replication happens at an intracellular level",
+      "This period commonly lasts for a few days",
+      "This period commonly lasts for a few hours"
+    ],
+    "answer": "B",
+    "input": "Question: What happens during the 'incubation period'?\nOptions:\n(A) The virus is cleared from the body by the immune system\n(B) Virus replication happens at an intracellular level\n(C) This period commonly lasts for a few days\n(D) This period commonly lasts for a few hours\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:",
+    "choices": [
+      "Exclusively formula fed for six months",
+      "Exclusively breast fed for six months",
+      "Should receive both breast milk and other foods as tolerated in the first 6",
+      "months"
+    ],
+    "answer": "B",
+    "input": "Question: Newborn infants in countries with limited access to safe water and low levels of education should be:\nOptions:\n(A) Exclusively formula fed for six months\n(B) Exclusively breast fed for six months\n(C) Should receive both breast milk and other foods as tolerated in the first 6\n(D) months\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?",
+    "choices": [
+      "Innovators",
+      "Early adapters",
+      "Middle adapters",
+      "Late adapters"
+    ],
+    "answer": "A",
+    "input": "Question: Achieving effective change in a community is usually dependent on which of the following segments of society?\nOptions:\n(A) Innovators\n(B) Early adapters\n(C) Middle adapters\n(D) Late adapters\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "“Contingency management” is”:",
+    "choices": [
+      "A strategy of last resort for reducing high-risk behaviors",
+      "Paying drug users for negative urine specimens",
+      "Paying sex workers to use condoms",
+      "Paying drug users to use condoms"
+    ],
+    "answer": "B",
+    "input": "Question: “Contingency management” is”:\nOptions:\n(A) A strategy of last resort for reducing high-risk behaviors\n(B) Paying drug users for negative urine specimens\n(C) Paying sex workers to use condoms\n(D) Paying drug users to use condoms\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Typical clinical symptoms following infection with astroviruses include which of the following?",
+    "choices": [
+      "Acute pneumonia",
+      "Gastroenteritis in children",
+      "Hepatitis",
+      "rashes"
+    ],
+    "answer": "B",
+    "input": "Question: Typical clinical symptoms following infection with astroviruses include which of the following?\nOptions:\n(A) Acute pneumonia\n(B) Gastroenteritis in children\n(C) Hepatitis\n(D) rashes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is the most special characteristic of the adaptive immune system?",
+    "choices": [
+      "Antibodies",
+      "T cells",
+      "Memory T cells",
+      "Clonal expansion of pre-existing antibodies and/or T cells"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is the most special characteristic of the adaptive immune system?\nOptions:\n(A) Antibodies\n(B) T cells\n(C) Memory T cells\n(D) Clonal expansion of pre-existing antibodies and/or T cells\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?",
+    "choices": [
+      "Interferon and ribavirin",
+      "Lamivudine and ribavirin",
+      "Combinations of adefovir and entecavir and/or tenofovir (DAA)",
+      "Interferons alone"
+    ],
+    "answer": "B",
+    "input": "Question: Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\nOptions:\n(A) Interferon and ribavirin\n(B) Lamivudine and ribavirin\n(C) Combinations of adefovir and entecavir and/or tenofovir (DAA)\n(D) Interferons alone\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?",
+    "choices": [
+      "Incidence",
+      "Lifetime expectancy",
+      "Lifetime prevalence",
+      "Period prevalence"
+    ],
+    "answer": "C",
+    "input": "Question: There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?\nOptions:\n(A) Incidence\n(B) Lifetime expectancy\n(C) Lifetime prevalence\n(D) Period prevalence\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "How were retroviruses discovered?",
+    "choices": [
+      "In chickens as Rous sarcoma",
+      "In humans as HTLV-1",
+      "In mice causing leukaemia",
+      "In cats causing leukaemia"
+    ],
+    "answer": "C",
+    "input": "Question: How were retroviruses discovered?\nOptions:\n(A) In chickens as Rous sarcoma\n(B) In humans as HTLV-1\n(C) In mice causing leukaemia\n(D) In cats causing leukaemia\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Most surveillance systems use which of the following study designs?",
+    "choices": [
+      "Cohort",
+      "Serial cross-sectional",
+      "Mortality",
+      "Syndromic"
+    ],
+    "answer": "B",
+    "input": "Question: Most surveillance systems use which of the following study designs?\nOptions:\n(A) Cohort\n(B) Serial cross-sectional\n(C) Mortality\n(D) Syndromic\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Polio can be eradicated by which of the following?",
+    "choices": [
+      "Attention to sewage control and hygiene",
+      "Killed polio vaccine",
+      "Live polio vaccine",
+      "Combination of the killed and live vaccines."
+    ],
+    "answer": "A",
+    "input": "Question: Polio can be eradicated by which of the following?\nOptions:\n(A) Attention to sewage control and hygiene\n(B) Killed polio vaccine\n(C) Live polio vaccine\n(D) Combination of the killed and live vaccines.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Public health ethics is:",
+    "choices": [
+      "Patient-centered",
+      "Population-centered",
+      "Subject-centered",
+      "Must respect the rights of individuals"
+    ],
+    "answer": "B",
+    "input": "Question: Public health ethics is:\nOptions:\n(A) Patient-centered\n(B) Population-centered\n(C) Subject-centered\n(D) Must respect the rights of individuals\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "How many people globally are currently infected with hepatitis B?",
+    "choices": [
+      "350 million",
+      "2 billion",
+      "100,000",
+      "1 million"
+    ],
+    "answer": "A",
+    "input": "Question: How many people globally are currently infected with hepatitis B?\nOptions:\n(A) 350 million\n(B) 2 billion\n(C) 100,000\n(D) 1 million\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "In a study, a group of people are exposed to an environmental toxin but are not treated observed over time on a standard set of measures to ascertain the potential effects of the toxin. This type of study design is called",
+    "choices": [
+      "Clinical trial",
+      "Double-blind",
+      "Longitudinal",
+      "Prospective cohort"
+    ],
+    "answer": "D",
+    "input": "Question: In a study, a group of people are exposed to an environmental toxin but are not treated observed over time on a standard set of measures to ascertain the potential effects of the toxin. This type of study design is called\nOptions:\n(A) Clinical trial\n(B) Double-blind\n(C) Longitudinal\n(D) Prospective cohort\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which disease do polyomaviruses predominantly cause?",
+    "choices": [
+      "Tumours",
+      "Brain pathology",
+      "No disease at all",
+      "Kidney infections"
+    ],
+    "answer": "C",
+    "input": "Question: Which disease do polyomaviruses predominantly cause?\nOptions:\n(A) Tumours\n(B) Brain pathology\n(C) No disease at all\n(D) Kidney infections\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "How are antibody producing cells stimulated?",
+    "choices": [
+      "Interacting with a virus short peptide",
+      "Interacting with a T helper cell.",
+      "Interacting with a plasma cell",
+      "Interacting with a virus infected cell"
+    ],
+    "answer": "B",
+    "input": "Question: How are antibody producing cells stimulated?\nOptions:\n(A) Interacting with a virus short peptide\n(B) Interacting with a T helper cell.\n(C) Interacting with a plasma cell\n(D) Interacting with a virus infected cell\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:",
+    "choices": [
+      "The brilliance of the principal investigator",
+      "The commitment of the staff",
+      "The commitment of the participants",
+      "The quality of the laboratories"
+    ],
+    "answer": "C",
+    "input": "Question: The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:\nOptions:\n(A) The brilliance of the principal investigator\n(B) The commitment of the staff\n(C) The commitment of the participants\n(D) The quality of the laboratories\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following?",
+    "choices": [
+      "Virions carry RNA transcriptase enzyme into the cell",
+      "The virion RNA is translated into a single large polyprotein",
+      "The virion RNA acting as mRNA",
+      "The virus exits by apoptosis of the cell"
+    ],
+    "answer": "C",
+    "input": "Question: Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following?\nOptions:\n(A) Virions carry RNA transcriptase enzyme into the cell\n(B) The virion RNA is translated into a single large polyprotein\n(C) The virion RNA acting as mRNA\n(D) The virus exits by apoptosis of the cell\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans?",
+    "choices": [
+      "The genome has been identified by the new method of deep sequencing",
+      "A new vector has been discovered",
+      "They infect a wide range of domestic animals and so contaminate meat",
+      "Knowledge of their replication as positive sense ssRNA viruses is now complete"
+    ],
+    "answer": "A",
+    "input": "Question: Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans?\nOptions:\n(A) The genome has been identified by the new method of deep sequencing\n(B) A new vector has been discovered\n(C) They infect a wide range of domestic animals and so contaminate meat\n(D) Knowledge of their replication as positive sense ssRNA viruses is now complete\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which virus infection was not first identified by clinical observation?",
+    "choices": [
+      "HIV",
+      "Rubella teratogenicity",
+      "Microcephaly and Zika",
+      "Hepatitis C"
+    ],
+    "answer": "D",
+    "input": "Question: Which virus infection was not first identified by clinical observation?\nOptions:\n(A) HIV\n(B) Rubella teratogenicity\n(C) Microcephaly and Zika\n(D) Hepatitis C\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The particular quality of the U.S. health care system is its:",
+    "choices": [
+      "Systematic, democratic approach",
+      "Fragmented, uncoordinated approach",
+      "The result of rationale decisions by informed legislators",
+      "a. and c. above"
+    ],
+    "answer": "B",
+    "input": "Question: The particular quality of the U.S. health care system is its:\nOptions:\n(A) Systematic, democratic approach\n(B) Fragmented, uncoordinated approach\n(C) The result of rationale decisions by informed legislators\n(D) a. and c. above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The three key intervention strategies according to Professor Shoptaw are:",
+    "choices": [
+      "Behavioral intervention, treatment and structural interventions",
+      "Condoms, drug therapy and regulation of commercial sex establishments",
+      "Drug replacement therapy, community intervention and needle exchange",
+      "HIV testing, drug therapy and condom use"
+    ],
+    "answer": "A",
+    "input": "Question: The three key intervention strategies according to Professor Shoptaw are:\nOptions:\n(A) Behavioral intervention, treatment and structural interventions\n(B) Condoms, drug therapy and regulation of commercial sex establishments\n(C) Drug replacement therapy, community intervention and needle exchange\n(D) HIV testing, drug therapy and condom use\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Measles has been controlled in many countries by which of the following?",
+    "choices": [
+      "By hygiene",
+      "By MMR vaccine",
+      "By new molecular peptide vaccines",
+      "By humanised monoclonal antibodies to F protein"
+    ],
+    "answer": "B",
+    "input": "Question: Measles has been controlled in many countries by which of the following?\nOptions:\n(A) By hygiene\n(B) By MMR vaccine\n(C) By new molecular peptide vaccines\n(D) By humanised monoclonal antibodies to F protein\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "How can the spread of filoviruses be restricted?",
+    "choices": [
+      "New antivirals",
+      "New humanised monoclonal antibodies",
+      "Hygiene and social distancing",
+      "New vaccines"
+    ],
+    "answer": "C",
+    "input": "Question: How can the spread of filoviruses be restricted?\nOptions:\n(A) New antivirals\n(B) New humanised monoclonal antibodies\n(C) Hygiene and social distancing\n(D) New vaccines\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Most pandemics have arisen from influenza viruses from which of the following animals?",
+    "choices": [
+      "Pigs",
+      "Wild birds",
+      "Bats",
+      "Humans"
+    ],
+    "answer": "A",
+    "input": "Question: Most pandemics have arisen from influenza viruses from which of the following animals?\nOptions:\n(A) Pigs\n(B) Wild birds\n(C) Bats\n(D) Humans\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "PreP is an effective strategy for reducing the incidence of HIV in:",
+    "choices": [
+      "Women",
+      "Drug users",
+      "Pregnant women",
+      "a. and b. above"
+    ],
+    "answer": "B",
+    "input": "Question: PreP is an effective strategy for reducing the incidence of HIV in:\nOptions:\n(A) Women\n(B) Drug users\n(C) Pregnant women\n(D) a. and b. above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The replication of hepatitis B includes which of the following stages?",
+    "choices": [
+      "Movement of intact virus to the cellular cytoplasm for replication",
+      "Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus",
+      "Virions produced in the cytoplasm by cellular DNA polymerase",
+      "Oncogenic activity to transform liver cells."
+    ],
+    "answer": "C",
+    "input": "Question: The replication of hepatitis B includes which of the following stages?\nOptions:\n(A) Movement of intact virus to the cellular cytoplasm for replication\n(B) Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus\n(C) Virions produced in the cytoplasm by cellular DNA polymerase\n(D) Oncogenic activity to transform liver cells.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "How does the papilloma family of viruses cause cancer?",
+    "choices": [
+      "Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7",
+      "Integrates viral genome into cellular DNA",
+      "Has an oncogene able to initiate cancer",
+      "Acts as a co factor for a cellular oncogene"
+    ],
+    "answer": "B",
+    "input": "Question: How does the papilloma family of viruses cause cancer?\nOptions:\n(A) Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7\n(B) Integrates viral genome into cellular DNA\n(C) Has an oncogene able to initiate cancer\n(D) Acts as a co factor for a cellular oncogene\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The noroviruses typically cause which of the following?",
+    "choices": [
+      "Diarrhoea",
+      "Rash",
+      "Projectile vomiting and diarrhoea",
+      "Disease of the central nervous system"
+    ],
+    "answer": "C",
+    "input": "Question: The noroviruses typically cause which of the following?\nOptions:\n(A) Diarrhoea\n(B) Rash\n(C) Projectile vomiting and diarrhoea\n(D) Disease of the central nervous system\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?",
+    "choices": [
+      "Speedy vaccine development",
+      "Identifying genetic variation",
+      "Giving details on virus excretion in symptomless carriers",
+      "Quickly identifying new viruses"
+    ],
+    "answer": "D",
+    "input": "Question: Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?\nOptions:\n(A) Speedy vaccine development\n(B) Identifying genetic variation\n(C) Giving details on virus excretion in symptomless carriers\n(D) Quickly identifying new viruses\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Determinants of acquiring an HIV infection from an infected person per sexual act include:",
+    "choices": [
+      "Viral RNA level",
+      "Presence of other infections",
+      "Condom use",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Determinants of acquiring an HIV infection from an infected person per sexual act include:\nOptions:\n(A) Viral RNA level\n(B) Presence of other infections\n(C) Condom use\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "How is next generation sequencing (NGS) most often used?",
+    "choices": [
+      "To identify a newly discovered virus",
+      "To search for drug resistant mutants",
+      "To identify quasi species viruses",
+      "Cannot be used"
+    ],
+    "answer": "D",
+    "input": "Question: How is next generation sequencing (NGS) most often used?\nOptions:\n(A) To identify a newly discovered virus\n(B) To search for drug resistant mutants\n(C) To identify quasi species viruses\n(D) Cannot be used\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following HPV viruses are known to cause cervical cancer?",
+    "choices": [
+      "Viruses of all 5 clades",
+      "Types 14, 16, 18, 31, 45",
+      "None are oncogenic per se",
+      "Types 1-180"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following HPV viruses are known to cause cervical cancer?\nOptions:\n(A) Viruses of all 5 clades\n(B) Types 14, 16, 18, 31, 45\n(C) None are oncogenic per se\n(D) Types 1-180\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which member of the paramyxovirus family can cause very serious croup?",
+    "choices": [
+      "Measles",
+      "Meta pneumo virus",
+      "Hendra",
+      "Respiratory syncytial virus (RSV)"
+    ],
+    "answer": "B",
+    "input": "Question: Which member of the paramyxovirus family can cause very serious croup?\nOptions:\n(A) Measles\n(B) Meta pneumo virus\n(C) Hendra\n(D) Respiratory syncytial virus (RSV)\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is the cause of delay in HIV testing among the Latino population?",
+    "choices": [
+      "Stigma attached to the disease",
+      "Machismo",
+      "Drug abuse",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is the cause of delay in HIV testing among the Latino population?\nOptions:\n(A) Stigma attached to the disease\n(B) Machismo\n(C) Drug abuse\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Describe the morphology of a togavirus.",
+    "choices": [
+      "Enveloped spherical particles with an icosahedral structure",
+      "Non-enveloped with an icosahedral structure",
+      "Filamentous virus with protruding glycoproteins",
+      "Small round viruses"
+    ],
+    "answer": "A",
+    "input": "Question: Describe the morphology of a togavirus.\nOptions:\n(A) Enveloped spherical particles with an icosahedral structure\n(B) Non-enveloped with an icosahedral structure\n(C) Filamentous virus with protruding glycoproteins\n(D) Small round viruses\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A good surveillance system should provide information about:",
+    "choices": [
+      "Who is being infected",
+      "Where the infected individuals are",
+      "How rapidly infection is spreading",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: A good surveillance system should provide information about:\nOptions:\n(A) Who is being infected\n(B) Where the infected individuals are\n(C) How rapidly infection is spreading\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "What has so far prevented polio being eradicated from the world?",
+    "choices": [
+      "Inability to vaccinate in some countries",
+      "Poor quality (unsafe) vaccines",
+      "Genetic variation",
+      "Expense"
+    ],
+    "answer": "A",
+    "input": "Question: What has so far prevented polio being eradicated from the world?\nOptions:\n(A) Inability to vaccinate in some countries\n(B) Poor quality (unsafe) vaccines\n(C) Genetic variation\n(D) Expense\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The range of disease caused by the family is wide but identify the exception from the following:",
+    "choices": [
+      "Aplastic crisis in anaemia patients",
+      "Fifth disease at 'Slapped cheek' syndrome",
+      "Foetal infection with teratogenicity",
+      "Serious pneumonia"
+    ],
+    "answer": "A",
+    "input": "Question: The range of disease caused by the family is wide but identify the exception from the following:\nOptions:\n(A) Aplastic crisis in anaemia patients\n(B) Fifth disease at 'Slapped cheek' syndrome\n(C) Foetal infection with teratogenicity\n(D) Serious pneumonia\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following drugs inhibit herpes viruses?",
+    "choices": [
+      "Amantadine",
+      "Acyclovir",
+      "Oseltamivir",
+      "Azidothymidine"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following drugs inhibit herpes viruses?\nOptions:\n(A) Amantadine\n(B) Acyclovir\n(C) Oseltamivir\n(D) Azidothymidine\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The three countries with the most drug injectors are:",
+    "choices": [
+      "Bolivia, Argentina, Thailand",
+      "China, the U.S. and Russia",
+      "Afghanistan, Iraq and Myanmar",
+      "Lithuania, Estonia and Latvia"
+    ],
+    "answer": "B",
+    "input": "Question: The three countries with the most drug injectors are:\nOptions:\n(A) Bolivia, Argentina, Thailand\n(B) China, the U.S. and Russia\n(C) Afghanistan, Iraq and Myanmar\n(D) Lithuania, Estonia and Latvia\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group?",
+    "choices": [
+      "Children exposed to the chemical waste who do not suffer from ALL",
+      "Children not exposed to the chemical waste who do not suffer from ALL",
+      "Children from the hospital’s outpatient clinic who do not suffer from ALL",
+      "Children not exposed to the chemical waste who suffer from ALL"
+    ],
+    "answer": "B",
+    "input": "Question: Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group?\nOptions:\n(A) Children exposed to the chemical waste who do not suffer from ALL\n(B) Children not exposed to the chemical waste who do not suffer from ALL\n(C) Children from the hospital’s outpatient clinic who do not suffer from ALL\n(D) Children not exposed to the chemical waste who suffer from ALL\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Lassa and Ebola are emergent viruses in W. Africa. What is their origin?",
+    "choices": [
+      "Humans",
+      "Primates",
+      "Fruit bats",
+      "Pigs"
+    ],
+    "answer": "B",
+    "input": "Question: Lassa and Ebola are emergent viruses in W. Africa. What is their origin?\nOptions:\n(A) Humans\n(B) Primates\n(C) Fruit bats\n(D) Pigs\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+    "choices": [
+      "If administered within 4 days of clinical signs",
+      "If used within 48 hours of first clinical signs",
+      "Used for the obese",
+      "Used in children under the age of 2 years where high virus spread is noted"
+    ],
+    "answer": "C",
+    "input": "Question: Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?\nOptions:\n(A) If administered within 4 days of clinical signs\n(B) If used within 48 hours of first clinical signs\n(C) Used for the obese\n(D) Used in children under the age of 2 years where high virus spread is noted\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Papillomaviruses cause warts and cancer but how do they most often infect humans?",
+    "choices": [
+      "Are water borne",
+      "Are airborne",
+      "Via scratches and breaks in the skin",
+      "Are nosocomial and spread in hospitals"
+    ],
+    "answer": "C",
+    "input": "Question: Papillomaviruses cause warts and cancer but how do they most often infect humans?\nOptions:\n(A) Are water borne\n(B) Are airborne\n(C) Via scratches and breaks in the skin\n(D) Are nosocomial and spread in hospitals\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact?",
+    "choices": [
+      "Diarrhoea",
+      "Eye infections",
+      "Respiratory tract infections",
+      "Haemorrhagic cystitis"
+    ],
+    "answer": "C",
+    "input": "Question: There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact?\nOptions:\n(A) Diarrhoea\n(B) Eye infections\n(C) Respiratory tract infections\n(D) Haemorrhagic cystitis\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "How are new polyomaviruses detailed",
+    "choices": [
+      "Shot gun sequencing",
+      "Cultivation in human neural cells",
+      "Deep pyro sequencing (NGS)",
+      "Monoclonal antibody techniques"
+    ],
+    "answer": "A",
+    "input": "Question: How are new polyomaviruses detailed\nOptions:\n(A) Shot gun sequencing\n(B) Cultivation in human neural cells\n(C) Deep pyro sequencing (NGS)\n(D) Monoclonal antibody techniques\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Describe the YF vaccine.",
+    "choices": [
+      "Killed virus vaccine",
+      "Live attenuated virus vaccine developed by Pasteurian passage",
+      "Live attenuated vaccine produced by direct mutation of the virus genome",
+      "Experimental vaccine only"
+    ],
+    "answer": "B",
+    "input": "Question: Describe the YF vaccine.\nOptions:\n(A) Killed virus vaccine\n(B) Live attenuated virus vaccine developed by Pasteurian passage\n(C) Live attenuated vaccine produced by direct mutation of the virus genome\n(D) Experimental vaccine only\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the biggest risk factor for infection with Ebola?",
+    "choices": [
+      "Working in a category IV laboratory",
+      "Attending a funeral of a victim outside",
+      "Nursing a patient at home",
+      "Attending football matches or large gatherings"
+    ],
+    "answer": "A",
+    "input": "Question: What is the biggest risk factor for infection with Ebola?\nOptions:\n(A) Working in a category IV laboratory\n(B) Attending a funeral of a victim outside\n(C) Nursing a patient at home\n(D) Attending football matches or large gatherings\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The influenza virus is mainly controlled in special \"risk\" sectors by:",
+    "choices": [
+      "Hygiene",
+      "Vaccination",
+      "Antiviral drugs",
+      "Humanised monoclonal antibodies"
+    ],
+    "answer": "B",
+    "input": "Question: The influenza virus is mainly controlled in special \"risk\" sectors by:\nOptions:\n(A) Hygiene\n(B) Vaccination\n(C) Antiviral drugs\n(D) Humanised monoclonal antibodies\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following?",
+    "choices": [
+      "Observer bias",
+      "Confounding",
+      "Placebo effect",
+      "Nonresponse bias"
+    ],
+    "answer": "B",
+    "input": "Question: A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following?\nOptions:\n(A) Observer bias\n(B) Confounding\n(C) Placebo effect\n(D) Nonresponse bias\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "How are arenaviruses spread?",
+    "choices": [
+      "Sexual contact",
+      "Blood",
+      "Aerosols of urine from infected small mammals",
+      "Mosquito bites"
+    ],
+    "answer": "A",
+    "input": "Question: How are arenaviruses spread?\nOptions:\n(A) Sexual contact\n(B) Blood\n(C) Aerosols of urine from infected small mammals\n(D) Mosquito bites\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which areas of the world are rabies free?",
+    "choices": [
+      "USA",
+      "Norway",
+      "EU",
+      "Island nations, UK, NZ and Australia"
+    ],
+    "answer": "D",
+    "input": "Question: Which areas of the world are rabies free?\nOptions:\n(A) USA\n(B) Norway\n(C) EU\n(D) Island nations, UK, NZ and Australia\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to:",
+    "choices": [
+      "Mixed feeding",
+      "Very early introduction of solids",
+      "Both a and b",
+      "None of them"
+    ],
+    "answer": "C",
+    "input": "Question: The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to:\nOptions:\n(A) Mixed feeding\n(B) Very early introduction of solids\n(C) Both a and b\n(D) None of them\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "How is the parvovirus family targeted to reduce disease?",
+    "choices": [
+      "Transfusion blood is screened",
+      "Vaccine has been developed",
+      "A range of new antivirals",
+      "Social distancing"
+    ],
+    "answer": "A",
+    "input": "Question: How is the parvovirus family targeted to reduce disease?\nOptions:\n(A) Transfusion blood is screened\n(B) Vaccine has been developed\n(C) A range of new antivirals\n(D) Social distancing\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Who discovered the first virus?",
+    "choices": [
+      "The microscopist Antonie van Leeuwenhoek",
+      "The bacteriologist Charles Chamberland",
+      "The botanist Dmitri Iwanowsky",
+      "The virologist Jonas Salk"
+    ],
+    "answer": "C",
+    "input": "Question: Who discovered the first virus?\nOptions:\n(A) The microscopist Antonie van Leeuwenhoek\n(B) The bacteriologist Charles Chamberland\n(C) The botanist Dmitri Iwanowsky\n(D) The virologist Jonas Salk\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Structural interventions typically target:",
+    "choices": [
+      "Policies",
+      "The environment",
+      "Availability",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Structural interventions typically target:\nOptions:\n(A) Policies\n(B) The environment\n(C) Availability\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the main clinical picture of hepatitis A?",
+    "choices": [
+      "Rash",
+      "Limb paralysis",
+      "Jaundice and abdominal discomfort",
+      "Upper respiratory tract infection"
+    ],
+    "answer": "C",
+    "input": "Question: What is the main clinical picture of hepatitis A?\nOptions:\n(A) Rash\n(B) Limb paralysis\n(C) Jaundice and abdominal discomfort\n(D) Upper respiratory tract infection\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "If the human norovirus cannot be cultured in cell cultures how can it best be studied?",
+    "choices": [
+      "Animal models",
+      "Volunteer studies",
+      "In cells using replicon systems",
+      "Deductions from the 3 human ORF's of the virus genome"
+    ],
+    "answer": "B",
+    "input": "Question: If the human norovirus cannot be cultured in cell cultures how can it best be studied?\nOptions:\n(A) Animal models\n(B) Volunteer studies\n(C) In cells using replicon systems\n(D) Deductions from the 3 human ORF's of the virus genome\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure’s effect on the risk of disease is called:",
+    "choices": [
+      "Confounding",
+      "Bias",
+      "Interaction",
+      "Stratification"
+    ],
+    "answer": "C",
+    "input": "Question: Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure’s effect on the risk of disease is called:\nOptions:\n(A) Confounding\n(B) Bias\n(C) Interaction\n(D) Stratification\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Describe the coronavirus structure.",
+    "choices": [
+      "Club shaped glycoprotein spikes protrude through a lipid bilayer",
+      "An icosahedral structure with an envelope",
+      "An icosahedral large pleomorphic virus",
+      "Large regimented barrel shaped virus"
+    ],
+    "answer": "C",
+    "input": "Question: Describe the coronavirus structure.\nOptions:\n(A) Club shaped glycoprotein spikes protrude through a lipid bilayer\n(B) An icosahedral structure with an envelope\n(C) An icosahedral large pleomorphic virus\n(D) Large regimented barrel shaped virus\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "SARS is described as a zoonotic virus - what does this mean?",
+    "choices": [
+      "Such viruses are confined to animals",
+      "They do not cause disease in humans",
+      "They emerge from animals to cross the species barrier infrequently",
+      "They cause pandemics"
+    ],
+    "answer": "A",
+    "input": "Question: SARS is described as a zoonotic virus - what does this mean?\nOptions:\n(A) Such viruses are confined to animals\n(B) They do not cause disease in humans\n(C) They emerge from animals to cross the species barrier infrequently\n(D) They cause pandemics\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following coronaviruses has caused thousands of deaths around the world as an 'emergent' virus?",
+    "choices": [
+      "MERS",
+      "SARS",
+      "OC43",
+      "HKU1"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following coronaviruses has caused thousands of deaths around the world as an 'emergent' virus?\nOptions:\n(A) MERS\n(B) SARS\n(C) OC43\n(D) HKU1\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Clinical infection by an arenavirus is characterised by which one of the following?",
+    "choices": [
+      "Pantropic infection",
+      "Signs of malaria",
+      "Short (2-3 days) incubation",
+      "Hepatitis"
+    ],
+    "answer": "A",
+    "input": "Question: Clinical infection by an arenavirus is characterised by which one of the following?\nOptions:\n(A) Pantropic infection\n(B) Signs of malaria\n(C) Short (2-3 days) incubation\n(D) Hepatitis\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "How does rubella cause foetal abnormalities?",
+    "choices": [
+      "By crossing the placenta early in pregnancy and infecting the foetus",
+      "By only infecting the placenta",
+      "By inducing cytokines and chemokines in the mother",
+      "By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus"
+    ],
+    "answer": "A",
+    "input": "Question: How does rubella cause foetal abnormalities?\nOptions:\n(A) By crossing the placenta early in pregnancy and infecting the foetus\n(B) By only infecting the placenta\n(C) By inducing cytokines and chemokines in the mother\n(D) By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is an unusual feature of the replication cycle in coronaviruses?",
+    "choices": [
+      "The RNAs all terminate in a common 3´ and produce nested set transcripts",
+      "They take advantage of recombination with the long RNA genome",
+      "They are not highly mutable",
+      "They use capped cellular mRNA's"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is an unusual feature of the replication cycle in coronaviruses?\nOptions:\n(A) The RNAs all terminate in a common 3´ and produce nested set transcripts\n(B) They take advantage of recombination with the long RNA genome\n(C) They are not highly mutable\n(D) They use capped cellular mRNA's\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which replication strategy is paralleled by some other viruses?",
+    "choices": [
+      "Cytoplasmic replication and 'snatched caps' are used as primers for RNA transcription",
+      "Replicates in cytoplasmic tubules",
+      "Extracellular replication",
+      "Replicates in the nucleus"
+    ],
+    "answer": "C",
+    "input": "Question: Which replication strategy is paralleled by some other viruses?\nOptions:\n(A) Cytoplasmic replication and 'snatched caps' are used as primers for RNA transcription\n(B) Replicates in cytoplasmic tubules\n(C) Extracellular replication\n(D) Replicates in the nucleus\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "The characteristic of a generalized epidemic is:",
+    "choices": [
+      "High rates in drug users",
+      "High rates in MSM",
+      "High rates in pregnant women",
+      "High rate in STD clinic attendees"
+    ],
+    "answer": "C",
+    "input": "Question: The characteristic of a generalized epidemic is:\nOptions:\n(A) High rates in drug users\n(B) High rates in MSM\n(C) High rates in pregnant women\n(D) High rate in STD clinic attendees\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "An updated version of classification shows the parvovirus family as having how many genera?",
+    "choices": [
+      "Having 5 genera",
+      "A very large number of virus types",
+      "Only a single virus",
+      "Only three viruses"
+    ],
+    "answer": "B",
+    "input": "Question: An updated version of classification shows the parvovirus family as having how many genera?\nOptions:\n(A) Having 5 genera\n(B) A very large number of virus types\n(C) Only a single virus\n(D) Only three viruses\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The largest Latino community in the U.S. is:",
+    "choices": [
+      "Puerto Rican",
+      "Mexican",
+      "Cuban",
+      "Brazilian"
+    ],
+    "answer": "B",
+    "input": "Question: The largest Latino community in the U.S. is:\nOptions:\n(A) Puerto Rican\n(B) Mexican\n(C) Cuban\n(D) Brazilian\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "How can epidemics of astrovirus mainly be controlled?",
+    "choices": [
+      "By vaccination",
+      "Using passive antibody",
+      "Basic knowledge of hand washing and food hygiene",
+      "Quarantine"
+    ],
+    "answer": "C",
+    "input": "Question: How can epidemics of astrovirus mainly be controlled?\nOptions:\n(A) By vaccination\n(B) Using passive antibody\n(C) Basic knowledge of hand washing and food hygiene\n(D) Quarantine\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "500 women aged 40 – 54 who present for routine check-ups are asked about their meat consumption the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?",
+    "choices": [
+      "Case series report",
+      "Cohort study",
+      "Case-control study",
+      "Cross-sectional study"
+    ],
+    "answer": "A",
+    "input": "Question: 500 women aged 40 – 54 who present for routine check-ups are asked about their meat consumption the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?\nOptions:\n(A) Case series report\n(B) Cohort study\n(C) Case-control study\n(D) Cross-sectional study\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "In the absence of treatment the risk of HIV transmission from an infected mother to her fetus/infant was highest in which of the following areas?",
+    "choices": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Japan"
+    ],
+    "answer": "A",
+    "input": "Question: In the absence of treatment the risk of HIV transmission from an infected mother to her fetus/infant was highest in which of the following areas?\nOptions:\n(A) Africa\n(B) North America\n(C) Europe\n(D) Japan\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Poliovirus can most easily become more virulent by which of the following processes?",
+    "choices": [
+      "Mutation of the RNA genome at only a few positions",
+      "Recombining with another enterovirus",
+      "Altering its protein coat",
+      "Multiple nucleotide deletions and substitutions"
+    ],
+    "answer": "A",
+    "input": "Question: Poliovirus can most easily become more virulent by which of the following processes?\nOptions:\n(A) Mutation of the RNA genome at only a few positions\n(B) Recombining with another enterovirus\n(C) Altering its protein coat\n(D) Multiple nucleotide deletions and substitutions\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A virus such as influenza which emerges suddenly and spreads globally is called:",
+    "choices": [
+      "Epidemic",
+      "Endemic",
+      "Pandemic",
+      "Zoonotic"
+    ],
+    "answer": "B",
+    "input": "Question: A virus such as influenza which emerges suddenly and spreads globally is called:\nOptions:\n(A) Epidemic\n(B) Endemic\n(C) Pandemic\n(D) Zoonotic\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Of the following factors, which are the most important factors for virus spread and infection?",
+    "choices": [
+      "Age",
+      "Sex",
+      "Genetic factors",
+      "Travel"
+    ],
+    "answer": "D",
+    "input": "Question: Of the following factors, which are the most important factors for virus spread and infection?\nOptions:\n(A) Age\n(B) Sex\n(C) Genetic factors\n(D) Travel\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "How do viruses of the calcivirus family replicate?",
+    "choices": [
+      "As negative strand RNA viruses",
+      "As positive strand RNA viruses",
+      "Retroviruses",
+      "Using genetic reassortment"
+    ],
+    "answer": "B",
+    "input": "Question: How do viruses of the calcivirus family replicate?\nOptions:\n(A) As negative strand RNA viruses\n(B) As positive strand RNA viruses\n(C) Retroviruses\n(D) Using genetic reassortment\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The parvoviruses have a rather unique genome; what form does it take?",
+    "choices": [
+      "Circular ds DNA",
+      "Small linear ss DNA",
+      "ds DNA genome",
+      "RNA genome with RT"
+    ],
+    "answer": "D",
+    "input": "Question: The parvoviruses have a rather unique genome; what form does it take?\nOptions:\n(A) Circular ds DNA\n(B) Small linear ss DNA\n(C) ds DNA genome\n(D) RNA genome with RT\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "How can the morphology of filoviruses be described?",
+    "choices": [
+      "Very large ball like structure",
+      "Long filamentous threads",
+      "Icosahedral virion",
+      "Floppy membranes without defined morphology"
+    ],
+    "answer": "C",
+    "input": "Question: How can the morphology of filoviruses be described?\nOptions:\n(A) Very large ball like structure\n(B) Long filamentous threads\n(C) Icosahedral virion\n(D) Floppy membranes without defined morphology\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the usual direction of 'knowledge' in a cell?",
+    "choices": [
+      "From protein to DNA",
+      "From DNA to DNA",
+      "From DNA to RNA to protein",
+      "Random"
+    ],
+    "answer": "C",
+    "input": "Question: What is the usual direction of 'knowledge' in a cell?\nOptions:\n(A) From protein to DNA\n(B) From DNA to DNA\n(C) From DNA to RNA to protein\n(D) Random\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Why are drug combinations essential for HIV?",
+    "choices": [
+      "Single drugs are not completely inhibitory",
+      "Mutations negate the effect of one drug",
+      "Combinations of antibiotics are effective versus TB",
+      "The virus cannot mutate vs a combination"
+    ],
+    "answer": "C",
+    "input": "Question: Why are drug combinations essential for HIV?\nOptions:\n(A) Single drugs are not completely inhibitory\n(B) Mutations negate the effect of one drug\n(C) Combinations of antibiotics are effective versus TB\n(D) The virus cannot mutate vs a combination\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Many virus infections result in immune pathology, this is caused predominantly by which of the following?",
+    "choices": [
+      "A cytokine storm",
+      "Antibody mediated reactions",
+      "A response of killer T cells (CD-8)",
+      "A decline in function of the immune system"
+    ],
+    "answer": "A",
+    "input": "Question: Many virus infections result in immune pathology, this is caused predominantly by which of the following?\nOptions:\n(A) A cytokine storm\n(B) Antibody mediated reactions\n(C) A response of killer T cells (CD-8)\n(D) A decline in function of the immune system\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "David Baltimore is a molecular biologist. What did he discover?",
+    "choices": [
+      "The structure of DNA",
+      "X-ray crystallographic techniques",
+      "The enzyme reverse transcriptase",
+      "The anti HIV drug zidovudine"
+    ],
+    "answer": "C",
+    "input": "Question: David Baltimore is a molecular biologist. What did he discover?\nOptions:\n(A) The structure of DNA\n(B) X-ray crystallographic techniques\n(C) The enzyme reverse transcriptase\n(D) The anti HIV drug zidovudine\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Identify the most commonly used diagnostic technique in the virus laboratory:",
+    "choices": [
+      "Virus isolation in cell culture",
+      "Deep sequencing (NGS)",
+      "Reverse transcriptase (RT) PCR",
+      "Immuno-serology"
+    ],
+    "answer": "B",
+    "input": "Question: Identify the most commonly used diagnostic technique in the virus laboratory:\nOptions:\n(A) Virus isolation in cell culture\n(B) Deep sequencing (NGS)\n(C) Reverse transcriptase (RT) PCR\n(D) Immuno-serology\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The major risk group for HIV infection among Latinos is:",
+    "choices": [
+      "Heterosexual males",
+      "Homosexual males",
+      "Females",
+      "Injection drug users"
+    ],
+    "answer": "B",
+    "input": "Question: The major risk group for HIV infection among Latinos is:\nOptions:\n(A) Heterosexual males\n(B) Homosexual males\n(C) Females\n(D) Injection drug users\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin:",
+    "choices": [
+      "Before antiretroviral drugs are started",
+      "After antiretroviral drugs are started",
+      "Concurrently with antiretroviral drugs",
+      "Doesn’t make any difference"
+    ],
+    "answer": "C",
+    "input": "Question: In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin:\nOptions:\n(A) Before antiretroviral drugs are started\n(B) After antiretroviral drugs are started\n(C) Concurrently with antiretroviral drugs\n(D) Doesn’t make any difference\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "A “benefit” of research may accrue:",
+    "choices": [
+      "To the participant",
+      "To his/her family",
+      "To society",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: A “benefit” of research may accrue:\nOptions:\n(A) To the participant\n(B) To his/her family\n(C) To society\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the current best option for preventing future outbreaks of Ebola?",
+    "choices": [
+      "Rebuild scientific, medical and nursing infrastructure and train staff",
+      "Early and accurate diagnosis with molecular kits",
+      "Develop effective vaccines",
+      "Arrange rapid intervention into West Africa with EU and USA army teams"
+    ],
+    "answer": "D",
+    "input": "Question: What is the current best option for preventing future outbreaks of Ebola?\nOptions:\n(A) Rebuild scientific, medical and nursing infrastructure and train staff\n(B) Early and accurate diagnosis with molecular kits\n(C) Develop effective vaccines\n(D) Arrange rapid intervention into West Africa with EU and USA army teams\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Where are arenaviruses predominately located in the world?",
+    "choices": [
+      "SE Asia",
+      "Russia",
+      "Africa and S. America",
+      "N. America"
+    ],
+    "answer": "A",
+    "input": "Question: Where are arenaviruses predominately located in the world?\nOptions:\n(A) SE Asia\n(B) Russia\n(C) Africa and S. America\n(D) N. America\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The most important element of ethical research on human subjects is:",
+    "choices": [
+      "Beneficence",
+      "Justice",
+      "A methodologically sound study design",
+      "Informed consent"
+    ],
+    "answer": "D",
+    "input": "Question: The most important element of ethical research on human subjects is:\nOptions:\n(A) Beneficence\n(B) Justice\n(C) A methodologically sound study design\n(D) Informed consent\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The characteristic of injecting drug users in Asia is/are:",
+    "choices": [
+      "Strong family support",
+      "Low failure rate for rehabilitation centers",
+      "Remaining a member of the community",
+      "Both a and c"
+    ],
+    "answer": "D",
+    "input": "Question: The characteristic of injecting drug users in Asia is/are:\nOptions:\n(A) Strong family support\n(B) Low failure rate for rehabilitation centers\n(C) Remaining a member of the community\n(D) Both a and c\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Viruses have encouraged us to change our world, as we have now:",
+    "choices": [
+      "Eradicated smallpox",
+      "Eradicated polio",
+      "Increased hygiene",
+      "A better understanding of how cellular genes aid virus replication and so become a target for new drugs"
+    ],
+    "answer": "A",
+    "input": "Question: Viruses have encouraged us to change our world, as we have now:\nOptions:\n(A) Eradicated smallpox\n(B) Eradicated polio\n(C) Increased hygiene\n(D) A better understanding of how cellular genes aid virus replication and so become a target for new drugs\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the most important factor for virus classification?",
+    "choices": [
+      "The geometry of the virus",
+      "How many proteins the virus has",
+      "The disease a virus causes",
+      "Chemistry of the DNA and RNA"
+    ],
+    "answer": "D",
+    "input": "Question: What is the most important factor for virus classification?\nOptions:\n(A) The geometry of the virus\n(B) How many proteins the virus has\n(C) The disease a virus causes\n(D) Chemistry of the DNA and RNA\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The major issue for HIV infection among the Latino population is:",
+    "choices": [
+      "Late detection of HIV status",
+      "Cultural beliefs",
+      "Immigration",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: The major issue for HIV infection among the Latino population is:\nOptions:\n(A) Late detection of HIV status\n(B) Cultural beliefs\n(C) Immigration\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Disease can most often be prevented by which of the following:",
+    "choices": [
+      "Vaccines",
+      "Antivirals",
+      "Hygiene",
+      "mosquito nets"
+    ],
+    "answer": "A",
+    "input": "Question: Disease can most often be prevented by which of the following:\nOptions:\n(A) Vaccines\n(B) Antivirals\n(C) Hygiene\n(D) mosquito nets\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Results of surveillance should be distributed to:",
+    "choices": [
+      "Decision makers",
+      "The public",
+      "The data collectors",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Results of surveillance should be distributed to:\nOptions:\n(A) Decision makers\n(B) The public\n(C) The data collectors\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which is a major characteristic of the bunyavirus family?",
+    "choices": [
+      "Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks",
+      "Predominantly mosquito borne",
+      "Genetic recombination or reassortment",
+      "Spread to humans via bites of mice and rats"
+    ],
+    "answer": "A",
+    "input": "Question: Which is a major characteristic of the bunyavirus family?\nOptions:\n(A) Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks\n(B) Predominantly mosquito borne\n(C) Genetic recombination or reassortment\n(D) Spread to humans via bites of mice and rats\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The group that permits analysis of the entire natural history of HIV/AIDS is:",
+    "choices": [
+      "Persistent seronegatives",
+      "Long-term survivors",
+      "Seroconverters",
+      "Long-term survivors with low levels of CD4+ cells"
+    ],
+    "answer": "C",
+    "input": "Question: The group that permits analysis of the entire natural history of HIV/AIDS is:\nOptions:\n(A) Persistent seronegatives\n(B) Long-term survivors\n(C) Seroconverters\n(D) Long-term survivors with low levels of CD4+ cells\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because:",
+    "choices": [
+      "All donors for factor VIII are screened",
+      "Factor VIII is subject to detergent “washing” prior to release",
+      "Factor VIII is made synthetically",
+      "Factor VIII is important from countries with no reported HIV"
+    ],
+    "answer": "C",
+    "input": "Question: The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because:\nOptions:\n(A) All donors for factor VIII are screened\n(B) Factor VIII is subject to detergent “washing” prior to release\n(C) Factor VIII is made synthetically\n(D) Factor VIII is important from countries with no reported HIV\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
+    "choices": [
+      "Highest",
+      "Higher than all other ethnic groups except African-Americans",
+      "Higher than in all other ethnic groups except African-Americans and",
+      "Native Americans"
+    ],
+    "answer": "B",
+    "input": "Question: The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:\nOptions:\n(A) Highest\n(B) Higher than all other ethnic groups except African-Americans\n(C) Higher than in all other ethnic groups except African-Americans and\n(D) Native Americans\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the rubella syndrome?",
+    "choices": [
+      "A description of the 3 day rash of German measles",
+      "The teratogenic lesions of cataracts, deafness, mental retardation and microcephaly in the foetus",
+      "Combination of rash and post infection encephalitis",
+      "Side effects of the MMR vaccine"
+    ],
+    "answer": "B",
+    "input": "Question: What is the rubella syndrome?\nOptions:\n(A) A description of the 3 day rash of German measles\n(B) The teratogenic lesions of cataracts, deafness, mental retardation and microcephaly in the foetus\n(C) Combination of rash and post infection encephalitis\n(D) Side effects of the MMR vaccine\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the most common way for a virus to kill a cell?",
+    "choices": [
+      "Dissolves the cellular membrane",
+      "Induces apoptosis via caspases",
+      "Fragments cellular DNA",
+      "Totally blocks cellular transcription"
+    ],
+    "answer": "B",
+    "input": "Question: What is the most common way for a virus to kill a cell?\nOptions:\n(A) Dissolves the cellular membrane\n(B) Induces apoptosis via caspases\n(C) Fragments cellular DNA\n(D) Totally blocks cellular transcription\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The influenza virus has complicated genetics mainly characterised by which of the following?",
+    "choices": [
+      "Genetic reassortment amongst 8 genes",
+      "High levels of recombination",
+      "Rapid adsorption and fusion from without via a hydrophobic peptide",
+      "High fidelity RNA replicase enzyme"
+    ],
+    "answer": "B",
+    "input": "Question: The influenza virus has complicated genetics mainly characterised by which of the following?\nOptions:\n(A) Genetic reassortment amongst 8 genes\n(B) High levels of recombination\n(C) Rapid adsorption and fusion from without via a hydrophobic peptide\n(D) High fidelity RNA replicase enzyme\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The highest risk of HIV infection among drug users in the U.S. is in:",
+    "choices": [
+      "The east coast",
+      "The central United States (Kansas, Missouri etc.)",
+      "Southern California",
+      "The Pacific Northwest (Washington, Oregon, Idaho)"
+    ],
+    "answer": "A",
+    "input": "Question: The highest risk of HIV infection among drug users in the U.S. is in:\nOptions:\n(A) The east coast\n(B) The central United States (Kansas, Missouri etc.)\n(C) Southern California\n(D) The Pacific Northwest (Washington, Oregon, Idaho)\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?",
+    "choices": [
+      "Confounding",
+      "Nonresponse bias",
+      "Recall bias",
+      "Referral bias"
+    ],
+    "answer": "A",
+    "input": "Question: A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?\nOptions:\n(A) Confounding\n(B) Nonresponse bias\n(C) Recall bias\n(D) Referral bias\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is urban yellow fever (YF)?",
+    "choices": [
+      "Part of a cycle of mosquitoes biting humans in cities",
+      "Part of a cycle of mosquitoes biting humans and monkeys in forested areas",
+      "A mutant of the YF virus",
+      "A YF species that has adapted to new mosquitoes"
+    ],
+    "answer": "A",
+    "input": "Question: What is urban yellow fever (YF)?\nOptions:\n(A) Part of a cycle of mosquitoes biting humans in cities\n(B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas\n(C) A mutant of the YF virus\n(D) A YF species that has adapted to new mosquitoes\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The current testing policy of the Centers for Disease Control and the World Health Organization is:",
+    "choices": [
+      "“Opt-in”",
+      "“Opt-out”",
+      "Mandatory testing of prisoners",
+      "Mandatory testing of high-risk groups"
+    ],
+    "answer": "B",
+    "input": "Question: The current testing policy of the Centers for Disease Control and the World Health Organization is:\nOptions:\n(A) “Opt-in”\n(B) “Opt-out”\n(C) Mandatory testing of prisoners\n(D) Mandatory testing of high-risk groups\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Common cold viruses are ubiquitous and invade by which route?",
+    "choices": [
+      "Faecal oral route",
+      "Respiratory and surface route",
+      "Cuts in the skin",
+      "Sexual transmission"
+    ],
+    "answer": "B",
+    "input": "Question: Common cold viruses are ubiquitous and invade by which route?\nOptions:\n(A) Faecal oral route\n(B) Respiratory and surface route\n(C) Cuts in the skin\n(D) Sexual transmission\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?",
+    "choices": [
+      "Use of cellular scaffolding in the nucleus and cytoplasm",
+      "Snatching cellular lipids and membranes",
+      "Master plan embedded in the viral genome",
+      "Random interactions between cellular and virus proteins"
+    ],
+    "answer": "A",
+    "input": "Question: Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?\nOptions:\n(A) Use of cellular scaffolding in the nucleus and cytoplasm\n(B) Snatching cellular lipids and membranes\n(C) Master plan embedded in the viral genome\n(D) Random interactions between cellular and virus proteins\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The biggest single determinant of HIV transmission to the infant is:",
+    "choices": [
+      "Mother’age",
+      "Mother’s viral load",
+      "Mother’s immune status",
+      "Father’s viral load"
+    ],
+    "answer": "B",
+    "input": "Question: The biggest single determinant of HIV transmission to the infant is:\nOptions:\n(A) Mother’age\n(B) Mother’s viral load\n(C) Mother’s immune status\n(D) Father’s viral load\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What does the reproductive number of a virus tell us?",
+    "choices": [
+      "How virulent the infection will be",
+      "How many people will die",
+      "How many contacts will be infected from one case",
+      "How long the 'incubation period' will be"
+    ],
+    "answer": "C",
+    "input": "Question: What does the reproductive number of a virus tell us?\nOptions:\n(A) How virulent the infection will be\n(B) How many people will die\n(C) How many contacts will be infected from one case\n(D) How long the 'incubation period' will be\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "PreP is most effective for which group:",
+    "choices": [
+      "Men with frequent unprotected sex",
+      "Men with infrequent unprotected sex",
+      "Women with frequent unprotected sex",
+      "Women with infrequent unprotected sex"
+    ],
+    "answer": "A",
+    "input": "Question: PreP is most effective for which group:\nOptions:\n(A) Men with frequent unprotected sex\n(B) Men with infrequent unprotected sex\n(C) Women with frequent unprotected sex\n(D) Women with infrequent unprotected sex\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A special feature of adaptive immunity is:",
+    "choices": [
+      "Speed of response to a foreign protein",
+      "Ability to distinguish self and non self",
+      "Ability to distinguish viruses and bacteria",
+      "Short memory"
+    ],
+    "answer": "B",
+    "input": "Question: A special feature of adaptive immunity is:\nOptions:\n(A) Speed of response to a foreign protein\n(B) Ability to distinguish self and non self\n(C) Ability to distinguish viruses and bacteria\n(D) Short memory\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "As regards the range of diseases caused by viruses:",
+    "choices": [
+      "Each member of the 'family' causes the same disease.",
+      "Members of many families can cause the same sort of disease.",
+      "Most virus disease are now controlled by vaccines.",
+      "Most viruses can cross placenta and be teratogenic."
+    ],
+    "answer": "B",
+    "input": "Question: As regards the range of diseases caused by viruses:\nOptions:\n(A) Each member of the 'family' causes the same disease.\n(B) Members of many families can cause the same sort of disease.\n(C) Most virus disease are now controlled by vaccines.\n(D) Most viruses can cross placenta and be teratogenic.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which is the exception in the following range of disease symptoms caused by bunyaviruses?",
+    "choices": [
+      "Pneumonias",
+      "Haemorrhagic fever",
+      "Hepatitis",
+      "Impaired renal function"
+    ],
+    "answer": "D",
+    "input": "Question: Which is the exception in the following range of disease symptoms caused by bunyaviruses?\nOptions:\n(A) Pneumonias\n(B) Haemorrhagic fever\n(C) Hepatitis\n(D) Impaired renal function\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "There is no vaccine against HIV because of which of the following?",
+    "choices": [
+      "The virus is so antigenically variable",
+      "Such a vaccine would be too expensive",
+      "The virus can be controlled by a change in sexual habits",
+      "Latency can abrogate any vaccine effect"
+    ],
+    "answer": "B",
+    "input": "Question: There is no vaccine against HIV because of which of the following?\nOptions:\n(A) The virus is so antigenically variable\n(B) Such a vaccine would be too expensive\n(C) The virus can be controlled by a change in sexual habits\n(D) Latency can abrogate any vaccine effect\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The requirements for an effective surveillance system include:",
+    "choices": [
+      "A diagnostic algorithm",
+      "Staff members",
+      "A sampling frame",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: The requirements for an effective surveillance system include:\nOptions:\n(A) A diagnostic algorithm\n(B) Staff members\n(C) A sampling frame\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "MERS has four special characteristics and here we have one exception - which is it?",
+    "choices": [
+      "Spread by faecal oral route",
+      "Aerosol droplet transmission",
+      "Reservoir in bats",
+      "A conduit to humans via camels"
+    ],
+    "answer": "C",
+    "input": "Question: MERS has four special characteristics and here we have one exception - which is it?\nOptions:\n(A) Spread by faecal oral route\n(B) Aerosol droplet transmission\n(C) Reservoir in bats\n(D) A conduit to humans via camels\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "The major beneficiary of Medicaid in the U.S. is:",
+    "choices": [
+      "Single men",
+      "The elderly",
+      "Women and children",
+      "Undocumented residents"
+    ],
+    "answer": "C",
+    "input": "Question: The major beneficiary of Medicaid in the U.S. is:\nOptions:\n(A) Single men\n(B) The elderly\n(C) Women and children\n(D) Undocumented residents\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is the most important for controlling disease caused by norovirus?",
+    "choices": [
+      "A norovirus vaccine",
+      "Attention to handwashing and hygiene",
+      "Quarantine",
+      "New antiviral drugs"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is the most important for controlling disease caused by norovirus?\nOptions:\n(A) A norovirus vaccine\n(B) Attention to handwashing and hygiene\n(C) Quarantine\n(D) New antiviral drugs\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus?",
+    "choices": [
+      "CTL exhaustion",
+      "Epitope escape",
+      "Suboptimal CTL",
+      "Absence of dendritic cells"
+    ],
+    "answer": "B",
+    "input": "Question: Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus?\nOptions:\n(A) CTL exhaustion\n(B) Epitope escape\n(C) Suboptimal CTL\n(D) Absence of dendritic cells\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The most widespread and important retrovirus is HIV-1; which of the following is true?",
+    "choices": [
+      "Infecting only gay people",
+      "Infecting only males",
+      "Infecting every country in the world",
+      "Infecting only females"
+    ],
+    "answer": "A",
+    "input": "Question: The most widespread and important retrovirus is HIV-1; which of the following is true?\nOptions:\n(A) Infecting only gay people\n(B) Infecting only males\n(C) Infecting every country in the world\n(D) Infecting only females\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The first acquired immune cell to respond defensively to HIV infection is:",
+    "choices": [
+      "CD4+",
+      "CD8+",
+      "CD57",
+      "NK cells"
+    ],
+    "answer": "B",
+    "input": "Question: The first acquired immune cell to respond defensively to HIV infection is:\nOptions:\n(A) CD4+\n(B) CD8+\n(C) CD57\n(D) NK cells\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is a special feature of the rabies vaccine?",
+    "choices": [
+      "The vaccine has not changed since the time of L. Pasteur",
+      "The original air dried spinal cord of infected rabbits was a killed vaccine",
+      "The vaccine still needs 16 doses given into the peritoneal cavity",
+      "The modern rabies vaccine is grown in human diploid cells from an aborted embryo"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a special feature of the rabies vaccine?\nOptions:\n(A) The vaccine has not changed since the time of L. Pasteur\n(B) The original air dried spinal cord of infected rabbits was a killed vaccine\n(C) The vaccine still needs 16 doses given into the peritoneal cavity\n(D) The modern rabies vaccine is grown in human diploid cells from an aborted embryo\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Most viral vaccines are produced by which of the following techniques?",
+    "choices": [
+      "Traditional cell culture",
+      "Molecular biology",
+      "Animal tissues in vitro",
+      "VLPs (virus like particles)"
+    ],
+    "answer": "B",
+    "input": "Question: Most viral vaccines are produced by which of the following techniques?\nOptions:\n(A) Traditional cell culture\n(B) Molecular biology\n(C) Animal tissues in vitro\n(D) VLPs (virus like particles)\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The treatment of hepatitis C has been revolutionised most recently by which of the following?",
+    "choices": [
+      "The use of interferon",
+      "A new vaccine",
+      "Monoclonal antibodies",
+      "Direct-acting Antivirals such as daclatasvir and sofosbuvir"
+    ],
+    "answer": "A",
+    "input": "Question: The treatment of hepatitis C has been revolutionised most recently by which of the following?\nOptions:\n(A) The use of interferon\n(B) A new vaccine\n(C) Monoclonal antibodies\n(D) Direct-acting Antivirals such as daclatasvir and sofosbuvir\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Chikungunya has spread widely from Asia and Africa into the Caribbean in recent years. This has been mainly facilitated by:",
+    "choices": [
+      "Mutation in the virus allowing replication in the mosquito Aedes albopictus",
+      "Air Travel",
+      "Climate change",
+      "Poor mosquito control and the absence of DTT"
+    ],
+    "answer": "A",
+    "input": "Question: Chikungunya has spread widely from Asia and Africa into the Caribbean in recent years. This has been mainly facilitated by:\nOptions:\n(A) Mutation in the virus allowing replication in the mosquito Aedes albopictus\n(B) Air Travel\n(C) Climate change\n(D) Poor mosquito control and the absence of DTT\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The successful anti-cancer HPV vaccine consists of:",
+    "choices": [
+      "Live virus attenuated by specific mutagenesis",
+      "Whole virus chemically inactivated vaccine",
+      "Self-assemble of virus L1 protein into VLP",
+      "Sub unit chemically inactivated vaccine"
+    ],
+    "answer": "A",
+    "input": "Question: The successful anti-cancer HPV vaccine consists of:\nOptions:\n(A) Live virus attenuated by specific mutagenesis\n(B) Whole virus chemically inactivated vaccine\n(C) Self-assemble of virus L1 protein into VLP\n(D) Sub unit chemically inactivated vaccine\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The rotavirus is an important cause of which of the following?",
+    "choices": [
+      "Respiratory infection in adults",
+      "Gastroenteritis in children",
+      "Diarrhoea and vomiting in adults",
+      "Cancer"
+    ],
+    "answer": "B",
+    "input": "Question: The rotavirus is an important cause of which of the following?\nOptions:\n(A) Respiratory infection in adults\n(B) Gastroenteritis in children\n(C) Diarrhoea and vomiting in adults\n(D) Cancer\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The surveillance testing strategy associated with the least selection bias is:",
+    "choices": [
+      "Compulsory",
+      "Unlinked anonymous",
+      "Voluntary anonymous",
+      "Voluntary confidential"
+    ],
+    "answer": "A",
+    "input": "Question: The surveillance testing strategy associated with the least selection bias is:\nOptions:\n(A) Compulsory\n(B) Unlinked anonymous\n(C) Voluntary anonymous\n(D) Voluntary confidential\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores?",
+    "choices": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Standard deviation"
+    ],
+    "answer": "A",
+    "input": "Question: In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores?\nOptions:\n(A) Mean\n(B) Median\n(C) Mode\n(D) Standard deviation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What disease do herpes viruses not cause?",
+    "choices": [
+      "Infantile paralysis",
+      "Encephalitis",
+      "Sexually transmitted disease",
+      "Cancer"
+    ],
+    "answer": "A",
+    "input": "Question: What disease do herpes viruses not cause?\nOptions:\n(A) Infantile paralysis\n(B) Encephalitis\n(C) Sexually transmitted disease\n(D) Cancer\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The purpose of a double-blind or double-masked study is to:",
+    "choices": [
+      "Achieve comparability of treated and untreated subjects",
+      "Reduce the effects of sampling variation",
+      "Avoid observer and subject bias",
+      "Avoid observer bias and sampling variation"
+    ],
+    "answer": "B",
+    "input": "Question: The purpose of a double-blind or double-masked study is to:\nOptions:\n(A) Achieve comparability of treated and untreated subjects\n(B) Reduce the effects of sampling variation\n(C) Avoid observer and subject bias\n(D) Avoid observer bias and sampling variation\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Nipah is a zoonotic paramyxovirus; where did it originate?",
+    "choices": [
+      "Originating in pigs",
+      "Originating in bats",
+      "Coming from humans",
+      "Coming from horses"
+    ],
+    "answer": "C",
+    "input": "Question: Nipah is a zoonotic paramyxovirus; where did it originate?\nOptions:\n(A) Originating in pigs\n(B) Originating in bats\n(C) Coming from humans\n(D) Coming from horses\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the genome structure of the polyomavirus family?",
+    "choices": [
+      "Circular ds DNA with T antigen coding regions",
+      "Circular ssDNA",
+      "RNA genome with RT",
+      "Segmented RNA genome"
+    ],
+    "answer": "C",
+    "input": "Question: What is the genome structure of the polyomavirus family?\nOptions:\n(A) Circular ds DNA with T antigen coding regions\n(B) Circular ssDNA\n(C) RNA genome with RT\n(D) Segmented RNA genome\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Interferons are very special defence mechanisms which operate by:",
+    "choices": [
+      "Binding to viruses",
+      "Binding to neighbouring cells",
+      "Producing a long lasting state of resistance",
+      "Inhibiting virus induced enzymes"
+    ],
+    "answer": "B",
+    "input": "Question: Interferons are very special defence mechanisms which operate by:\nOptions:\n(A) Binding to viruses\n(B) Binding to neighbouring cells\n(C) Producing a long lasting state of resistance\n(D) Inhibiting virus induced enzymes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Genetic characteristics of the bunyavirus family include which one of the following?",
+    "choices": [
+      "Three segmented negative stranded RNA viruses with anti-sense expression",
+      "Highly mutable RNA viruses",
+      "Emerging viruses via arthropod vector",
+      "Use an RT enzyme"
+    ],
+    "answer": "A",
+    "input": "Question: Genetic characteristics of the bunyavirus family include which one of the following?\nOptions:\n(A) Three segmented negative stranded RNA viruses with anti-sense expression\n(B) Highly mutable RNA viruses\n(C) Emerging viruses via arthropod vector\n(D) Use an RT enzyme\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the:",
+    "choices": [
+      "Nuremberg Code",
+      "Declaration of Helsinki",
+      "CIOMS",
+      "Belmont Report"
+    ],
+    "answer": "D",
+    "input": "Question: The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the:\nOptions:\n(A) Nuremberg Code\n(B) Declaration of Helsinki\n(C) CIOMS\n(D) Belmont Report\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The paramyxovirus family employ what strategy at virus entry?",
+    "choices": [
+      "Initiate a fusion 'from without' using virus F protein",
+      "Has fusion from within a cytoplasmic vacuole at low pH",
+      "Viruses can puncture plasma membranes at entry",
+      "A fusion mediated by M protein"
+    ],
+    "answer": "D",
+    "input": "Question: The paramyxovirus family employ what strategy at virus entry?\nOptions:\n(A) Initiate a fusion 'from without' using virus F protein\n(B) Has fusion from within a cytoplasmic vacuole at low pH\n(C) Viruses can puncture plasma membranes at entry\n(D) A fusion mediated by M protein\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The risk of acquiring HIV from a unit of blood in the United States is now:",
+    "choices": [
+      "1/10,000 units",
+      "1/200,000 units",
+      "1/500,000 unit",
+      "1 per 2 million units"
+    ],
+    "answer": "D",
+    "input": "Question: The risk of acquiring HIV from a unit of blood in the United States is now:\nOptions:\n(A) 1/10,000 units\n(B) 1/200,000 units\n(C) 1/500,000 unit\n(D) 1 per 2 million units\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the essential pathology of astroviruses?",
+    "choices": [
+      "Very restricted replication in the gut",
+      "Can cause infection of the central nervous system",
+      "Sequence diversity allows widespread replication",
+      "Can cause infection in the upper respiratory tract"
+    ],
+    "answer": "A",
+    "input": "Question: What is the essential pathology of astroviruses?\nOptions:\n(A) Very restricted replication in the gut\n(B) Can cause infection of the central nervous system\n(C) Sequence diversity allows widespread replication\n(D) Can cause infection in the upper respiratory tract\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following are goals of vaccination?",
+    "choices": [
+      "Prevent infection",
+      "Prevent disease",
+      "Prevent transmission",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following are goals of vaccination?\nOptions:\n(A) Prevent infection\n(B) Prevent disease\n(C) Prevent transmission\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following?",
+    "choices": [
+      "Placebo effect",
+      "Recall bias",
+      "Non-compliance",
+      "Effect modification (interaction)"
+    ],
+    "answer": "A",
+    "input": "Question: Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following?\nOptions:\n(A) Placebo effect\n(B) Recall bias\n(C) Non-compliance\n(D) Effect modification (interaction)\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A quasi species virus such as influenza and HIV has which of the following characteristics?",
+    "choices": [
+      "A fragmented or segmented genome",
+      "Co-existence of innumerable genetic variants",
+      "Possesses RNA and DNA",
+      "A very large genome"
+    ],
+    "answer": "B",
+    "input": "Question: A quasi species virus such as influenza and HIV has which of the following characteristics?\nOptions:\n(A) A fragmented or segmented genome\n(B) Co-existence of innumerable genetic variants\n(C) Possesses RNA and DNA\n(D) A very large genome\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Positive stranded RNA viruses have which of the following characteristics?",
+    "choices": [
+      "Their genome RNA can be translated directly as mRNA",
+      "They have to transcribe their genome RNA to a mirror image copy as a mRNA",
+      "This genome is circular",
+      "Their RNA genome is segmented"
+    ],
+    "answer": "A",
+    "input": "Question: Positive stranded RNA viruses have which of the following characteristics?\nOptions:\n(A) Their genome RNA can be translated directly as mRNA\n(B) They have to transcribe their genome RNA to a mirror image copy as a mRNA\n(C) This genome is circular\n(D) Their RNA genome is segmented\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the genetic structure of rotavirus?",
+    "choices": [
+      "Circular DNA containing virus",
+      "RNA virus with RT",
+      "ds RNA virus",
+      "ds RNA virus in segments"
+    ],
+    "answer": "B",
+    "input": "Question: What is the genetic structure of rotavirus?\nOptions:\n(A) Circular DNA containing virus\n(B) RNA virus with RT\n(C) ds RNA virus\n(D) ds RNA virus in segments\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Are/were viruses:",
+    "choices": [
+      "The most abundant form of life on earth?",
+      "Discovered before bacteria?",
+      "Grown in animals in the laboratory?",
+      "The cause of all human disease?"
+    ],
+    "answer": "A",
+    "input": "Question: Are/were viruses:\nOptions:\n(A) The most abundant form of life on earth?\n(B) Discovered before bacteria?\n(C) Grown in animals in the laboratory?\n(D) The cause of all human disease?\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "It is unlikely that a 'cure' of HIV is possible with current drugs because:",
+    "choices": [
+      "Even in combination current drugs do not completely block viral replication",
+      "They do not penetrate to cells",
+      "They cannot block viral transcription from integrated viral DNA",
+      "They cannot penetrate to the CNS"
+    ],
+    "answer": "B",
+    "input": "Question: It is unlikely that a 'cure' of HIV is possible with current drugs because:\nOptions:\n(A) Even in combination current drugs do not completely block viral replication\n(B) They do not penetrate to cells\n(C) They cannot block viral transcription from integrated viral DNA\n(D) They cannot penetrate to the CNS\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which viruses appear to be hypermutable?",
+    "choices": [
+      "DNA viruses",
+      "'Emerging' viruses",
+      "Influenza and HIV",
+      "RNA viruses"
+    ],
+    "answer": "D",
+    "input": "Question: Which viruses appear to be hypermutable?\nOptions:\n(A) DNA viruses\n(B) 'Emerging' viruses\n(C) Influenza and HIV\n(D) RNA viruses\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "How are herpes infections controlled?",
+    "choices": [
+      "Chemotherapy",
+      "Vaccines",
+      "Hygiene and social distancing",
+      "No method"
+    ],
+    "answer": "A",
+    "input": "Question: How are herpes infections controlled?\nOptions:\n(A) Chemotherapy\n(B) Vaccines\n(C) Hygiene and social distancing\n(D) No method\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a",
+    "choices": [
+      "Case-control study",
+      "Case report",
+      "Cohort study",
+      "Cross-sectional study"
+    ],
+    "answer": "A",
+    "input": "Question: A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a\nOptions:\n(A) Case-control study\n(B) Case report\n(C) Cohort study\n(D) Cross-sectional study\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the most successful and most widely used 'travel' vaccine for international visitors?",
+    "choices": [
+      "Influenza",
+      "MMR",
+      "Yellow Fever",
+      "Rabies"
+    ],
+    "answer": "B",
+    "input": "Question: What is the most successful and most widely used 'travel' vaccine for international visitors?\nOptions:\n(A) Influenza\n(B) MMR\n(C) Yellow Fever\n(D) Rabies\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is a virus pandemic?",
+    "choices": [
+      "A sharp and rapid epidemic involving more than one country",
+      "An outbreak which recurs again and again",
+      "A rapid global outbreak starting from a single focus",
+      "A characteristic of common cold virus and HIV"
+    ],
+    "answer": "C",
+    "input": "Question: What is a virus pandemic?\nOptions:\n(A) A sharp and rapid epidemic involving more than one country\n(B) An outbreak which recurs again and again\n(C) A rapid global outbreak starting from a single focus\n(D) A characteristic of common cold virus and HIV\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "Benefits of opioid replacement therapy as an approach for HIV prevention include:",
+    "choices": [
+      "Reducing craving for and use of illicit opioids",
+      "More sharing of injecting paraphernalia",
+      "Reducing frequency of injection drug use",
+      "Both a and c"
+    ],
+    "answer": "D",
+    "input": "Question: Benefits of opioid replacement therapy as an approach for HIV prevention include:\nOptions:\n(A) Reducing craving for and use of illicit opioids\n(B) More sharing of injecting paraphernalia\n(C) Reducing frequency of injection drug use\n(D) Both a and c\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Papilloma viruses are characterised by what genetic feature?",
+    "choices": [
+      "A genome of ds circular DNA encoding around 8 ORF",
+      "A virus with RT able to integrate and cause cancer",
+      "A variable ds RNA virus",
+      "A large DNA containing virus"
+    ],
+    "answer": "A",
+    "input": "Question: Papilloma viruses are characterised by what genetic feature?\nOptions:\n(A) A genome of ds circular DNA encoding around 8 ORF\n(B) A virus with RT able to integrate and cause cancer\n(C) A variable ds RNA virus\n(D) A large DNA containing virus\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "As part of the Women’s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:",
+    "choices": [
+      "There is no risk of heart attack/stroke for women with CRP levels in the first quintile.",
+      "Decreasing CRP level appears to increase the risk of heart attack/stroke.",
+      "Increasing CRP level appears to increase the risk of heart attack/stroke.",
+      "There appears to be no association between CRP levels and heart attack/stroke."
+    ],
+    "answer": "A",
+    "input": "Question: As part of the Women’s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:\nOptions:\n(A) There is no risk of heart attack/stroke for women with CRP levels in the first quintile.\n(B) Decreasing CRP level appears to increase the risk of heart attack/stroke.\n(C) Increasing CRP level appears to increase the risk of heart attack/stroke.\n(D) There appears to be no association between CRP levels and heart attack/stroke.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "What is the morphology of the Dane particle?",
+    "choices": [
+      "Double shelled icosahedron",
+      "Lipid membrane free icosahedron",
+      "Flexuous and filamentous morphology",
+      "Numerous small particles"
+    ],
+    "answer": "C",
+    "input": "Question: What is the morphology of the Dane particle?\nOptions:\n(A) Double shelled icosahedron\n(B) Lipid membrane free icosahedron\n(C) Flexuous and filamentous morphology\n(D) Numerous small particles\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "virology",
+    "question": "The adenovirus virion has which unique structural feature?",
+    "choices": [
+      "Icosahedron",
+      "Icosahedron with slender fibres",
+      "'Complex' structure not yet fully explored",
+      "Flexuous lipid containing structure"
+    ],
+    "answer": "B",
+    "input": "Question: The adenovirus virion has which unique structural feature?\nOptions:\n(A) Icosahedron\n(B) Icosahedron with slender fibres\n(C) 'Complex' structure not yet fully explored\n(D) Flexuous lipid containing structure\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by",
+    "choices": [
+      "400/250,000",
+      "600/250,000",
+      "1,000/250,000",
+      "2,500/250,000"
+    ],
+    "answer": "D",
+    "input": "Question: A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by\nOptions:\n(A) 400/250,000\n(B) 600/250,000\n(C) 1,000/250,000\n(D) 2,500/250,000\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which unique form does the rabies virus take?",
+    "choices": [
+      "The virion has a dumbbell appearance",
+      "It is shaped like a bullet from a gun",
+      "The virus is star shaped",
+      "The virion is very pleomorphic"
+    ],
+    "answer": "D",
+    "input": "Question: Which unique form does the rabies virus take?\nOptions:\n(A) The virion has a dumbbell appearance\n(B) It is shaped like a bullet from a gun\n(C) The virus is star shaped\n(D) The virion is very pleomorphic\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following diseases is not caused by togaviruses?",
+    "choices": [
+      "Chikungunya",
+      "Rubella (German measles)",
+      "Western Equine encephalitis",
+      "Yellow Fever"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following diseases is not caused by togaviruses?\nOptions:\n(A) Chikungunya\n(B) Rubella (German measles)\n(C) Western Equine encephalitis\n(D) Yellow Fever\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "Why are the viruses of this family called astroviruses?",
+    "choices": [
+      "Because of the nucleotide sequence of their genomes",
+      "The superficial appearance of a 'star' on negative straining electron microscopy",
+      "Because of isolation in very large numbers of mammals including dromedaries, cats and cattle",
+      "Because they are more common in developing countries with poor hygiene"
+    ],
+    "answer": "B",
+    "input": "Question: Why are the viruses of this family called astroviruses?\nOptions:\n(A) Because of the nucleotide sequence of their genomes\n(B) The superficial appearance of a 'star' on negative straining electron microscopy\n(C) Because of isolation in very large numbers of mammals including dromedaries, cats and cattle\n(D) Because they are more common in developing countries with poor hygiene\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "Why do emerging viruses like Zika and Ebola continue to plague us?",
+    "choices": [
+      "These viruses mutate and hence emerge",
+      "We disturb forests where they quietly exist as a zoonosis",
+      "Mosquitoes are the main culprit to encourage virus spread",
+      "The viruses can be halted by new vaccines"
+    ],
+    "answer": "B",
+    "input": "Question: Why do emerging viruses like Zika and Ebola continue to plague us?\nOptions:\n(A) These viruses mutate and hence emerge\n(B) We disturb forests where they quietly exist as a zoonosis\n(C) Mosquitoes are the main culprit to encourage virus spread\n(D) The viruses can be halted by new vaccines\nAnswer:",
+    "target": "(B)"
+  }
+]

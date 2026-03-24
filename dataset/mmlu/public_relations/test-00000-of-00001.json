@@ -1,0 +1,1432 @@
+[
+  {
+    "subject": "public_relations",
+    "question": "Which common public relations tactic involves sending journalists on visits to appropriate locations?",
+    "choices": [
+      "Media release",
+      "Media tour",
+      "Press room",
+      "Promotional days/weeks"
+    ],
+    "answer": "B",
+    "input": "Question: Which common public relations tactic involves sending journalists on visits to appropriate locations?\nOptions:\n(A) Media release\n(B) Media tour\n(C) Press room\n(D) Promotional days/weeks\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "You are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?",
+    "choices": [
+      "Quickly investigate to make certain your product is definitely the cause of the illness.",
+      "Stop all sales of the product throughout the nation and issue a recall for that product.",
+      "Stop sales of the product in the Albany, New York, market and issue a recall for that product.",
+      "Issue a press release to the Albany, New York, market explaining how to treat the symptoms."
+    ],
+    "answer": "B",
+    "input": "Question: You are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?\nOptions:\n(A) Quickly investigate to make certain your product is definitely the cause of the illness.\n(B) Stop all sales of the product throughout the nation and issue a recall for that product.\n(C) Stop sales of the product in the Albany, New York, market and issue a recall for that product.\n(D) Issue a press release to the Albany, New York, market explaining how to treat the symptoms.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In public relations, ________ deals with an organization's ability to satisfy and create a positive experience for its consumers.",
+    "choices": [
+      "community relations",
+      "consumer relations",
+      "employee relations",
+      "public issues"
+    ],
+    "answer": "B",
+    "input": "Question: In public relations, ________ deals with an organization's ability to satisfy and create a positive experience for its consumers.\nOptions:\n(A) community relations\n(B) consumer relations\n(C) employee relations\n(D) public issues\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In what year did the BBC start broadcasting radio?",
+    "choices": [
+      "1917",
+      "1922",
+      "1925",
+      "1927"
+    ],
+    "answer": "B",
+    "input": "Question: In what year did the BBC start broadcasting radio?\nOptions:\n(A) 1917\n(B) 1922\n(C) 1925\n(D) 1927\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "________ advertising campaigns are focused on gathering support for a particular message or cause.",
+    "choices": [
+      "Product-oriented",
+      "Person-oriented",
+      "Idea-oriented",
+      "Message-oriented"
+    ],
+    "answer": "C",
+    "input": "Question: ________ advertising campaigns are focused on gathering support for a particular message or cause.\nOptions:\n(A) Product-oriented\n(B) Person-oriented\n(C) Idea-oriented\n(D) Message-oriented\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Why should a successful public relations counselor continually review present and future realities for an organization?",
+    "choices": [
+      "to develop a vision statement",
+      "to interpret trends for management",
+      "to interpret the organization's business plan",
+      "to consider the role public relations might play"
+    ],
+    "answer": "B",
+    "input": "Question: Why should a successful public relations counselor continually review present and future realities for an organization?\nOptions:\n(A) to develop a vision statement\n(B) to interpret trends for management\n(C) to interpret the organization's business plan\n(D) to consider the role public relations might play\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these definitions best describes the 'spiral of silence'?",
+    "choices": [
+      "When victims of abuse remain silent about the abuse",
+      "When people hide their opinions if they do not agree with the majority",
+      "When people hide their opinions if they are in disagreement with their close peers or family members",
+      "When public relations uses opinion poll results to generate support for a particular issue"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these definitions best describes the 'spiral of silence'?\nOptions:\n(A) When victims of abuse remain silent about the abuse\n(B) When people hide their opinions if they do not agree with the majority\n(C) When people hide their opinions if they are in disagreement with their close peers or family members\n(D) When public relations uses opinion poll results to generate support for a particular issue\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What two elements do the planning models of Hendrix (2002), Kendall (1999), Merston (1963) and Parkinson and Ekachai (2006) have in common?",
+    "choices": [
+      "Research and evaluation",
+      "Strategy and evaluation",
+      "Strategy and implementation",
+      "Objectives and implementation"
+    ],
+    "answer": "A",
+    "input": "Question: What two elements do the planning models of Hendrix (2002), Kendall (1999), Merston (1963) and Parkinson and Ekachai (2006) have in common?\nOptions:\n(A) Research and evaluation\n(B) Strategy and evaluation\n(C) Strategy and implementation\n(D) Objectives and implementation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "At which stage in the planning process are the objectives decided on?",
+    "choices": [
+      "Defining the program",
+      "Planning the program",
+      "Taking action and implementing ideas",
+      "Evaluation of the program"
+    ],
+    "answer": "B",
+    "input": "Question: At which stage in the planning process are the objectives decided on?\nOptions:\n(A) Defining the program\n(B) Planning the program\n(C) Taking action and implementing ideas\n(D) Evaluation of the program\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of the following is NOT one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs?",
+    "choices": [
+      "ingratiation",
+      "downplaying",
+      "distancing",
+      "nonexistence"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is NOT one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs?\nOptions:\n(A) ingratiation\n(B) downplaying\n(C) distancing\n(D) nonexistence\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "How much has the number of practitioners working in consultancies in the UK grown since 25 years ago?",
+    "choices": [
+      "It hasn't",
+      "Doubled",
+      "Tripled",
+      "Quadrupled"
+    ],
+    "answer": "C",
+    "input": "Question: How much has the number of practitioners working in consultancies in the UK grown since 25 years ago?\nOptions:\n(A) It hasn't\n(B) Doubled\n(C) Tripled\n(D) Quadrupled\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which statement is NOT true of both issues management and crisis management?",
+    "choices": [
+      "They both require research monitoring.",
+      "They both deal with acute risks.",
+      "New organizational practices are developed as a result of each.",
+      "Both have the potential to damage an organisation's reputation."
+    ],
+    "answer": "B",
+    "input": "Question: Which statement is NOT true of both issues management and crisis management?\nOptions:\n(A) They both require research monitoring.\n(B) They both deal with acute risks.\n(C) New organizational practices are developed as a result of each.\n(D) Both have the potential to damage an organisation's reputation.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In what year did the BBC start broadcasting radio?",
+    "choices": [
+      "1917",
+      "1922",
+      "1925",
+      "1927"
+    ],
+    "answer": "B",
+    "input": "Question: In what year did the BBC start broadcasting radio?\nOptions:\n(A) 1917\n(B) 1922\n(C) 1925\n(D) 1927\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "How many regional newspapers are there in the UK?",
+    "choices": [
+      "270",
+      "600",
+      "2,800",
+      "5,200"
+    ],
+    "answer": "C",
+    "input": "Question: How many regional newspapers are there in the UK?\nOptions:\n(A) 270\n(B) 600\n(C) 2,800\n(D) 5,200\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Esman (1972), which publics are related to the organisation through shared industrial interests?",
+    "choices": [
+      "Enabling",
+      "Functional",
+      "Normative",
+      "Diffused"
+    ],
+    "answer": "C",
+    "input": "Question: According to Esman (1972), which publics are related to the organisation through shared industrial interests?\nOptions:\n(A) Enabling\n(B) Functional\n(C) Normative\n(D) Diffused\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Early theories of mass communication suggested that audiences were passive recipients of media messages and thus vulnerable to manipulation. Which of the following best describes current thinking?",
+    "choices": [
+      "Audiences are more vulnerable and passive than ever before.",
+      "Television viewing, in particular, creates increased activity in the right hemisphere of the brain.",
+      "Active receivers are not uniformly affected by mass communication messages.",
+      "Technology has led to increasingly passive recipients at the ends of message transmission systems."
+    ],
+    "answer": "C",
+    "input": "Question: Early theories of mass communication suggested that audiences were passive recipients of media messages and thus vulnerable to manipulation. Which of the following best describes current thinking?\nOptions:\n(A) Audiences are more vulnerable and passive than ever before.\n(B) Television viewing, in particular, creates increased activity in the right hemisphere of the brain.\n(C) Active receivers are not uniformly affected by mass communication messages.\n(D) Technology has led to increasingly passive recipients at the ends of message transmission systems.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of the following entities cannot sue for libel?",
+    "choices": [
+      "A politician",
+      "A house of worship",
+      "A government institution",
+      "A publicly-traded company"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following entities cannot sue for libel?\nOptions:\n(A) A politician\n(B) A house of worship\n(C) A government institution\n(D) A publicly-traded company\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which author emphasised strategy as achieving competitive advantage for an organization?",
+    "choices": [
+      "Steyn (2003)",
+      "Gregory (2006)",
+      "Cutlip et al (2006)",
+      "Henry (2006)"
+    ],
+    "answer": "D",
+    "input": "Question: Which author emphasised strategy as achieving competitive advantage for an organization?\nOptions:\n(A) Steyn (2003)\n(B) Gregory (2006)\n(C) Cutlip et al (2006)\n(D) Henry (2006)\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which statement is true about focus group research?",
+    "choices": [
+      "The participants should be selected at random.",
+      "It is an example of a formal research tool for practitioners.",
+      "The information can be generalized to describe a larger population.",
+      "The findings generate qualitative data that can be used to develop surveys."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement is true about focus group research?\nOptions:\n(A) The participants should be selected at random.\n(B) It is an example of a formal research tool for practitioners.\n(C) The information can be generalized to describe a larger population.\n(D) The findings generate qualitative data that can be used to develop surveys.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "You are the community relations director for a public water utility that has been targeted by a group of activists opposed to adding fluoride to drinking water. The activists are waging an intense internet campaign against the practice. Your utility has overwhelming evidence of the health benefits to fluoridated water. The manager of the utility asks you to initiate a blog to get the health message out. What is the most appropriate course of action?",
+    "choices": [
+      "Use utility employees to write the blog, posing as dentists and physicians.",
+      "Recruit a group of volunteer dentists and physicians to write the blog under their own identities with no reference to the utility.",
+      "Write the blog yourself, identifying yourself as an employee of the utility, and quote the scientific opinions of a variety of sources.",
+      "Compensate a group of dentists and physicians to write the blog, identifying the utility as the sponsor of the blog but without disclosing the compensation."
+    ],
+    "answer": "C",
+    "input": "Question: You are the community relations director for a public water utility that has been targeted by a group of activists opposed to adding fluoride to drinking water. The activists are waging an intense internet campaign against the practice. Your utility has overwhelming evidence of the health benefits to fluoridated water. The manager of the utility asks you to initiate a blog to get the health message out. What is the most appropriate course of action?\nOptions:\n(A) Use utility employees to write the blog, posing as dentists and physicians.\n(B) Recruit a group of volunteer dentists and physicians to write the blog under their own identities with no reference to the utility.\n(C) Write the blog yourself, identifying yourself as an employee of the utility, and quote the scientific opinions of a variety of sources.\n(D) Compensate a group of dentists and physicians to write the blog, identifying the utility as the sponsor of the blog but without disclosing the compensation.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Within which area of public relations is likely to involve lobbying?",
+    "choices": [
+      "Corporate",
+      "Financial relations",
+      "Public affairs",
+      "Business to business"
+    ],
+    "answer": "C",
+    "input": "Question: Within which area of public relations is likely to involve lobbying?\nOptions:\n(A) Corporate\n(B) Financial relations\n(C) Public affairs\n(D) Business to business\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "During which step of the Chase Jones model of issues management should the strengths and weaknesses of the organisation be reviewed?",
+    "choices": [
+      "Identification",
+      "Analysis",
+      "Strategy",
+      "Evaluation"
+    ],
+    "answer": "B",
+    "input": "Question: During which step of the Chase Jones model of issues management should the strengths and weaknesses of the organisation be reviewed?\nOptions:\n(A) Identification\n(B) Analysis\n(C) Strategy\n(D) Evaluation\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "As the single-person public relations staff of a public transit agency, you are tasked with increasing the number of people who ride your buses each month. Your target audiences are lower-income individuals, college students, people with basic educations and people for whom English is a Second Language. When preparing to craft a primary message, what should you do first?",
+    "choices": [
+      "Consider the comprehension level of all of the target audiences.",
+      "Consider how riding the bus could similarly affect all of the target audiences.",
+      "Consider which mediums would most effectively reach all of the target audiences.",
+      "Consider the geographic locations where all of the target audiences live and work."
+    ],
+    "answer": "B",
+    "input": "Question: As the single-person public relations staff of a public transit agency, you are tasked with increasing the number of people who ride your buses each month. Your target audiences are lower-income individuals, college students, people with basic educations and people for whom English is a Second Language. When preparing to craft a primary message, what should you do first?\nOptions:\n(A) Consider the comprehension level of all of the target audiences.\n(B) Consider how riding the bus could similarly affect all of the target audiences.\n(C) Consider which mediums would most effectively reach all of the target audiences.\n(D) Consider the geographic locations where all of the target audiences live and work.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "A book launch would be what kind of common tactic?",
+    "choices": [
+      "Competition",
+      "Event",
+      "Award",
+      "Sponsorship"
+    ],
+    "answer": "B",
+    "input": "Question: A book launch would be what kind of common tactic?\nOptions:\n(A) Competition\n(B) Event\n(C) Award\n(D) Sponsorship\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Newsletters generally fall in to which writing category?",
+    "choices": [
+      "Media writing",
+      "Personal writing",
+      "Business writing",
+      "Promotional writing"
+    ],
+    "answer": "D",
+    "input": "Question: Newsletters generally fall in to which writing category?\nOptions:\n(A) Media writing\n(B) Personal writing\n(C) Business writing\n(D) Promotional writing\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The process of identifying publics who are involved and affected by a situation central to an organization is called a(n)",
+    "choices": [
+      "exploratory survey",
+      "situation interview",
+      "communication audit",
+      "stakeholder analysis"
+    ],
+    "answer": "D",
+    "input": "Question: The process of identifying publics who are involved and affected by a situation central to an organization is called a(n)\nOptions:\n(A) exploratory survey\n(B) situation interview\n(C) communication audit\n(D) stakeholder analysis\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of the following Internet-related challenges is most significant in the public relations field?",
+    "choices": [
+      "Representing clients using new social media environments",
+      "Finding stable, cost-effective Internet providers",
+      "Training staff to use social media",
+      "Staying abreast of changing technology"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following Internet-related challenges is most significant in the public relations field?\nOptions:\n(A) Representing clients using new social media environments\n(B) Finding stable, cost-effective Internet providers\n(C) Training staff to use social media\n(D) Staying abreast of changing technology\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these ways a business impacts on the world do stakeholders NOT normally look at?",
+    "choices": [
+      "Workforce development",
+      "Impact on local communities",
+      "Impact on the environment",
+      "Financial performance"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these ways a business impacts on the world do stakeholders NOT normally look at?\nOptions:\n(A) Workforce development\n(B) Impact on local communities\n(C) Impact on the environment\n(D) Financial performance\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The ________ part of a PR campaign includes proactively planning a response strategy, implementing that strategy in the event of a crisis, evaluating the crisis response, and revising the initial response strategy in an effort to improve for future crises.",
+    "choices": [
+      "public issues",
+      "crisis management",
+      "consumer relations",
+      "community relations"
+    ],
+    "answer": "B",
+    "input": "Question: The ________ part of a PR campaign includes proactively planning a response strategy, implementing that strategy in the event of a crisis, evaluating the crisis response, and revising the initial response strategy in an effort to improve for future crises.\nOptions:\n(A) public issues\n(B) crisis management\n(C) consumer relations\n(D) community relations\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In the Westley and MacLean model of communication, which role describes the way in which the public obtain or receive the message?",
+    "choices": [
+      "The advocacy role",
+      "The channel's role",
+      "The gatekeeper role",
+      "The behavioural role"
+    ],
+    "answer": "B",
+    "input": "Question: In the Westley and MacLean model of communication, which role describes the way in which the public obtain or receive the message?\nOptions:\n(A) The advocacy role\n(B) The channel's role\n(C) The gatekeeper role\n(D) The behavioural role\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which guerrilla marketing technique involves the spreading of a message about a product issue or service through online peer-to peer communication?",
+    "choices": [
+      "Fan pages",
+      "Street activities",
+      "Grassroots marketing",
+      "Viral campaigns"
+    ],
+    "answer": "D",
+    "input": "Question: Which guerrilla marketing technique involves the spreading of a message about a product issue or service through online peer-to peer communication?\nOptions:\n(A) Fan pages\n(B) Street activities\n(C) Grassroots marketing\n(D) Viral campaigns\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "A ________ campaign occurs when people from two or more opposing sides of an argument have emotional convictions about a decision that has the power to impact their lives.",
+    "choices": [
+      "public relations",
+      "public issues",
+      "crisis management",
+      "consumer relations"
+    ],
+    "answer": "B",
+    "input": "Question: A ________ campaign occurs when people from two or more opposing sides of an argument have emotional convictions about a decision that has the power to impact their lives.\nOptions:\n(A) public relations\n(B) public issues\n(C) crisis management\n(D) consumer relations\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The Web was effectively invented by Berners-Lee in which year?",
+    "choices": [
+      "1980",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "answer": "C",
+    "input": "Question: The Web was effectively invented by Berners-Lee in which year?\nOptions:\n(A) 1980\n(B) 1989\n(C) 1991\n(D) 1993\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Internet traffic is expected to grow by 400% in the next few years. What is predicted to be the main driver of this?",
+    "choices": [
+      "Online consumer goods purchases",
+      "Video",
+      "Music",
+      "Online auctions"
+    ],
+    "answer": "B",
+    "input": "Question: Internet traffic is expected to grow by 400% in the next few years. What is predicted to be the main driver of this?\nOptions:\n(A) Online consumer goods purchases\n(B) Video\n(C) Music\n(D) Online auctions\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The goal of ________ advertising is to promote a specific product and service to a target audience.",
+    "choices": [
+      "person-oriented",
+      "product-oriented",
+      "profit-oriented",
+      "idea-oriented"
+    ],
+    "answer": "B",
+    "input": "Question: The goal of ________ advertising is to promote a specific product and service to a target audience.\nOptions:\n(A) person-oriented\n(B) product-oriented\n(C) profit-oriented\n(D) idea-oriented\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these types of survey question seeks qualitative information?",
+    "choices": [
+      "Likert scale",
+      "Multiple choice",
+      "Open-ended",
+      "Yes/No"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these types of survey question seeks qualitative information?\nOptions:\n(A) Likert scale\n(B) Multiple choice\n(C) Open-ended\n(D) Yes/No\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The American flag is an example of a",
+    "choices": [
+      "stereotype",
+      "semantic device",
+      "symbol",
+      "message"
+    ],
+    "answer": "C",
+    "input": "Question: The American flag is an example of a\nOptions:\n(A) stereotype\n(B) semantic device\n(C) symbol\n(D) message\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Approximately half of all public relations practitioners work in",
+    "choices": [
+      "government",
+      "business and commercial areas",
+      "health care and hospitals",
+      "public relations firms"
+    ],
+    "answer": "B",
+    "input": "Question: Approximately half of all public relations practitioners work in\nOptions:\n(A) government\n(B) business and commercial areas\n(C) health care and hospitals\n(D) public relations firms\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "You seek the counsel of one of your peers who designed and implemented a communication program that resulted in the successful permitting of an automotive recycling center, despite strong opposition from community organizations. You have to design a program to win approval for a similar project proposed by your company. Your peer gives you a brief piece of advice that succinctly describes the foundation of his successful program. What is most likely your peer's advice for a successful communication program?",
+    "choices": [
+      "Solve their problems",
+      "Kill them with kindness",
+      "Expose them to ridicule",
+      "Overwhelm them with facts"
+    ],
+    "answer": "A",
+    "input": "Question: You seek the counsel of one of your peers who designed and implemented a communication program that resulted in the successful permitting of an automotive recycling center, despite strong opposition from community organizations. You have to design a program to win approval for a similar project proposed by your company. Your peer gives you a brief piece of advice that succinctly describes the foundation of his successful program. What is most likely your peer's advice for a successful communication program?\nOptions:\n(A) Solve their problems\n(B) Kill them with kindness\n(C) Expose them to ridicule\n(D) Overwhelm them with facts\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these publics does NOT feature in Grunig and Hunt's (1984) situational theory of publics?",
+    "choices": [
+      "Latent",
+      "Dormant",
+      "Aware",
+      "Active"
+    ],
+    "answer": "B",
+    "input": "Question: Which of these publics does NOT feature in Grunig and Hunt's (1984) situational theory of publics?\nOptions:\n(A) Latent\n(B) Dormant\n(C) Aware\n(D) Active\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these qualities is NOT listed as something to consider when choosing an opinion leader for a public relations campaigns?",
+    "choices": [
+      "Reputation",
+      "Impact",
+      "Familiarity with subject or issue",
+      "Ability to reach people"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these qualities is NOT listed as something to consider when choosing an opinion leader for a public relations campaigns?\nOptions:\n(A) Reputation\n(B) Impact\n(C) Familiarity with subject or issue\n(D) Ability to reach people\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Macnamara's (2005) pyramid of evaluation, at which stage is the situation analysis done and used to form objectives and implementation plans?",
+    "choices": [
+      "Inputs",
+      "Outputs",
+      "Outtakes",
+      "Outcomes"
+    ],
+    "answer": "A",
+    "input": "Question: According to Macnamara's (2005) pyramid of evaluation, at which stage is the situation analysis done and used to form objectives and implementation plans?\nOptions:\n(A) Inputs\n(B) Outputs\n(C) Outtakes\n(D) Outcomes\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which factors are mentioned that influence media coverage of a story?",
+    "choices": [
+      "Content, quality of source, relevance",
+      "Timing, content, media liaison",
+      "Content, quality of source, human interest angle",
+      "Timing, relevance, political slant"
+    ],
+    "answer": "B",
+    "input": "Question: Which factors are mentioned that influence media coverage of a story?\nOptions:\n(A) Content, quality of source, relevance\n(B) Timing, content, media liaison\n(C) Content, quality of source, human interest angle\n(D) Timing, relevance, political slant\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What is the primary reason that you, as a public relations manager, should insist on prioritizing and scheduling activities?",
+    "choices": [
+      "to help the department stay focused on its strategic plan",
+      "to ensure that projects that are important to the CEO always have first priority",
+      "to ensure that the department's events and public relations activities are not neglected",
+      "to make it easier for other departments to understand the responsibilities of the public relations department"
+    ],
+    "answer": "A",
+    "input": "Question: What is the primary reason that you, as a public relations manager, should insist on prioritizing and scheduling activities?\nOptions:\n(A) to help the department stay focused on its strategic plan\n(B) to ensure that projects that are important to the CEO always have first priority\n(C) to ensure that the department's events and public relations activities are not neglected\n(D) to make it easier for other departments to understand the responsibilities of the public relations department\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Macnamara's (2005) pyramid of evaluation, at which stage are opinion polls most useful?",
+    "choices": [
+      "Inputs",
+      "Outputs",
+      "Outtakes",
+      "Outcomes"
+    ],
+    "answer": "C",
+    "input": "Question: According to Macnamara's (2005) pyramid of evaluation, at which stage are opinion polls most useful?\nOptions:\n(A) Inputs\n(B) Outputs\n(C) Outtakes\n(D) Outcomes\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Tyler and his wife have been won over by the advertising campaign supporting Stan Johnson, who is running for mayor, so they put a 'Vote for Stan Johnson in November' sign in their front yard. Tyler and his wife are engaging in ________, the third step of the advertising campaign.",
+    "choices": [
+      "identification",
+      "legitimacy",
+      "penetration",
+      "participation"
+    ],
+    "answer": "D",
+    "input": "Question: Tyler and his wife have been won over by the advertising campaign supporting Stan Johnson, who is running for mayor, so they put a 'Vote for Stan Johnson in November' sign in their front yard. Tyler and his wife are engaging in ________, the third step of the advertising campaign.\nOptions:\n(A) identification\n(B) legitimacy\n(C) penetration\n(D) participation\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "No-Wait Weight Loss, a diet pill brand, promises its potential consumers that if they take one pill once a day they will lose weight without having to change their diet or start exercising. However, many people who have used the product have complained that they haven't lost weight, and some have even gained weight. No-Wait Weight Loss has been unsuccessful in the ________ stage of the advertising campaign.",
+    "choices": [
+      "distribution",
+      "penetration",
+      "participation",
+      "identification"
+    ],
+    "answer": "A",
+    "input": "Question: No-Wait Weight Loss, a diet pill brand, promises its potential consumers that if they take one pill once a day they will lose weight without having to change their diet or start exercising. However, many people who have used the product have complained that they haven't lost weight, and some have even gained weight. No-Wait Weight Loss has been unsuccessful in the ________ stage of the advertising campaign.\nOptions:\n(A) distribution\n(B) penetration\n(C) participation\n(D) identification\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What World War I-era organization introduced decentralized publicity \"drives\" as a strategy to mobilize U.S. public opinion to support the war?",
+    "choices": [
+      "The Creel Committee",
+      "The Red Cross",
+      "The Council on Public Relations",
+      "The Office of War Information"
+    ],
+    "answer": "A",
+    "input": "Question: What World War I-era organization introduced decentralized publicity \"drives\" as a strategy to mobilize U.S. public opinion to support the war?\nOptions:\n(A) The Creel Committee\n(B) The Red Cross\n(C) The Council on Public Relations\n(D) The Office of War Information\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "When an attitude is communicated, what does it become?",
+    "choices": [
+      "An opinion",
+      "A belief",
+      "A behaviour",
+      "A point of view"
+    ],
+    "answer": "A",
+    "input": "Question: When an attitude is communicated, what does it become?\nOptions:\n(A) An opinion\n(B) A belief\n(C) A behaviour\n(D) A point of view\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which communication model describes the encoding and decoding of messages?",
+    "choices": [
+      "Shannon and Weaver model",
+      "Osgood and Schramm model",
+      "Westley and MacLean model",
+      "Maletzke model"
+    ],
+    "answer": "B",
+    "input": "Question: Which communication model describes the encoding and decoding of messages?\nOptions:\n(A) Shannon and Weaver model\n(B) Osgood and Schramm model\n(C) Westley and MacLean model\n(D) Maletzke model\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which definition best describes media convergence?",
+    "choices": [
+      "The conglomeration of media outlets into large corporations.",
+      "The way in which all media outlets post similar content to their competitors.",
+      "The many differing views and cultures expressed in modern media.",
+      "Information being delivered in different formats via various digital channels."
+    ],
+    "answer": "D",
+    "input": "Question: Which definition best describes media convergence?\nOptions:\n(A) The conglomeration of media outlets into large corporations.\n(B) The way in which all media outlets post similar content to their competitors.\n(C) The many differing views and cultures expressed in modern media.\n(D) Information being delivered in different formats via various digital channels.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "________ is most common to political campaigns because it focuses on raising the public's awareness about a particular person in hopes they will either support or not support the person.",
+    "choices": [
+      "Product-oriented advertising",
+      "Idea-oriented advertising",
+      "Person-oriented advertising",
+      "Platform-oriented advertising"
+    ],
+    "answer": "C",
+    "input": "Question: ________ is most common to political campaigns because it focuses on raising the public's awareness about a particular person in hopes they will either support or not support the person.\nOptions:\n(A) Product-oriented advertising\n(B) Idea-oriented advertising\n(C) Person-oriented advertising\n(D) Platform-oriented advertising\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which phase of public relations audience research is associated with summative evaluation?",
+    "choices": [
+      "Implementation",
+      "Impact",
+      "Attitude change",
+      "Preparation"
+    ],
+    "answer": "B",
+    "input": "Question: Which phase of public relations audience research is associated with summative evaluation?\nOptions:\n(A) Implementation\n(B) Impact\n(C) Attitude change\n(D) Preparation\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these adjectives does NOT describe business writing?",
+    "choices": [
+      "Formal",
+      "Abstract",
+      "Personal",
+      "Objective"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these adjectives does NOT describe business writing?\nOptions:\n(A) Formal\n(B) Abstract\n(C) Personal\n(D) Objective\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Publishing and selling the creative work of others and protecting property rights of one's own creative work is regulated by",
+    "choices": [
+      "libel and publication regulations",
+      "access and deregulation",
+      "Securities and Exchange Commission",
+      "copyright and trademark law"
+    ],
+    "answer": "D",
+    "input": "Question: Publishing and selling the creative work of others and protecting property rights of one's own creative work is regulated by\nOptions:\n(A) libel and publication regulations\n(B) access and deregulation\n(C) Securities and Exchange Commission\n(D) copyright and trademark law\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Where was the first British newspaper printed?",
+    "choices": [
+      "London",
+      "Oxford",
+      "Manchester",
+      "Edinburgh"
+    ],
+    "answer": "B",
+    "input": "Question: Where was the first British newspaper printed?\nOptions:\n(A) London\n(B) Oxford\n(C) Manchester\n(D) Edinburgh\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of the following information about publications does the Audit Bureau of Circulation NOT provide?",
+    "choices": [
+      "Circulation",
+      "Distribution",
+      "Traffic",
+      "Readership"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following information about publications does the Audit Bureau of Circulation NOT provide?\nOptions:\n(A) Circulation\n(B) Distribution\n(C) Traffic\n(D) Readership\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The ________ phase of the PR process consists of making decisions about which strategies and tactics will be used to respond to the goals of the organization and executing those strategies and tactics.",
+    "choices": [
+      "planning",
+      "implementation",
+      "evaluation",
+      "tactical"
+    ],
+    "answer": "B",
+    "input": "Question: The ________ phase of the PR process consists of making decisions about which strategies and tactics will be used to respond to the goals of the organization and executing those strategies and tactics.\nOptions:\n(A) planning\n(B) implementation\n(C) evaluation\n(D) tactical\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In recent years social media has had a major impact on the practice of public relations. In which of the following areas has the impact been greatest and experienced most immediately?",
+    "choices": [
+      "Politics",
+      "Retail business",
+      "Automotive sales",
+      "Nonprofits"
+    ],
+    "answer": "A",
+    "input": "Question: In recent years social media has had a major impact on the practice of public relations. In which of the following areas has the impact been greatest and experienced most immediately?\nOptions:\n(A) Politics\n(B) Retail business\n(C) Automotive sales\n(D) Nonprofits\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which traditional news criterion would you expect to be most important in public relations messages distributed through the mass media?",
+    "choices": [
+      "Proximity",
+      "Timeliness",
+      "Prominence",
+      "Impact"
+    ],
+    "answer": "D",
+    "input": "Question: Which traditional news criterion would you expect to be most important in public relations messages distributed through the mass media?\nOptions:\n(A) Proximity\n(B) Timeliness\n(C) Prominence\n(D) Impact\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which area of public relations deals with emerging issues and their potential impact on an organization?",
+    "choices": [
+      "Public opinion",
+      "Issues management",
+      "Public affairs",
+      "Lobbying"
+    ],
+    "answer": "B",
+    "input": "Question: Which area of public relations deals with emerging issues and their potential impact on an organization?\nOptions:\n(A) Public opinion\n(B) Issues management\n(C) Public affairs\n(D) Lobbying\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Macnamara's (2005) pyramid of evaluation, at which stage is media coverage most likely to be measured?",
+    "choices": [
+      "Inputs",
+      "Outputs",
+      "Outtakes",
+      "Outcomes"
+    ],
+    "answer": "B",
+    "input": "Question: According to Macnamara's (2005) pyramid of evaluation, at which stage is media coverage most likely to be measured?\nOptions:\n(A) Inputs\n(B) Outputs\n(C) Outtakes\n(D) Outcomes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "You are director of communications for a local non-profit chapter organization that is an affiliate of a large national non-profit organization. You are frequently asked to secure media coverage using news releases provided by national headquarters located in another state. Which action would most improve your chances of success with these materials?",
+    "choices": [
+      "Use your relationships with local donors to gain coverage.",
+      "Localize the news releases for audiences in your geography.",
+      "Pitch the news releases as written, but include a quote from your chapter's executive director.",
+      "Remind editors that your organization is a national, prominent non-profit to which their publisher donates."
+    ],
+    "answer": "B",
+    "input": "Question: You are director of communications for a local non-profit chapter organization that is an affiliate of a large national non-profit organization. You are frequently asked to secure media coverage using news releases provided by national headquarters located in another state. Which action would most improve your chances of success with these materials?\nOptions:\n(A) Use your relationships with local donors to gain coverage.\n(B) Localize the news releases for audiences in your geography.\n(C) Pitch the news releases as written, but include a quote from your chapter's executive director.\n(D) Remind editors that your organization is a national, prominent non-profit to which their publisher donates.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What is the main purpose of licensing public relations practitioners?",
+    "choices": [
+      "To regulate access to posts in the field",
+      "To create an elite of public relations practitioners",
+      "To preserve the well-being of society",
+      "To achieve better wages for licensed practitioners"
+    ],
+    "answer": "C",
+    "input": "Question: What is the main purpose of licensing public relations practitioners?\nOptions:\n(A) To regulate access to posts in the field\n(B) To create an elite of public relations practitioners\n(C) To preserve the well-being of society\n(D) To achieve better wages for licensed practitioners\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Cutlip (2006), which stage of the communications plan should involve planning of what should be said and why?",
+    "choices": [
+      "Situation analysis",
+      "Strategy",
+      "Implementation",
+      "Evaluation involves assessing all aspects of the programme."
+    ],
+    "answer": "B",
+    "input": "Question: According to Cutlip (2006), which stage of the communications plan should involve planning of what should be said and why?\nOptions:\n(A) Situation analysis\n(B) Strategy\n(C) Implementation\n(D) Evaluation involves assessing all aspects of the programme.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In which era did muckraking journalism led to the widespread introduction of public relations in business?",
+    "choices": [
+      "Postwar Era, 1945 - 1965",
+      "Roosevelt Era, 1930 - 1945",
+      "Booming Twenties Era, 1919 - 1929",
+      "Seedbed Era, 1900 ' 1917"
+    ],
+    "answer": "D",
+    "input": "Question: In which era did muckraking journalism led to the widespread introduction of public relations in business?\nOptions:\n(A) Postwar Era, 1945 - 1965\n(B) Roosevelt Era, 1930 - 1945\n(C) Booming Twenties Era, 1919 - 1929\n(D) Seedbed Era, 1900 ' 1917\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Leslie is a disgruntled employee who walks into her place of employment and shoots three people, killing two and critically injuring the other. What is Leslie's behavior an example of?",
+    "choices": [
+      "workplace violence",
+      "organizational misdeeds",
+      "megadamage",
+      "crisis management"
+    ],
+    "answer": "A",
+    "input": "Question: Leslie is a disgruntled employee who walks into her place of employment and shoots three people, killing two and critically injuring the other. What is Leslie's behavior an example of?\nOptions:\n(A) workplace violence\n(B) organizational misdeeds\n(C) megadamage\n(D) crisis management\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Psychographics refers to",
+    "choices": [
+      "individual values, lifestyles and characteristics",
+      "individual sex, age, race and income statistics",
+      "potential influence",
+      "all of the above"
+    ],
+    "answer": "A",
+    "input": "Question: Psychographics refers to\nOptions:\n(A) individual values, lifestyles and characteristics\n(B) individual sex, age, race and income statistics\n(C) potential influence\n(D) all of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In the public relations field, what is the most common threat to a client-firm relationship?",
+    "choices": [
+      "Clients' questions about costs",
+      "Resistance to outside advice",
+      "Superficial grasp of the client's unique problems",
+      "Personality conflicts"
+    ],
+    "answer": "A",
+    "input": "Question: In the public relations field, what is the most common threat to a client-firm relationship?\nOptions:\n(A) Clients' questions about costs\n(B) Resistance to outside advice\n(C) Superficial grasp of the client's unique problems\n(D) Personality conflicts\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "A 2008 survey showed that what percentage of the world's largest companies are reporting their corporate responsibility?",
+    "choices": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "answer": "D",
+    "input": "Question: A 2008 survey showed that what percentage of the world's largest companies are reporting their corporate responsibility?\nOptions:\n(A) 50%\n(B) 60%\n(C) 70%\n(D) 80%\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "In recent research, the 14,000 stories that could be accessed on Google News' front page in a day pertained to how many actual news events?",
+    "choices": [
+      "18",
+      "24",
+      "326",
+      "9,574"
+    ],
+    "answer": "B",
+    "input": "Question: In recent research, the 14,000 stories that could be accessed on Google News' front page in a day pertained to how many actual news events?\nOptions:\n(A) 18\n(B) 24\n(C) 326\n(D) 9,574\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Who argued that if an organization did not affect a public then there was no need for a practitioner to consider that public in its communications?",
+    "choices": [
+      "Cutlip (2006)",
+      "Leitch and Neilson (2001)",
+      "Amaral and Phillips (2010)",
+      "Grunig and Hunt (1984)"
+    ],
+    "answer": "D",
+    "input": "Question: Who argued that if an organization did not affect a public then there was no need for a practitioner to consider that public in its communications?\nOptions:\n(A) Cutlip (2006)\n(B) Leitch and Neilson (2001)\n(C) Amaral and Phillips (2010)\n(D) Grunig and Hunt (1984)\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which form of communication is most effective in forming or changing predispositions toward an issue?",
+    "choices": [
+      "Interpersonal",
+      "Media",
+      "Group",
+      "Public"
+    ],
+    "answer": "B",
+    "input": "Question: Which form of communication is most effective in forming or changing predispositions toward an issue?\nOptions:\n(A) Interpersonal\n(B) Media\n(C) Group\n(D) Public\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which statement describes an idea from utilitarianism?",
+    "choices": [
+      "What is right and what is wrong are predetermined.",
+      "People should be treated as an end, not a means to an end.",
+      "The greatest good for the greatest number.",
+      "Those better off should give to people who are not as well off."
+    ],
+    "answer": "C",
+    "input": "Question: Which statement describes an idea from utilitarianism?\nOptions:\n(A) What is right and what is wrong are predetermined.\n(B) People should be treated as an end, not a means to an end.\n(C) The greatest good for the greatest number.\n(D) Those better off should give to people who are not as well off.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which type of measurement is the most effective choice for evaluating a campaign's impact on audience attitudes?",
+    "choices": [
+      "preparing a content analysis of media coverage",
+      "studying the content of blog postings about your issue",
+      "analyzing pre and post sales reports for changes in sales",
+      "conducting a pre and post analysis of constituents' opinions"
+    ],
+    "answer": "D",
+    "input": "Question: Which type of measurement is the most effective choice for evaluating a campaign's impact on audience attitudes?\nOptions:\n(A) preparing a content analysis of media coverage\n(B) studying the content of blog postings about your issue\n(C) analyzing pre and post sales reports for changes in sales\n(D) conducting a pre and post analysis of constituents' opinions\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "There are three basic types of persuasive advertising campaigns. Which of the following is NOT one of them?",
+    "choices": [
+      "Product-oriented",
+      "Person-oriented",
+      "Idea-oriented",
+      "Result-oriented"
+    ],
+    "answer": "D",
+    "input": "Question: There are three basic types of persuasive advertising campaigns. Which of the following is NOT one of them?\nOptions:\n(A) Product-oriented\n(B) Person-oriented\n(C) Idea-oriented\n(D) Result-oriented\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Approximately what proportion of nonprofit sector practitioners conduct audience research?",
+    "choices": [
+      "One-quarter",
+      "One-half",
+      "Two thirds",
+      "Almost all"
+    ],
+    "answer": "C",
+    "input": "Question: Approximately what proportion of nonprofit sector practitioners conduct audience research?\nOptions:\n(A) One-quarter\n(B) One-half\n(C) Two thirds\n(D) Almost all\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "When a campaign becomes noticed and unavoidable, it has achieved the ________ stage.",
+    "choices": [
+      "participation",
+      "penetration",
+      "distribution",
+      "identification"
+    ],
+    "answer": "B",
+    "input": "Question: When a campaign becomes noticed and unavoidable, it has achieved the ________ stage.\nOptions:\n(A) participation\n(B) penetration\n(C) distribution\n(D) identification\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "A(n) ________ campaign is a paid form of impersonal communication, concerned with selling specific products, services, brands, images, and lifestyles to the public.",
+    "choices": [
+      "public persuasive",
+      "public relations",
+      "advertising",
+      "consumerism"
+    ],
+    "answer": "C",
+    "input": "Question: A(n) ________ campaign is a paid form of impersonal communication, concerned with selling specific products, services, brands, images, and lifestyles to the public.\nOptions:\n(A) public persuasive\n(B) public relations\n(C) advertising\n(D) consumerism\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which statement is true about an open systems model of public relations in an organization?",
+    "choices": [
+      "It adapts to changing organizational environments.",
+      "It adopts the policy of transparency to build public trust.",
+      "It focuses on removing communication barriers between its business divisions.",
+      "It communicates with its publics frequently to effect change outside the organization."
+    ],
+    "answer": "A",
+    "input": "Question: Which statement is true about an open systems model of public relations in an organization?\nOptions:\n(A) It adapts to changing organizational environments.\n(B) It adopts the policy of transparency to build public trust.\n(C) It focuses on removing communication barriers between its business divisions.\n(D) It communicates with its publics frequently to effect change outside the organization.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which law restricts corporate communications for publicly traded companies before and during the period that new securities are being registered?",
+    "choices": [
+      "Securities Act of 1933",
+      "Sarbanes-Oxley Act of 2002",
+      "Investment Advisers Act of 1940",
+      "Investment Company Act of 1934"
+    ],
+    "answer": "A",
+    "input": "Question: Which law restricts corporate communications for publicly traded companies before and during the period that new securities are being registered?\nOptions:\n(A) Securities Act of 1933\n(B) Sarbanes-Oxley Act of 2002\n(C) Investment Advisers Act of 1940\n(D) Investment Company Act of 1934\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these phrases refers specifically to a crisis, rather than an issue?",
+    "choices": [
+      "A gap between corporate and stakeholder expectations.",
+      "When an organization's trading is interrupted.",
+      "Can be avoided with constant monitoring and relationship building.",
+      "It happens suddenly."
+    ],
+    "answer": "D",
+    "input": "Question: Which of these phrases refers specifically to a crisis, rather than an issue?\nOptions:\n(A) A gap between corporate and stakeholder expectations.\n(B) When an organization's trading is interrupted.\n(C) Can be avoided with constant monitoring and relationship building.\n(D) It happens suddenly.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Watson and Noble (2005) lay out a five-step model for circular evaluation. At which step should pre-testing of strategy and tactics be carried out?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "C",
+    "input": "Question: Watson and Noble (2005) lay out a five-step model for circular evaluation. At which step should pre-testing of strategy and tactics be carried out?\nOptions:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these sites offers 'microblogging?",
+    "choices": [
+      "YouTube",
+      "Facebook",
+      "Wikipedia",
+      "Twitter"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these sites offers 'microblogging?\nOptions:\n(A) YouTube\n(B) Facebook\n(C) Wikipedia\n(D) Twitter\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Within which area of public relations do tactics relate to promotion of the overall organisation?",
+    "choices": [
+      "Corporate",
+      "Internal communications",
+      "Financial relations",
+      "Business to business"
+    ],
+    "answer": "A",
+    "input": "Question: Within which area of public relations do tactics relate to promotion of the overall organisation?\nOptions:\n(A) Corporate\n(B) Internal communications\n(C) Financial relations\n(D) Business to business\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Emma is browsing a popular website when she runs across the story of a well-known actor who was recently pulled over for speeding and driving down the wrong side of the street. It turns out he had been drinking, and the arresting police officer found drugs in the car. The actor's publicist issued a statement claiming the actor was just tired and that the drugs belonged to someone else. Emma can't help having the impression that all public relations are ________ and occur only after something negative has occurred.",
+    "choices": [
+      "proactive",
+      "reactive",
+      "manipulative",
+      "manipulative"
+    ],
+    "answer": "B",
+    "input": "Question: Emma is browsing a popular website when she runs across the story of a well-known actor who was recently pulled over for speeding and driving down the wrong side of the street. It turns out he had been drinking, and the arresting police officer found drugs in the car. The actor's publicist issued a statement claiming the actor was just tired and that the drugs belonged to someone else. Emma can't help having the impression that all public relations are ________ and occur only after something negative has occurred.\nOptions:\n(A) proactive\n(B) reactive\n(C) manipulative\n(D) manipulative\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Louis owns a chemical company that has been irresponsibly disposing of chemical waste and contaminating the community's water supply. Although he knew the company was cutting costs in its waste disposal, he publicly claims to have had no knowledge of the irresponsible practices, blames it on the company's general manager and fires him. What image restoration strategy is Louis using?",
+    "choices": [
+      "denial",
+      "evasion of responsibility",
+      "reducing the offensiveness",
+      "corrective action"
+    ],
+    "answer": "A",
+    "input": "Question: Louis owns a chemical company that has been irresponsibly disposing of chemical waste and contaminating the community's water supply. Although he knew the company was cutting costs in its waste disposal, he publicly claims to have had no knowledge of the irresponsible practices, blames it on the company's general manager and fires him. What image restoration strategy is Louis using?\nOptions:\n(A) denial\n(B) evasion of responsibility\n(C) reducing the offensiveness\n(D) corrective action\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The ________ phase of the PR model consists of primary and secondary research about a client, identifying the target audiences for the campaign, proposing channels of communication and strategies to be used in the campaign, and constructing goals, objectives, messages, and themes.",
+    "choices": [
+      "identification",
+      "evaluation",
+      "implementation",
+      "planning"
+    ],
+    "answer": "D",
+    "input": "Question: The ________ phase of the PR model consists of primary and secondary research about a client, identifying the target audiences for the campaign, proposing channels of communication and strategies to be used in the campaign, and constructing goals, objectives, messages, and themes.\nOptions:\n(A) identification\n(B) evaluation\n(C) implementation\n(D) planning\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The 'internal factors' portion of a firm's public relations situation analysis often includes",
+    "choices": [
+      "a communication audit",
+      "strategy suggestions",
+      "community focus groups",
+      "a listing of media contacts"
+    ],
+    "answer": "A",
+    "input": "Question: The 'internal factors' portion of a firm's public relations situation analysis often includes\nOptions:\n(A) a communication audit\n(B) strategy suggestions\n(C) community focus groups\n(D) a listing of media contacts\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What is the major advantage of organizational publications?",
+    "choices": [
+      "Their ability to provide a revenue source for sponsoring organizations",
+      "Their ability to deliver specific, detailed information to narrowly defined target publics",
+      "Their ability to avoid the problems typically associated with two-way media",
+      "Their ability to give sponsoring organizations a means of uncontrolled communications"
+    ],
+    "answer": "B",
+    "input": "Question: What is the major advantage of organizational publications?\nOptions:\n(A) Their ability to provide a revenue source for sponsoring organizations\n(B) Their ability to deliver specific, detailed information to narrowly defined target publics\n(C) Their ability to avoid the problems typically associated with two-way media\n(D) Their ability to give sponsoring organizations a means of uncontrolled communications\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which outcome, from the evaluation phase of public relations planning, documents the impact a program had on its stakeholders?",
+    "choices": [
+      "the quality of the messages and activities",
+      "the number who change attitudes and opinions",
+      "the number who responded to communications",
+      "the number of messages and activities implemented"
+    ],
+    "answer": "B",
+    "input": "Question: Which outcome, from the evaluation phase of public relations planning, documents the impact a program had on its stakeholders?\nOptions:\n(A) the quality of the messages and activities\n(B) the number who change attitudes and opinions\n(C) the number who responded to communications\n(D) the number of messages and activities implemented\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "The second stage of the advertising campaign is to establish ________, or to become known as trustworthy and believable.",
+    "choices": [
+      "legitimacy",
+      "identity",
+      "reliability",
+      "agency"
+    ],
+    "answer": "A",
+    "input": "Question: The second stage of the advertising campaign is to establish ________, or to become known as trustworthy and believable.\nOptions:\n(A) legitimacy\n(B) identity\n(C) reliability\n(D) agency\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which type of writing employs the pyramid structure?",
+    "choices": [
+      "Media writing",
+      "Personal writing",
+      "Business writing",
+      "Promotional writing"
+    ],
+    "answer": "A",
+    "input": "Question: Which type of writing employs the pyramid structure?\nOptions:\n(A) Media writing\n(B) Personal writing\n(C) Business writing\n(D) Promotional writing\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "During which step of the Chase Jones model of issues management should the organization's ability to lead the issue be assessed?",
+    "choices": [
+      "Identification",
+      "Analysis",
+      "Strategy",
+      "Evaluation"
+    ],
+    "answer": "C",
+    "input": "Question: During which step of the Chase Jones model of issues management should the organization's ability to lead the issue be assessed?\nOptions:\n(A) Identification\n(B) Analysis\n(C) Strategy\n(D) Evaluation\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these should an objective NOT be?",
+    "choices": [
+      "Broad",
+      "Achievable",
+      "Measurable",
+      "Time-bound"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these should an objective NOT be?\nOptions:\n(A) Broad\n(B) Achievable\n(C) Measurable\n(D) Time-bound\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which statement describes an idea from Kantian ethics?",
+    "choices": [
+      "What is right and what is wrong are predetermined.",
+      "People should be treated as an end, not a means to an end.",
+      "The greatest good for the greatest number.",
+      "Those better off should give to people who are not as well off."
+    ],
+    "answer": "B",
+    "input": "Question: Which statement describes an idea from Kantian ethics?\nOptions:\n(A) What is right and what is wrong are predetermined.\n(B) People should be treated as an end, not a means to an end.\n(C) The greatest good for the greatest number.\n(D) Those better off should give to people who are not as well off.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these organizations is most effective in engaging with customers online?",
+    "choices": [
+      "Starbucks",
+      "Coca-Cola",
+      "Wholefoods",
+      "Redbull"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these organizations is most effective in engaging with customers online?\nOptions:\n(A) Starbucks\n(B) Coca-Cola\n(C) Wholefoods\n(D) Redbull\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Russian philosopher Mikhail Bakhtin, in order to create ________, or a well-informed public, all communication about an issue must be ________, or take the form of a dialogue.",
+    "choices": [
+      "intelligentsia, democratic",
+      "democracy, dialogic",
+      "democracy, logical",
+      "democracy, bipartisan"
+    ],
+    "answer": "B",
+    "input": "Question: According to Russian philosopher Mikhail Bakhtin, in order to create ________, or a well-informed public, all communication about an issue must be ________, or take the form of a dialogue.\nOptions:\n(A) intelligentsia, democratic\n(B) democracy, dialogic\n(C) democracy, logical\n(D) democracy, bipartisan\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Your client has asked you to develop a public relations campaign to promote a college tuition savings program using new technologies. What is the most appropriate first step?",
+    "choices": [
+      "Research pricing and development costs for different services.",
+      "Develop a survey to discover which factors impact families' savings.",
+      "Conduct a situation analysis to gain a better understanding of the issue.",
+      "Hold a focus group to determine which messages are most effective for the program."
+    ],
+    "answer": "C",
+    "input": "Question: Your client has asked you to develop a public relations campaign to promote a college tuition savings program using new technologies. What is the most appropriate first step?\nOptions:\n(A) Research pricing and development costs for different services.\n(B) Develop a survey to discover which factors impact families' savings.\n(C) Conduct a situation analysis to gain a better understanding of the issue.\n(D) Hold a focus group to determine which messages are most effective for the program.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to \"working theory,\" what is the step that occurs between an individual gaining information and changing behavior?",
+    "choices": [
+      "coorientation",
+      "opinion change",
+      "reaction formation",
+      "semantic encoding"
+    ],
+    "answer": "B",
+    "input": "Question: According to \"working theory,\" what is the step that occurs between an individual gaining information and changing behavior?\nOptions:\n(A) coorientation\n(B) opinion change\n(C) reaction formation\n(D) semantic encoding\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Segmentation of the population into psychographics, demographics and geodemographics is especially important in which public relations specialisation?",
+    "choices": [
+      "Issues management",
+      "Investor relations",
+      "Public affairs",
+      "Marketing communications"
+    ],
+    "answer": "D",
+    "input": "Question: Segmentation of the population into psychographics, demographics and geodemographics is especially important in which public relations specialisation?\nOptions:\n(A) Issues management\n(B) Investor relations\n(C) Public affairs\n(D) Marketing communications\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What are two examples of an evaluation of outcome?",
+    "choices": [
+      "Change in attitude",
+      "Placement of message",
+      "Distribution of message",
+      "Size of attentive audience"
+    ],
+    "answer": "A",
+    "input": "Question: What are two examples of an evaluation of outcome?\nOptions:\n(A) Change in attitude\n(B) Placement of message\n(C) Distribution of message\n(D) Size of attentive audience\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which fashion house sued for damages to its reputation after being accused of stealing a design?",
+    "choices": [
+      "Dior",
+      "Givenchy",
+      "Chanel",
+      "Lacroix"
+    ],
+    "answer": "C",
+    "input": "Question: Which fashion house sued for damages to its reputation after being accused of stealing a design?\nOptions:\n(A) Dior\n(B) Givenchy\n(C) Chanel\n(D) Lacroix\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What public relations pioneer is credited with being the first practitioner to insist on \"a place at the management table\"?",
+    "choices": [
+      "Carl Byoir",
+      "Edward Bernays",
+      "Doris Fleischman",
+      "Arthur Page"
+    ],
+    "answer": "D",
+    "input": "Question: What public relations pioneer is credited with being the first practitioner to insist on \"a place at the management table\"?\nOptions:\n(A) Carl Byoir\n(B) Edward Bernays\n(C) Doris Fleischman\n(D) Arthur Page\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "What are major reasons why organizations retain outside public relations counsel?",
+    "choices": [
+      "They offer flexibility of talents and skills.",
+      "They bring greater credibility to the work.",
+      "They will provide sound ROI on the project or program.",
+      "They can provide more attention and detail to a project that in-house staff."
+    ],
+    "answer": "A",
+    "input": "Question: What are major reasons why organizations retain outside public relations counsel?\nOptions:\n(A) They offer flexibility of talents and skills.\n(B) They bring greater credibility to the work.\n(C) They will provide sound ROI on the project or program.\n(D) They can provide more attention and detail to a project that in-house staff.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of these activities might secondary research involve?",
+    "choices": [
+      "Conducting a content analysis",
+      "Conducting a survey",
+      "Observing people",
+      "Examining public records"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these activities might secondary research involve?\nOptions:\n(A) Conducting a content analysis\n(B) Conducting a survey\n(C) Observing people\n(D) Examining public records\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which of the following information about publications does the Audit Bureau of Circulation NOT provide?",
+    "choices": [
+      "Circulation",
+      "Distribution",
+      "Traffic",
+      "Readership"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following information about publications does the Audit Bureau of Circulation NOT provide?\nOptions:\n(A) Circulation\n(B) Distribution\n(C) Traffic\n(D) Readership\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Early email was developed in which decade?",
+    "choices": [
+      "1960s",
+      "1970s",
+      "1980s",
+      "1990s"
+    ],
+    "answer": "B",
+    "input": "Question: Early email was developed in which decade?\nOptions:\n(A) 1960s\n(B) 1970s\n(C) 1980s\n(D) 1990s\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "According to Esman (1972), which publics help an organization to exist by lending authority or assistance?",
+    "choices": [
+      "Enabling",
+      "Functional",
+      "Normative",
+      "Diffused"
+    ],
+    "answer": "A",
+    "input": "Question: According to Esman (1972), which publics help an organization to exist by lending authority or assistance?\nOptions:\n(A) Enabling\n(B) Functional\n(C) Normative\n(D) Diffused\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "public_relations",
+    "question": "Which common public relations tactic can provide a 'halo effect'?",
+    "choices": [
+      "Placement on TV or radio",
+      "Stunts",
+      "Third parties",
+      "Sponsorship"
+    ],
+    "answer": "D",
+    "input": "Question: Which common public relations tactic can provide a 'halo effect'?\nOptions:\n(A) Placement on TV or radio\n(B) Stunts\n(C) Third parties\n(D) Sponsorship\nAnswer:",
+    "target": "(D)"
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If average household income rises and we observe that the demand for pork chops increases, pork chops must be",
+    "choices": [
+      "an inferior good.",
+      "a normal good.",
+      "a surplus good.",
+      "a public good."
+    ],
+    "answer": "B",
+    "input": "Question: If average household income rises and we observe that the demand for pork chops increases, pork chops must be\nOptions:\n(A) an inferior good.\n(B) a normal good.\n(C) a surplus good.\n(D) a public good.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "A change in which of the following will NOT cause a shift in the demand curve for hamburgers?",
+    "choices": [
+      "The price of hot dogs",
+      "The price of hamburgers",
+      "The price of hamburger buns",
+      "Income levels of hamburger consumers"
+    ],
+    "answer": "B",
+    "input": "Question: A change in which of the following will NOT cause a shift in the demand curve for hamburgers?\nOptions:\n(A) The price of hot dogs\n(B) The price of hamburgers\n(C) The price of hamburger buns\n(D) Income levels of hamburger consumers\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "When marginal cost equals price in a perfectly competitive product market at long run equilibrium, which of the following is NOT correct?",
+    "choices": [
+      "There is a socially optimal or efficient output and price.",
+      "Other product markets are inefficient by contrast.",
+      "It is a sign of high concentration among sellers.",
+      "The value placed on the product by the buyer is equal to the cost of production of the seller at the margin of an additional sale."
+    ],
+    "answer": "C",
+    "input": "Question: When marginal cost equals price in a perfectly competitive product market at long run equilibrium, which of the following is NOT correct?\nOptions:\n(A) There is a socially optimal or efficient output and price.\n(B) Other product markets are inefficient by contrast.\n(C) It is a sign of high concentration among sellers.\n(D) The value placed on the product by the buyer is equal to the cost of production of the seller at the margin of an additional sale.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?",
+    "choices": [
+      "Diminishing marginal productivity.",
+      "Diminishing marginal utility.",
+      "Increasing marginal utility.",
+      "Increasing marginal productivity."
+    ],
+    "answer": "B",
+    "input": "Question: If, as the price of a particular good increases, the added satisfaction of each additional unit of this good for the consumer decreases, which of the following correctly identifies the concept?\nOptions:\n(A) Diminishing marginal productivity.\n(B) Diminishing marginal utility.\n(C) Increasing marginal utility.\n(D) Increasing marginal productivity.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "In the long run, a monopolistically competitive firm",
+    "choices": [
+      "earns zero economic profit",
+      "earns positive economic profit",
+      "earns negative economic profit",
+      "faces a vertical demand curve"
+    ],
+    "answer": "A",
+    "input": "Question: In the long run, a monopolistically competitive firm\nOptions:\n(A) earns zero economic profit\n(B) earns positive economic profit\n(C) earns negative economic profit\n(D) faces a vertical demand curve\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Relative to a competitive product market with the same costs, a monopoly can be expected to involve",
+    "choices": [
+      "more deadweight loss",
+      "lower prices",
+      "higher production levels",
+      "more firms"
+    ],
+    "answer": "A",
+    "input": "Question: Relative to a competitive product market with the same costs, a monopoly can be expected to involve\nOptions:\n(A) more deadweight loss\n(B) lower prices\n(C) higher production levels\n(D) more firms\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "For which of the following statements are both the price change and quantity change determinable (for a particular good)?",
+    "choices": [
+      "Both the supply of and the demand for the good decrease.",
+      "Both the supply of and the demand for the good increase.",
+      "The supply increases and the demand for the good decreases.",
+      "None of the above."
+    ],
+    "answer": "D",
+    "input": "Question: For which of the following statements are both the price change and quantity change determinable (for a particular good)?\nOptions:\n(A) Both the supply of and the demand for the good decrease.\n(B) Both the supply of and the demand for the good increase.\n(C) The supply increases and the demand for the good decreases.\n(D) None of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following best exemplifies economies of scale?",
+    "choices": [
+      "As a firm's output decreases, average costs for production decrease.",
+      "As a firm's output increases, average costs for production increase.",
+      "As a firm's inputs triple, its output quadruples.",
+      "As a firm's inputs triple, its output doubles."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following best exemplifies economies of scale?\nOptions:\n(A) As a firm's output decreases, average costs for production decrease.\n(B) As a firm's output increases, average costs for production increase.\n(C) As a firm's inputs triple, its output quadruples.\n(D) As a firm's inputs triple, its output doubles.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "For a polluting steel company, a government action to most likely achieve an optimal or efficient outcome would produce what effect on the market equilibrium price and output?",
+    "choices": [
+      "Output would increase; no change in price.",
+      "Output would increase; price would decrease.",
+      "Output would increase; price would increase.",
+      "Output would decrease, price would increase."
+    ],
+    "answer": "D",
+    "input": "Question: For a polluting steel company, a government action to most likely achieve an optimal or efficient outcome would produce what effect on the market equilibrium price and output?\nOptions:\n(A) Output would increase; no change in price.\n(B) Output would increase; price would decrease.\n(C) Output would increase; price would increase.\n(D) Output would decrease, price would increase.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "The utility-maximizing rule is to choose the basket of goods that",
+    "choices": [
+      "has the highest marginal utility of each good in the basket.",
+      "has the lowest prices for the goods.",
+      "has the highest value of marginal utility to price for each good.",
+      "the marginal utility to price ratio equal for all goods in the basket subject to the income constraint."
+    ],
+    "answer": "D",
+    "input": "Question: The utility-maximizing rule is to choose the basket of goods that\nOptions:\n(A) has the highest marginal utility of each good in the basket.\n(B) has the lowest prices for the goods.\n(C) has the highest value of marginal utility to price for each good.\n(D) the marginal utility to price ratio equal for all goods in the basket subject to the income constraint.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "The condition that P = MC is the direct requirement for which type of efficiency?",
+    "choices": [
+      "Distributive efficiency",
+      "Technical efficiency",
+      "Efficiency in production",
+      "Allocative efficiency"
+    ],
+    "answer": "D",
+    "input": "Question: The condition that P = MC is the direct requirement for which type of efficiency?\nOptions:\n(A) Distributive efficiency\n(B) Technical efficiency\n(C) Efficiency in production\n(D) Allocative efficiency\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following scenarios would increase a nation's production possibility frontier (PPF)?",
+    "choices": [
+      "The nation's system of higher education slowly declines in quality.",
+      "The nation invests in research and development of new technology.",
+      "The nation's infant mortality rate increases.",
+      "Environmental pollution severely damages the health of the population."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following scenarios would increase a nation's production possibility frontier (PPF)?\nOptions:\n(A) The nation's system of higher education slowly declines in quality.\n(B) The nation invests in research and development of new technology.\n(C) The nation's infant mortality rate increases.\n(D) Environmental pollution severely damages the health of the population.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "In the short run, the shut down price is equal to",
+    "choices": [
+      "minimum point on average total cost.",
+      "maximum point on average total cost.",
+      "minimum point on average variable cost.",
+      "maximum point on average variable cost."
+    ],
+    "answer": "C",
+    "input": "Question: In the short run, the shut down price is equal to\nOptions:\n(A) minimum point on average total cost.\n(B) maximum point on average total cost.\n(C) minimum point on average variable cost.\n(D) maximum point on average variable cost.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following correctly identifies the condition that explains inefficiency for firms in a monopolistically competitive industry?",
+    "choices": [
+      "Higher output than competitive industries.",
+      "Lower price than competitive industries.",
+      "Price equals marginal cost.",
+      "Excess capacity compared to competitive industries."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following correctly identifies the condition that explains inefficiency for firms in a monopolistically competitive industry?\nOptions:\n(A) Higher output than competitive industries.\n(B) Lower price than competitive industries.\n(C) Price equals marginal cost.\n(D) Excess capacity compared to competitive industries.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If supply and demand both increase, the result is",
+    "choices": [
+      "a definite increase in price and an indeterminate change in quantity",
+      "a definite increase in quantity and an indeterminate change in price",
+      "a definite decrease in quantity and an indeterminate change in price",
+      "a definite decrease in price and a definite increase in quantity"
+    ],
+    "answer": "B",
+    "input": "Question: If supply and demand both increase, the result is\nOptions:\n(A) a definite increase in price and an indeterminate change in quantity\n(B) a definite increase in quantity and an indeterminate change in price\n(C) a definite decrease in quantity and an indeterminate change in price\n(D) a definite decrease in price and a definite increase in quantity\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is characteristic of a perfectly competitive firm's demand curve?",
+    "choices": [
+      "average revenue is less than price at all levels of output",
+      "marginal revenue is equal to marginal cost at all levels of output",
+      "price and marginal revenue are equal at all levels of output",
+      "it is the same as the market demand curve"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is characteristic of a perfectly competitive firm's demand curve?\nOptions:\n(A) average revenue is less than price at all levels of output\n(B) marginal revenue is equal to marginal cost at all levels of output\n(C) price and marginal revenue are equal at all levels of output\n(D) it is the same as the market demand curve\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If there is a negative externality associated with the production of a private good, which of the following is an action by government that would most likely move the market to an efficient outcome?",
+    "choices": [
+      "Close the firm producing the good.",
+      "Subsidize the firm or its customers.",
+      "Tax the firm.",
+      "Appoint a commission."
+    ],
+    "answer": "C",
+    "input": "Question: If there is a negative externality associated with the production of a private good, which of the following is an action by government that would most likely move the market to an efficient outcome?\nOptions:\n(A) Close the firm producing the good.\n(B) Subsidize the firm or its customers.\n(C) Tax the firm.\n(D) Appoint a commission.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "When the labor demand curve is downward-sloping, an increase in the minimum wage is",
+    "choices": [
+      "beneficial to some workers and harmful to other workers",
+      "beneficial to all workers and harmful to some employers",
+      "harmful to all workers and employers",
+      "beneficial to all workers and employers"
+    ],
+    "answer": "A",
+    "input": "Question: When the labor demand curve is downward-sloping, an increase in the minimum wage is\nOptions:\n(A) beneficial to some workers and harmful to other workers\n(B) beneficial to all workers and harmful to some employers\n(C) harmful to all workers and employers\n(D) beneficial to all workers and employers\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "The demand curve for the firm operating under perfect competition is",
+    "choices": [
+      "upward sloping to the right.",
+      "downward sloping to the right.",
+      "perfectly vertical line.",
+      "perfectly horizontal function."
+    ],
+    "answer": "D",
+    "input": "Question: The demand curve for the firm operating under perfect competition is\nOptions:\n(A) upward sloping to the right.\n(B) downward sloping to the right.\n(C) perfectly vertical line.\n(D) perfectly horizontal function.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, which of the following is correct?",
+    "choices": [
+      "The price elasticity of demand is unit elastic.",
+      "The price elasticity of demand is inelastic.",
+      "The price elasticity of demand is elastic.",
+      "The numerical coefficient of elasticity is equal to one."
+    ],
+    "answer": "C",
+    "input": "Question: If a firm decreases its prices by 15 percent and its total revenue increases by 30 percent, which of the following is correct?\nOptions:\n(A) The price elasticity of demand is unit elastic.\n(B) The price elasticity of demand is inelastic.\n(C) The price elasticity of demand is elastic.\n(D) The numerical coefficient of elasticity is equal to one.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If the price of a product decreases so that the consumer can buy more of it and other products, this is called the",
+    "choices": [
+      "income effect.",
+      "substitution effect.",
+      "marginal effect.",
+      "supply effect."
+    ],
+    "answer": "A",
+    "input": "Question: If the price of a product decreases so that the consumer can buy more of it and other products, this is called the\nOptions:\n(A) income effect.\n(B) substitution effect.\n(C) marginal effect.\n(D) supply effect.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Usually, the supply curve of firms operating under conditions of perfect competition in product market would be identified as",
+    "choices": [
+      "perfectly vertical in the long run.",
+      "perfectly horizontal in the short run.",
+      "more elastic in the long run.",
+      "more elastic in the short run."
+    ],
+    "answer": "C",
+    "input": "Question: Usually, the supply curve of firms operating under conditions of perfect competition in product market would be identified as\nOptions:\n(A) perfectly vertical in the long run.\n(B) perfectly horizontal in the short run.\n(C) more elastic in the long run.\n(D) more elastic in the short run.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied,",
+    "choices": [
+      "supply is unit elastic",
+      "demand is inelastic",
+      "demand is elastic",
+      "supply is elastic"
+    ],
+    "answer": "D",
+    "input": "Question: If a 3 percent increase in price leads to a 5 percent increase in the quantity supplied,\nOptions:\n(A) supply is unit elastic\n(B) demand is inelastic\n(C) demand is elastic\n(D) supply is elastic\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is a correct statement?",
+    "choices": [
+      "Average total cost equals marginal cost plus average fixed costs.",
+      "Average total cost equals marginal costs plus average variable costs.",
+      "Average total cost equals average fixed costs plus average variable costs.",
+      "Total fixed costs vary with output."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a correct statement?\nOptions:\n(A) Average total cost equals marginal cost plus average fixed costs.\n(B) Average total cost equals marginal costs plus average variable costs.\n(C) Average total cost equals average fixed costs plus average variable costs.\n(D) Total fixed costs vary with output.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "Which of the following is more likely to result from a competitive market structure than from a monopoly making the same product?",
+    "choices": [
+      "Price equal to marginal cost",
+      "Relative welfare loss",
+      "Relatively high price",
+      "Relatively low quantity"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is more likely to result from a competitive market structure than from a monopoly making the same product?\nOptions:\n(A) Price equal to marginal cost\n(B) Relative welfare loss\n(C) Relatively high price\n(D) Relatively low quantity\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_microeconomics",
+    "question": "An industry with three firms selling a standardized or differentiated product would be called",
+    "choices": [
+      "a competitive industry",
+      "a monopolistically competitive industry",
+      "an oligopoly",
+      "a duopoly"
+    ],
+    "answer": "C",
+    "input": "Question: An industry with three firms selling a standardized or differentiated product would be called\nOptions:\n(A) a competitive industry\n(B) a monopolistically competitive industry\n(C) an oligopoly\n(D) a duopoly\nAnswer:",
+    "target": "(C)"
+  }
+]

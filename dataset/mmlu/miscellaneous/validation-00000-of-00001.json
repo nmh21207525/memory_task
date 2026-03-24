@@ -1,0 +1,1120 @@
+[
+  {
+    "subject": "miscellaneous",
+    "question": "Which American colony known for its religious tolerance did Roger Williams found in 1636?",
+    "choices": [
+      "Massachusetts",
+      "Rhode Island",
+      "Virginia",
+      "Vermont"
+    ],
+    "answer": "B",
+    "input": "Question: Which American colony known for its religious tolerance did Roger Williams found in 1636?\nOptions:\n(A) Massachusetts\n(B) Rhode Island\n(C) Virginia\n(D) Vermont\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these months has 31 days?",
+    "choices": [
+      "March",
+      "April",
+      "June",
+      "September"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these months has 31 days?\nOptions:\n(A) March\n(B) April\n(C) June\n(D) September\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "A student who earns a JD can begin his or her career as a what?",
+    "choices": [
+      "lawyer",
+      "bricklayer",
+      "doctor",
+      "accountant"
+    ],
+    "answer": "A",
+    "input": "Question: A student who earns a JD can begin his or her career as a what?\nOptions:\n(A) lawyer\n(B) bricklayer\n(C) doctor\n(D) accountant\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "The buildup of military forces and the formation of a rigid military alliance system were major causes of which of the following wars?",
+    "choices": [
+      "The Spanish-American War",
+      "The First World War",
+      "The Second World War",
+      "The Vietnam War"
+    ],
+    "answer": "B",
+    "input": "Question: The buildup of military forces and the formation of a rigid military alliance system were major causes of which of the following wars?\nOptions:\n(A) The Spanish-American War\n(B) The First World War\n(C) The Second World War\n(D) The Vietnam War\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the revenue of peugeots sold in France per year (as of 2013)?",
+    "choices": [
+      "approximately $200 million",
+      "approximately $2 billion",
+      "approximately $20 billion",
+      "approximately $200 billion"
+    ],
+    "answer": "C",
+    "input": "Question: What is the revenue of peugeots sold in France per year (as of 2013)?\nOptions:\n(A) approximately $200 million\n(B) approximately $2 billion\n(C) approximately $20 billion\n(D) approximately $200 billion\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In Mister Rogers' theme song what does he ask you to be?",
+    "choices": [
+      "his cook",
+      "his student",
+      "his neighbor",
+      "all you can be"
+    ],
+    "answer": "C",
+    "input": "Question: In Mister Rogers' theme song what does he ask you to be?\nOptions:\n(A) his cook\n(B) his student\n(C) his neighbor\n(D) all you can be\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Barium belongs to which metal group?",
+    "choices": [
+      "Transition",
+      "Lanthanide",
+      "Alkali",
+      "Alkaline Earth"
+    ],
+    "answer": "D",
+    "input": "Question: Barium belongs to which metal group?\nOptions:\n(A) Transition\n(B) Lanthanide\n(C) Alkali\n(D) Alkaline Earth\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many quarts are there in a gallon?",
+    "choices": [
+      "one",
+      "two",
+      "three",
+      "four"
+    ],
+    "answer": "D",
+    "input": "Question: How many quarts are there in a gallon?\nOptions:\n(A) one\n(B) two\n(C) three\n(D) four\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following is most commonly kept in a terrarium?",
+    "choices": [
+      "money",
+      "books",
+      "ice",
+      "plants"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is most commonly kept in a terrarium?\nOptions:\n(A) money\n(B) books\n(C) ice\n(D) plants\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many balloons would be required to fill the Empire State Building, which is about 100 stories tall?",
+    "choices": [
+      "60,000,000",
+      "60,000,000",
+      "600,000,000",
+      "6,000,000,000"
+    ],
+    "answer": "A",
+    "input": "Question: How many balloons would be required to fill the Empire State Building, which is about 100 stories tall?\nOptions:\n(A) 60,000,000\n(B) 60,000,000\n(C) 600,000,000\n(D) 6,000,000,000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these is not a type of rock?",
+    "choices": [
+      "metamorphic",
+      "sedimentary",
+      "igneous",
+      "deciduous"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these is not a type of rock?\nOptions:\n(A) metamorphic\n(B) sedimentary\n(C) igneous\n(D) deciduous\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following items will be attracted to the north pole of a permanent magnet by a magnetic force?",
+    "choices": [
+      "The north pole of another permanent magnet",
+      "A piece of iron that is not a permanent magnet",
+      "A positively charged glass rod",
+      "A negatively charged rubber rod"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following items will be attracted to the north pole of a permanent magnet by a magnetic force?\nOptions:\n(A) The north pole of another permanent magnet\n(B) A piece of iron that is not a permanent magnet\n(C) A positively charged glass rod\n(D) A negatively charged rubber rod\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What does an animal produce when it lactates?",
+    "choices": [
+      "Sweat",
+      "Wool",
+      "Milk",
+      "Methane"
+    ],
+    "answer": "C",
+    "input": "Question: What does an animal produce when it lactates?\nOptions:\n(A) Sweat\n(B) Wool\n(C) Milk\n(D) Methane\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following skills must be mastered before a child can learn to skip?",
+    "choices": [
+      "Hopping",
+      "Running",
+      "Walking backward",
+      "Crab walking"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following skills must be mastered before a child can learn to skip?\nOptions:\n(A) Hopping\n(B) Running\n(C) Walking backward\n(D) Crab walking\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the last book of the New Testament?",
+    "choices": [
+      "Revelation",
+      "Judges",
+      "Ruth",
+      "John"
+    ],
+    "answer": "A",
+    "input": "Question: What is the last book of the New Testament?\nOptions:\n(A) Revelation\n(B) Judges\n(C) Ruth\n(D) John\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In one hour, Amanda can type five pages of a report or she can make 10 sandwiches. The opportunity cost of typing one page of a report is",
+    "choices": [
+      "2 sandwiches",
+      "5 sandwiches",
+      "10 sandwiches",
+      "50 sandwiches"
+    ],
+    "answer": "A",
+    "input": "Question: In one hour, Amanda can type five pages of a report or she can make 10 sandwiches. The opportunity cost of typing one page of a report is\nOptions:\n(A) 2 sandwiches\n(B) 5 sandwiches\n(C) 10 sandwiches\n(D) 50 sandwiches\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "According to the popular saying what should you do 'when in Rome'?",
+    "choices": [
+      "watch your wallet",
+      "see the Coliseum",
+      "as the Romans do",
+      "don't drink the water"
+    ],
+    "answer": "C",
+    "input": "Question: According to the popular saying what should you do 'when in Rome'?\nOptions:\n(A) watch your wallet\n(B) see the Coliseum\n(C) as the Romans do\n(D) don't drink the water\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these toys answers questions?",
+    "choices": [
+      "Magic 8 Ball",
+      "Barbie",
+      "Frisbee",
+      "Slinky"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these toys answers questions?\nOptions:\n(A) Magic 8 Ball\n(B) Barbie\n(C) Frisbee\n(D) Slinky\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these would you most commonly find in a sconce?",
+    "choices": [
+      "candle",
+      "food",
+      "birds",
+      "books"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these would you most commonly find in a sconce?\nOptions:\n(A) candle\n(B) food\n(C) birds\n(D) books\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "With which of the following statements would both Thomas Hobbes and John Locke most probably have agreed?",
+    "choices": [
+      "Government authority is created as the result of a social contract.",
+      "Government must enforce religious law to prevent moral decay.",
+      "Government must enforce the majority's will regardless of the wishes of the minority.",
+      "Government must bend to the will of the educated minority."
+    ],
+    "answer": "A",
+    "input": "Question: With which of the following statements would both Thomas Hobbes and John Locke most probably have agreed?\nOptions:\n(A) Government authority is created as the result of a social contract.\n(B) Government must enforce religious law to prevent moral decay.\n(C) Government must enforce the majority's will regardless of the wishes of the minority.\n(D) Government must bend to the will of the educated minority.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "If each of the following meals provides the same number of calories, which meal requires the most land to produce the food?",
+    "choices": [
+      "Red beans and rice",
+      "Steak and a baked potato",
+      "Corn tortilla and refried beans",
+      "Lentil soup and brown bread"
+    ],
+    "answer": "B",
+    "input": "Question: If each of the following meals provides the same number of calories, which meal requires the most land to produce the food?\nOptions:\n(A) Red beans and rice\n(B) Steak and a baked potato\n(C) Corn tortilla and refried beans\n(D) Lentil soup and brown bread\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "A triptych is a work of art that is painted on how many panels?",
+    "choices": [
+      "two",
+      "three",
+      "five",
+      "eight"
+    ],
+    "answer": "B",
+    "input": "Question: A triptych is a work of art that is painted on how many panels?\nOptions:\n(A) two\n(B) three\n(C) five\n(D) eight\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "When driving which of the following gestures means 'left turn'?",
+    "choices": [
+      "arm bent upwards",
+      "thumbs up",
+      "closed fist",
+      "arm straight out"
+    ],
+    "answer": "D",
+    "input": "Question: When driving which of the following gestures means 'left turn'?\nOptions:\n(A) arm bent upwards\n(B) thumbs up\n(C) closed fist\n(D) arm straight out\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these television programs did not feature characters introduced on 'Happy Days'?",
+    "choices": [
+      "'Mork & Mindy'",
+      "'Perfect Strangers'",
+      "'Joanie Loves Chachi'",
+      "'Laverne & Shirley'"
+    ],
+    "answer": "B",
+    "input": "Question: Which of these television programs did not feature characters introduced on 'Happy Days'?\nOptions:\n(A) 'Mork & Mindy'\n(B) 'Perfect Strangers'\n(C) 'Joanie Loves Chachi'\n(D) 'Laverne & Shirley'\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following text features should a student examine first when determining the main idea of a passage in an informational text?",
+    "choices": [
+      "Table of contents",
+      "Italicized words",
+      "Headings",
+      "Captions"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following text features should a student examine first when determining the main idea of a passage in an informational text?\nOptions:\n(A) Table of contents\n(B) Italicized words\n(C) Headings\n(D) Captions\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Polarized sunglasses are used to cut glare from sunlight reflected at a glancing angle off cars, water, and other surfaces. Such sunglasses are a practical application of which of the following physical principles?",
+    "choices": [
+      "Brewster's law",
+      "Lenz's law",
+      "Coulomb's law",
+      "Snell's law"
+    ],
+    "answer": "A",
+    "input": "Question: Polarized sunglasses are used to cut glare from sunlight reflected at a glancing angle off cars, water, and other surfaces. Such sunglasses are a practical application of which of the following physical principles?\nOptions:\n(A) Brewster's law\n(B) Lenz's law\n(C) Coulomb's law\n(D) Snell's law\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What are the plastic boxes that hold compact discs called?",
+    "choices": [
+      "frame cases",
+      "jewel cases",
+      "slip cases",
+      "wafer boxes"
+    ],
+    "answer": "B",
+    "input": "Question: What are the plastic boxes that hold compact discs called?\nOptions:\n(A) frame cases\n(B) jewel cases\n(C) slip cases\n(D) wafer boxes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "If equal and opposite charges are placed on the two plates of a parallel plate capacitor and the plates are then moved apart, which of the following remain(s) constant? I. Voltage II. Capacitance III. Charge",
+    "choices": [
+      "I only",
+      "II only",
+      "III only",
+      "I and II only"
+    ],
+    "answer": "C",
+    "input": "Question: If equal and opposite charges are placed on the two plates of a parallel plate capacitor and the plates are then moved apart, which of the following remain(s) constant? I. Voltage II. Capacitance III. Charge\nOptions:\n(A) I only\n(B) II only\n(C) III only\n(D) I and II only\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these is referred to as a 'pigskin'?",
+    "choices": [
+      "Football",
+      "Basketball",
+      "hockey puck",
+      "catcher's Mitt"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these is referred to as a 'pigskin'?\nOptions:\n(A) Football\n(B) Basketball\n(C) hockey puck\n(D) catcher's Mitt\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What corporation was founded by a candlemaker and a soapmaker?",
+    "choices": [
+      "Simon & Schuster",
+      "Procter & Gamble",
+      "Johnson & Johnson",
+      "Smith & Wesson"
+    ],
+    "answer": "B",
+    "input": "Question: What corporation was founded by a candlemaker and a soapmaker?\nOptions:\n(A) Simon & Schuster\n(B) Procter & Gamble\n(C) Johnson & Johnson\n(D) Smith & Wesson\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
+    "choices": [
+      "Sancho Panza",
+      "Passepartout",
+      "Renfield",
+      "Savoir Faire"
+    ],
+    "answer": "B",
+    "input": "Question: In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?\nOptions:\n(A) Sancho Panza\n(B) Passepartout\n(C) Renfield\n(D) Savoir Faire\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "According to Greek mythology who was Apollo's twin sister?",
+    "choices": [
+      "Aphrodite",
+      "Artemis",
+      "Venus",
+      "Athena"
+    ],
+    "answer": "B",
+    "input": "Question: According to Greek mythology who was Apollo's twin sister?\nOptions:\n(A) Aphrodite\n(B) Artemis\n(C) Venus\n(D) Athena\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What chemical do people frequently use to bleach hair?",
+    "choices": [
+      "folic acid",
+      "hydrogen peroxide",
+      "sodium chloride",
+      "nitrous oxide"
+    ],
+    "answer": "B",
+    "input": "Question: What chemical do people frequently use to bleach hair?\nOptions:\n(A) folic acid\n(B) hydrogen peroxide\n(C) sodium chloride\n(D) nitrous oxide\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "A person heterozygous for the recessive gene for cystic fibrosis marries a person who does not carry or have the trait (homozygous dominant). What is the probability that the couple's first child will be a carrier?",
+    "choices": [
+      "0",
+      "0.25",
+      "0.5",
+      "1"
+    ],
+    "answer": "C",
+    "input": "Question: A person heterozygous for the recessive gene for cystic fibrosis marries a person who does not carry or have the trait (homozygous dominant). What is the probability that the couple's first child will be a carrier?\nOptions:\n(A) 0\n(B) 0.25\n(C) 0.5\n(D) 1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following states that geological processes and natural laws that operate now have operated in the past?",
+    "choices": [
+      "The evolutionary theory",
+      "The law of superposition",
+      "The law of thermodynamics",
+      "The principle of uniformitarianism"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following states that geological processes and natural laws that operate now have operated in the past?\nOptions:\n(A) The evolutionary theory\n(B) The law of superposition\n(C) The law of thermodynamics\n(D) The principle of uniformitarianism\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which is the hottest planet?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": "A",
+    "input": "Question: Which is the hottest planet?\nOptions:\n(A) Venus\n(B) Mercury\n(C) Saturn\n(D) Jupiter\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the singular form of the word 'graffiti'?",
+    "choices": [
+      "graffita",
+      "graffitem",
+      "graffito",
+      "graffitus"
+    ],
+    "answer": "C",
+    "input": "Question: What is the singular form of the word 'graffiti'?\nOptions:\n(A) graffita\n(B) graffitem\n(C) graffito\n(D) graffitus\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following has contributed to low voter turnout in United States elections?",
+    "choices": [
+      "Robust political parties",
+      "Voter registration requirements",
+      "An increase in the average age of American citizens",
+      "The Australian ballot"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following has contributed to low voter turnout in United States elections?\nOptions:\n(A) Robust political parties\n(B) Voter registration requirements\n(C) An increase in the average age of American citizens\n(D) The Australian ballot\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "'Nature Mr Allnut is what we are put in this world to rise above' is a line from what film?",
+    "choices": [
+      "'Citizen Kane'",
+      "'The African Queen'",
+      "'The Deer Hunter'",
+      "'Adam's Rib'"
+    ],
+    "answer": "B",
+    "input": "Question: 'Nature Mr Allnut is what we are put in this world to rise above' is a line from what film?\nOptions:\n(A) 'Citizen Kane'\n(B) 'The African Queen'\n(C) 'The Deer Hunter'\n(D) 'Adam's Rib'\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these pastas is spiral shaped?",
+    "choices": [
+      "fettuccine",
+      "rigatoni",
+      "tortellini",
+      "rotini"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these pastas is spiral shaped?\nOptions:\n(A) fettuccine\n(B) rigatoni\n(C) tortellini\n(D) rotini\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "The boy is very quiet. The sentence above is an example of which of the following?",
+    "choices": [
+      "Simple sentence",
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex sentence"
+    ],
+    "answer": "A",
+    "input": "Question: The boy is very quiet. The sentence above is an example of which of the following?\nOptions:\n(A) Simple sentence\n(B) Complex sentence\n(C) Compound sentence\n(D) Compound-complex sentence\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following systems within a vehicle produces the power needed to move it?",
+    "choices": [
+      "Guidance",
+      "Control",
+      "Propulsion",
+      "Structural"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following systems within a vehicle produces the power needed to move it?\nOptions:\n(A) Guidance\n(B) Control\n(C) Propulsion\n(D) Structural\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following methods of reforestation has the lowest direct cost but is also the slowest method and the least reliable?",
+    "choices": [
+      "Natural seeding",
+      "Direct seeding",
+      "Planting seedlings",
+      "Planting cuttings"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following methods of reforestation has the lowest direct cost but is also the slowest method and the least reliable?\nOptions:\n(A) Natural seeding\n(B) Direct seeding\n(C) Planting seedlings\n(D) Planting cuttings\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these Australian birds is most closely related to the0ostrich?",
+    "choices": [
+      "puffin",
+      "kookaburra",
+      "cockatoo",
+      "emu"
+    ],
+    "answer": "D",
+    "input": "Question: Which of these Australian birds is most closely related to the0ostrich?\nOptions:\n(A) puffin\n(B) kookaburra\n(C) cockatoo\n(D) emu\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "The federal government can influence the policies of state governments through use of",
+    "choices": [
+      "grants-in-aid",
+      "the line-item veto",
+      "executive privilege",
+      "separation of powers"
+    ],
+    "answer": "A",
+    "input": "Question: The federal government can influence the policies of state governments through use of\nOptions:\n(A) grants-in-aid\n(B) the line-item veto\n(C) executive privilege\n(D) separation of powers\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many men has actress Elizabeth Taylor been divorced from?",
+    "choices": [
+      "five",
+      "six",
+      "seven",
+      "eight"
+    ],
+    "answer": "C",
+    "input": "Question: How many men has actress Elizabeth Taylor been divorced from?\nOptions:\n(A) five\n(B) six\n(C) seven\n(D) eight\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
+    "choices": [
+      "Polly Finn",
+      "Becky Thatcher",
+      "Nancy Drew",
+      "Emma Bovary"
+    ],
+    "answer": "B",
+    "input": "Question: In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?\nOptions:\n(A) Polly Finn\n(B) Becky Thatcher\n(C) Nancy Drew\n(D) Emma Bovary\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these Hemingway characters is a newspaperman?",
+    "choices": [
+      "Jake Barnes",
+      "Rogelio Gomez",
+      "Frederic Henry",
+      "John MacWalsey"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these Hemingway characters is a newspaperman?\nOptions:\n(A) Jake Barnes\n(B) Rogelio Gomez\n(C) Frederic Henry\n(D) John MacWalsey\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What kind of worker uses a \"paddy wagon\"?",
+    "choices": [
+      "limo driver",
+      "police officer",
+      "rice farmer",
+      "paramedic"
+    ],
+    "answer": "B",
+    "input": "Question: What kind of worker uses a \"paddy wagon\"?\nOptions:\n(A) limo driver\n(B) police officer\n(C) rice farmer\n(D) paramedic\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which 'Rocky' film features Mr T?",
+    "choices": [
+      "'Rocky II'",
+      "'Rocky III'",
+      "'Rocky IV'",
+      "'Rocky '"
+    ],
+    "answer": "B",
+    "input": "Question: Which 'Rocky' film features Mr T?\nOptions:\n(A) 'Rocky II'\n(B) 'Rocky III'\n(C) 'Rocky IV'\n(D) 'Rocky '\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Assume the demand for wheat is relatively price inelastic. An increase in the supply of wheat will result in which of the following?",
+    "choices": [
+      "A decrease in quantity demanded and an increase in total revenue",
+      "A decrease in quantity demanded and a decrease in total revenue",
+      "An increase in quantity demanded and an increase in total revenue",
+      "An increase in quantity demanded and a decrease in total revenue"
+    ],
+    "answer": "D",
+    "input": "Question: Assume the demand for wheat is relatively price inelastic. An increase in the supply of wheat will result in which of the following?\nOptions:\n(A) A decrease in quantity demanded and an increase in total revenue\n(B) A decrease in quantity demanded and a decrease in total revenue\n(C) An increase in quantity demanded and an increase in total revenue\n(D) An increase in quantity demanded and a decrease in total revenue\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the principal ingredient in traditional cole slaw?",
+    "choices": [
+      "Lettuce",
+      "Spinach",
+      "Cabbage",
+      "Chicory"
+    ],
+    "answer": "C",
+    "input": "Question: What is the principal ingredient in traditional cole slaw?\nOptions:\n(A) Lettuce\n(B) Spinach\n(C) Cabbage\n(D) Chicory\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following was one social effect of the Second World War on the United States home front during the war years?",
+    "choices": [
+      "The proportion of women in the workforce increased substantially.",
+      "Social segregation between African Americans and Whites in the southern United States rapidly diminished.",
+      "The baby boom caused rapid population growth during the war.",
+      "The generation gap grew more pronounced because many young people were alienated from the war effort."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following was one social effect of the Second World War on the United States home front during the war years?\nOptions:\n(A) The proportion of women in the workforce increased substantially.\n(B) Social segregation between African Americans and Whites in the southern United States rapidly diminished.\n(C) The baby boom caused rapid population growth during the war.\n(D) The generation gap grew more pronounced because many young people were alienated from the war effort.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In the television network abbreviation 'ABC' what does the 'A' stand for?",
+    "choices": [
+      "Artistic",
+      "Audio",
+      "American",
+      "Adult"
+    ],
+    "answer": "C",
+    "input": "Question: In the television network abbreviation 'ABC' what does the 'A' stand for?\nOptions:\n(A) Artistic\n(B) Audio\n(C) American\n(D) Adult\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How long is Hanukkah?",
+    "choices": [
+      "one day",
+      "five days",
+      "eight days",
+      "two weeks"
+    ],
+    "answer": "C",
+    "input": "Question: How long is Hanukkah?\nOptions:\n(A) one day\n(B) five days\n(C) eight days\n(D) two weeks\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What mathematical term is used to describe the average of a series of numbers?",
+    "choices": [
+      "median",
+      "mode",
+      "majority",
+      "mean"
+    ],
+    "answer": "D",
+    "input": "Question: What mathematical term is used to describe the average of a series of numbers?\nOptions:\n(A) median\n(B) mode\n(C) majority\n(D) mean\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Huffy Schwinn and Raleigh are all brands of what?",
+    "choices": [
+      "sportswear",
+      "dishwashers",
+      "cigarettes",
+      "bicycles"
+    ],
+    "answer": "D",
+    "input": "Question: Huffy Schwinn and Raleigh are all brands of what?\nOptions:\n(A) sportswear\n(B) dishwashers\n(C) cigarettes\n(D) bicycles\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "When preparing a presentation, which of the following might make data-heavy text more reader friendly?",
+    "choices": [
+      "Providing an overview of data",
+      "Using italics on numbers",
+      "Using double-spacing for all text",
+      "Including relevant graphics with text"
+    ],
+    "answer": "D",
+    "input": "Question: When preparing a presentation, which of the following might make data-heavy text more reader friendly?\nOptions:\n(A) Providing an overview of data\n(B) Using italics on numbers\n(C) Using double-spacing for all text\n(D) Including relevant graphics with text\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "If you have a 'sawbuck' how much money do you have?",
+    "choices": [
+      "$1",
+      "$5",
+      "$10",
+      "$20"
+    ],
+    "answer": "C",
+    "input": "Question: If you have a 'sawbuck' how much money do you have?\nOptions:\n(A) $1\n(B) $5\n(C) $10\n(D) $20\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Who is the star of the movie 'Casablanca'?",
+    "choices": [
+      "Errol Flynn",
+      "Clark Gable",
+      "Cary Grant",
+      "Humphrey Bogart"
+    ],
+    "answer": "D",
+    "input": "Question: Who is the star of the movie 'Casablanca'?\nOptions:\n(A) Errol Flynn\n(B) Clark Gable\n(C) Cary Grant\n(D) Humphrey Bogart\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these states is not the birthplace of a US president?",
+    "choices": [
+      "New Jersey",
+      "Nebraska",
+      "Kansas",
+      "California"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these states is not the birthplace of a US president?\nOptions:\n(A) New Jersey\n(B) Nebraska\n(C) Kansas\n(D) California\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In what war did Joan of Arc fight?",
+    "choices": [
+      "Hundred Years' War",
+      "Franco-Prussian War",
+      "French Revolution",
+      "French and Indian War"
+    ],
+    "answer": "A",
+    "input": "Question: In what war did Joan of Arc fight?\nOptions:\n(A) Hundred Years' War\n(B) Franco-Prussian War\n(C) French Revolution\n(D) French and Indian War\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "On the TV show 'Hill Street Blues' What is Joyce Davenport's nickname For Captain Frank Furillo?",
+    "choices": [
+      "Furry Monster",
+      "Pizza Man",
+      "Snookums",
+      "Baby Cakes"
+    ],
+    "answer": "B",
+    "input": "Question: On the TV show 'Hill Street Blues' What is Joyce Davenport's nickname For Captain Frank Furillo?\nOptions:\n(A) Furry Monster\n(B) Pizza Man\n(C) Snookums\n(D) Baby Cakes\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What football player was known as 'The Galloping Ghost'?",
+    "choices": [
+      "Jim Thorpe",
+      "Dick Butkus",
+      "Red Grange",
+      "George Halas"
+    ],
+    "answer": "C",
+    "input": "Question: What football player was known as 'The Galloping Ghost'?\nOptions:\n(A) Jim Thorpe\n(B) Dick Butkus\n(C) Red Grange\n(D) George Halas\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of the following is a natural sugar found in most fruits?",
+    "choices": [
+      "Necrose",
+      "Fructose",
+      "Bellicose",
+      "Pantiose"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a natural sugar found in most fruits?\nOptions:\n(A) Necrose\n(B) Fructose\n(C) Bellicose\n(D) Pantiose\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "If an empty room measures about 50 feet wide by 50 feet long, which of the following is a good estimate of how many people can stand shoulder-to-shoulder in the room?",
+    "choices": [
+      "1000",
+      "3000",
+      "6000",
+      "9000"
+    ],
+    "answer": "A",
+    "input": "Question: If an empty room measures about 50 feet wide by 50 feet long, which of the following is a good estimate of how many people can stand shoulder-to-shoulder in the room?\nOptions:\n(A) 1000\n(B) 3000\n(C) 6000\n(D) 9000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is an alternate name for the food dish 'Beijing duck'?",
+    "choices": [
+      "Shanghai duck",
+      "Peking duck",
+      "Hong Kong duck",
+      "Brooklyn duck"
+    ],
+    "answer": "B",
+    "input": "Question: What is an alternate name for the food dish 'Beijing duck'?\nOptions:\n(A) Shanghai duck\n(B) Peking duck\n(C) Hong Kong duck\n(D) Brooklyn duck\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many leaves will fall in the United States this fall?",
+    "choices": [
+      "3*10^9",
+      "3*10^12",
+      "3*10^15",
+      "3*10^18"
+    ],
+    "answer": "C",
+    "input": "Question: How many leaves will fall in the United States this fall?\nOptions:\n(A) 3*10^9\n(B) 3*10^12\n(C) 3*10^15\n(D) 3*10^18\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Continued high agricultural production by farms in the United States depends most on which of the following natural resources?",
+    "choices": [
+      "Coal",
+      "Limestone",
+      "Gypsum",
+      "Petroleum"
+    ],
+    "answer": "D",
+    "input": "Question: Continued high agricultural production by farms in the United States depends most on which of the following natural resources?\nOptions:\n(A) Coal\n(B) Limestone\n(C) Gypsum\n(D) Petroleum\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "As a quick assessment of lesson vocabulary, a teacher writes the following definition on the board. A set of expected behaviors for citizens who hold particular positions in society The teacher then asks students to write on their whiteboard the vocabulary word related to the definition. Which of the following students wrote the correct word?",
+    "choices": [
+      "Bob, who wrote \"influence\"",
+      "Danielle, who wrote \"roles\"",
+      "Mike, who wrote \"laws\"",
+      "Gretchen, who wrote \"ethos\""
+    ],
+    "answer": "B",
+    "input": "Question: As a quick assessment of lesson vocabulary, a teacher writes the following definition on the board. A set of expected behaviors for citizens who hold particular positions in society The teacher then asks students to write on their whiteboard the vocabulary word related to the definition. Which of the following students wrote the correct word?\nOptions:\n(A) Bob, who wrote \"influence\"\n(B) Danielle, who wrote \"roles\"\n(C) Mike, who wrote \"laws\"\n(D) Gretchen, who wrote \"ethos\"\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is another name for the camelopard?",
+    "choices": [
+      "circus",
+      "giraffe",
+      "cantaloupe",
+      "oasis"
+    ],
+    "answer": "B",
+    "input": "Question: What is another name for the camelopard?\nOptions:\n(A) circus\n(B) giraffe\n(C) cantaloupe\n(D) oasis\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the revenue for the board game Monopoly sold in India per year (as of 2013)?",
+    "choices": [
+      "$3.6 million.",
+      "$36 million.",
+      "$360 million.",
+      "$3.6 billion."
+    ],
+    "answer": "B",
+    "input": "Question: What is the revenue for the board game Monopoly sold in India per year (as of 2013)?\nOptions:\n(A) $3.6 million.\n(B) $36 million.\n(C) $360 million.\n(D) $3.6 billion.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the oldest continuously run sporting event in the United States?",
+    "choices": [
+      "Westminster Dog Show",
+      "Boston Marathon",
+      "Kentucky Derby",
+      "Indianapolis 500"
+    ],
+    "answer": "C",
+    "input": "Question: What is the oldest continuously run sporting event in the United States?\nOptions:\n(A) Westminster Dog Show\n(B) Boston Marathon\n(C) Kentucky Derby\n(D) Indianapolis 500\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Into what body of water does the Rhone River flow?",
+    "choices": [
+      "Atlantic Ocean",
+      "Caspian Sea",
+      "North Sea",
+      "Mediterranean Sea"
+    ],
+    "answer": "D",
+    "input": "Question: Into what body of water does the Rhone River flow?\nOptions:\n(A) Atlantic Ocean\n(B) Caspian Sea\n(C) North Sea\n(D) Mediterranean Sea\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "According to folklore the 'jackalope' is an antlered version of what animal?",
+    "choices": [
+      "chicken",
+      "rabbit",
+      "moose",
+      "snake"
+    ],
+    "answer": "B",
+    "input": "Question: According to folklore the 'jackalope' is an antlered version of what animal?\nOptions:\n(A) chicken\n(B) rabbit\n(C) moose\n(D) snake\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many atoms that are in your body right now were ever part of Marie Curie's body?  Consider food, drink, and air.",
+    "choices": [
+      "10^12 atoms",
+      "10^14 atoms",
+      "10^16 atoms",
+      "10^18 atoms"
+    ],
+    "answer": "A",
+    "input": "Question: How many atoms that are in your body right now were ever part of Marie Curie's body?  Consider food, drink, and air.\nOptions:\n(A) 10^12 atoms\n(B) 10^14 atoms\n(C) 10^16 atoms\n(D) 10^18 atoms\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?",
+    "choices": [
+      "Stormfield",
+      "Fog City",
+      "Mudville",
+      "Waterlog"
+    ],
+    "answer": "C",
+    "input": "Question: In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?\nOptions:\n(A) Stormfield\n(B) Fog City\n(C) Mudville\n(D) Waterlog\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What are the dimensions of a 'letter size' piece of paper?",
+    "choices": [
+      "3 1/2  5 inches",
+      "5  10 inches",
+      "8 1/2  11 inches",
+      "11 17 inches"
+    ],
+    "answer": "C",
+    "input": "Question: What are the dimensions of a 'letter size' piece of paper?\nOptions:\n(A) 3 1/2  5 inches\n(B) 5  10 inches\n(C) 8 1/2  11 inches\n(D) 11 17 inches\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "How many ounces are in a pound?",
+    "choices": [
+      "4",
+      "12",
+      "16",
+      "32"
+    ],
+    "answer": "C",
+    "input": "Question: How many ounces are in a pound?\nOptions:\n(A) 4\n(B) 12\n(C) 16\n(D) 32\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Excluding wisdom teeth how many adult teeth do humans have?",
+    "choices": [
+      "28",
+      "32",
+      "35",
+      "40"
+    ],
+    "answer": "A",
+    "input": "Question: Excluding wisdom teeth how many adult teeth do humans have?\nOptions:\n(A) 28\n(B) 32\n(C) 35\n(D) 40\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?",
+    "choices": [
+      "Sylvester Stallone",
+      "Jack Nicholson",
+      "Jack Palance",
+      "Marisa Tomei"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?\nOptions:\n(A) Sylvester Stallone\n(B) Jack Nicholson\n(C) Jack Palance\n(D) Marisa Tomei\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is the second longest bone in the human body?",
+    "choices": [
+      "Fibula",
+      "Tibia",
+      "Humerus",
+      "Femur"
+    ],
+    "answer": "B",
+    "input": "Question: What is the second longest bone in the human body?\nOptions:\n(A) Fibula\n(B) Tibia\n(C) Humerus\n(D) Femur\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "In storing printmaking supplies, it is important to store which of the following materials separately from the others?",
+    "choices": [
+      "Acetic acid",
+      "Rosin powder",
+      "Nitric acid",
+      "Solvents"
+    ],
+    "answer": "C",
+    "input": "Question: In storing printmaking supplies, it is important to store which of the following materials separately from the others?\nOptions:\n(A) Acetic acid\n(B) Rosin powder\n(C) Nitric acid\n(D) Solvents\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these colors is a shade of blue?",
+    "choices": [
+      "ochre",
+      "periwinkle",
+      "mauve",
+      "ecru"
+    ],
+    "answer": "B",
+    "input": "Question: Which of these colors is a shade of blue?\nOptions:\n(A) ochre\n(B) periwinkle\n(C) mauve\n(D) ecru\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "An external circuit has a resistance of 7.0 ohms and a current of 2.0 amperes. The potential difference across the circuit is which of the following?",
+    "choices": [
+      "14.0 volts",
+      "9.0 volts",
+      "3.5 volts",
+      "0.28 volts"
+    ],
+    "answer": "C",
+    "input": "Question: An external circuit has a resistance of 7.0 ohms and a current of 2.0 amperes. The potential difference across the circuit is which of the following?\nOptions:\n(A) 14.0 volts\n(B) 9.0 volts\n(C) 3.5 volts\n(D) 0.28 volts\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which symphony did Haydn write to wake up the audience?",
+    "choices": [
+      "Surprise",
+      "Bear",
+      "Military",
+      "Hen"
+    ],
+    "answer": "A",
+    "input": "Question: Which symphony did Haydn write to wake up the audience?\nOptions:\n(A) Surprise\n(B) Bear\n(C) Military\n(D) Hen\nAnswer:",
+    "target": "(A)"
+  }
+]

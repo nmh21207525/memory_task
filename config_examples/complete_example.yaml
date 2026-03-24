@@ -1,0 +1,63 @@
+# 完整配置示例：混合多种数据集
+
+datasets:
+  # === BBH 风格的复杂配置 ===
+  bbh:
+    data_dir: ./external/BIG-Bench-Hard/bbh
+    default_prompt:
+      task_prompt: ""
+      answer_format: ""
+      generation_length: 128
+    task_prompts:
+      boolean_expressions:
+        task_prompt: "Evaluate the boolean expression and determine if it is True or False."
+        answer_format: "Answer with only 'true' or 'false'."
+        generation_length: 16
+      causal_judgement:
+        task_prompt: "Answer questions about causal attribution."
+        answer_format: "Answer with only 'yes' or 'no'."
+        generation_length: 16
+      date_understanding:
+        task_prompt: "Answer questions about dates and times."
+        answer_format: "Answer with the specific date or time."
+        generation_length: 32
+      # ... 其他 BBH tasks
+
+  # === 极简配置：通用 QA ===
+  squad:
+    data_dir: ./data/squad
+    default_prompt:
+      task_prompt: "根据上下文回答问题。"
+      answer_format: "只输出答案，不要解释。"
+      generation_length: 64
+
+  # === 分类任务：default + 部分覆盖 ===
+  glue:
+    data_dir: ./data/glue
+    default_prompt:
+      task_prompt: "根据输入进行分类。"
+      answer_format: "只输出类别标签。"
+      generation_length: 32
+    task_prompts:
+      sst2:
+        task_prompt: "判断文本情感倾向。"
+        answer_format: "输出 positive 或 negative。"
+      qqp:
+        task_prompt: "判断两个问题是否等价。"
+        answer_format: "输出 equivalent 或 not_equivalent。"
+      mnli:
+        task_prompt: "判断前提和假设的关系。"
+        answer_format: "输出 entailment/contradiction/neutral。"
+
+  # === JSONL 格式：非标准字段 ===
+  openqa:
+    data_dir: ./data/openqa
+    # 假设数据格式为 JSONL，每行 {"query": "...", "response": "..."}
+    format:
+      examples_key: null          # null 表示直接是 list 或每行一个样本
+      input_key: "query"
+      target_key: "response"
+    default_prompt:
+      task_prompt: "回答以下问题。"
+      answer_format: "只输出答案。"
+      generation_length: 128

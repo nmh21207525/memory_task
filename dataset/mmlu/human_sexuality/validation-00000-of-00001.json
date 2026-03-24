@@ -1,0 +1,158 @@
+[
+  {
+    "subject": "human_sexuality",
+    "question": "Axl Tulip has a thin clear discharge coming from his penis and mild discomfort when he urinates. He is most likely suffering from _______ and should be treated with ________.",
+    "choices": [
+      "gonorrhea penicillin",
+      "gonorrhea tetracycline",
+      "chlamydia penicillin",
+      "chlamydia tetracycline"
+    ],
+    "answer": "D",
+    "input": "Question: Axl Tulip has a thin clear discharge coming from his penis and mild discomfort when he urinates. He is most likely suffering from _______ and should be treated with ________.\nOptions:\n(A) gonorrhea penicillin\n(B) gonorrhea tetracycline\n(C) chlamydia penicillin\n(D) chlamydia tetracycline\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "In adulthood, exhibitionists",
+    "choices": [
+      "are typically psychiatrically disturbed",
+      "are unassertive",
+      "have excellent social skills",
+      "have fulfilling sex lives"
+    ],
+    "answer": "B",
+    "input": "Question: In adulthood, exhibitionists\nOptions:\n(A) are typically psychiatrically disturbed\n(B) are unassertive\n(C) have excellent social skills\n(D) have fulfilling sex lives\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "Before contact with Europeans, many First Nations populations viewed gay men, lesbians, and people who assumed cross-gender roles with",
+    "choices": [
+      "disgust and revulsion.",
+      "pity and indulgence.",
+      "fear and awe.",
+      "respect and admiration."
+    ],
+    "answer": "D",
+    "input": "Question: Before contact with Europeans, many First Nations populations viewed gay men, lesbians, and people who assumed cross-gender roles with\nOptions:\n(A) disgust and revulsion.\n(B) pity and indulgence.\n(C) fear and awe.\n(D) respect and admiration.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "Vaginal lubrication begins __________ after the onset of arousing stimuli",
+    "choices": [
+      "10 to 30 seconds",
+      "30 to 60 seconds",
+      "1 to 2 minutes",
+      "2 to 4 minutes"
+    ],
+    "answer": "A",
+    "input": "Question: Vaginal lubrication begins __________ after the onset of arousing stimuli\nOptions:\n(A) 10 to 30 seconds\n(B) 30 to 60 seconds\n(C) 1 to 2 minutes\n(D) 2 to 4 minutes\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "__________, an odorous steroid that is well documented as a pheremone in pigs, has been isolated in the underarm sweat of humans.",
+    "choices": [
+      "Ephderine",
+      "Human Chorionic Gonadotropin (hCG)",
+      "Hyalunronidase",
+      "Androstenol"
+    ],
+    "answer": "D",
+    "input": "Question: __________, an odorous steroid that is well documented as a pheremone in pigs, has been isolated in the underarm sweat of humans.\nOptions:\n(A) Ephderine\n(B) Human Chorionic Gonadotropin (hCG)\n(C) Hyalunronidase\n(D) Androstenol\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "Which of the following drugs inhibits sexual performance by activating the sympathetic system?",
+    "choices": [
+      "alcohol",
+      "cocaine",
+      "marijuana",
+      "opium"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following drugs inhibits sexual performance by activating the sympathetic system?\nOptions:\n(A) alcohol\n(B) cocaine\n(C) marijuana\n(D) opium\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "Which of the following changes is NOT associated with menopause?",
+    "choices": [
+      "the walls of the vagina become thick",
+      "the vagina shrinks in length",
+      "the labia minora shrink",
+      "production of estrogen declines"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following changes is NOT associated with menopause?\nOptions:\n(A) the walls of the vagina become thick\n(B) the vagina shrinks in length\n(C) the labia minora shrink\n(D) production of estrogen declines\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "What is the last stage in the \"coming out\" process?",
+    "choices": [
+      "Integration",
+      "Relationship Development",
+      "Segregation",
+      "Exploration"
+    ],
+    "answer": "A",
+    "input": "Question: What is the last stage in the \"coming out\" process?\nOptions:\n(A) Integration\n(B) Relationship Development\n(C) Segregation\n(D) Exploration\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "The people of Inis Beag believe that:",
+    "choices": [
+      "menopause can produce insanity",
+      "masturbation produces facial deformities",
+      "incest is acceptable with daughters but not with sons",
+      "masturbation produces genital deformities"
+    ],
+    "answer": "A",
+    "input": "Question: The people of Inis Beag believe that:\nOptions:\n(A) menopause can produce insanity\n(B) masturbation produces facial deformities\n(C) incest is acceptable with daughters but not with sons\n(D) masturbation produces genital deformities\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "The bulk of the research evidence suggests that:",
+    "choices": [
+      "all women have a G-spot",
+      "all women with a G-spot ejaculate",
+      "all women with a G-spot also have a prostate gland",
+      "none of the above"
+    ],
+    "answer": "D",
+    "input": "Question: The bulk of the research evidence suggests that:\nOptions:\n(A) all women have a G-spot\n(B) all women with a G-spot ejaculate\n(C) all women with a G-spot also have a prostate gland\n(D) none of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "The feedback loop in women which regulates the production of sex hormones includes all but which of the following?",
+    "choices": [
+      "introitus",
+      "progesterone",
+      "follicle-stimulating hormone",
+      "pituitary gland"
+    ],
+    "answer": "A",
+    "input": "Question: The feedback loop in women which regulates the production of sex hormones includes all but which of the following?\nOptions:\n(A) introitus\n(B) progesterone\n(C) follicle-stimulating hormone\n(D) pituitary gland\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "IUD use has been linked with which of the following",
+    "choices": [
+      "pelvic inflammatory disease",
+      "tubal infections",
+      "uterine infections",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: IUD use has been linked with which of the following\nOptions:\n(A) pelvic inflammatory disease\n(B) tubal infections\n(C) uterine infections\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  }
+]

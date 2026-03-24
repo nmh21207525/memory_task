@@ -1,0 +1,379 @@
+[
+  {
+    "subject": "high_school_mathematics",
+    "question": "Exits on a highway are numbered consecutively from 1 to 50. The distance from exit 41 to exit 50 is 100 km. If each exit is at least 6 km from the next exit, what is the longest possible distance, in kilometers, between exit 47 and exit 48?",
+    "choices": [
+      "52",
+      "51",
+      "50",
+      "49"
+    ],
+    "answer": "A",
+    "input": "Question: Exits on a highway are numbered consecutively from 1 to 50. The distance from exit 41 to exit 50 is 100 km. If each exit is at least 6 km from the next exit, what is the longest possible distance, in kilometers, between exit 47 and exit 48?\nOptions:\n(A) 52\n(B) 51\n(C) 50\n(D) 49\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "In a group of 11 people, T of them always tell the truth, and L always lie. Each person names two other people and claims that of the two, exactly one of them is lying. Each person is named in this way by exactly two other people. Find the sum of all possible values of T.",
+    "choices": [
+      "30",
+      "12",
+      "20",
+      "6"
+    ],
+    "answer": "B",
+    "input": "Question: In a group of 11 people, T of them always tell the truth, and L always lie. Each person names two other people and claims that of the two, exactly one of them is lying. Each person is named in this way by exactly two other people. Find the sum of all possible values of T.\nOptions:\n(A) 30\n(B) 12\n(C) 20\n(D) 6\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "How many integers 1-9 are divisors of the five-digit number 24,516?",
+    "choices": [
+      "6",
+      "5",
+      "1",
+      "32"
+    ],
+    "answer": "A",
+    "input": "Question: How many integers 1-9 are divisors of the five-digit number 24,516?\nOptions:\n(A) 6\n(B) 5\n(C) 1\n(D) 32\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Sam has $\\frac{5}{8}$ of a pound of chocolate. If he eats $\\frac{1}{3}$ of the chocolate he has, how many pounds of chocolate does he eat?",
+    "choices": [
+      "\\frac{5}{12}",
+      "\\frac{5}{24}",
+      "\\frac{3}{24}",
+      "\\frac{3}{24}"
+    ],
+    "answer": "B",
+    "input": "Question: Sam has $\\frac{5}{8}$ of a pound of chocolate. If he eats $\\frac{1}{3}$ of the chocolate he has, how many pounds of chocolate does he eat?\nOptions:\n(A) \\frac{5}{12}\n(B) \\frac{5}{24}\n(C) \\frac{3}{24}\n(D) \\frac{3}{24}\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Alex grows an initial culture of 100 Rhizopus stolonifer fungi on a sample of bread. She wants to model the growth of the fungi according to the exponential equation A = Pe^(rt), where A is the final number of fungi, P is the initial number, r is the growth rate, and t is time elapsed in hours. If after 5 hours she measures the number of fungi to be 750, what is the value of r?",
+    "choices": [
+      "0.403",
+      "0.863",
+      "2.015",
+      "4.317"
+    ],
+    "answer": "A",
+    "input": "Question: Alex grows an initial culture of 100 Rhizopus stolonifer fungi on a sample of bread. She wants to model the growth of the fungi according to the exponential equation A = Pe^(rt), where A is the final number of fungi, P is the initial number, r is the growth rate, and t is time elapsed in hours. If after 5 hours she measures the number of fungi to be 750, what is the value of r?\nOptions:\n(A) 0.403\n(B) 0.863\n(C) 2.015\n(D) 4.317\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "What is the product of the greatest even prime number and the least odd prime number?",
+    "choices": [
+      "6",
+      "9",
+      "12",
+      "14"
+    ],
+    "answer": "A",
+    "input": "Question: What is the product of the greatest even prime number and the least odd prime number?\nOptions:\n(A) 6\n(B) 9\n(C) 12\n(D) 14\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "What is the maximum value of $4(x + 7)(2 - x)$, over all real numbers $x$?",
+    "choices": [
+      "-2.5",
+      "4",
+      "81",
+      "56"
+    ],
+    "answer": "C",
+    "input": "Question: What is the maximum value of $4(x + 7)(2 - x)$, over all real numbers $x$?\nOptions:\n(A) -2.5\n(B) 4\n(C) 81\n(D) 56\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Divide $11$ by the reciprocal of $1815 \\div 11$.",
+    "choices": [
+      "111",
+      "1815",
+      "121",
+      "68"
+    ],
+    "answer": "B",
+    "input": "Question: Divide $11$ by the reciprocal of $1815 \\div 11$.\nOptions:\n(A) 111\n(B) 1815\n(C) 121\n(D) 68\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "When $\\sqrt[3]{-128}$ is simplified, the result is $a\\sqrt[3]{b}$, where $a$ is an integer, and $b$ is a positive integer. If $b$ is as small as possible, then what is $a+b$?",
+    "choices": [
+      "2",
+      "-4",
+      "6",
+      "-2"
+    ],
+    "answer": "D",
+    "input": "Question: When $\\sqrt[3]{-128}$ is simplified, the result is $a\\sqrt[3]{b}$, where $a$ is an integer, and $b$ is a positive integer. If $b$ is as small as possible, then what is $a+b$?\nOptions:\n(A) 2\n(B) -4\n(C) 6\n(D) -2\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Given that $a(a+2b) = \\frac{104}3$, $b(b+2c) = \\frac{7}{9}$, and $c(c+2a) = -7$, find $|a+b+c|$.",
+    "choices": [
+      "\\frac{23}{3}",
+      "\\frac{5}{3}",
+      "\\frac{16}{3}",
+      "\\frac{10}{3}"
+    ],
+    "answer": "C",
+    "input": "Question: Given that $a(a+2b) = \\frac{104}3$, $b(b+2c) = \\frac{7}{9}$, and $c(c+2a) = -7$, find $|a+b+c|$.\nOptions:\n(A) \\frac{23}{3}\n(B) \\frac{5}{3}\n(C) \\frac{16}{3}\n(D) \\frac{10}{3}\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Let $f(x) = (x+2)^2-5$. If the domain of $f$ is all real numbers, then $f$ does not have an inverse function, but if we restrict the domain of $f$ to an interval $[c,\\infty)$, then $f$ may have an inverse function. What is the smallest value of $c$ we can use here, so that $f$ does have an inverse function?",
+    "choices": [
+      "-2",
+      "-5",
+      "3",
+      "-8"
+    ],
+    "answer": "A",
+    "input": "Question: Let $f(x) = (x+2)^2-5$. If the domain of $f$ is all real numbers, then $f$ does not have an inverse function, but if we restrict the domain of $f$ to an interval $[c,\\infty)$, then $f$ may have an inverse function. What is the smallest value of $c$ we can use here, so that $f$ does have an inverse function?\nOptions:\n(A) -2\n(B) -5\n(C) 3\n(D) -8\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "A circle passes through the points (3, 4) and (5, 7). Which of the following points CANNOT lie on the circle?",
+    "choices": [
+      "(–2, –1)",
+      "(–1, –2)",
+      "(5, 5)",
+      "(6, 4)"
+    ],
+    "answer": "B",
+    "input": "Question: A circle passes through the points (3, 4) and (5, 7). Which of the following points CANNOT lie on the circle?\nOptions:\n(A) (–2, –1)\n(B) (–1, –2)\n(C) (5, 5)\n(D) (6, 4)\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "How many square units are in the region satisfying the inequalities $y \\ge |x|$ and $y \\le -|x|+3$? Express your answer as a decimal.",
+    "choices": [
+      "4.5",
+      "2.25",
+      "6.6",
+      "3.3"
+    ],
+    "answer": "A",
+    "input": "Question: How many square units are in the region satisfying the inequalities $y \\ge |x|$ and $y \\le -|x|+3$? Express your answer as a decimal.\nOptions:\n(A) 4.5\n(B) 2.25\n(C) 6.6\n(D) 3.3\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Andy wants to read several books from the required summer reading list. He must read one each from fiction, nonfiction, science, and history. There are 15 fiction, 12 nonfiction, 5 science, and 21 history books listed. How many different summer reading programs could he select?",
+    "choices": [
+      "53",
+      "265",
+      "8910",
+      "18,900"
+    ],
+    "answer": "D",
+    "input": "Question: Andy wants to read several books from the required summer reading list. He must read one each from fiction, nonfiction, science, and history. There are 15 fiction, 12 nonfiction, 5 science, and 21 history books listed. How many different summer reading programs could he select?\nOptions:\n(A) 53\n(B) 265\n(C) 8910\n(D) 18,900\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "When a spaceship full of scientists landed on Planet Q, they found that $\\frac{17}{40}$ of the $160$ aliens had $3$ eyes. How many aliens had $3$ eyes?",
+    "choices": [
+      "67",
+      "35",
+      "36",
+      "68"
+    ],
+    "answer": "D",
+    "input": "Question: When a spaceship full of scientists landed on Planet Q, they found that $\\frac{17}{40}$ of the $160$ aliens had $3$ eyes. How many aliens had $3$ eyes?\nOptions:\n(A) 67\n(B) 35\n(C) 36\n(D) 68\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "If the point $(3,6)$ is on the graph of $y=g(x)$, and $h(x)=(g(x))^2$ for all $x$, then there is one point that must be on the graph of $y=h(x)$. What is the sum of the coordinates of that point?",
+    "choices": [
+      "3",
+      "6",
+      "39",
+      "36"
+    ],
+    "answer": "C",
+    "input": "Question: If the point $(3,6)$ is on the graph of $y=g(x)$, and $h(x)=(g(x))^2$ for all $x$, then there is one point that must be on the graph of $y=h(x)$. What is the sum of the coordinates of that point?\nOptions:\n(A) 3\n(B) 6\n(C) 39\n(D) 36\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "What is the minimum value of $a^2+6a-7$?",
+    "choices": [
+      "-30",
+      "-12",
+      "-7",
+      "-16"
+    ],
+    "answer": "D",
+    "input": "Question: What is the minimum value of $a^2+6a-7$?\nOptions:\n(A) -30\n(B) -12\n(C) -7\n(D) -16\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Simplify $\\frac{2+2i}{-3+4i}$. Express your answer as a complex number in the form $a+bi$, where $a$ and $b$ are real numbers.",
+    "choices": [
+      "2-14i",
+      "\\frac{2}{25} + \\frac{-14}{25}i",
+      "1+0i",
+      "0-1i"
+    ],
+    "answer": "B",
+    "input": "Question: Simplify $\\frac{2+2i}{-3+4i}$. Express your answer as a complex number in the form $a+bi$, where $a$ and $b$ are real numbers.\nOptions:\n(A) 2-14i\n(B) \\frac{2}{25} + \\frac{-14}{25}i\n(C) 1+0i\n(D) 0-1i\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Compute $i+i^2+i^3+\\cdots+i^{258}+i^{259}$.",
+    "choices": [
+      "-1",
+      "1",
+      "i",
+      "0"
+    ],
+    "answer": "A",
+    "input": "Question: Compute $i+i^2+i^3+\\cdots+i^{258}+i^{259}$.\nOptions:\n(A) -1\n(B) 1\n(C) i\n(D) 0\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "For what value of c on 0 < x < 1 is the tangent to the graph of f (x) = e^x - x^2 parallel to the secant line on the interval [0,1]?",
+    "choices": [
+      "-0.248",
+      "0.351",
+      "0.5",
+      "0.693"
+    ],
+    "answer": "B",
+    "input": "Question: For what value of c on 0 < x < 1 is the tangent to the graph of f (x) = e^x - x^2 parallel to the secant line on the interval [0,1]?\nOptions:\n(A) -0.248\n(B) 0.351\n(C) 0.5\n(D) 0.693\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Let $h(4x-1) = 2x + 7$. For what value of $x$ is $h(x) = x$?",
+    "choices": [
+      "420",
+      "69",
+      "7",
+      "15"
+    ],
+    "answer": "D",
+    "input": "Question: Let $h(4x-1) = 2x + 7$. For what value of $x$ is $h(x) = x$?\nOptions:\n(A) 420\n(B) 69\n(C) 7\n(D) 15\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "If f : (x, y) → (x + y, 2y – x) for every coordinate pair in the xy-plane, for what points (x, y) is it true that f : (x, y) → (x, y)?",
+    "choices": [
+      "(0, 0) only",
+      "The set of points (x, y) such that x = 0",
+      "The set of points (x, y) such that y = 0",
+      "The set of points (x, y) such that x = y"
+    ],
+    "answer": "A",
+    "input": "Question: If f : (x, y) → (x + y, 2y – x) for every coordinate pair in the xy-plane, for what points (x, y) is it true that f : (x, y) → (x, y)?\nOptions:\n(A) (0, 0) only\n(B) The set of points (x, y) such that x = 0\n(C) The set of points (x, y) such that y = 0\n(D) The set of points (x, y) such that x = y\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Find the sum of the primes between 100 and 200, inclusive, that are 1 or 2 more than a perfect square.",
+    "choices": [
+      "298",
+      "126",
+      "592",
+      "396"
+    ],
+    "answer": "A",
+    "input": "Question: Find the sum of the primes between 100 and 200, inclusive, that are 1 or 2 more than a perfect square.\nOptions:\n(A) 298\n(B) 126\n(C) 592\n(D) 396\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Solve for $x$: $(-\\frac{1}{3})(-4 -3x)=\\frac{1}{2}$",
+    "choices": [
+      "-\\frac{5}{6}",
+      "\\frac{7}{6}",
+      "\\frac{5}{3}",
+      "\\frac{1}{6}"
+    ],
+    "answer": "A",
+    "input": "Question: Solve for $x$: $(-\\frac{1}{3})(-4 -3x)=\\frac{1}{2}$\nOptions:\n(A) -\\frac{5}{6}\n(B) \\frac{7}{6}\n(C) \\frac{5}{3}\n(D) \\frac{1}{6}\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "There are three real numbers $x$ that are not in the domain of $$f(x) = \\frac{1}{1+\\frac{1}{1+\\frac 1x}}.$$ What is the sum of those three numbers?",
+    "choices": [
+      "0.5",
+      "0",
+      "-1",
+      "-1.5"
+    ],
+    "answer": "D",
+    "input": "Question: There are three real numbers $x$ that are not in the domain of $$f(x) = \\frac{1}{1+\\frac{1}{1+\\frac 1x}}.$$ What is the sum of those three numbers?\nOptions:\n(A) 0.5\n(B) 0\n(C) -1\n(D) -1.5\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "How many positive cubes divide $3!\\cdot 5!\\cdot 7!\\,$?",
+    "choices": [
+      "6",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "A",
+    "input": "Question: How many positive cubes divide $3!\\cdot 5!\\cdot 7!\\,$?\nOptions:\n(A) 6\n(B) 4\n(C) 3\n(D) 1\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Joe's batting average is .323. (That is, he averages 0.323 hits per at bat.) What is the probability that he will get three hits in three at-bats? Express your answer as a decimal to the nearest hundredth.",
+    "choices": [
+      "0.03",
+      "0.01",
+      "0.3",
+      "0.1"
+    ],
+    "answer": "A",
+    "input": "Question: Joe's batting average is .323. (That is, he averages 0.323 hits per at bat.) What is the probability that he will get three hits in three at-bats? Express your answer as a decimal to the nearest hundredth.\nOptions:\n(A) 0.03\n(B) 0.01\n(C) 0.3\n(D) 0.1\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "A teacher can grade 20 papers during an uninterrupted planning period and 10 papers for each hour he spends at home grading. What function models the number of papers he can grade given that he has 2 uninterrupted planning periods and x full hours devoted to grading at home?",
+    "choices": [
+      "20 + 2x",
+      "20x + 10",
+      "40x + 10",
+      "40 + 10x"
+    ],
+    "answer": "D",
+    "input": "Question: A teacher can grade 20 papers during an uninterrupted planning period and 10 papers for each hour he spends at home grading. What function models the number of papers he can grade given that he has 2 uninterrupted planning periods and x full hours devoted to grading at home?\nOptions:\n(A) 20 + 2x\n(B) 20x + 10\n(C) 40x + 10\n(D) 40 + 10x\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "What is the smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$?",
+    "choices": [
+      "6",
+      "12",
+      "96",
+      "102"
+    ],
+    "answer": "B",
+    "input": "Question: What is the smallest two-digit integer $n$ such that switching its digits and then adding 3 results in $2n$?\nOptions:\n(A) 6\n(B) 12\n(C) 96\n(D) 102\nAnswer:",
+    "target": "(B)"
+  }
+]

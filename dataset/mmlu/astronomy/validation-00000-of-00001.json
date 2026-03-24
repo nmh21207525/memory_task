@@ -1,0 +1,210 @@
+[
+  {
+    "subject": "astronomy",
+    "question": "You cool a blackbody to half its original temperature. How does its spectrum change?",
+    "choices": [
+      "Power emitted is 1/16 times as high; peak emission wavelength is 1/2 as long.",
+      "Power emitted is 1/4 times as high; peak emission wavelength is 2 times longer.",
+      "Power emitted is 1/4 times as high; peak emission wavelength is 1/2 as long.",
+      "Power emitted is 1/16 times as high; peak emission wavelength is 2 times longer."
+    ],
+    "answer": "D",
+    "input": "Question: You cool a blackbody to half its original temperature. How does its spectrum change?\nOptions:\n(A) Power emitted is 1/16 times as high; peak emission wavelength is 1/2 as long.\n(B) Power emitted is 1/4 times as high; peak emission wavelength is 2 times longer.\n(C) Power emitted is 1/4 times as high; peak emission wavelength is 1/2 as long.\n(D) Power emitted is 1/16 times as high; peak emission wavelength is 2 times longer.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "What drives differentiation?",
+    "choices": [
+      "Spontaneous emission from radioactive atoms.",
+      "The minimization of gravitational potential energy.",
+      "Thermally induced collisions.",
+      "Plate tectonics."
+    ],
+    "answer": "B",
+    "input": "Question: What drives differentiation?\nOptions:\n(A) Spontaneous emission from radioactive atoms.\n(B) The minimization of gravitational potential energy.\n(C) Thermally induced collisions.\n(D) Plate tectonics.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "How did the lunar maria form?",
+    "choices": [
+      "The giant impact that created the Moon left smooth areas that we call the maria.",
+      "Volatiles escaping from the Moon's interior heated and eroded the surface in the regions of the maria.",
+      "The early bombardment created heat that melted the lunar surface in the regions of the maria.",
+      "Large impacts fractured the Moon's lithosphere allowing lava to fill the impact basins."
+    ],
+    "answer": "D",
+    "input": "Question: How did the lunar maria form?\nOptions:\n(A) The giant impact that created the Moon left smooth areas that we call the maria.\n(B) Volatiles escaping from the Moon's interior heated and eroded the surface in the regions of the maria.\n(C) The early bombardment created heat that melted the lunar surface in the regions of the maria.\n(D) Large impacts fractured the Moon's lithosphere allowing lava to fill the impact basins.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Why doesn't Venus have seasons like Mars and Earth do?",
+    "choices": [
+      "Its rotation axis is nearly perpendicular to the plane of the Solar System.",
+      "It does not have an ozone layer.",
+      "It does not rotate fast enough.",
+      "It is too close to the Sun."
+    ],
+    "answer": "A",
+    "input": "Question: Why doesn't Venus have seasons like Mars and Earth do?\nOptions:\n(A) Its rotation axis is nearly perpendicular to the plane of the Solar System.\n(B) It does not have an ozone layer.\n(C) It does not rotate fast enough.\n(D) It is too close to the Sun.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "The mass of Saturn's rings is 2x1019 kg. What is the ratio of this mass to that of a 200 km diameter spherical moon made entirely of water-ice (density ~ 1 g/cm3)? That is what is Mrings : Micy moon?",
+    "choices": [
+      "1 : 1",
+      "50 : 1",
+      "5 : 1",
+      "0.5 : 1"
+    ],
+    "answer": "C",
+    "input": "Question: The mass of Saturn's rings is 2x1019 kg. What is the ratio of this mass to that of a 200 km diameter spherical moon made entirely of water-ice (density ~ 1 g/cm3)? That is what is Mrings : Micy moon?\nOptions:\n(A) 1 : 1\n(B) 50 : 1\n(C) 5 : 1\n(D) 0.5 : 1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Which mechanism can NOT explain Mercury's lack of a permanent atmosphere?",
+    "choices": [
+      "Impact Heating",
+      "Volcanic Heating",
+      "Ablation by the solar wind",
+      "Thermal Escape"
+    ],
+    "answer": "B",
+    "input": "Question: Which mechanism can NOT explain Mercury's lack of a permanent atmosphere?\nOptions:\n(A) Impact Heating\n(B) Volcanic Heating\n(C) Ablation by the solar wind\n(D) Thermal Escape\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Which property of our solar system does a formation theory NOT need to explain?",
+    "choices": [
+      "patterns of motion",
+      "the presence of asteroids and comets",
+      "the measured ages of meteorites",
+      "the presence of life on Earth"
+    ],
+    "answer": "D",
+    "input": "Question: Which property of our solar system does a formation theory NOT need to explain?\nOptions:\n(A) patterns of motion\n(B) the presence of asteroids and comets\n(C) the measured ages of meteorites\n(D) the presence of life on Earth\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "What dangers are currently faced by each Mars Exploration Rover?",
+    "choices": [
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit's instruments are being corroded by the acidic hot spring environment it is exploring.",
+      "Opportunity may not be able to move its arm again; Spirit may not be able to drive out of Victoria Crater due to its broken sixth wheel.",
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit may not get enough solar power during the winter months immediately ahead.",
+      "Opportunity may not be able to move its arm again; Spirit may not get enough solar power during the winter months immediately ahead."
+    ],
+    "answer": "D",
+    "input": "Question: What dangers are currently faced by each Mars Exploration Rover?\nOptions:\n(A) Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit's instruments are being corroded by the acidic hot spring environment it is exploring.\n(B) Opportunity may not be able to move its arm again; Spirit may not be able to drive out of Victoria Crater due to its broken sixth wheel.\n(C) Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit may not get enough solar power during the winter months immediately ahead.\n(D) Opportunity may not be able to move its arm again; Spirit may not get enough solar power during the winter months immediately ahead.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "The reason that small planets tend to lose interior heat faster than larger planets is essentially the same as the reason that ________.",
+    "choices": [
+      "a large baked potato takes longer to cool than a small baked potato",
+      "Earth contains more metal than the Moon",
+      "thunderstorms tend to form on hot summer days",
+      "gas bubbles form and rise upward in boiling water"
+    ],
+    "answer": "A",
+    "input": "Question: The reason that small planets tend to lose interior heat faster than larger planets is essentially the same as the reason that ________.\nOptions:\n(A) a large baked potato takes longer to cool than a small baked potato\n(B) Earth contains more metal than the Moon\n(C) thunderstorms tend to form on hot summer days\n(D) gas bubbles form and rise upward in boiling water\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "If the Moon is setting at noon the phase of the Moon must be",
+    "choices": [
+      "third quarter.",
+      "waning crescent.",
+      "waxing crescent.",
+      "full."
+    ],
+    "answer": "A",
+    "input": "Question: If the Moon is setting at noon the phase of the Moon must be\nOptions:\n(A) third quarter.\n(B) waning crescent.\n(C) waxing crescent.\n(D) full.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "In astronomy the concept of black bodies is very important to better calculate the radiation of stars. Which one is the correct definition of a black body?",
+    "choices": [
+      "An idealized physical object that reflects all electromagnetic radiation.",
+      "An idealized physical object that absorbs all electromagnetic radiation.",
+      "An idealized physical object that reflects all polarized radiation.",
+      "An idealized physical object that absorbs all polarized radiation."
+    ],
+    "answer": "B",
+    "input": "Question: In astronomy the concept of black bodies is very important to better calculate the radiation of stars. Which one is the correct definition of a black body?\nOptions:\n(A) An idealized physical object that reflects all electromagnetic radiation.\n(B) An idealized physical object that absorbs all electromagnetic radiation.\n(C) An idealized physical object that reflects all polarized radiation.\n(D) An idealized physical object that absorbs all polarized radiation.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "The Coriolis effect is observed on planets because",
+    "choices": [
+      "they are rotating and spherical so different latitudes rotate at different speeds (meters/second)",
+      "their surfaces rotate at the same speed (meters/second) at all latitudes",
+      "they rotate and have magnetic fields",
+      "the solar wind interacts with their magnetospheres"
+    ],
+    "answer": "A",
+    "input": "Question: The Coriolis effect is observed on planets because\nOptions:\n(A) they are rotating and spherical so different latitudes rotate at different speeds (meters/second)\n(B) their surfaces rotate at the same speed (meters/second) at all latitudes\n(C) they rotate and have magnetic fields\n(D) the solar wind interacts with their magnetospheres\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "The International Space Station (ISS) circles the Earth approximately 410 km above the ground. Find the best estimate for the orbital speed of the ISS:",
+    "choices": [
+      "19000 km/h",
+      "21000 km/h",
+      "28000 km/h",
+      "32000 km/h"
+    ],
+    "answer": "C",
+    "input": "Question: The International Space Station (ISS) circles the Earth approximately 410 km above the ground. Find the best estimate for the orbital speed of the ISS:\nOptions:\n(A) 19000 km/h\n(B) 21000 km/h\n(C) 28000 km/h\n(D) 32000 km/h\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Which is the least likely cause of death?",
+    "choices": [
+      "Being hit in the head by a bullet.",
+      "Being hit by a small meteorite.",
+      "Starvation during global winter caused by a major impact.",
+      "Driving while intoxicated without wearing seatbelts."
+    ],
+    "answer": "B",
+    "input": "Question: Which is the least likely cause of death?\nOptions:\n(A) Being hit in the head by a bullet.\n(B) Being hit by a small meteorite.\n(C) Starvation during global winter caused by a major impact.\n(D) Driving while intoxicated without wearing seatbelts.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "How have we been able to construct detailed maps of surface features on Venus?",
+    "choices": [
+      "by studying Venus from Earth with powerful optical telescopes",
+      "by landing spacecraft on the surface for close-up study",
+      "by studying Venus with powerful optical telescopes on spacecraft that were sent to orbit Venus",
+      "by using radar from spacecraft that were sent to orbit Venus"
+    ],
+    "answer": "D",
+    "input": "Question: How have we been able to construct detailed maps of surface features on Venus?\nOptions:\n(A) by studying Venus from Earth with powerful optical telescopes\n(B) by landing spacecraft on the surface for close-up study\n(C) by studying Venus with powerful optical telescopes on spacecraft that were sent to orbit Venus\n(D) by using radar from spacecraft that were sent to orbit Venus\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "A comet’s tail points in the following direction:",
+    "choices": [
+      "away from the Sun",
+      "towards the Sun",
+      "in the direction of movement",
+      "against the direction of movement"
+    ],
+    "answer": "A",
+    "input": "Question: A comet’s tail points in the following direction:\nOptions:\n(A) away from the Sun\n(B) towards the Sun\n(C) in the direction of movement\n(D) against the direction of movement\nAnswer:",
+    "target": "(A)"
+  }
+]

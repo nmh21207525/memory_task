@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with the mass of a uranium atom undergoing fission, the combined masses of the products after fission are",
+    "choices": [
+      "less",
+      "more",
+      "the same",
+      "zero"
+    ],
+    "answer": "A",
+    "input": "Question: Compared with the mass of a uranium atom undergoing fission, the combined masses of the products after fission are\nOptions:\n(A) less\n(B) more\n(C) the same\n(D) zero\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Things that are equivalent according to the equivalence principle are",
+    "choices": [
+      "space and time.",
+      "a traveling twin and a stay-at-home twin.",
+      "gravity and acceleration.",
+      "mass and energy."
+    ],
+    "answer": "C",
+    "input": "Question: Things that are equivalent according to the equivalence principle are\nOptions:\n(A) space and time.\n(B) a traveling twin and a stay-at-home twin.\n(C) gravity and acceleration.\n(D) mass and energy.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Colors in a soap bubble result from light",
+    "choices": [
+      "converted to a different frequency",
+      "deflection",
+      "interference",
+      "polarization"
+    ],
+    "answer": "C",
+    "input": "Question: Colors in a soap bubble result from light\nOptions:\n(A) converted to a different frequency\n(B) deflection\n(C) interference\n(D) polarization\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A model airplane flies slower when flying into the wind and faster with wind at its back. When launched at right angles to the wind a cross wind its groundspeed compared with flying in still air is",
+    "choices": [
+      "the same",
+      "greater",
+      "less",
+      "either greater or less depending on wind speed"
+    ],
+    "answer": "B",
+    "input": "Question: A model airplane flies slower when flying into the wind and faster with wind at its back. When launched at right angles to the wind a cross wind its groundspeed compared with flying in still air is\nOptions:\n(A) the same\n(B) greater\n(C) less\n(D) either greater or less depending on wind speed\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which of these three elements has the most mass per nucleon?",
+    "choices": [
+      "Hydrogen",
+      "Iron",
+      "Uranium",
+      "Same in each"
+    ],
+    "answer": "A",
+    "input": "Question: Which of these three elements has the most mass per nucleon?\nOptions:\n(A) Hydrogen\n(B) Iron\n(C) Uranium\n(D) Same in each\nAnswer:",
+    "target": "(A)"
+  }
+]

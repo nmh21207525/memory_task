@@ -1,0 +1,418 @@
+[
+  {
+    "subject": "high_school_biology",
+    "question": "A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species?",
+    "choices": [
+      "There are differences in the nucleotide sequences of certain gene alleles among the species.",
+      "There are differences in the amino acid specified by each codon among the species.",
+      "There are differences in the type of cleavage that produces the first blastomeres among the species.",
+      "There are differences in the composition of ribosomes among the species."
+    ],
+    "answer": "A",
+    "input": "Question: A gradual drop in the water level of a large lake divided it into three smaller lakes. The division separated a single population of fish into three smaller, isolated populations. After many generations it was determined that the three populations of fish had become three separate species. Which of the following is most likely correct about the three species?\nOptions:\n(A) There are differences in the nucleotide sequences of certain gene alleles among the species.\n(B) There are differences in the amino acid specified by each codon among the species.\n(C) There are differences in the type of cleavage that produces the first blastomeres among the species.\n(D) There are differences in the composition of ribosomes among the species.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Hawkmoths are insects that are similar in appearance and behavior to hummingbirds. Which of the following is LEAST valid?",
+    "choices": [
+      "These organisms are examples of convergent evolution.",
+      "These organisms were subjected to similar environmental conditions.",
+      "These organisms are genetically related to each other.",
+      "These organisms have analogous structures."
+    ],
+    "answer": "C",
+    "input": "Question: Hawkmoths are insects that are similar in appearance and behavior to hummingbirds. Which of the following is LEAST valid?\nOptions:\n(A) These organisms are examples of convergent evolution.\n(B) These organisms were subjected to similar environmental conditions.\n(C) These organisms are genetically related to each other.\n(D) These organisms have analogous structures.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT",
+    "choices": [
+      "the vacuole lost water and became smaller",
+      "the space between the cell wall and the cell membrane expanded",
+      "the large vacuole contained a solution with much lower osmotic pressure than that of the sugar solution",
+      "the concentration of solutes in the extracellular environment is hypertonic with respect to the cell's interior"
+    ],
+    "answer": "D",
+    "input": "Question: A cell from the leaf of the aquatic plant Elodea was soaked in a 15 percent sugar solution, and its contents soon separated from the cell wall and formed a mass in the center of the cell. All of the following statements are true about this event EXCEPT\nOptions:\n(A) the vacuole lost water and became smaller\n(B) the space between the cell wall and the cell membrane expanded\n(C) the large vacuole contained a solution with much lower osmotic pressure than that of the sugar solution\n(D) the concentration of solutes in the extracellular environment is hypertonic with respect to the cell's interior\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth?",
+    "choices": [
+      "Descent with modification",
+      "Variation among individuals in a population",
+      "Struggle for existence",
+      "The ability of related species to be conceptualized in \"tree thinking\""
+    ],
+    "answer": "C",
+    "input": "Question: Which of Darwin's ideas had the strongest connection to Darwin having read Malthus's essay on human population growth?\nOptions:\n(A) Descent with modification\n(B) Variation among individuals in a population\n(C) Struggle for existence\n(D) The ability of related species to be conceptualized in \"tree thinking\"\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following does NOT take place in the small intestine?",
+    "choices": [
+      "Pancreatic lipase breaks down fats to fatty acids and glycerol.",
+      "Pepsin breaks down proteins to amino acids.",
+      "Pancreatic amylase breaks down carbohydrates into simple sugars.",
+      "Bile emulsifies fats into smaller fat particles."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following does NOT take place in the small intestine?\nOptions:\n(A) Pancreatic lipase breaks down fats to fatty acids and glycerol.\n(B) Pepsin breaks down proteins to amino acids.\n(C) Pancreatic amylase breaks down carbohydrates into simple sugars.\n(D) Bile emulsifies fats into smaller fat particles.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "In a certain population of squirrels that is in Hardy-Weinberg equilibrium, black color is a recessive phenotype present in 9 percent of the squirrels, and 91 percent are gray. What percentage of the population is homozygous dominant for this trait?",
+    "choices": [
+      "21 percent",
+      "30 percent",
+      "49 percent",
+      "70 percent"
+    ],
+    "answer": "C",
+    "input": "Question: In a certain population of squirrels that is in Hardy-Weinberg equilibrium, black color is a recessive phenotype present in 9 percent of the squirrels, and 91 percent are gray. What percentage of the population is homozygous dominant for this trait?\nOptions:\n(A) 21 percent\n(B) 30 percent\n(C) 49 percent\n(D) 70 percent\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "A fruit fly population has a gene with two alleles, A1 and A2. Tests show that 70% of the gametes produced in the population contain the A1 allele. If the population is in Hardy-Weinberg equilibrium, what proportion of the flies carry both A1 and A2?",
+    "choices": [
+      "0.7",
+      "0.49",
+      "0.21",
+      "0.42"
+    ],
+    "answer": "D",
+    "input": "Question: A fruit fly population has a gene with two alleles, A1 and A2. Tests show that 70% of the gametes produced in the population contain the A1 allele. If the population is in Hardy-Weinberg equilibrium, what proportion of the flies carry both A1 and A2?\nOptions:\n(A) 0.7\n(B) 0.49\n(C) 0.21\n(D) 0.42\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of",
+    "choices": [
+      "excretion",
+      "respiration",
+      "circulation",
+      "digestion"
+    ],
+    "answer": "B",
+    "input": "Question: The moist skin of earthworms, spiracles of grasshoppers, and the mucus membranes lining alveoli are all associated with the process of\nOptions:\n(A) excretion\n(B) respiration\n(C) circulation\n(D) digestion\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Metafemale syndrome, a disorder in which a female has an extra X chromosome, is the result of nondisjunction. The failure in oogenesis that could produce this would occur in",
+    "choices": [
+      "metaphase I",
+      "metaphase II",
+      "telophase I",
+      "anaphase II"
+    ],
+    "answer": "D",
+    "input": "Question: Metafemale syndrome, a disorder in which a female has an extra X chromosome, is the result of nondisjunction. The failure in oogenesis that could produce this would occur in\nOptions:\n(A) metaphase I\n(B) metaphase II\n(C) telophase I\n(D) anaphase II\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "All of the following statements are correct regarding alleles EXCEPT",
+    "choices": [
+      "alleles are alternative forms of the same gene",
+      "alleles are found on corresponding loci of homologous chromosomes",
+      "a gene can have more than two alleles",
+      "an individual with two identical alleles is said to be heterozygous with respect to that gene"
+    ],
+    "answer": "D",
+    "input": "Question: All of the following statements are correct regarding alleles EXCEPT\nOptions:\n(A) alleles are alternative forms of the same gene\n(B) alleles are found on corresponding loci of homologous chromosomes\n(C) a gene can have more than two alleles\n(D) an individual with two identical alleles is said to be heterozygous with respect to that gene\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "High fructose corn syrup (HFCS) is a sweetener containing fructose that is derived from corn starch and often added to soft drinks. Which of the following reactions would most likely be involved in the production of HFCS? (The letter \"n\" indicates multiple copies of a molecule in a polymer.)",
+    "choices": [
+      "(glucose)n → polysaccharide",
+      "sucrose → fructose + glucose",
+      "glucose → fructose",
+      "starch → (fructose)n"
+    ],
+    "answer": "C",
+    "input": "Question: High fructose corn syrup (HFCS) is a sweetener containing fructose that is derived from corn starch and often added to soft drinks. Which of the following reactions would most likely be involved in the production of HFCS? (The letter \"n\" indicates multiple copies of a molecule in a polymer.)\nOptions:\n(A) (glucose)n → polysaccharide\n(B) sucrose → fructose + glucose\n(C) glucose → fructose\n(D) starch → (fructose)n\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following processes occur in the cytoplasm of an eukaryotic cell? I. DNA replication II. Transcription III. Translation",
+    "choices": [
+      "I only",
+      "III only",
+      "II and III only",
+      "I, II, and III"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following processes occur in the cytoplasm of an eukaryotic cell? I. DNA replication II. Transcription III. Translation\nOptions:\n(A) I only\n(B) III only\n(C) II and III only\n(D) I, II, and III\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following statements is correct about a man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease?",
+    "choices": [
+      "All his daughters will have the disease.",
+      "All his sons will have the disease.",
+      "All his sons will be carriers.",
+      "All his daughters will be carriers."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is correct about a man who has hemophilia and whose wife does not have the disease and who does not have any relatives with the disease?\nOptions:\n(A) All his daughters will have the disease.\n(B) All his sons will have the disease.\n(C) All his sons will be carriers.\n(D) All his daughters will be carriers.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Destruction of all beta cells in the pancreas will cause which of the following to occur?",
+    "choices": [
+      "Glucagon secretion will stop and blood glucose levels will increase.",
+      "Glucagon secretion will stop and blood glucose levels will decrease.",
+      "Glucagon secretion will stop and digestive enzymes will be secreted.",
+      "Insulin secretion will stop and blood glucose levels will increase."
+    ],
+    "answer": "D",
+    "input": "Question: Destruction of all beta cells in the pancreas will cause which of the following to occur?\nOptions:\n(A) Glucagon secretion will stop and blood glucose levels will increase.\n(B) Glucagon secretion will stop and blood glucose levels will decrease.\n(C) Glucagon secretion will stop and digestive enzymes will be secreted.\n(D) Insulin secretion will stop and blood glucose levels will increase.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which definition of evolution would have been most foreign to Charles Darwin during his lifetime?",
+    "choices": [
+      "change in gene frequency in gene pools",
+      "descent with modification",
+      "the gradual change of a population's heritable traits over generations",
+      "populations becoming better adapted to their environments over the course of generations"
+    ],
+    "answer": "A",
+    "input": "Question: Which definition of evolution would have been most foreign to Charles Darwin during his lifetime?\nOptions:\n(A) change in gene frequency in gene pools\n(B) descent with modification\n(C) the gradual change of a population's heritable traits over generations\n(D) populations becoming better adapted to their environments over the course of generations\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following statements about photosynthesis is incorrect?",
+    "choices": [
+      "H2O is an input to the light-dependent reactions.",
+      "CO2 is an input to the Calvin cycle.",
+      "Photosystems I and II both play a role in the cyclic light reactions.",
+      "O2 is a product of the light-dependent reactions."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements about photosynthesis is incorrect?\nOptions:\n(A) H2O is an input to the light-dependent reactions.\n(B) CO2 is an input to the Calvin cycle.\n(C) Photosystems I and II both play a role in the cyclic light reactions.\n(D) O2 is a product of the light-dependent reactions.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Similar evolutionary changes occurring in two species that can be related or unrelated.",
+    "choices": [
+      "Divergent evolution",
+      "Convergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "answer": "C",
+    "input": "Question: Similar evolutionary changes occurring in two species that can be related or unrelated.\nOptions:\n(A) Divergent evolution\n(B) Convergent evolution\n(C) Parallel evolution\n(D) Coevolution\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "All of the following are differences between prokaryotes and eukaryotes EXCEPT",
+    "choices": [
+      "eukaryotes have linear chromosomes, while prokaryotes have circular chromosomes",
+      "eukaryotes possess double stranded DNA, while prokaryotes possess single stranded DNA",
+      "eukaryotes process their mRNA, while in prokaryotes, transcription and translation occur simultaneously",
+      "eukaryotes contain membrane-bound organelles, while prokaryotes do not"
+    ],
+    "answer": "A",
+    "input": "Question: All of the following are differences between prokaryotes and eukaryotes EXCEPT\nOptions:\n(A) eukaryotes have linear chromosomes, while prokaryotes have circular chromosomes\n(B) eukaryotes possess double stranded DNA, while prokaryotes possess single stranded DNA\n(C) eukaryotes process their mRNA, while in prokaryotes, transcription and translation occur simultaneously\n(D) eukaryotes contain membrane-bound organelles, while prokaryotes do not\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "This biome is the driest of the land biomes and experiences the greatest daily temperature fluctuations.",
+    "choices": [
+      "Desert",
+      "Tundra",
+      "Taiga",
+      "Deciduous forests"
+    ],
+    "answer": "A",
+    "input": "Question: This biome is the driest of the land biomes and experiences the greatest daily temperature fluctuations.\nOptions:\n(A) Desert\n(B) Tundra\n(C) Taiga\n(D) Deciduous forests\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of these naturalists synthesized a concept of natural selection independently of Darwin?",
+    "choices": [
+      "Charles Lyell",
+      "Gregor Mendel",
+      "Alfred Wallace",
+      "John Henslow"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these naturalists synthesized a concept of natural selection independently of Darwin?\nOptions:\n(A) Charles Lyell\n(B) Gregor Mendel\n(C) Alfred Wallace\n(D) John Henslow\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "In reptile eggs, the extraembryonic membrane that functions in excretion and respiration is the",
+    "choices": [
+      "amnion",
+      "chorion",
+      "allantois",
+      "yolk sac"
+    ],
+    "answer": "C",
+    "input": "Question: In reptile eggs, the extraembryonic membrane that functions in excretion and respiration is the\nOptions:\n(A) amnion\n(B) chorion\n(C) allantois\n(D) yolk sac\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following statements describes the structural level of a protein that is least affected by hydrogen bonding?",
+    "choices": [
+      "Primary structure depends on the sequence of amino acids.",
+      "Tertiary structure has a shape dependent on the interactions of side chains of amino acids.",
+      "Quaternary structure results from the aggregation of more than one polypeptide unit.",
+      "An α-helix is an example of a secondary structure of a polypeptide."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following statements describes the structural level of a protein that is least affected by hydrogen bonding?\nOptions:\n(A) Primary structure depends on the sequence of amino acids.\n(B) Tertiary structure has a shape dependent on the interactions of side chains of amino acids.\n(C) Quaternary structure results from the aggregation of more than one polypeptide unit.\n(D) An α-helix is an example of a secondary structure of a polypeptide.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Three distinct bird species, flicker, woodpecker, and elf owl, all inhabit a large cactus, Cereus giganteus, in the desert of Arizona. Since competition among these birds rarely occurs, the most likely explanation for this phenomenon is that these birds",
+    "choices": [
+      "have a short supply of resources",
+      "have different ecological niches",
+      "do not live together long",
+      "are unable to breed"
+    ],
+    "answer": "B",
+    "input": "Question: Three distinct bird species, flicker, woodpecker, and elf owl, all inhabit a large cactus, Cereus giganteus, in the desert of Arizona. Since competition among these birds rarely occurs, the most likely explanation for this phenomenon is that these birds\nOptions:\n(A) have a short supply of resources\n(B) have different ecological niches\n(C) do not live together long\n(D) are unable to breed\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated",
+    "choices": [
+      "by the synthesis of additional ribosomes",
+      "at the transcription stage",
+      "at the translation stage",
+      "by differential replication of the DNA that codes for lactose-utilizing mechanisms"
+    ],
+    "answer": "B",
+    "input": "Question: The synthesis of new proteins necessary for lactose utilization by the bacterium E. coli using the lac operon is regulated\nOptions:\n(A) by the synthesis of additional ribosomes\n(B) at the transcription stage\n(C) at the translation stage\n(D) by differential replication of the DNA that codes for lactose-utilizing mechanisms\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "All of the following statements describe the unique characteristics of water EXCEPT",
+    "choices": [
+      "it is a polar solvent",
+      "it forms hydrogen bonds with disaccharides",
+      "it can dissociate into hydrogen ions and hydroxide ions",
+      "it is a hydrophobic solvent"
+    ],
+    "answer": "D",
+    "input": "Question: All of the following statements describe the unique characteristics of water EXCEPT\nOptions:\n(A) it is a polar solvent\n(B) it forms hydrogen bonds with disaccharides\n(C) it can dissociate into hydrogen ions and hydroxide ions\n(D) it is a hydrophobic solvent\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "In DNA replication, which of the following does NOT occur?",
+    "choices": [
+      "Helicase unwinds the double helix.",
+      "DNA ligase links the Okazaki fragments.",
+      "RNA polymerase is used to elongate both chains of the helix.",
+      "DNA strands grow in the 5' to 3' direction."
+    ],
+    "answer": "C",
+    "input": "Question: In DNA replication, which of the following does NOT occur?\nOptions:\n(A) Helicase unwinds the double helix.\n(B) DNA ligase links the Okazaki fragments.\n(C) RNA polymerase is used to elongate both chains of the helix.\n(D) DNA strands grow in the 5' to 3' direction.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "The upper forelimbs of humans and bats have fairly similar skeletal structures, whereas the corresponding bones in whales have very different shapes and proportions. However, genetic data suggest that all three kinds of organisms diverged from a common ancestor at about the same time. Which of the following is the most likely explanation for these data?",
+    "choices": [
+      "Humans and bats evolved by natural selection, and whales evolved by Lamarckian mechanisms.",
+      "Forelimb evolution was adaptive in people and bats, but not in whales.",
+      "Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy.",
+      "Genes mutate faster in whales than in humans or bats."
+    ],
+    "answer": "C",
+    "input": "Question: The upper forelimbs of humans and bats have fairly similar skeletal structures, whereas the corresponding bones in whales have very different shapes and proportions. However, genetic data suggest that all three kinds of organisms diverged from a common ancestor at about the same time. Which of the following is the most likely explanation for these data?\nOptions:\n(A) Humans and bats evolved by natural selection, and whales evolved by Lamarckian mechanisms.\n(B) Forelimb evolution was adaptive in people and bats, but not in whales.\n(C) Natural selection in an aquatic environment resulted in significant changes to whale forelimb anatomy.\n(D) Genes mutate faster in whales than in humans or bats.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Some animals have patterns that can cause a predator to think twice before attacking.",
+    "choices": [
+      "Aposomatic coloration",
+      "Batesian mimicry",
+      "Deceptive markings",
+      "Cryptic coloration"
+    ],
+    "answer": "C",
+    "input": "Question: Some animals have patterns that can cause a predator to think twice before attacking.\nOptions:\n(A) Aposomatic coloration\n(B) Batesian mimicry\n(C) Deceptive markings\n(D) Cryptic coloration\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following statements is correct about the DNA content of a particular diploid cell just prior to mitosis if the DNA content of the same diploid cell in G1 is X?",
+    "choices": [
+      "The DNA content of the cell in metaphase I is 0.5X",
+      "The DNA content of the cell in metaphase I is X.",
+      "The DNA content of the cell in metaphase I is 2X.",
+      "The DNA content of the cell in metaphase I is 4X."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements is correct about the DNA content of a particular diploid cell just prior to mitosis if the DNA content of the same diploid cell in G1 is X?\nOptions:\n(A) The DNA content of the cell in metaphase I is 0.5X\n(B) The DNA content of the cell in metaphase I is X.\n(C) The DNA content of the cell in metaphase I is 2X.\n(D) The DNA content of the cell in metaphase I is 4X.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following is an example of a coupling of an exergonic reaction with an endergonic one?",
+    "choices": [
+      "Unicellular organisms that live in freshwater, such as amoeba, must pump out excess water using their contractile vacuoles.",
+      "The enzyme lactase binds with lactose to produce molecules of glucose and galactose.",
+      "Electrons escaping from chlorophyll a are replaced by those released by the hydrolysis of water.",
+      "The flow of electrons down an electron transport chain in mitochondria powers the pumping of protons against a gradient into the outer compartment."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is an example of a coupling of an exergonic reaction with an endergonic one?\nOptions:\n(A) Unicellular organisms that live in freshwater, such as amoeba, must pump out excess water using their contractile vacuoles.\n(B) The enzyme lactase binds with lactose to produce molecules of glucose and galactose.\n(C) Electrons escaping from chlorophyll a are replaced by those released by the hydrolysis of water.\n(D) The flow of electrons down an electron transport chain in mitochondria powers the pumping of protons against a gradient into the outer compartment.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following tends to be highest on the trophic pyramid?",
+    "choices": [
+      "Primary consumers",
+      "Herbivores",
+      "Primary carnivores",
+      "Primary producers"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following tends to be highest on the trophic pyramid?\nOptions:\n(A) Primary consumers\n(B) Herbivores\n(C) Primary carnivores\n(D) Primary producers\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_biology",
+    "question": "Which of the following changes in a gamete is most likely to lead to a heritable change in a protein?",
+    "choices": [
+      "Deleting two nucleotides from the middle of an intron",
+      "Deleting two nucleotides immediately upstream of a gene promoter",
+      "Inserting two nucleotides in the genome at the beginning of a codon",
+      "Adding two nucleotides to the poly(A) tail of an mRNA"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following changes in a gamete is most likely to lead to a heritable change in a protein?\nOptions:\n(A) Deleting two nucleotides from the middle of an intron\n(B) Deleting two nucleotides immediately upstream of a gene promoter\n(C) Inserting two nucleotides in the genome at the beginning of a codon\n(D) Adding two nucleotides to the poly(A) tail of an mRNA\nAnswer:",
+    "target": "(C)"
+  }
+]

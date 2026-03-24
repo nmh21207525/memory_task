@@ -1,0 +1,3057 @@
+[
+  {
+    "subject": "conceptual_physics",
+    "question": "A 10-N force at an angle 45° above the horizontal has a horizontal component of about",
+    "choices": [
+      "7 N",
+      "5 N",
+      "10 N",
+      "12 N"
+    ],
+    "answer": "A",
+    "input": "Question: A 10-N force at an angle 45° above the horizontal has a horizontal component of about\nOptions:\n(A) 7 N\n(B) 5 N\n(C) 10 N\n(D) 12 N\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A completely submerged object always displaces its own",
+    "choices": [
+      "weight of fluid.",
+      "volume of fluid.",
+      "density of fluid.",
+      "All of these."
+    ],
+    "answer": "B",
+    "input": "Question: A completely submerged object always displaces its own\nOptions:\n(A) weight of fluid.\n(B) volume of fluid.\n(C) density of fluid.\n(D) All of these.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light",
+    "choices": [
+      "totally internally reflects",
+      "passes into the air above",
+      "is absorbed",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light\nOptions:\n(A) totally internally reflects\n(B) passes into the air above\n(C) is absorbed\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "According to four-dimensional geometry, the angles of a triangle add to 180°",
+    "choices": [
+      "always.",
+      "sometimes.",
+      "never.",
+      "on planet Earth only."
+    ],
+    "answer": "B",
+    "input": "Question: According to four-dimensional geometry, the angles of a triangle add to 180°\nOptions:\n(A) always.\n(B) sometimes.\n(C) never.\n(D) on planet Earth only.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A voltage will be induced in a wire loop when the magnetic field within that loop",
+    "choices": [
+      "changes",
+      "aligns with the electric field",
+      "is at right angles to the electric field",
+      "converts to magnetic energy"
+    ],
+    "answer": "A",
+    "input": "Question: A voltage will be induced in a wire loop when the magnetic field within that loop\nOptions:\n(A) changes\n(B) aligns with the electric field\n(C) is at right angles to the electric field\n(D) converts to magnetic energy\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Among these colors, the one that has the most energy per photon is",
+    "choices": [
+      "red",
+      "yellow-green",
+      "blue",
+      "violet"
+    ],
+    "answer": "D",
+    "input": "Question: Among these colors, the one that has the most energy per photon is\nOptions:\n(A) red\n(B) yellow-green\n(C) blue\n(D) violet\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "According to general relativity,",
+    "choices": [
+      "mass distorts spacetime.",
+      "gravity affects clocks.",
+      "light can’t escape from a black hole.",
+      "All of these."
+    ],
+    "answer": "D",
+    "input": "Question: According to general relativity,\nOptions:\n(A) mass distorts spacetime.\n(B) gravity affects clocks.\n(C) light can’t escape from a black hole.\n(D) All of these.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A step-up transformer in an electric circuit can step up",
+    "choices": [
+      "voltage",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: A step-up transformer in an electric circuit can step up\nOptions:\n(A) voltage\n(B) energy\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Spectral lines of the elements are",
+    "choices": [
+      "chaotic",
+      "ordered",
+      "positioned by amplitude",
+      "in phase"
+    ],
+    "answer": "B",
+    "input": "Question: Spectral lines of the elements are\nOptions:\n(A) chaotic\n(B) ordered\n(C) positioned by amplitude\n(D) in phase\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A wave transfers",
+    "choices": [
+      "amplitude",
+      "wavelength",
+      "frequency",
+      "energy"
+    ],
+    "answer": "D",
+    "input": "Question: A wave transfers\nOptions:\n(A) amplitude\n(B) wavelength\n(C) frequency\n(D) energy\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore",
+    "choices": [
+      "the same",
+      "opposite",
+      "Either of these",
+      "Need more information"
+    ],
+    "answer": "B",
+    "input": "Question: Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore\nOptions:\n(A) the same\n(B) opposite\n(C) Either of these\n(D) Need more information\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The surface of planet Earth loses energy to outer space due mostly to",
+    "choices": [
+      "conduction",
+      "convection",
+      "radiation",
+      "radioactivity"
+    ],
+    "answer": "C",
+    "input": "Question: The surface of planet Earth loses energy to outer space due mostly to\nOptions:\n(A) conduction\n(B) convection\n(C) radiation\n(D) radioactivity\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is",
+    "choices": [
+      "half, 1 A",
+      "2 A",
+      "Depends on which lamp is closer to the battery",
+      "Not enough information to say"
+    ],
+    "answer": "B",
+    "input": "Question: In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is\nOptions:\n(A) half, 1 A\n(B) 2 A\n(C) Depends on which lamp is closer to the battery\n(D) Not enough information to say\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As a blinking light source approaching you gains speed, you see the frequency of flashes",
+    "choices": [
+      "increase.",
+      "decrease.",
+      "remain unchanged.",
+      "None of these."
+    ],
+    "answer": "A",
+    "input": "Question: As a blinking light source approaching you gains speed, you see the frequency of flashes\nOptions:\n(A) increase.\n(B) decrease.\n(C) remain unchanged.\n(D) None of these.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is",
+    "choices": [
+      "2mg",
+      "mg",
+      "mg/2",
+      "mg/4"
+    ],
+    "answer": "B",
+    "input": "Question: In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is\nOptions:\n(A) 2mg\n(B) mg\n(C) mg/2\n(D) mg/4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is",
+    "choices": [
+      "less.",
+      "equal.",
+      "greater.",
+      "none because it sinks."
+    ],
+    "answer": "A",
+    "input": "Question: Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is\nOptions:\n(A) less.\n(B) equal.\n(C) greater.\n(D) none because it sinks.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you look at the red petals of a rose the color light you're seeing is",
+    "choices": [
+      "red.",
+      "green.",
+      "white minus red.",
+      "a mixture of green and yellow."
+    ],
+    "answer": "A",
+    "input": "Question: When you look at the red petals of a rose the color light you're seeing is\nOptions:\n(A) red.\n(B) green.\n(C) white minus red.\n(D) a mixture of green and yellow.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased",
+    "choices": [
+      "speed",
+      "frequency",
+      "wavelength",
+      "All of these"
+    ],
+    "answer": "B",
+    "input": "Question: Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased\nOptions:\n(A) speed\n(B) frequency\n(C) wavelength\n(D) All of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you squeeze an air-filled party balloon, you increase its",
+    "choices": [
+      "volume",
+      "mass",
+      "weight",
+      "density"
+    ],
+    "answer": "D",
+    "input": "Question: When you squeeze an air-filled party balloon, you increase its\nOptions:\n(A) volume\n(B) mass\n(C) weight\n(D) density\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Polarization is a property of",
+    "choices": [
+      "transverse waves",
+      "longitudinal waves",
+      "all waves",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: Polarization is a property of\nOptions:\n(A) transverse waves\n(B) longitudinal waves\n(C) all waves\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a vacuum, an object has no",
+    "choices": [
+      "buoyant force",
+      "mass",
+      "weight",
+      "All of these"
+    ],
+    "answer": "A",
+    "input": "Question: In a vacuum, an object has no\nOptions:\n(A) buoyant force\n(B) mass\n(C) weight\n(D) All of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Temperature is generally proportional to a substance’s",
+    "choices": [
+      "thermal energy.",
+      "vibrational kinetic energy.",
+      "average translational kinetic energy.",
+      "rotational kinetic energy."
+    ],
+    "answer": "C",
+    "input": "Question: Temperature is generally proportional to a substance’s\nOptions:\n(A) thermal energy.\n(B) vibrational kinetic energy.\n(C) average translational kinetic energy.\n(D) rotational kinetic energy.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a hydraulic press operation, the output piston cannot",
+    "choices": [
+      "move farther than the input piston",
+      "exceed the force input",
+      "exceed the input piston’s speed",
+      "produce increased energy"
+    ],
+    "answer": "D",
+    "input": "Question: In a hydraulic press operation, the output piston cannot\nOptions:\n(A) move farther than the input piston\n(B) exceed the force input\n(C) exceed the input piston’s speed\n(D) produce increased energy\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum",
+    "choices": [
+      "decreases",
+      "increases",
+      "remains unchanged",
+      "may increase or decrease"
+    ],
+    "answer": "C",
+    "input": "Question: When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum\nOptions:\n(A) decreases\n(B) increases\n(C) remains unchanged\n(D) may increase or decrease\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces",
+    "choices": [
+      "half the bend.",
+      "the same bend if the branch doesn’t break.",
+      "twice the bend.",
+      "4 times the bend."
+    ],
+    "answer": "C",
+    "input": "Question: According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces\nOptions:\n(A) half the bend.\n(B) the same bend if the branch doesn’t break.\n(C) twice the bend.\n(D) 4 times the bend.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an increase in speed doubles the kinetic energy of a moving body its momentum",
+    "choices": [
+      "increases but less than doubles",
+      "doubles",
+      "more than doubles",
+      "depends on factors not stated"
+    ],
+    "answer": "A",
+    "input": "Question: When an increase in speed doubles the kinetic energy of a moving body its momentum\nOptions:\n(A) increases but less than doubles\n(B) doubles\n(C) more than doubles\n(D) depends on factors not stated\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?",
+    "choices": [
+      "1 minute.",
+      "2 minutes.",
+      "5 minutes.",
+      "9 minutes."
+    ],
+    "answer": "D",
+    "input": "Question: Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?\nOptions:\n(A) 1 minute.\n(B) 2 minutes.\n(C) 5 minutes.\n(D) 9 minutes.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will",
+    "choices": [
+      "move at a constant speed in a straight line",
+      "accelerate at a constant rate in a straight line",
+      "come to rest",
+      "increase its amount of inertia"
+    ],
+    "answer": "A",
+    "input": "Question: If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will\nOptions:\n(A) move at a constant speed in a straight line\n(B) accelerate at a constant rate in a straight line\n(C) come to rest\n(D) increase its amount of inertia\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Relativity equations for time, length, and momentum hold true for",
+    "choices": [
+      "everyday low speeds.",
+      "relativistic speeds.",
+      "Both of these.",
+      "Neither of these."
+    ],
+    "answer": "C",
+    "input": "Question: Relativity equations for time, length, and momentum hold true for\nOptions:\n(A) everyday low speeds.\n(B) relativistic speeds.\n(C) Both of these.\n(D) Neither of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Put a saucer of water on your table. A process that then occurs is",
+    "choices": [
+      "evaporation",
+      "condensation",
+      "Both",
+      "Neither"
+    ],
+    "answer": "C",
+    "input": "Question: Put a saucer of water on your table. A process that then occurs is\nOptions:\n(A) evaporation\n(B) condensation\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A barometer that uses water instead of mercury will be",
+    "choices": [
+      "shorter",
+      "taller",
+      "equal in height",
+      "inoperable"
+    ],
+    "answer": "B",
+    "input": "Question: A barometer that uses water instead of mercury will be\nOptions:\n(A) shorter\n(B) taller\n(C) equal in height\n(D) inoperable\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the",
+    "choices": [
+      "force due to gravity is the same on each.",
+      "air resistance is always zero in free fall.",
+      "inertia of both rocks is the same.",
+      "ratio of force to mass is the same."
+    ],
+    "answer": "D",
+    "input": "Question: A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the\nOptions:\n(A) force due to gravity is the same on each.\n(B) air resistance is always zero in free fall.\n(C) inertia of both rocks is the same.\n(D) ratio of force to mass is the same.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+    "choices": [
+      "increases but less than doubles",
+      "doubles",
+      "more than doubles",
+      "depends on factors not stated"
+    ],
+    "answer": "C",
+    "input": "Question: When an increase in speed doubles the momentum of a moving body its kinetic energy\nOptions:\n(A) increases but less than doubles\n(B) doubles\n(C) more than doubles\n(D) depends on factors not stated\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The equation E = mc^2 indicates that energy",
+    "choices": [
+      "equals mass moving at the speed of light squared.",
+      "equals moving mass.",
+      "is fundamentally different than mass.",
+      "and mass are closely related."
+    ],
+    "answer": "D",
+    "input": "Question: The equation E = mc^2 indicates that energy\nOptions:\n(A) equals mass moving at the speed of light squared.\n(B) equals moving mass.\n(C) is fundamentally different than mass.\n(D) and mass are closely related.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "General relativity predicts that",
+    "choices": [
+      "light leaving the Sun is slowed by gravity.",
+      "light passing the Sun is deflected.",
+      "a clock on the Sun’s surface runs faster than on Earth.",
+      "All of these."
+    ],
+    "answer": "D",
+    "input": "Question: General relativity predicts that\nOptions:\n(A) light leaving the Sun is slowed by gravity.\n(B) light passing the Sun is deflected.\n(C) a clock on the Sun’s surface runs faster than on Earth.\n(D) All of these.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an element ejects an alpha particle, the atomic number of the resulting element",
+    "choices": [
+      "reduces by 2",
+      "reduces by 4",
+      "increases by 2",
+      "increases by 4"
+    ],
+    "answer": "A",
+    "input": "Question: When an element ejects an alpha particle, the atomic number of the resulting element\nOptions:\n(A) reduces by 2\n(B) reduces by 4\n(C) increases by 2\n(D) increases by 4\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As more lamps are connected in parallel in a circuit, the current in the power source",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same",
+      "Not enough information to say"
+    ],
+    "answer": "A",
+    "input": "Question: As more lamps are connected in parallel in a circuit, the current in the power source\nOptions:\n(A) increases\n(B) decreases\n(C) remains the same\n(D) Not enough information to say\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of",
+    "choices": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "answer": "C",
+    "input": "Question: An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of\nOptions:\n(A) 30 km/h\n(B) 40 km/h\n(C) 50 km/h\n(D) 60 km/h\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The energy of an emitted photon is related to its",
+    "choices": [
+      "amplitude",
+      "polarization",
+      "momentum",
+      "frequency"
+    ],
+    "answer": "D",
+    "input": "Question: The energy of an emitted photon is related to its\nOptions:\n(A) amplitude\n(B) polarization\n(C) momentum\n(D) frequency\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Thermal conduction involves mainly",
+    "choices": [
+      "electrons",
+      "protons",
+      "neutrons",
+      "ions"
+    ],
+    "answer": "A",
+    "input": "Question: Thermal conduction involves mainly\nOptions:\n(A) electrons\n(B) protons\n(C) neutrons\n(D) ions\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with the current in an LED lamp the current in the connecting wire is",
+    "choices": [
+      "less.",
+      "more.",
+      "the same.",
+      "Need more information."
+    ],
+    "answer": "C",
+    "input": "Question: Compared with the current in an LED lamp the current in the connecting wire is\nOptions:\n(A) less.\n(B) more.\n(C) the same.\n(D) Need more information.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Bow waves are produced by waves of water",
+    "choices": [
+      "overlapping one another",
+      "constructively interfering",
+      "moving slower than the source producing them",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: Bow waves are produced by waves of water\nOptions:\n(A) overlapping one another\n(B) constructively interfering\n(C) moving slower than the source producing them\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The speed of sound is slightly greater on a",
+    "choices": [
+      "cold day",
+      "hot day",
+      "day with steady temperature",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: The speed of sound is slightly greater on a\nOptions:\n(A) cold day\n(B) hot day\n(C) day with steady temperature\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is",
+    "choices": [
+      "half",
+      "twice",
+      "the same",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is\nOptions:\n(A) half\n(B) twice\n(C) the same\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The second law of thermodynamics tells us that heat doesn’t flow from",
+    "choices": [
+      "hot to cold ever",
+      "cold to hot ever",
+      "hot to cold without external energy",
+      "cold to hot without external energy"
+    ],
+    "answer": "D",
+    "input": "Question: The second law of thermodynamics tells us that heat doesn’t flow from\nOptions:\n(A) hot to cold ever\n(B) cold to hot ever\n(C) hot to cold without external energy\n(D) cold to hot without external energy\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of",
+    "choices": [
+      "hydrogen.",
+      "oxygen.",
+      "nitrogen.",
+      "But all have the same speed on average."
+    ],
+    "answer": "A",
+    "input": "Question: In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of\nOptions:\n(A) hydrogen.\n(B) oxygen.\n(C) nitrogen.\n(D) But all have the same speed on average.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with the power input, the power output of an ideal transformer is",
+    "choices": [
+      "greater",
+      "less",
+      "the same",
+      "Any of these"
+    ],
+    "answer": "C",
+    "input": "Question: Compared with the power input, the power output of an ideal transformer is\nOptions:\n(A) greater\n(B) less\n(C) the same\n(D) Any of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is",
+    "choices": [
+      "less than 0.8 N",
+      "0.8 N",
+      "greater than 0.8 N",
+      "dependent on the orientation of its body"
+    ],
+    "answer": "B",
+    "input": "Question: The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is\nOptions:\n(A) less than 0.8 N\n(B) 0.8 N\n(C) greater than 0.8 N\n(D) dependent on the orientation of its body\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The vibrations in a longitudinal wave move in a direction",
+    "choices": [
+      "along and parallel to the wave",
+      "perpendicular to the wave",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: The vibrations in a longitudinal wave move in a direction\nOptions:\n(A) along and parallel to the wave\n(B) perpendicular to the wave\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The potential energy of a compressed spring and the potential energy of a charged object both depend on",
+    "choices": [
+      "the work done on them",
+      "motion",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: The potential energy of a compressed spring and the potential energy of a charged object both depend on\nOptions:\n(A) the work done on them\n(B) motion\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A step-up transformer in an electrical circuit can step up",
+    "choices": [
+      "voltage",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: A step-up transformer in an electrical circuit can step up\nOptions:\n(A) voltage\n(B) energy\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The neutrons in an atom are normally found",
+    "choices": [
+      "inside the nucleus",
+      "outside the nucleus",
+      "Either of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: The neutrons in an atom are normally found\nOptions:\n(A) inside the nucleus\n(B) outside the nucleus\n(C) Either of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The greenish-blue color of ocean water is due mostly to light that hasn’t been",
+    "choices": [
+      "absorbed",
+      "reflected",
+      "scattered",
+      "refracted"
+    ],
+    "answer": "A",
+    "input": "Question: The greenish-blue color of ocean water is due mostly to light that hasn’t been\nOptions:\n(A) absorbed\n(B) reflected\n(C) scattered\n(D) refracted\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Noise-canceling devices make use of sound",
+    "choices": [
+      "destruction",
+      "interference",
+      "resonance",
+      "amplification"
+    ],
+    "answer": "B",
+    "input": "Question: Noise-canceling devices make use of sound\nOptions:\n(A) destruction\n(B) interference\n(C) resonance\n(D) amplification\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Black is the combination of",
+    "choices": [
+      "all the colors together",
+      "two or more appropriate colors",
+      "light when a prism is held upside down",
+      "None of these"
+    ],
+    "answer": "D",
+    "input": "Question: Black is the combination of\nOptions:\n(A) all the colors together\n(B) two or more appropriate colors\n(C) light when a prism is held upside down\n(D) None of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is",
+    "choices": [
+      "about 1 A",
+      "2 A",
+      "Depends on which lamp is closer to the battery",
+      "Not enough information to say"
+    ],
+    "answer": "D",
+    "input": "Question: In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is\nOptions:\n(A) about 1 A\n(B) 2 A\n(C) Depends on which lamp is closer to the battery\n(D) Not enough information to say\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which of these changes when light refracts in passing from one medium to another?",
+    "choices": [
+      "Speed only",
+      "Wavelength only",
+      "Both speed and wavelength",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these changes when light refracts in passing from one medium to another?\nOptions:\n(A) Speed only\n(B) Wavelength only\n(C) Both speed and wavelength\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be",
+    "choices": [
+      "2 Hz",
+      "4 Hz",
+      "8 Hz",
+      "16 Hz"
+    ],
+    "answer": "B",
+    "input": "Question: If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be\nOptions:\n(A) 2 Hz\n(B) 4 Hz\n(C) 8 Hz\n(D) 16 Hz\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The loudness of a sound is most closely related to its",
+    "choices": [
+      "frequency",
+      "period",
+      "wavelength",
+      "amplitude"
+    ],
+    "answer": "D",
+    "input": "Question: The loudness of a sound is most closely related to its\nOptions:\n(A) frequency\n(B) period\n(C) wavelength\n(D) amplitude\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The electric field inside the dome of a Van de Graaff generator is zero when the dome is",
+    "choices": [
+      "charged",
+      "uncharged",
+      "Either of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: The electric field inside the dome of a Van de Graaff generator is zero when the dome is\nOptions:\n(A) charged\n(B) uncharged\n(C) Either of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The redness of a sunrise or sunset is due mostly to light that hasn’t been",
+    "choices": [
+      "absorbed",
+      "transmitted",
+      "scattered",
+      "polarized"
+    ],
+    "answer": "C",
+    "input": "Question: The redness of a sunrise or sunset is due mostly to light that hasn’t been\nOptions:\n(A) absorbed\n(B) transmitted\n(C) scattered\n(D) polarized\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a nucleus of uranium-238 emits an alpha particle, left behind is",
+    "choices": [
+      "thorium-242",
+      "thorium-238",
+      "thorium-234",
+      "radium-214"
+    ],
+    "answer": "C",
+    "input": "Question: When a nucleus of uranium-238 emits an alpha particle, left behind is\nOptions:\n(A) thorium-242\n(B) thorium-238\n(C) thorium-234\n(D) radium-214\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The Doppler effect occurs when a source of sound moves",
+    "choices": [
+      "toward you",
+      "away from you",
+      "Both of these",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: The Doppler effect occurs when a source of sound moves\nOptions:\n(A) toward you\n(B) away from you\n(C) Both of these\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a proton is plucked from an atomic nucleus, the atom has a decrease in",
+    "choices": [
+      "charge",
+      "energy",
+      "mass",
+      "all of these"
+    ],
+    "answer": "D",
+    "input": "Question: When a proton is plucked from an atomic nucleus, the atom has a decrease in\nOptions:\n(A) charge\n(B) energy\n(C) mass\n(D) all of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If the Sun were twice as massive, its pull on Mars would be",
+    "choices": [
+      "unchanged",
+      "twice as much",
+      "half as much",
+      "four times as much"
+    ],
+    "answer": "B",
+    "input": "Question: If the Sun were twice as massive, its pull on Mars would be\nOptions:\n(A) unchanged\n(B) twice as much\n(C) half as much\n(D) four times as much\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "During the time an aircraft produces a sonic boom the aircraft is",
+    "choices": [
+      "breaking the sound barrier",
+      "pulling out of a subsonic dive",
+      "flying faster than sound",
+      "Each of these produces a sonic boom"
+    ],
+    "answer": "C",
+    "input": "Question: During the time an aircraft produces a sonic boom the aircraft is\nOptions:\n(A) breaking the sound barrier\n(B) pulling out of a subsonic dive\n(C) flying faster than sound\n(D) Each of these produces a sonic boom\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When food is exposed to gamma radiation, the food",
+    "choices": [
+      "becomes slightly radioactive",
+      "doesn’t become radioactive",
+      "will spoil faster",
+      "should be avoided"
+    ],
+    "answer": "B",
+    "input": "Question: When food is exposed to gamma radiation, the food\nOptions:\n(A) becomes slightly radioactive\n(B) doesn’t become radioactive\n(C) will spoil faster\n(D) should be avoided\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The red glow in the neon tube of an advertising sign is a result of",
+    "choices": [
+      "fluorescence.",
+      "coherence.",
+      "polarization.",
+      "de-excitation."
+    ],
+    "answer": "D",
+    "input": "Question: The red glow in the neon tube of an advertising sign is a result of\nOptions:\n(A) fluorescence.\n(B) coherence.\n(C) polarization.\n(D) de-excitation.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Light that is not transmitted by opaque materials is",
+    "choices": [
+      "reflected or converted to internal energy in the material.",
+      "mainly reflected.",
+      "mainly refracted.",
+      "transmitted at a lower frequency."
+    ],
+    "answer": "A",
+    "input": "Question: Light that is not transmitted by opaque materials is\nOptions:\n(A) reflected or converted to internal energy in the material.\n(B) mainly reflected.\n(C) mainly refracted.\n(D) transmitted at a lower frequency.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh",
+    "choices": [
+      "1/100 as much",
+      "10 times as much",
+      "100 times as much",
+      "1000 times as much"
+    ],
+    "answer": "C",
+    "input": "Question: Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh\nOptions:\n(A) 1/100 as much\n(B) 10 times as much\n(C) 100 times as much\n(D) 1000 times as much\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A magnetic force acting on a beam of electrons can change its",
+    "choices": [
+      "direction",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: A magnetic force acting on a beam of electrons can change its\nOptions:\n(A) direction\n(B) energy\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Microscopic slush in water tends to make the water",
+    "choices": [
+      "more dense",
+      "less dense",
+      "more slippery",
+      "warmer"
+    ],
+    "answer": "A",
+    "input": "Question: Microscopic slush in water tends to make the water\nOptions:\n(A) more dense\n(B) less dense\n(C) more slippery\n(D) warmer\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The speed of sound in air depends on",
+    "choices": [
+      "frequency.",
+      "wavelength.",
+      "air temperature.",
+      "All of these."
+    ],
+    "answer": "C",
+    "input": "Question: The speed of sound in air depends on\nOptions:\n(A) frequency.\n(B) wavelength.\n(C) air temperature.\n(D) All of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Heat comes from the Sun to Earth by the process of",
+    "choices": [
+      "conduction",
+      "convection",
+      "radiation",
+      "All of these, although radiation is greatest"
+    ],
+    "answer": "C",
+    "input": "Question: Heat comes from the Sun to Earth by the process of\nOptions:\n(A) conduction\n(B) convection\n(C) radiation\n(D) All of these, although radiation is greatest\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A torque is a force",
+    "choices": [
+      "like any other force",
+      "multiplied by a lever arm",
+      "that is fictitious",
+      "that accelerates things"
+    ],
+    "answer": "B",
+    "input": "Question: A torque is a force\nOptions:\n(A) like any other force\n(B) multiplied by a lever arm\n(C) that is fictitious\n(D) that accelerates things\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "All of the following are electromagnetic waves EXCEPT",
+    "choices": [
+      "microwaves",
+      "light waves",
+      "X-rays",
+      "None is outside the family; all are electromagnetic waves"
+    ],
+    "answer": "D",
+    "input": "Question: All of the following are electromagnetic waves EXCEPT\nOptions:\n(A) microwaves\n(B) light waves\n(C) X-rays\n(D) None is outside the family; all are electromagnetic waves\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Big brother and little sister can balance on a seesaw because of balanced",
+    "choices": [
+      "forces",
+      "torques",
+      "energies",
+      "All of these"
+    ],
+    "answer": "B",
+    "input": "Question: Big brother and little sister can balance on a seesaw because of balanced\nOptions:\n(A) forces\n(B) torques\n(C) energies\n(D) All of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Any atom that emits an alpha particle or beta particle",
+    "choices": [
+      "becomes an atom of a different element always.",
+      "may become an atom of a different element.",
+      "becomes a different isotope of the same element.",
+      "increases its mass."
+    ],
+    "answer": "A",
+    "input": "Question: Any atom that emits an alpha particle or beta particle\nOptions:\n(A) becomes an atom of a different element always.\n(B) may become an atom of a different element.\n(C) becomes a different isotope of the same element.\n(D) increases its mass.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Regelation occurs due to water’s",
+    "choices": [
+      "high specific heat",
+      "open-structured ice crystals",
+      "high rate of expansion",
+      "slight tendency to freeze when its temperature is lowered"
+    ],
+    "answer": "B",
+    "input": "Question: Regelation occurs due to water’s\nOptions:\n(A) high specific heat\n(B) open-structured ice crystals\n(C) high rate of expansion\n(D) slight tendency to freeze when its temperature is lowered\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in",
+    "choices": [
+      "speed",
+      "momentum",
+      "Both",
+      "Neither"
+    ],
+    "answer": "A",
+    "input": "Question: A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in\nOptions:\n(A) speed\n(B) momentum\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A capacitor can store",
+    "choices": [
+      "charge",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: A capacitor can store\nOptions:\n(A) charge\n(B) energy\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be",
+    "choices": [
+      "one-quarter the value for a tube open at both ends",
+      "one-half the value for a tube open at both ends",
+      "twice the value for a tube open at both ends",
+      "four times the value for a tube open at both ends"
+    ],
+    "answer": "B",
+    "input": "Question: For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be\nOptions:\n(A) one-quarter the value for a tube open at both ends\n(B) one-half the value for a tube open at both ends\n(C) twice the value for a tube open at both ends\n(D) four times the value for a tube open at both ends\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The period of a 10-Hz wave is",
+    "choices": [
+      "1/10 s",
+      "1.0 s",
+      "10 s",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: The period of a 10-Hz wave is\nOptions:\n(A) 1/10 s\n(B) 1.0 s\n(C) 10 s\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If the Sun collapsed to become a black hole Planet Earth would",
+    "choices": [
+      "continue in its present orbit.",
+      "likely be sucked into the black hole.",
+      "be pulled apart by tidal forces.",
+      "Both C and D."
+    ],
+    "answer": "A",
+    "input": "Question: If the Sun collapsed to become a black hole Planet Earth would\nOptions:\n(A) continue in its present orbit.\n(B) likely be sucked into the black hole.\n(C) be pulled apart by tidal forces.\n(D) Both C and D.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The electric field between a pair of oppositely charged parallel plates",
+    "choices": [
+      "gets weaker with distance inside the plates",
+      "follows the inverse-square law",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "D",
+    "input": "Question: The electric field between a pair of oppositely charged parallel plates\nOptions:\n(A) gets weaker with distance inside the plates\n(B) follows the inverse-square law\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The flight of a blimp best illustrates",
+    "choices": [
+      "Archimedes’ principle",
+      "Pascal’s principle",
+      "Bernoulli’s principle",
+      "Boyle’s law"
+    ],
+    "answer": "A",
+    "input": "Question: The flight of a blimp best illustrates\nOptions:\n(A) Archimedes’ principle\n(B) Pascal’s principle\n(C) Bernoulli’s principle\n(D) Boyle’s law\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The distance of your image behind a plane mirror is equal to",
+    "choices": [
+      "half your height",
+      "half your distance from the mirror",
+      "your distance in front of the mirror",
+      "more than your distance in front of the mirror"
+    ],
+    "answer": "C",
+    "input": "Question: The distance of your image behind a plane mirror is equal to\nOptions:\n(A) half your height\n(B) half your distance from the mirror\n(C) your distance in front of the mirror\n(D) more than your distance in front of the mirror\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The discrete orbits of electrons are best understood when modeled by",
+    "choices": [
+      "high-speed particles",
+      "particles on springs",
+      "waves",
+      "photons"
+    ],
+    "answer": "C",
+    "input": "Question: The discrete orbits of electrons are best understood when modeled by\nOptions:\n(A) high-speed particles\n(B) particles on springs\n(C) waves\n(D) photons\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Heat engines, such as a jet engine, are more efficient when run at",
+    "choices": [
+      "high temperatures",
+      "constant temperatures",
+      "low temperatures",
+      "a constant rate"
+    ],
+    "answer": "A",
+    "input": "Question: Heat engines, such as a jet engine, are more efficient when run at\nOptions:\n(A) high temperatures\n(B) constant temperatures\n(C) low temperatures\n(D) a constant rate\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The phenomenon of interference occurs for",
+    "choices": [
+      "sound waves",
+      "light waves",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: The phenomenon of interference occurs for\nOptions:\n(A) sound waves\n(B) light waves\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As more lamps are connected in a series circuit the current in the power source",
+    "choices": [
+      "increases.",
+      "decreases.",
+      "remains much the same.",
+      "Need more information."
+    ],
+    "answer": "B",
+    "input": "Question: As more lamps are connected in a series circuit the current in the power source\nOptions:\n(A) increases.\n(B) decreases.\n(C) remains much the same.\n(D) Need more information.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons",
+    "choices": [
+      "must be supplied by you",
+      "are included in the wire",
+      "may fall out—hence insulation",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons\nOptions:\n(A) must be supplied by you\n(B) are included in the wire\n(C) may fall out—hence insulation\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a uranium nucleus undergoes fission the energy released is primarily in the form of",
+    "choices": [
+      "gamma radiation.",
+      "kinetic energy of fission fragments.",
+      "kinetic energy of ejected neutrons.",
+      "All of these about equally."
+    ],
+    "answer": "B",
+    "input": "Question: When a uranium nucleus undergoes fission the energy released is primarily in the form of\nOptions:\n(A) gamma radiation.\n(B) kinetic energy of fission fragments.\n(C) kinetic energy of ejected neutrons.\n(D) All of these about equally.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Most of the radiation in Earth’s biosphere is",
+    "choices": [
+      "natural background radiation",
+      "the result of military activities",
+      "from nuclear power plants",
+      "in the form of cosmic rays"
+    ],
+    "answer": "A",
+    "input": "Question: Most of the radiation in Earth’s biosphere is\nOptions:\n(A) natural background radiation\n(B) the result of military activities\n(C) from nuclear power plants\n(D) in the form of cosmic rays\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When white light enters a prism green light is bent more than",
+    "choices": [
+      "blue light.",
+      "violet light.",
+      "red light.",
+      "None of these choices is correct."
+    ],
+    "answer": "C",
+    "input": "Question: When white light enters a prism green light is bent more than\nOptions:\n(A) blue light.\n(B) violet light.\n(C) red light.\n(D) None of these choices is correct.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension",
+    "choices": [
+      "is mg",
+      "is greater than mg always",
+      "is less than mg always",
+      "may be greater or less than mg depending on the speed of the ball"
+    ],
+    "answer": "B",
+    "input": "Question: When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension\nOptions:\n(A) is mg\n(B) is greater than mg always\n(C) is less than mg always\n(D) may be greater or less than mg depending on the speed of the ball\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a tin can is whirled in a horizontal circle, the net force on the can acts",
+    "choices": [
+      "inward",
+      "outward",
+      "upward",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: When a tin can is whirled in a horizontal circle, the net force on the can acts\nOptions:\n(A) inward\n(B) outward\n(C) upward\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The highest ocean tides occur when Earth and the Moon are",
+    "choices": [
+      "lined up with the Sun",
+      "at right angles to the Sun",
+      "at any angle to the Sun",
+      "lined up during spring"
+    ],
+    "answer": "A",
+    "input": "Question: The highest ocean tides occur when Earth and the Moon are\nOptions:\n(A) lined up with the Sun\n(B) at right angles to the Sun\n(C) at any angle to the Sun\n(D) lined up during spring\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises",
+    "choices": [
+      "25 cm",
+      "25 m",
+      "50 cm",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises\nOptions:\n(A) 25 cm\n(B) 25 m\n(C) 50 cm\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is",
+    "choices": [
+      "lower",
+      "higher",
+      "about the same",
+      "Can’t say"
+    ],
+    "answer": "A",
+    "input": "Question: Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is\nOptions:\n(A) lower\n(B) higher\n(C) about the same\n(D) Can’t say\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The color of light most intense in the solar radiation curve is",
+    "choices": [
+      "infrared",
+      "red",
+      "yellow-green",
+      "violet"
+    ],
+    "answer": "C",
+    "input": "Question: The color of light most intense in the solar radiation curve is\nOptions:\n(A) infrared\n(B) red\n(C) yellow-green\n(D) violet\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If the current in the filament of a lamp is 3 A, the current in the connecting wire is",
+    "choices": [
+      "less than 3 A",
+      "3 A",
+      "more than 3 A",
+      "Not enough information to say"
+    ],
+    "answer": "B",
+    "input": "Question: If the current in the filament of a lamp is 3 A, the current in the connecting wire is\nOptions:\n(A) less than 3 A\n(B) 3 A\n(C) more than 3 A\n(D) Not enough information to say\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?",
+    "choices": [
+      "Magnesium-22",
+      "Magnesium-20",
+      "Oxygen-18",
+      "Oxygen-16"
+    ],
+    "answer": "D",
+    "input": "Question: If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?\nOptions:\n(A) Magnesium-22\n(B) Magnesium-20\n(C) Oxygen-18\n(D) Oxygen-16\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in",
+    "choices": [
+      "less than 20 years.",
+      "20 years.",
+      "more than 20 years.",
+      "None of these."
+    ],
+    "answer": "B",
+    "input": "Question: If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in\nOptions:\n(A) less than 20 years.\n(B) 20 years.\n(C) more than 20 years.\n(D) None of these.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of",
+    "choices": [
+      "hydrogen",
+      "oxygen",
+      "nitrogen",
+      "All have same average speed"
+    ],
+    "answer": "A",
+    "input": "Question: In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of\nOptions:\n(A) hydrogen\n(B) oxygen\n(C) nitrogen\n(D) All have same average speed\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The mutual induction of electric and magnetic fields can produce",
+    "choices": [
+      "light",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: The mutual induction of electric and magnetic fields can produce\nOptions:\n(A) light\n(B) energy\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a model car speeds up to three times its original speed, its kinetic energy is",
+    "choices": [
+      "the same",
+      "twice as great",
+      "three times greater",
+      "None of these"
+    ],
+    "answer": "D",
+    "input": "Question: When a model car speeds up to three times its original speed, its kinetic energy is\nOptions:\n(A) the same\n(B) twice as great\n(C) three times greater\n(D) None of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If an iron nucleus split in two, its fission fragments would have",
+    "choices": [
+      "less mass per nucleon",
+      "more mass per nucleon",
+      "the same mass per nucleon",
+      "either more or less mass per nucleon"
+    ],
+    "answer": "B",
+    "input": "Question: If an iron nucleus split in two, its fission fragments would have\nOptions:\n(A) less mass per nucleon\n(B) more mass per nucleon\n(C) the same mass per nucleon\n(D) either more or less mass per nucleon\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The surface of Planet Earth loses energy to outer space due mostly to",
+    "choices": [
+      "conduction.",
+      "convection.",
+      "radiation.",
+      "radioactivity."
+    ],
+    "answer": "C",
+    "input": "Question: The surface of Planet Earth loses energy to outer space due mostly to\nOptions:\n(A) conduction.\n(B) convection.\n(C) radiation.\n(D) radioactivity.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The direction of natural processes is from states of",
+    "choices": [
+      "higher order to lower order",
+      "lower order to higher order",
+      "disorganization to organization",
+      "disorder to equilibrium"
+    ],
+    "answer": "A",
+    "input": "Question: The direction of natural processes is from states of\nOptions:\n(A) higher order to lower order\n(B) lower order to higher order\n(C) disorganization to organization\n(D) disorder to equilibrium\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A principal source of the Earth’s internal energy is",
+    "choices": [
+      "tidal friction.",
+      "gravitational pressure.",
+      "radioactivity.",
+      "solar radiation."
+    ],
+    "answer": "C",
+    "input": "Question: A principal source of the Earth’s internal energy is\nOptions:\n(A) tidal friction.\n(B) gravitational pressure.\n(C) radioactivity.\n(D) solar radiation.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A diffraction grating relies on light",
+    "choices": [
+      "interference",
+      "amplitudes",
+      "variations in brightness",
+      "being composed of photons"
+    ],
+    "answer": "A",
+    "input": "Question: A diffraction grating relies on light\nOptions:\n(A) interference\n(B) amplitudes\n(C) variations in brightness\n(D) being composed of photons\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A satellite in Earth orbit is above Earth’s",
+    "choices": [
+      "atmosphere",
+      "gravitational field",
+      "Both",
+      "Neither"
+    ],
+    "answer": "A",
+    "input": "Question: A satellite in Earth orbit is above Earth’s\nOptions:\n(A) atmosphere\n(B) gravitational field\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The time it takes for a pendulum swinging to and fro refers to its",
+    "choices": [
+      "frequency",
+      "period",
+      "wavelength",
+      "amplitude"
+    ],
+    "answer": "B",
+    "input": "Question: The time it takes for a pendulum swinging to and fro refers to its\nOptions:\n(A) frequency\n(B) period\n(C) wavelength\n(D) amplitude\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As entropy in a system increases, energy in the system",
+    "choices": [
+      "becomes more ordered",
+      "becomes less ordered",
+      "reaches equilibrium",
+      "moves toward destruction"
+    ],
+    "answer": "B",
+    "input": "Question: As entropy in a system increases, energy in the system\nOptions:\n(A) becomes more ordered\n(B) becomes less ordered\n(C) reaches equilibrium\n(D) moves toward destruction\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When water changes to steam, energy is",
+    "choices": [
+      "absorbed by the water",
+      "released by the water",
+      "conserved as the phase change occurs",
+      "changed to a different form"
+    ],
+    "answer": "A",
+    "input": "Question: When water changes to steam, energy is\nOptions:\n(A) absorbed by the water\n(B) released by the water\n(C) conserved as the phase change occurs\n(D) changed to a different form\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "According to Coulomb, a pair of charged particles placed twice as close to each other experience a force",
+    "choices": [
+      "twice as strong",
+      "four times as strong",
+      "half as strong",
+      "one-fourth as strong"
+    ],
+    "answer": "B",
+    "input": "Question: According to Coulomb, a pair of charged particles placed twice as close to each other experience a force\nOptions:\n(A) twice as strong\n(B) four times as strong\n(C) half as strong\n(D) one-fourth as strong\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The factors, both of which will increase the magnetic field strength of an electromagnet, are",
+    "choices": [
+      "increased electrical current and fewer coils of wire",
+      "increased diameter of coil and an increase in the number of coils",
+      "an increase in the electrical current and using a strong ferromagnetic material like iron",
+      "using an air core instead of iron and increasing the diameter of the coil"
+    ],
+    "answer": "C",
+    "input": "Question: The factors, both of which will increase the magnetic field strength of an electromagnet, are\nOptions:\n(A) increased electrical current and fewer coils of wire\n(B) increased diameter of coil and an increase in the number of coils\n(C) an increase in the electrical current and using a strong ferromagnetic material like iron\n(D) using an air core instead of iron and increasing the diameter of the coil\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The team that wins in a tug-of-war is the team that",
+    "choices": [
+      "produces more tension in the rope than the opponent",
+      "pushes hardest on the ground",
+      "Both",
+      "Neither"
+    ],
+    "answer": "B",
+    "input": "Question: The team that wins in a tug-of-war is the team that\nOptions:\n(A) produces more tension in the rope than the opponent\n(B) pushes hardest on the ground\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?",
+    "choices": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?\nOptions:\n(A) Alpha\n(B) Beta\n(C) Gamma\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Thermal convection involves mainly",
+    "choices": [
+      "radiant energy",
+      "fluids",
+      "insulators",
+      "All of these"
+    ],
+    "answer": "B",
+    "input": "Question: Thermal convection involves mainly\nOptions:\n(A) radiant energy\n(B) fluids\n(C) insulators\n(D) All of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A 10-Ω resistor carries 10 A. The voltage across the resistor is",
+    "choices": [
+      "0",
+      "more than 0 but less than 10 V",
+      "10 V",
+      "more than 10 V"
+    ],
+    "answer": "D",
+    "input": "Question: A 10-Ω resistor carries 10 A. The voltage across the resistor is\nOptions:\n(A) 0\n(B) more than 0 but less than 10 V\n(C) 10 V\n(D) more than 10 V\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about",
+    "choices": [
+      "10 m/s",
+      "14 m/s",
+      "16 m/s",
+      "20 m/s"
+    ],
+    "answer": "B",
+    "input": "Question: A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about\nOptions:\n(A) 10 m/s\n(B) 14 m/s\n(C) 16 m/s\n(D) 20 m/s\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is",
+    "choices": [
+      "1 km/h",
+      "2 km/h",
+      "4 km/h",
+      "greater than 4 km/h"
+    ],
+    "answer": "C",
+    "input": "Question: The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is\nOptions:\n(A) 1 km/h\n(B) 2 km/h\n(C) 4 km/h\n(D) greater than 4 km/h\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The metal detectors people walk through at airports operate via",
+    "choices": [
+      "Ohm’s law",
+      "Faraday’s law",
+      "Coulomb’s law",
+      "Newton’s laws"
+    ],
+    "answer": "B",
+    "input": "Question: The metal detectors people walk through at airports operate via\nOptions:\n(A) Ohm’s law\n(B) Faraday’s law\n(C) Coulomb’s law\n(D) Newton’s laws\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Sound travels in",
+    "choices": [
+      "solids",
+      "liquids",
+      "gases",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: Sound travels in\nOptions:\n(A) solids\n(B) liquids\n(C) gases\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of",
+    "choices": [
+      "gamma radiation.",
+      "kinetic energy of the alpha particle.",
+      "kinetic energy of the neutron.",
+      "All of these about equally."
+    ],
+    "answer": "C",
+    "input": "Question: When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of\nOptions:\n(A) gamma radiation.\n(B) kinetic energy of the alpha particle.\n(C) kinetic energy of the neutron.\n(D) All of these about equally.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Polarization is a property of",
+    "choices": [
+      "transverse waves.",
+      "longitudinal waves.",
+      "all waves.",
+      "None of these."
+    ],
+    "answer": "A",
+    "input": "Question: Polarization is a property of\nOptions:\n(A) transverse waves.\n(B) longitudinal waves.\n(C) all waves.\n(D) None of these.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The phenomenon of beats results from sound",
+    "choices": [
+      "reflection.",
+      "refraction.",
+      "interference.",
+      "All of these."
+    ],
+    "answer": "B",
+    "input": "Question: The phenomenon of beats results from sound\nOptions:\n(A) reflection.\n(B) refraction.\n(C) interference.\n(D) All of these.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The lowest possible temperature is absolute zero, at",
+    "choices": [
+      "0 kelvin",
+      "−273°C",
+      "Both are the same",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: The lowest possible temperature is absolute zero, at\nOptions:\n(A) 0 kelvin\n(B) −273°C\n(C) Both are the same\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Refraction occurs when a wave crosses a boundary and changes",
+    "choices": [
+      "speed and direction",
+      "intensity",
+      "frequency",
+      "amplitude"
+    ],
+    "answer": "A",
+    "input": "Question: Refraction occurs when a wave crosses a boundary and changes\nOptions:\n(A) speed and direction\n(B) intensity\n(C) frequency\n(D) amplitude\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you tap a piece of wood, it will produce a characteristic sound related to its",
+    "choices": [
+      "wavelength",
+      "amplitude",
+      "period",
+      "natural frequency"
+    ],
+    "answer": "D",
+    "input": "Question: When you tap a piece of wood, it will produce a characteristic sound related to its\nOptions:\n(A) wavelength\n(B) amplitude\n(C) period\n(D) natural frequency\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When wind speeds up as it blows over the top of a hill, atmospheric pressure there",
+    "choices": [
+      "increases",
+      "decreases",
+      "isn’t affected",
+      "reduces to zero"
+    ],
+    "answer": "B",
+    "input": "Question: When wind speeds up as it blows over the top of a hill, atmospheric pressure there\nOptions:\n(A) increases\n(B) decreases\n(C) isn’t affected\n(D) reduces to zero\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When white light passes through a prism, the light that bends more than green is",
+    "choices": [
+      "red",
+      "yellow",
+      "blue",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: When white light passes through a prism, the light that bends more than green is\nOptions:\n(A) red\n(B) yellow\n(C) blue\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If you travel at high speed, then compared with your friends who “stay at home,” you are",
+    "choices": [
+      "older.",
+      "younger.",
+      "neither younger nor older.",
+      "longer."
+    ],
+    "answer": "B",
+    "input": "Question: If you travel at high speed, then compared with your friends who “stay at home,” you are\nOptions:\n(A) older.\n(B) younger.\n(C) neither younger nor older.\n(D) longer.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The component of velocity that can remain constant for a tossed baseball is",
+    "choices": [
+      "horizontal",
+      "vertical",
+      "Either of these",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: The component of velocity that can remain constant for a tossed baseball is\nOptions:\n(A) horizontal\n(B) vertical\n(C) Either of these\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The crystals that make up minerals are composed of",
+    "choices": [
+      "atoms with a definite geometrical arrangement.",
+      "molecules that perpetually move.",
+      "X-ray patterns.",
+      "3-dimensional chessboards."
+    ],
+    "answer": "A",
+    "input": "Question: The crystals that make up minerals are composed of\nOptions:\n(A) atoms with a definite geometrical arrangement.\n(B) molecules that perpetually move.\n(C) X-ray patterns.\n(D) 3-dimensional chessboards.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Two vectors, one 3 N and the other 4 N, can have a resultant of",
+    "choices": [
+      "0 N",
+      "5 N",
+      "8 N",
+      "Any of these"
+    ],
+    "answer": "B",
+    "input": "Question: Two vectors, one 3 N and the other 4 N, can have a resultant of\nOptions:\n(A) 0 N\n(B) 5 N\n(C) 8 N\n(D) Any of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Radioactivity has been around on Earth since the",
+    "choices": [
+      "middle of the 1900s",
+      "Industrial Revolution",
+      "advent of medical technology",
+      "Earth formed"
+    ],
+    "answer": "D",
+    "input": "Question: Radioactivity has been around on Earth since the\nOptions:\n(A) middle of the 1900s\n(B) Industrial Revolution\n(C) advent of medical technology\n(D) Earth formed\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When the shadow of the Moon falls on Earth, we have a",
+    "choices": [
+      "lunar eclipse.",
+      "solar eclipse.",
+      "solar eclipse if it’s daytime and lunar eclipse if it’s nighttime.",
+      "very dangerous event."
+    ],
+    "answer": "B",
+    "input": "Question: When the shadow of the Moon falls on Earth, we have a\nOptions:\n(A) lunar eclipse.\n(B) solar eclipse.\n(C) solar eclipse if it’s daytime and lunar eclipse if it’s nighttime.\n(D) very dangerous event.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In both fission and fusion, energy is released while mass",
+    "choices": [
+      "decreases",
+      "remains unchanged; is conserved",
+      "increases",
+      "may decrease or increase"
+    ],
+    "answer": "A",
+    "input": "Question: In both fission and fusion, energy is released while mass\nOptions:\n(A) decreases\n(B) remains unchanged; is conserved\n(C) increases\n(D) may decrease or increase\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to",
+    "choices": [
+      "remain unchanged",
+      "decrease",
+      "increase",
+      "spread out uniformly"
+    ],
+    "answer": "C",
+    "input": "Question: When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to\nOptions:\n(A) remain unchanged\n(B) decrease\n(C) increase\n(D) spread out uniformly\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If the volume of an object were to double, with no change in mass, its density would",
+    "choices": [
+      "halve.",
+      "double.",
+      "be the same.",
+      "None of these."
+    ],
+    "answer": "A",
+    "input": "Question: If the volume of an object were to double, with no change in mass, its density would\nOptions:\n(A) halve.\n(B) double.\n(C) be the same.\n(D) None of these.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The pressure at the bottom of a pond does NOT depend on the",
+    "choices": [
+      "acceleration due to gravity.",
+      "water density.",
+      "depth of the pond.",
+      "surface area of the pond."
+    ],
+    "answer": "D",
+    "input": "Question: The pressure at the bottom of a pond does NOT depend on the\nOptions:\n(A) acceleration due to gravity.\n(B) water density.\n(C) depth of the pond.\n(D) surface area of the pond.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The blueness of the daytime sky is due mostly to light",
+    "choices": [
+      "absorption",
+      "transmission",
+      "reflection",
+      "scattering"
+    ],
+    "answer": "D",
+    "input": "Question: The blueness of the daytime sky is due mostly to light\nOptions:\n(A) absorption\n(B) transmission\n(C) reflection\n(D) scattering\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A galvanometer can be calibrated to read electric",
+    "choices": [
+      "current",
+      "voltage",
+      "Either of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: A galvanometer can be calibrated to read electric\nOptions:\n(A) current\n(B) voltage\n(C) Either of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?",
+    "choices": [
+      "19°C",
+      "22°C",
+      "30°C",
+      "Higher than 30°C"
+    ],
+    "answer": "B",
+    "input": "Question: Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?\nOptions:\n(A) 19°C\n(B) 22°C\n(C) 30°C\n(D) Higher than 30°C\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is",
+    "choices": [
+      "one-quarter.",
+      "one-half.",
+      "the same.",
+      "dependent on your distance from the mirror."
+    ],
+    "answer": "B",
+    "input": "Question: To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is\nOptions:\n(A) one-quarter.\n(B) one-half.\n(C) the same.\n(D) dependent on your distance from the mirror.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The vibrations in a transverse wave move in a direction",
+    "choices": [
+      "along the wave",
+      "perpendicular to the wave",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "B",
+    "input": "Question: The vibrations in a transverse wave move in a direction\nOptions:\n(A) along the wave\n(B) perpendicular to the wave\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is",
+    "choices": [
+      "1131 Hz",
+      "1134 Hz",
+      "1137 Hz",
+      "More information is needed"
+    ],
+    "answer": "D",
+    "input": "Question: A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is\nOptions:\n(A) 1131 Hz\n(B) 1134 Hz\n(C) 1137 Hz\n(D) More information is needed\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Huygens’ principle for light is primarily described by",
+    "choices": [
+      "waves",
+      "rays",
+      "particles",
+      "photons"
+    ],
+    "answer": "A",
+    "input": "Question: Huygens’ principle for light is primarily described by\nOptions:\n(A) waves\n(B) rays\n(C) particles\n(D) photons\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When the temperature of a strip of iron is increased, the length of the strip",
+    "choices": [
+      "also increases.",
+      "actually decreases.",
+      "may increase and may decrease.",
+      "decreases in width as it gets longer."
+    ],
+    "answer": "A",
+    "input": "Question: When the temperature of a strip of iron is increased, the length of the strip\nOptions:\n(A) also increases.\n(B) actually decreases.\n(C) may increase and may decrease.\n(D) decreases in width as it gets longer.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When light undergoes interference, it can sometimes",
+    "choices": [
+      "build up to more than the sum of amplitudes",
+      "cancel completely",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "B",
+    "input": "Question: When light undergoes interference, it can sometimes\nOptions:\n(A) build up to more than the sum of amplitudes\n(B) cancel completely\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When the color yellow is seen on your TV screen the phosphors being activated on the screen are",
+    "choices": [
+      "mainly yellow.",
+      "blue and red.",
+      "green and yellow.",
+      "red and green."
+    ],
+    "answer": "D",
+    "input": "Question: When the color yellow is seen on your TV screen the phosphors being activated on the screen are\nOptions:\n(A) mainly yellow.\n(B) blue and red.\n(C) green and yellow.\n(D) red and green.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which of these does NOT belong in the family of electromagnetic waves?",
+    "choices": [
+      "Light",
+      "Sound",
+      "Radio waves",
+      "X-rays"
+    ],
+    "answer": "B",
+    "input": "Question: Which of these does NOT belong in the family of electromagnetic waves?\nOptions:\n(A) Light\n(B) Sound\n(C) Radio waves\n(D) X-rays\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is",
+    "choices": [
+      "zero",
+      "g/2",
+      "g",
+      "a value between zero and g"
+    ],
+    "answer": "D",
+    "input": "Question: A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is\nOptions:\n(A) zero\n(B) g/2\n(C) g\n(D) a value between zero and g\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A motor and a generator are",
+    "choices": [
+      "similar devices",
+      "very different devices",
+      "forms of transformers",
+      "energy sources"
+    ],
+    "answer": "A",
+    "input": "Question: A motor and a generator are\nOptions:\n(A) similar devices\n(B) very different devices\n(C) forms of transformers\n(D) energy sources\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As more lamps are connected in parallel in a circuit the current in the power source",
+    "choices": [
+      "increases.",
+      "decreases.",
+      "remains much the same.",
+      "Need more information."
+    ],
+    "answer": "A",
+    "input": "Question: As more lamps are connected in parallel in a circuit the current in the power source\nOptions:\n(A) increases.\n(B) decreases.\n(C) remains much the same.\n(D) Need more information.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Newton’s law of cooling applies to objects that",
+    "choices": [
+      "cool",
+      "warm up",
+      "Both",
+      "Neither"
+    ],
+    "answer": "C",
+    "input": "Question: Newton’s law of cooling applies to objects that\nOptions:\n(A) cool\n(B) warm up\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per",
+    "choices": [
+      "day",
+      "month",
+      "year",
+      "None of these for the moon does not rotate about an axis"
+    ],
+    "answer": "B",
+    "input": "Question: The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per\nOptions:\n(A) day\n(B) month\n(C) year\n(D) None of these for the moon does not rotate about an axis\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball",
+    "choices": [
+      "is mg",
+      "is greater than mg always",
+      "may be greater or less than mg",
+      "is less than mg always"
+    ],
+    "answer": "B",
+    "input": "Question: Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball\nOptions:\n(A) is mg\n(B) is greater than mg always\n(C) may be greater or less than mg\n(D) is less than mg always\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The compressions and rarefactions in sound normally travel",
+    "choices": [
+      "in the same direction",
+      "in opposite directions",
+      "at right angles to each other",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: The compressions and rarefactions in sound normally travel\nOptions:\n(A) in the same direction\n(B) in opposite directions\n(C) at right angles to each other\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is",
+    "choices": [
+      "200 W",
+      "500 W",
+      "800 W",
+      "2000 W"
+    ],
+    "answer": "B",
+    "input": "Question: The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is\nOptions:\n(A) 200 W\n(B) 500 W\n(C) 800 W\n(D) 2000 W\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The phenomenon of beats is the result of sound",
+    "choices": [
+      "destruction",
+      "interference",
+      "resonance",
+      "amplification"
+    ],
+    "answer": "B",
+    "input": "Question: The phenomenon of beats is the result of sound\nOptions:\n(A) destruction\n(B) interference\n(C) resonance\n(D) amplification\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Interference is characteristic of",
+    "choices": [
+      "sound waves",
+      "light waves",
+      "water waves",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: Interference is characteristic of\nOptions:\n(A) sound waves\n(B) light waves\n(C) water waves\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In either a fission event or a fusion event, a quantity that remains unchanged is the",
+    "choices": [
+      "kinetic energy",
+      "mass",
+      "number of nucleons",
+      "binding of nucleons"
+    ],
+    "answer": "C",
+    "input": "Question: In either a fission event or a fusion event, a quantity that remains unchanged is the\nOptions:\n(A) kinetic energy\n(B) mass\n(C) number of nucleons\n(D) binding of nucleons\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The magnetic force on a moving charged particle can change the particle's",
+    "choices": [
+      "speed",
+      "direction",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "B",
+    "input": "Question: The magnetic force on a moving charged particle can change the particle's\nOptions:\n(A) speed\n(B) direction\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If you were to travel at a speed close to the speed of light, you could notice that your own",
+    "choices": [
+      "mass changes.",
+      "pulse decreases.",
+      "Both of these.",
+      "Neither of these."
+    ],
+    "answer": "D",
+    "input": "Question: If you were to travel at a speed close to the speed of light, you could notice that your own\nOptions:\n(A) mass changes.\n(B) pulse decreases.\n(C) Both of these.\n(D) Neither of these.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Electricity and magnetism connect to form",
+    "choices": [
+      "mass",
+      "energy",
+      "ultrahigh-frequency sound",
+      "light"
+    ],
+    "answer": "D",
+    "input": "Question: Electricity and magnetism connect to form\nOptions:\n(A) mass\n(B) energy\n(C) ultrahigh-frequency sound\n(D) light\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Sound travels in air by a series of",
+    "choices": [
+      "compressions",
+      "rarefactions",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: Sound travels in air by a series of\nOptions:\n(A) compressions\n(B) rarefactions\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal",
+    "choices": [
+      "amounts of force",
+      "accelerations",
+      "Both",
+      "Neither"
+    ],
+    "answer": "A",
+    "input": "Question: When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal\nOptions:\n(A) amounts of force\n(B) accelerations\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is",
+    "choices": [
+      "52",
+      "26",
+      "24",
+      "None."
+    ],
+    "answer": "B",
+    "input": "Question: The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is\nOptions:\n(A) 52\n(B) 26\n(C) 24\n(D) None.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "To say that a rose petal is red is to say that it",
+    "choices": [
+      "absorbs red",
+      "reflects red",
+      "emits red",
+      "transmits red"
+    ],
+    "answer": "B",
+    "input": "Question: To say that a rose petal is red is to say that it\nOptions:\n(A) absorbs red\n(B) reflects red\n(C) emits red\n(D) transmits red\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity",
+    "choices": [
+      "10 times greater",
+      "100 times greater",
+      "1000 times greater",
+      "more than 1000 times greater"
+    ],
+    "answer": "B",
+    "input": "Question: Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity\nOptions:\n(A) 10 times greater\n(B) 100 times greater\n(C) 1000 times greater\n(D) more than 1000 times greater\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When red and blue light are overlapped, the color produced is",
+    "choices": [
+      "magenta",
+      "yellow",
+      "cyan",
+      "white"
+    ],
+    "answer": "A",
+    "input": "Question: When red and blue light are overlapped, the color produced is\nOptions:\n(A) magenta\n(B) yellow\n(C) cyan\n(D) white\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is",
+    "choices": [
+      "40%",
+      "50%",
+      "60%",
+      "140%"
+    ],
+    "answer": "A",
+    "input": "Question: When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is\nOptions:\n(A) 40%\n(B) 50%\n(C) 60%\n(D) 140%\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Shock waves are produced by waves of sound",
+    "choices": [
+      "overlapping one another",
+      "constructively interfering",
+      "moving slower than the source producing them",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: Shock waves are produced by waves of sound\nOptions:\n(A) overlapping one another\n(B) constructively interfering\n(C) moving slower than the source producing them\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+    "choices": [
+      "3 N",
+      "5 N",
+      "8 N",
+      "None of these"
+    ],
+    "answer": "D",
+    "input": "Question: A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?\nOptions:\n(A) 3 N\n(B) 5 N\n(C) 8 N\n(D) None of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is",
+    "choices": [
+      "200 J",
+      "500 J",
+      "800 J",
+      "2000 J"
+    ],
+    "answer": "D",
+    "input": "Question: The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is\nOptions:\n(A) 200 J\n(B) 500 J\n(C) 800 J\n(D) 2000 J\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?",
+    "choices": [
+      "4q.",
+      "8q.",
+      "16q.",
+      "32q."
+    ],
+    "answer": "D",
+    "input": "Question: A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?\nOptions:\n(A) 4q.\n(B) 8q.\n(C) 16q.\n(D) 32q.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The mass of an atom comes mostly from its _ ; and its volume from its _.",
+    "choices": [
+      "nucleons; nucleons.",
+      "electrons; electrons.",
+      "electrons; nucleons.",
+      "nucleons; electrons."
+    ],
+    "answer": "D",
+    "input": "Question: The mass of an atom comes mostly from its _ ; and its volume from its _.\nOptions:\n(A) nucleons; nucleons.\n(B) electrons; electrons.\n(C) electrons; nucleons.\n(D) nucleons; electrons.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The definition of magnetic inclination is the angle between",
+    "choices": [
+      "magnetic north and geographic north",
+      "magnetic north and geographic south",
+      "the earth’s magnetic field at any point and the vertical",
+      "the earth’s magnetic field at any point and the horizontal"
+    ],
+    "answer": "D",
+    "input": "Question: The definition of magnetic inclination is the angle between\nOptions:\n(A) magnetic north and geographic north\n(B) magnetic north and geographic south\n(C) the earth’s magnetic field at any point and the vertical\n(D) the earth’s magnetic field at any point and the horizontal\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The pitch of a sound is mostly related to its",
+    "choices": [
+      "intensity",
+      "frequency",
+      "amplitude",
+      "speed"
+    ],
+    "answer": "B",
+    "input": "Question: The pitch of a sound is mostly related to its\nOptions:\n(A) intensity\n(B) frequency\n(C) amplitude\n(D) speed\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "As more lamps are connected to a series circuit, the current in the power source",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains the same",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: As more lamps are connected to a series circuit, the current in the power source\nOptions:\n(A) increases\n(B) decreases\n(C) remains the same\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an element ejects an alpha particle, the mass number of the resulting element",
+    "choices": [
+      "reduces by 2",
+      "reduces by 4",
+      "increases by 2",
+      "increases by 4"
+    ],
+    "answer": "B",
+    "input": "Question: When an element ejects an alpha particle, the mass number of the resulting element\nOptions:\n(A) reduces by 2\n(B) reduces by 4\n(C) increases by 2\n(D) increases by 4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "An electron can be speeded up by",
+    "choices": [
+      "an electric field",
+      "a magnetic field",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: An electron can be speeded up by\nOptions:\n(A) an electric field\n(B) a magnetic field\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by",
+    "choices": [
+      "zero",
+      "minus 1",
+      "minus 2",
+      "plus 1"
+    ],
+    "answer": "A",
+    "input": "Question: A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by\nOptions:\n(A) zero\n(B) minus 1\n(C) minus 2\n(D) plus 1\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an object is set vibrating by a wave that has a matching frequency, what occurs is",
+    "choices": [
+      "forced vibration",
+      "resonance",
+      "refraction",
+      "amplitude reduction"
+    ],
+    "answer": "B",
+    "input": "Question: When an object is set vibrating by a wave that has a matching frequency, what occurs is\nOptions:\n(A) forced vibration\n(B) resonance\n(C) refraction\n(D) amplitude reduction\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The red glow in the neon tube of an advertising sign is a result of",
+    "choices": [
+      "fluorescence",
+      "incandescence",
+      "de-excitation",
+      "polarization"
+    ],
+    "answer": "C",
+    "input": "Question: The red glow in the neon tube of an advertising sign is a result of\nOptions:\n(A) fluorescence\n(B) incandescence\n(C) de-excitation\n(D) polarization\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "At very high speeds, an object appears to an observer at rest to be",
+    "choices": [
+      "shorter in the direction of travel.",
+      "shrunken in all directions.",
+      "shorter in the direction perpendicular to travel.",
+      "longer in all directions."
+    ],
+    "answer": "A",
+    "input": "Question: At very high speeds, an object appears to an observer at rest to be\nOptions:\n(A) shorter in the direction of travel.\n(B) shrunken in all directions.\n(C) shorter in the direction perpendicular to travel.\n(D) longer in all directions.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When a wave moves from shallow water to deep water, the",
+    "choices": [
+      "frequency decreases, the wavelength increases, and the speed increases",
+      "frequency does not change, the wavelength increases, and the speed increases",
+      "frequency does not change, the wavelength decreases, and the speed decreases",
+      "frequency does not change, the wavelength increases, and the speed decreases"
+    ],
+    "answer": "B",
+    "input": "Question: When a wave moves from shallow water to deep water, the\nOptions:\n(A) frequency decreases, the wavelength increases, and the speed increases\n(B) frequency does not change, the wavelength increases, and the speed increases\n(C) frequency does not change, the wavelength decreases, and the speed decreases\n(D) frequency does not change, the wavelength increases, and the speed decreases\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is",
+    "choices": [
+      "9.8 m/s2",
+      "more than 9.8 m/s2",
+      "less than 9.8 m/s2",
+      "Cannot say unless the speed of throw is given."
+    ],
+    "answer": "A",
+    "input": "Question: When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is\nOptions:\n(A) 9.8 m/s2\n(B) more than 9.8 m/s2\n(C) less than 9.8 m/s2\n(D) Cannot say unless the speed of throw is given.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Carbon-14 is primarily produced by cosmic radiation in the",
+    "choices": [
+      "atmosphere",
+      "food we eat",
+      "Earth’s interior",
+      "fallout of nuclear bomb tests"
+    ],
+    "answer": "A",
+    "input": "Question: Carbon-14 is primarily produced by cosmic radiation in the\nOptions:\n(A) atmosphere\n(B) food we eat\n(C) Earth’s interior\n(D) fallout of nuclear bomb tests\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Chain reactions in a fission reactor are caused by",
+    "choices": [
+      "kinetic energy",
+      "energy conversion",
+      "mass conversion",
+      "ejected neutrons"
+    ],
+    "answer": "D",
+    "input": "Question: Chain reactions in a fission reactor are caused by\nOptions:\n(A) kinetic energy\n(B) energy conversion\n(C) mass conversion\n(D) ejected neutrons\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is",
+    "choices": [
+      "zero",
+      "practically zero",
+      "appreciably weaker than at Earth’s surface",
+      "without a component of force along their circular path"
+    ],
+    "answer": "D",
+    "input": "Question: Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is\nOptions:\n(A) zero\n(B) practically zero\n(C) appreciably weaker than at Earth’s surface\n(D) without a component of force along their circular path\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The complementary color of blue is",
+    "choices": [
+      "magenta",
+      "yellow",
+      "cyan",
+      "white"
+    ],
+    "answer": "B",
+    "input": "Question: The complementary color of blue is\nOptions:\n(A) magenta\n(B) yellow\n(C) cyan\n(D) white\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The difference between dc and ac in electric circuits is that in dc, charges flow",
+    "choices": [
+      "steadily in one direction",
+      "in one direction",
+      "to and fro",
+      "All of these"
+    ],
+    "answer": "B",
+    "input": "Question: The difference between dc and ac in electric circuits is that in dc, charges flow\nOptions:\n(A) steadily in one direction\n(B) in one direction\n(C) to and fro\n(D) All of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "To receive an electric shock there must be a",
+    "choices": [
+      "current in one direction.",
+      "presence of moisture.",
+      "high voltage and low body resistance.",
+      "voltage difference across part or all of your body."
+    ],
+    "answer": "D",
+    "input": "Question: To receive an electric shock there must be a\nOptions:\n(A) current in one direction.\n(B) presence of moisture.\n(C) high voltage and low body resistance.\n(D) voltage difference across part or all of your body.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is",
+    "choices": [
+      "less than 3000 N",
+      "3000 N",
+      "greater than 3000 N",
+      "Need more information"
+    ],
+    "answer": "B",
+    "input": "Question: A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is\nOptions:\n(A) less than 3000 N\n(B) 3000 N\n(C) greater than 3000 N\n(D) Need more information\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Find the speed of a wave by multiplying its frequency by its",
+    "choices": [
+      "period",
+      "wavelength",
+      "amplitude",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: Find the speed of a wave by multiplying its frequency by its\nOptions:\n(A) period\n(B) wavelength\n(C) amplitude\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The magnitude of the gravitational force on a satellite is constant if the orbit is",
+    "choices": [
+      "parabolic",
+      "circular",
+      "elliptical",
+      "All of these"
+    ],
+    "answer": "B",
+    "input": "Question: The magnitude of the gravitational force on a satellite is constant if the orbit is\nOptions:\n(A) parabolic\n(B) circular\n(C) elliptical\n(D) All of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The impulse–momentum relationship is a direct result of Newton’s",
+    "choices": [
+      "first law",
+      "second law",
+      "third law",
+      "law of gravity"
+    ],
+    "answer": "B",
+    "input": "Question: The impulse–momentum relationship is a direct result of Newton’s\nOptions:\n(A) first law\n(B) second law\n(C) third law\n(D) law of gravity\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A common nuclear fission reactor",
+    "choices": [
+      "heats water",
+      "generates electricity directly",
+      "gets energy from nothing",
+      "is a major polluter of the atmosphere"
+    ],
+    "answer": "A",
+    "input": "Question: A common nuclear fission reactor\nOptions:\n(A) heats water\n(B) generates electricity directly\n(C) gets energy from nothing\n(D) is a major polluter of the atmosphere\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The process of boiling water tends to",
+    "choices": [
+      "warm the water",
+      "cool the water",
+      "Both",
+      "Neither"
+    ],
+    "answer": "B",
+    "input": "Question: The process of boiling water tends to\nOptions:\n(A) warm the water\n(B) cool the water\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you scale up an object to 3 times its linear size, the surface area increases by",
+    "choices": [
+      "3 and the volume by 9.",
+      "3 and the volume by 27.",
+      "9 and the volume by 27.",
+      "4 and the volume by 8."
+    ],
+    "answer": "C",
+    "input": "Question: When you scale up an object to 3 times its linear size, the surface area increases by\nOptions:\n(A) 3 and the volume by 9.\n(B) 3 and the volume by 27.\n(C) 9 and the volume by 27.\n(D) 4 and the volume by 8.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)",
+    "choices": [
+      "current",
+      "voltage",
+      "electric field",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)\nOptions:\n(A) current\n(B) voltage\n(C) electric field\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from",
+    "choices": [
+      "inside the spaceship.",
+      "Earth.",
+      "Both of these.",
+      "Neither of these."
+    ],
+    "answer": "B",
+    "input": "Question: Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from\nOptions:\n(A) inside the spaceship.\n(B) Earth.\n(C) Both of these.\n(D) Neither of these.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The model of light most supported by the photoelectric effect is the",
+    "choices": [
+      "wave model",
+      "particle model",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "B",
+    "input": "Question: The model of light most supported by the photoelectric effect is the\nOptions:\n(A) wave model\n(B) particle model\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with a fundamental tone, the frequency of its second harmonic is",
+    "choices": [
+      "half as much",
+      "twice as much",
+      "the same",
+      "four times as much"
+    ],
+    "answer": "B",
+    "input": "Question: Compared with a fundamental tone, the frequency of its second harmonic is\nOptions:\n(A) half as much\n(B) twice as much\n(C) the same\n(D) four times as much\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be",
+    "choices": [
+      "48.0 m",
+      "24.0 m",
+      "6.00 m",
+      "3.00 m"
+    ],
+    "answer": "C",
+    "input": "Question: A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be\nOptions:\n(A) 48.0 m\n(B) 24.0 m\n(C) 6.00 m\n(D) 3.00 m\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "During the time an aircraft produces a sonic boom, the aircraft is",
+    "choices": [
+      "breaking the sound barrier",
+      "pulling out of a subsonic dive",
+      "flying faster than sound",
+      "All of these"
+    ],
+    "answer": "C",
+    "input": "Question: During the time an aircraft produces a sonic boom, the aircraft is\nOptions:\n(A) breaking the sound barrier\n(B) pulling out of a subsonic dive\n(C) flying faster than sound\n(D) All of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The principal source of Earth’s internal energy is",
+    "choices": [
+      "tidal friction",
+      "gravitational pressure",
+      "radioactivity",
+      "geothermal heat"
+    ],
+    "answer": "C",
+    "input": "Question: The principal source of Earth’s internal energy is\nOptions:\n(A) tidal friction\n(B) gravitational pressure\n(C) radioactivity\n(D) geothermal heat\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you brush your hair and scrape electrons from your hair, the charge of your hair becomes",
+    "choices": [
+      "positive",
+      "negative",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: When you brush your hair and scrape electrons from your hair, the charge of your hair becomes\nOptions:\n(A) positive\n(B) negative\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Astrophysicists are able to identify the elements in the outer layers of a star by studying its",
+    "choices": [
+      "Doppler effect.",
+      "molecular structure.",
+      "temperature.",
+      "spectrum."
+    ],
+    "answer": "D",
+    "input": "Question: Astrophysicists are able to identify the elements in the outer layers of a star by studying its\nOptions:\n(A) Doppler effect.\n(B) molecular structure.\n(C) temperature.\n(D) spectrum.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true",
+    "choices": [
+      "at speeds near that of light.",
+      "at everyday low speeds.",
+      "at all speeds.",
+      "only approximately."
+    ],
+    "answer": "C",
+    "input": "Question: Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true\nOptions:\n(A) at speeds near that of light.\n(B) at everyday low speeds.\n(C) at all speeds.\n(D) only approximately.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In his special theory of relativity, Einstein stated that the laws of physics are",
+    "choices": [
+      "different in different situations.",
+      "common sense applied to microscopic and macroscopic things.",
+      "the same in all frames of reference.",
+      "the same in all uniformly moving frames of reference."
+    ],
+    "answer": "D",
+    "input": "Question: In his special theory of relativity, Einstein stated that the laws of physics are\nOptions:\n(A) different in different situations.\n(B) common sense applied to microscopic and macroscopic things.\n(C) the same in all frames of reference.\n(D) the same in all uniformly moving frames of reference.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When an element ejects a beta particle, the atomic number of that element",
+    "choices": [
+      "reduces by 1",
+      "increases by 1",
+      "reduces by 2",
+      "increases by 2"
+    ],
+    "answer": "B",
+    "input": "Question: When an element ejects a beta particle, the atomic number of that element\nOptions:\n(A) reduces by 1\n(B) increases by 1\n(C) reduces by 2\n(D) increases by 2\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The amount of heat transferred to a system can be measured in",
+    "choices": [
+      "calories",
+      "joules",
+      "Either",
+      "Neither"
+    ],
+    "answer": "C",
+    "input": "Question: The amount of heat transferred to a system can be measured in\nOptions:\n(A) calories\n(B) joules\n(C) Either\n(D) Neither\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased",
+    "choices": [
+      "speed",
+      "frequency",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "B",
+    "input": "Question: Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased\nOptions:\n(A) speed\n(B) frequency\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Light reflecting from a smooth surface undergoes a change in",
+    "choices": [
+      "frequency.",
+      "wavelength.",
+      "All of these.",
+      "None of these."
+    ],
+    "answer": "D",
+    "input": "Question: Light reflecting from a smooth surface undergoes a change in\nOptions:\n(A) frequency.\n(B) wavelength.\n(C) All of these.\n(D) None of these.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "What Einstein discovered about space and time is that they",
+    "choices": [
+      "are separate entities.",
+      "are parts of one whole.",
+      "follow an inverse-square law.",
+      "are special to space travelers."
+    ],
+    "answer": "B",
+    "input": "Question: What Einstein discovered about space and time is that they\nOptions:\n(A) are separate entities.\n(B) are parts of one whole.\n(C) follow an inverse-square law.\n(D) are special to space travelers.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "All parts of a laser beam have the same",
+    "choices": [
+      "frequency",
+      "phase",
+      "speed",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: All parts of a laser beam have the same\nOptions:\n(A) frequency\n(B) phase\n(C) speed\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The rotational inertia of an object is greater when most of the mass is located",
+    "choices": [
+      "near the rotational axis",
+      "away from the axis",
+      "on the rotational axis",
+      "off center"
+    ],
+    "answer": "B",
+    "input": "Question: The rotational inertia of an object is greater when most of the mass is located\nOptions:\n(A) near the rotational axis\n(B) away from the axis\n(C) on the rotational axis\n(D) off center\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When small pieces of material are assembled into a larger piece, the combined surface area",
+    "choices": [
+      "greatly increases",
+      "slightly increases",
+      "decreases",
+      "is unchanged"
+    ],
+    "answer": "C",
+    "input": "Question: When small pieces of material are assembled into a larger piece, the combined surface area\nOptions:\n(A) greatly increases\n(B) slightly increases\n(C) decreases\n(D) is unchanged\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A rainbow is the result of light in raindrops that undergoes",
+    "choices": [
+      "internal reflection",
+      "dispersion",
+      "refraction",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: A rainbow is the result of light in raindrops that undergoes\nOptions:\n(A) internal reflection\n(B) dispersion\n(C) refraction\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "In the atomic nucleus, electrical forces tend to",
+    "choices": [
+      "hold particles together",
+      "push particles apart",
+      "produce orbital motion",
+      "charge particles"
+    ],
+    "answer": "B",
+    "input": "Question: In the atomic nucleus, electrical forces tend to\nOptions:\n(A) hold particles together\n(B) push particles apart\n(C) produce orbital motion\n(D) charge particles\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The fact that the acceleration of free fall is the same for all masses is explained by Newton’s",
+    "choices": [
+      "first law",
+      "second law",
+      "third law",
+      "law of action–reaction"
+    ],
+    "answer": "B",
+    "input": "Question: The fact that the acceleration of free fall is the same for all masses is explained by Newton’s\nOptions:\n(A) first law\n(B) second law\n(C) third law\n(D) law of action–reaction\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Compared with radiation from the Sun, terrestrial radiation has a lower",
+    "choices": [
+      "wavelength",
+      "frequency",
+      "Both",
+      "Neither"
+    ],
+    "answer": "B",
+    "input": "Question: Compared with radiation from the Sun, terrestrial radiation has a lower\nOptions:\n(A) wavelength\n(B) frequency\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When we speak of time dilation, we mean that time",
+    "choices": [
+      "compresses with speed.",
+      "stretches with speed.",
+      "is a constant at all speeds.",
+      "is related to space."
+    ],
+    "answer": "B",
+    "input": "Question: When we speak of time dilation, we mean that time\nOptions:\n(A) compresses with speed.\n(B) stretches with speed.\n(C) is a constant at all speeds.\n(D) is related to space.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The magnetic field lines about a current-carrying wire form",
+    "choices": [
+      "circles",
+      "radial lines",
+      "eddy currents",
+      "energy loops"
+    ],
+    "answer": "A",
+    "input": "Question: The magnetic field lines about a current-carrying wire form\nOptions:\n(A) circles\n(B) radial lines\n(C) eddy currents\n(D) energy loops\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it",
+    "choices": [
+      "increases.",
+      "decreases.",
+      "remains largely unchanged.",
+      "Need more information."
+    ],
+    "answer": "B",
+    "input": "Question: An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it\nOptions:\n(A) increases.\n(B) decreases.\n(C) remains largely unchanged.\n(D) Need more information.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?",
+    "choices": [
+      "0.50 g",
+      "0.25 g",
+      "0.125 g",
+      "0.0625 g"
+    ],
+    "answer": "C",
+    "input": "Question: A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?\nOptions:\n(A) 0.50 g\n(B) 0.25 g\n(C) 0.125 g\n(D) 0.0625 g\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Boiling and freezing occur when water is subjected to",
+    "choices": [
+      "decreased temperatures",
+      "decreased atmospheric pressure",
+      "increased temperatures",
+      "increased atmospheric pressure"
+    ],
+    "answer": "B",
+    "input": "Question: Boiling and freezing occur when water is subjected to\nOptions:\n(A) decreased temperatures\n(B) decreased atmospheric pressure\n(C) increased temperatures\n(D) increased atmospheric pressure\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you bend the branch of a tree by hanging on its end, the top side of the branch is under",
+    "choices": [
+      "tension.",
+      "compression.",
+      "Both.",
+      "Neither."
+    ],
+    "answer": "A",
+    "input": "Question: When you bend the branch of a tree by hanging on its end, the top side of the branch is under\nOptions:\n(A) tension.\n(B) compression.\n(C) Both.\n(D) Neither.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A simple and correct way to comprehend satellites orbiting Earth is to view them as",
+    "choices": [
+      "balanced between gravitational and centripetal forces.",
+      "beyond the main pull of Earth gravity.",
+      "in mechanical equilibrium with a net force of zero.",
+      "having sufficient tangential velocities to fall around rather than into Earth."
+    ],
+    "answer": "D",
+    "input": "Question: A simple and correct way to comprehend satellites orbiting Earth is to view them as\nOptions:\n(A) balanced between gravitational and centripetal forces.\n(B) beyond the main pull of Earth gravity.\n(C) in mechanical equilibrium with a net force of zero.\n(D) having sufficient tangential velocities to fall around rather than into Earth.\nAnswer:",
+    "target": "(D)"
+  }
+]

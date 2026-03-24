@@ -1,0 +1,236 @@
+[
+  {
+    "subject": "logical_fallacies",
+    "question": "Which of the following fallacies happens when someone argues that a claim should be accepted based on evidence that is not presented, but is asserted to be well known or obvious.",
+    "choices": [
+      "self evident truths",
+      "suppressed evidence",
+      "appeal to pride",
+      "ad populum"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following fallacies happens when someone argues that a claim should be accepted based on evidence that is not presented, but is asserted to be well known or obvious.\nOptions:\n(A) self evident truths\n(B) suppressed evidence\n(C) appeal to pride\n(D) ad populum\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "The use of a word in two different senses in an argument is the fallacy of...",
+    "choices": [
+      "Appeal to the person",
+      "Equivocation",
+      "Appeal to tradition",
+      "Appeal to emotion"
+    ],
+    "answer": "B",
+    "input": "Question: The use of a word in two different senses in an argument is the fallacy of...\nOptions:\n(A) Appeal to the person\n(B) Equivocation\n(C) Appeal to tradition\n(D) Appeal to emotion\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Attempts to gain agreement only by trying to arouse particular feelings about the subject of the argument is the fallacy of",
+    "choices": [
+      "ignorance of refutation",
+      "appeal to emotion",
+      "straw person",
+      "tu quoque"
+    ],
+    "answer": "B",
+    "input": "Question: Attempts to gain agreement only by trying to arouse particular feelings about the subject of the argument is the fallacy of\nOptions:\n(A) ignorance of refutation\n(B) appeal to emotion\n(C) straw person\n(D) tu quoque\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Which of the following is true of a valid disjunctive syllogism?",
+    "choices": [
+      "The minor premise must affirm the antecedent or deny the consequent",
+      "Every term must be used twice",
+      "The middle term must be used in at least one premise in a universal or unqualified sense",
+      "None of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is true of a valid disjunctive syllogism?\nOptions:\n(A) The minor premise must affirm the antecedent or deny the consequent\n(B) Every term must be used twice\n(C) The middle term must be used in at least one premise in a universal or unqualified sense\n(D) None of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Appeal to authority involves",
+    "choices": [
+      "arguing that a claim should be accepted based only on the evidence that prestigious people accept it",
+      "arguing that small changes will lead to significant effects, when there is no evidence the effects will be that significant",
+      "arguing that a claim should be accepted based only on the evidence that an authority figure agrees with it",
+      "reasoning that a claim must be true based only on the evidence that it has been claimed quite often"
+    ],
+    "answer": "C",
+    "input": "Question: Appeal to authority involves\nOptions:\n(A) arguing that a claim should be accepted based only on the evidence that prestigious people accept it\n(B) arguing that small changes will lead to significant effects, when there is no evidence the effects will be that significant\n(C) arguing that a claim should be accepted based only on the evidence that an authority figure agrees with it\n(D) reasoning that a claim must be true based only on the evidence that it has been claimed quite often\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "The fallacy of reducing to an absurdity consists of",
+    "choices": [
+      "characterizing an opponent's position in such a way to make it or its consequences appear to be ridiculous",
+      "responding to charges of wrongdoing by saying the accuser or others do something equally bad",
+      "arguing someone should do something only because it will make that person better liked by others",
+      "arguing that an idea should be accepted or disregarded only because of it source"
+    ],
+    "answer": "A",
+    "input": "Question: The fallacy of reducing to an absurdity consists of\nOptions:\n(A) characterizing an opponent's position in such a way to make it or its consequences appear to be ridiculous\n(B) responding to charges of wrongdoing by saying the accuser or others do something equally bad\n(C) arguing someone should do something only because it will make that person better liked by others\n(D) arguing that an idea should be accepted or disregarded only because of it source\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "The fallacy of appeal to force consists of",
+    "choices": [
+      "arguing that an idea or argument should be rejected only because of who came up with the idea",
+      "using threats to get someone to agree with an idea or to do something",
+      "characterizing an opponent's position in such a way to make it seem ridiculous",
+      "attacking the character of the opposing arguer instead of that person's argument"
+    ],
+    "answer": "B",
+    "input": "Question: The fallacy of appeal to force consists of\nOptions:\n(A) arguing that an idea or argument should be rejected only because of who came up with the idea\n(B) using threats to get someone to agree with an idea or to do something\n(C) characterizing an opponent's position in such a way to make it seem ridiculous\n(D) attacking the character of the opposing arguer instead of that person's argument\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "When someone confuses figurative language with literal language that person might commit which of the following fallacies?",
+    "choices": [
+      "Equivocation",
+      "Style over substance",
+      "Figure of speech",
+      "Amphiboly"
+    ],
+    "answer": "C",
+    "input": "Question: When someone confuses figurative language with literal language that person might commit which of the following fallacies?\nOptions:\n(A) Equivocation\n(B) Style over substance\n(C) Figure of speech\n(D) Amphiboly\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "When people argue that an idea must be true because a lot of people believe it they commit which of the following fallacies?",
+    "choices": [
+      "ad populum",
+      "ad vericundiam",
+      "appeal to pride",
+      "slippery slope"
+    ],
+    "answer": "A",
+    "input": "Question: When people argue that an idea must be true because a lot of people believe it they commit which of the following fallacies?\nOptions:\n(A) ad populum\n(B) ad vericundiam\n(C) appeal to pride\n(D) slippery slope\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "In a deductively valid argument",
+    "choices": [
+      "If all the premises are true, the conclusion must be true",
+      "The conclusion has already been stated in its premises",
+      "If all the premises are true, the conclusion may still be false",
+      "Both A and B"
+    ],
+    "answer": "D",
+    "input": "Question: In a deductively valid argument\nOptions:\n(A) If all the premises are true, the conclusion must be true\n(B) The conclusion has already been stated in its premises\n(C) If all the premises are true, the conclusion may still be false\n(D) Both A and B\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "When someone is aware of evidence that contradicts her claim, but doesn't consider that evidence when making her argument, she may have committed which of the following fallacies?",
+    "choices": [
+      "slippery slope",
+      "appeal to authority",
+      "appeal to pride",
+      "suppressed evidence"
+    ],
+    "answer": "D",
+    "input": "Question: When someone is aware of evidence that contradicts her claim, but doesn't consider that evidence when making her argument, she may have committed which of the following fallacies?\nOptions:\n(A) slippery slope\n(B) appeal to authority\n(C) appeal to pride\n(D) suppressed evidence\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Any application is invalid if the fee hasn't been paid. Your application is invalid, so your fee must not have been paid.",
+    "choices": [
+      "Equivocation",
+      "False Dilemma",
+      "Denying the Antecedent",
+      "Affirming the Consequent"
+    ],
+    "answer": "D",
+    "input": "Question: Any application is invalid if the fee hasn't been paid. Your application is invalid, so your fee must not have been paid.\nOptions:\n(A) Equivocation\n(B) False Dilemma\n(C) Denying the Antecedent\n(D) Affirming the Consequent\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Which type of syllogism has a major premise that takes the form of \"Either A or B\"?",
+    "choices": [
+      "Categorical",
+      "Disjunctive",
+      "Conditional",
+      "Hypothetical"
+    ],
+    "answer": "B",
+    "input": "Question: Which type of syllogism has a major premise that takes the form of \"Either A or B\"?\nOptions:\n(A) Categorical\n(B) Disjunctive\n(C) Conditional\n(D) Hypothetical\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "\"Anecdotal evidence\" is a fallacy that happens when an arguer",
+    "choices": [
+      "substitutes individual stories for a larger sample as support for a generalization.",
+      "argues that something is necessarily better because it is old",
+      "argues that since one event preceded a second event, the first event must have caused the second event",
+      "argues that something is necessarily better because it is new"
+    ],
+    "answer": "A",
+    "input": "Question: \"Anecdotal evidence\" is a fallacy that happens when an arguer\nOptions:\n(A) substitutes individual stories for a larger sample as support for a generalization.\n(B) argues that something is necessarily better because it is old\n(C) argues that since one event preceded a second event, the first event must have caused the second event\n(D) argues that something is necessarily better because it is new\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "_Cum hoc ergo prompter hoc_ is another name for which fallacy?",
+    "choices": [
+      "Division",
+      "Hasty Generalization",
+      "Concomitant variation",
+      "False sign"
+    ],
+    "answer": "C",
+    "input": "Question: _Cum hoc ergo prompter hoc_ is another name for which fallacy?\nOptions:\n(A) Division\n(B) Hasty Generalization\n(C) Concomitant variation\n(D) False sign\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "If you summarized an opposing argument in a way that intentionally mischaracterizes it to make it seem ridiculous, you've committed the fallacy of",
+    "choices": [
+      "ignorance of refutation",
+      "appeal to compassion",
+      "two wrongs make a right",
+      "reducing to an absurdity"
+    ],
+    "answer": "D",
+    "input": "Question: If you summarized an opposing argument in a way that intentionally mischaracterizes it to make it seem ridiculous, you've committed the fallacy of\nOptions:\n(A) ignorance of refutation\n(B) appeal to compassion\n(C) two wrongs make a right\n(D) reducing to an absurdity\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Another name for the fallacy of appeal to force is",
+    "choices": [
+      "ignoratio elenchi",
+      "ad misericordiam",
+      "ad baculum",
+      "ad hominem"
+    ],
+    "answer": "C",
+    "input": "Question: Another name for the fallacy of appeal to force is\nOptions:\n(A) ignoratio elenchi\n(B) ad misericordiam\n(C) ad baculum\n(D) ad hominem\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "logical_fallacies",
+    "question": "Which of the following best describes the fallacy of hypostatization?",
+    "choices": [
+      "Treating something that exists in the mind as if it was a real object.",
+      "Changing the meaning of a word or phrase from one part of the argument to another.",
+      "Using language and punctuation in a way that a statement can have multiple interpretations, so it's not really clear what is meant.",
+      "A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following best describes the fallacy of hypostatization?\nOptions:\n(A) Treating something that exists in the mind as if it was a real object.\n(B) Changing the meaning of a word or phrase from one part of the argument to another.\n(C) Using language and punctuation in a way that a statement can have multiple interpretations, so it's not really clear what is meant.\n(D) A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim.\nAnswer:",
+    "target": "(A)"
+  }
+]

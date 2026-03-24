@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "medical_genetics",
+    "question": "Large triplet repeat expansions can be detected by:",
+    "choices": [
+      "polymerase chain reaction.",
+      "single strand conformational polymorphism analysis.",
+      "Southern blotting.",
+      "Western blotting."
+    ],
+    "answer": "C",
+    "input": "Question: Large triplet repeat expansions can be detected by:\nOptions:\n(A) polymerase chain reaction.\n(B) single strand conformational polymorphism analysis.\n(C) Southern blotting.\n(D) Western blotting.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "DNA ligase is",
+    "choices": [
+      "an enzyme that joins fragments in normal DNA replication",
+      "an enzyme of bacterial origin which cuts DNA at defined base sequences",
+      "an enzyme that facilitates transcription of specific genes",
+      "an enzyme which limits the level to which a particular nutrient reaches"
+    ],
+    "answer": "A",
+    "input": "Question: DNA ligase is\nOptions:\n(A) an enzyme that joins fragments in normal DNA replication\n(B) an enzyme of bacterial origin which cuts DNA at defined base sequences\n(C) an enzyme that facilitates transcription of specific genes\n(D) an enzyme which limits the level to which a particular nutrient reaches\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "A gene showing codominance",
+    "choices": [
+      "has both alleles independently expressed in the heterozygote",
+      "has one allele dominant to the other",
+      "has alleles tightly linked on the same chromosome",
+      "has alleles expressed at the same time in development"
+    ],
+    "answer": "A",
+    "input": "Question: A gene showing codominance\nOptions:\n(A) has both alleles independently expressed in the heterozygote\n(B) has one allele dominant to the other\n(C) has alleles tightly linked on the same chromosome\n(D) has alleles expressed at the same time in development\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "Which of the following conditions does not show multifactorial inheritance?",
+    "choices": [
+      "Pyloric stenosis",
+      "Schizophrenia",
+      "Spina bifida (neural tube defects)",
+      "Marfan syndrome"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following conditions does not show multifactorial inheritance?\nOptions:\n(A) Pyloric stenosis\n(B) Schizophrenia\n(C) Spina bifida (neural tube defects)\n(D) Marfan syndrome\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "medical_genetics",
+    "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+    "choices": [
+      "prophase I",
+      "metaphase I",
+      "prophase II",
+      "metaphase II"
+    ],
+    "answer": "A",
+    "input": "Question: The stage of meiosis in which chromosomes pair and cross over is:\nOptions:\n(A) prophase I\n(B) metaphase I\n(C) prophase II\n(D) metaphase II\nAnswer:",
+    "target": "(A)"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "virology",
+    "question": "Why are parvoviruses a highly impactful parasite?",
+    "choices": [
+      "Because they have no nucleic acid",
+      "They require a helper virus",
+      "Only replicate in dividing cells",
+      "Can integrate into host chromosomes"
+    ],
+    "answer": "A",
+    "input": "Question: Why are parvoviruses a highly impactful parasite?\nOptions:\n(A) Because they have no nucleic acid\n(B) They require a helper virus\n(C) Only replicate in dividing cells\n(D) Can integrate into host chromosomes\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+    "choices": [
+      "Fragile viruses often visualised with RNA spewing from the inside",
+      "Elongate viruses",
+      "Icosahedral viruses with envelope",
+      "Very large viruses"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is a morphological characteristic of the paramyxoviruses.\nOptions:\n(A) Fragile viruses often visualised with RNA spewing from the inside\n(B) Elongate viruses\n(C) Icosahedral viruses with envelope\n(D) Very large viruses\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "virology",
+    "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+    "choices": [
+      "Data collection",
+      "Establishment of a repository of biologic specimens",
+      "Participant interest",
+      "Administration of the questionnaire by staff"
+    ],
+    "answer": "B",
+    "input": "Question: A key factor facilitating the application of nested case-control studies from the MACS was:\nOptions:\n(A) Data collection\n(B) Establishment of a repository of biologic specimens\n(C) Participant interest\n(D) Administration of the questionnaire by staff\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "virology",
+    "question": "The most important goal of a behavioral intervention is:",
+    "choices": [
+      "Change in behavior",
+      "Comprehensive coverage",
+      "Effective use of behavioral theory",
+      "Sustained behavior change"
+    ],
+    "answer": "D",
+    "input": "Question: The most important goal of a behavioral intervention is:\nOptions:\n(A) Change in behavior\n(B) Comprehensive coverage\n(C) Effective use of behavioral theory\n(D) Sustained behavior change\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "virology",
+    "question": "The median survival time to AIDS and death was established by following:",
+    "choices": [
+      "Seroprevalent HIV-infected individuals",
+      "Seronegatives",
+      "Seroconverters",
+      "High-risk seronegatives"
+    ],
+    "answer": "C",
+    "input": "Question: The median survival time to AIDS and death was established by following:\nOptions:\n(A) Seroprevalent HIV-infected individuals\n(B) Seronegatives\n(C) Seroconverters\n(D) High-risk seronegatives\nAnswer:",
+    "target": "(C)"
+  }
+]

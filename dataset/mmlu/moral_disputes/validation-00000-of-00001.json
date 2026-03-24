@@ -1,0 +1,496 @@
+[
+  {
+    "subject": "moral_disputes",
+    "question": "Which of the following best describes Gill's response to Kass's argument that the notion of being \"better off dead\" is incoherent?",
+    "choices": [
+      "Nonexistent people can still benefit from some things.",
+      "Even if the notion is incoherent, there's nothing incoherent about preferring to be dead.",
+      "Not suffering is always better than suffering.",
+      "Kass unjustifiably assumes that dying implies no longer existing."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following best describes Gill's response to Kass's argument that the notion of being \"better off dead\" is incoherent?\nOptions:\n(A) Nonexistent people can still benefit from some things.\n(B) Even if the notion is incoherent, there's nothing incoherent about preferring to be dead.\n(C) Not suffering is always better than suffering.\n(D) Kass unjustifiably assumes that dying implies no longer existing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Locke, our natural rights are bestowed on us by",
+    "choices": [
+      "nature.",
+      "God.",
+      "human psychology.",
+      "society."
+    ],
+    "answer": "B",
+    "input": "Question: According to Locke, our natural rights are bestowed on us by\nOptions:\n(A) nature.\n(B) God.\n(C) human psychology.\n(D) society.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Lukianoff and Haidt postulate that social media",
+    "choices": [
+      "has contributed to the rise of vindictive protectiveness.",
+      "has helped to combat the rise of vindictive protectiveness.",
+      "shifted the balance of power between students and professors.",
+      "Both A and C"
+    ],
+    "answer": "B",
+    "input": "Question: Lukianoff and Haidt postulate that social media\nOptions:\n(A) has contributed to the rise of vindictive protectiveness.\n(B) has helped to combat the rise of vindictive protectiveness.\n(C) shifted the balance of power between students and professors.\n(D) Both A and C\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Fine argues that states are not clubs because",
+    "choices": [
+      "it is not possible today for would-be immigrants to get together to set up a state of their own.",
+      "exclusion from a golf club is unlikely to have a devastating impact on the life of a would-be member.",
+      "both A and B",
+      "neither A nor B"
+    ],
+    "answer": "C",
+    "input": "Question: Fine argues that states are not clubs because\nOptions:\n(A) it is not possible today for would-be immigrants to get together to set up a state of their own.\n(B) exclusion from a golf club is unlikely to have a devastating impact on the life of a would-be member.\n(C) both A and B\n(D) neither A nor B\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Singer, thinking ethically is all about",
+    "choices": [
+      "thinking about what is in one's own self-interest.",
+      "putting yourself in the place of others.",
+      "considering how to sacrifice oneself for the sake of others.",
+      "all of the above"
+    ],
+    "answer": "B",
+    "input": "Question: According to Singer, thinking ethically is all about\nOptions:\n(A) thinking about what is in one's own self-interest.\n(B) putting yourself in the place of others.\n(C) considering how to sacrifice oneself for the sake of others.\n(D) all of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "In Altman's terminology, which of the following would qualify as \"low value\" speech in a university context?",
+    "choices": [
+      "hate speech couched in the discourse of science",
+      "the use of a racial epithet by one student directed at another",
+      "both A and B",
+      "neither A nor B"
+    ],
+    "answer": "A",
+    "input": "Question: In Altman's terminology, which of the following would qualify as \"low value\" speech in a university context?\nOptions:\n(A) hate speech couched in the discourse of science\n(B) the use of a racial epithet by one student directed at another\n(C) both A and B\n(D) neither A nor B\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Which of the following is an example of a virtue?",
+    "choices": [
+      "pleasure",
+      "hunger",
+      "desire",
+      "courage"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is an example of a virtue?\nOptions:\n(A) pleasure\n(B) hunger\n(C) desire\n(D) courage\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Marquis, which of the following are benefits of his position on abortion?",
+    "choices": [
+      "It gets around problems with personhood accounts such as how to account for infanticide being wrong.",
+      "It provides a plausible analysis of personhood.",
+      "both of the above",
+      "neither of the above"
+    ],
+    "answer": "A",
+    "input": "Question: According to Marquis, which of the following are benefits of his position on abortion?\nOptions:\n(A) It gets around problems with personhood accounts such as how to account for infanticide being wrong.\n(B) It provides a plausible analysis of personhood.\n(C) both of the above\n(D) neither of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The main difference between \"actual act principles\" (like the harm principle) and \"internal principles\" (like the universalizability principle) is that",
+    "choices": [
+      "internal principles focus on the agent's motives for acting.",
+      "internal principles focus only on the immediate effects of an action.",
+      "actual act principles focus on the agent's actual motives for acting.",
+      "actual act principles concern how we ought to think about other people."
+    ],
+    "answer": "A",
+    "input": "Question: The main difference between \"actual act principles\" (like the harm principle) and \"internal principles\" (like the universalizability principle) is that\nOptions:\n(A) internal principles focus on the agent's motives for acting.\n(B) internal principles focus only on the immediate effects of an action.\n(C) actual act principles focus on the agent's actual motives for acting.\n(D) actual act principles concern how we ought to think about other people.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "In response to Sandel's \"social justice\" argument, Kamm argues that",
+    "choices": [
+      "even if we were able to enhance ourselves or others, we would not thereby be obligated to do so.",
+      "there is a difference between (i) choosing that one have a certain trait and (ii) being responsible for bearing the costs of that choice.",
+      "having the option to enhance will lead to fewer instances of people who require the assistance of others.",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: In response to Sandel's \"social justice\" argument, Kamm argues that\nOptions:\n(A) even if we were able to enhance ourselves or others, we would not thereby be obligated to do so.\n(B) there is a difference between (i) choosing that one have a certain trait and (ii) being responsible for bearing the costs of that choice.\n(C) having the option to enhance will lead to fewer instances of people who require the assistance of others.\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to retributivist theories of punishment, those who break the law should be punished because",
+    "choices": [
+      "doing so will benefit society.",
+      "they deserve it.",
+      "punishment will give them an opportunity to correct their behavior.",
+      "lawbreakers unconsciously desire to be punished."
+    ],
+    "answer": "B",
+    "input": "Question: According to retributivist theories of punishment, those who break the law should be punished because\nOptions:\n(A) doing so will benefit society.\n(B) they deserve it.\n(C) punishment will give them an opportunity to correct their behavior.\n(D) lawbreakers unconsciously desire to be punished.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Gardiner, which of the following is an important implication of the fact that carbon dioxide is a long-lived greenhouse gas?",
+    "choices": [
+      "That climate change is a resilient phenomenon.",
+      "That the impacts of climate change are seriously back-loaded.",
+      "That climate change is a substantially deferred phenomenon.",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: According to Gardiner, which of the following is an important implication of the fact that carbon dioxide is a long-lived greenhouse gas?\nOptions:\n(A) That climate change is a resilient phenomenon.\n(B) That the impacts of climate change are seriously back-loaded.\n(C) That climate change is a substantially deferred phenomenon.\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The doctrine of double effect is so named because it concerns",
+    "choices": [
+      "actions that are composites of simpler actions.",
+      "cases in which performing an action would have at least one good effect and one bad effect.",
+      "cases in which an action would have at least two good effects or two bad effects.",
+      "cases in which two actions of the same type are performed at the same time."
+    ],
+    "answer": "B",
+    "input": "Question: The doctrine of double effect is so named because it concerns\nOptions:\n(A) actions that are composites of simpler actions.\n(B) cases in which performing an action would have at least one good effect and one bad effect.\n(C) cases in which an action would have at least two good effects or two bad effects.\n(D) cases in which two actions of the same type are performed at the same time.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Gill describes Kass, Pelegrino, and Callahan as arguing that the withdrawal of life-sustaining treatment is morally acceptable while physician-assisted suicide is not. In their view, this is because",
+    "choices": [
+      "the main intention of physicians who withdraw treatment is to kill the patient, not relieve suffering.",
+      "the main intention of physicians who withdraw treatment is to relieve suffering, not kill the patient.",
+      "killing and letting die are morally equivalent.",
+      "many patients recover even after their treatment is withheld."
+    ],
+    "answer": "B",
+    "input": "Question: Gill describes Kass, Pelegrino, and Callahan as arguing that the withdrawal of life-sustaining treatment is morally acceptable while physician-assisted suicide is not. In their view, this is because\nOptions:\n(A) the main intention of physicians who withdraw treatment is to kill the patient, not relieve suffering.\n(B) the main intention of physicians who withdraw treatment is to relieve suffering, not kill the patient.\n(C) killing and letting die are morally equivalent.\n(D) many patients recover even after their treatment is withheld.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Reiman raises objections to the arguments presented by",
+    "choices": [
+      "Nathanson.",
+      "Kant.",
+      "abolitionists.",
+      "van den Haag."
+    ],
+    "answer": "D",
+    "input": "Question: Reiman raises objections to the arguments presented by\nOptions:\n(A) Nathanson.\n(B) Kant.\n(C) abolitionists.\n(D) van den Haag.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Cohen, if I promise to give you a dollar, then",
+    "choices": [
+      "you have a right to my dollar.",
+      "I am obligated to give you my dollar.",
+      "both A and B",
+      "neither A nor B"
+    ],
+    "answer": "C",
+    "input": "Question: According to Cohen, if I promise to give you a dollar, then\nOptions:\n(A) you have a right to my dollar.\n(B) I am obligated to give you my dollar.\n(C) both A and B\n(D) neither A nor B\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Pogge argues that even though we cannot be held responsible for the wrongful acts that others did long ago, we can be held responsible for",
+    "choices": [
+      "claiming the benefits gained by those wrongs.",
+      "failing to address those wrongs as if they were our own.",
+      "whether or not we respect other persons",
+      "all of the above"
+    ],
+    "answer": "B",
+    "input": "Question: Pogge argues that even though we cannot be held responsible for the wrongful acts that others did long ago, we can be held responsible for\nOptions:\n(A) claiming the benefits gained by those wrongs.\n(B) failing to address those wrongs as if they were our own.\n(C) whether or not we respect other persons\n(D) all of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Mill, the only things desirable as ends are",
+    "choices": [
+      "virtuous character traits.",
+      "satisfactions of prima facie duties.",
+      "pleasure and freedom from pain.",
+      "satisfactions of the categorical imperative."
+    ],
+    "answer": "C",
+    "input": "Question: According to Mill, the only things desirable as ends are\nOptions:\n(A) virtuous character traits.\n(B) satisfactions of prima facie duties.\n(C) pleasure and freedom from pain.\n(D) satisfactions of the categorical imperative.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "For the purposes of Norcross's discussion, to claim that humans have a superior ethical status to animals is to claim that",
+    "choices": [
+      "it is morally wrong to give the interests of humans greater weight than those of animals in deciding how to behave.",
+      "it is morally right to give the interests of humans greater weight than those of animals in deciding how to behave.",
+      "both A and B",
+      "neither A nor B"
+    ],
+    "answer": "B",
+    "input": "Question: For the purposes of Norcross's discussion, to claim that humans have a superior ethical status to animals is to claim that\nOptions:\n(A) it is morally wrong to give the interests of humans greater weight than those of animals in deciding how to behave.\n(B) it is morally right to give the interests of humans greater weight than those of animals in deciding how to behave.\n(C) both A and B\n(D) neither A nor B\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Which of the following best characterizes Cohen's view about animal rights?",
+    "choices": [
+      "Animals do not have rights, and as such we do not have any obligations toward them.",
+      "Animals do have rights; nonetheless, we do not have any obligations toward them.",
+      "Animals do not have rights, but they still deserve some moral consideration.",
+      "Animals do have rights, and we have an obligation not to cause them suffering."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following best characterizes Cohen's view about animal rights?\nOptions:\n(A) Animals do not have rights, and as such we do not have any obligations toward them.\n(B) Animals do have rights; nonetheless, we do not have any obligations toward them.\n(C) Animals do not have rights, but they still deserve some moral consideration.\n(D) Animals do have rights, and we have an obligation not to cause them suffering.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The \"double standard\" with which states and nonstate entities are judged, according to Andrew Valls, is that",
+    "choices": [
+      "violence by nonstate entities is more easily accepted than state violence.",
+      "state violence is treated differently from nonmilitary action by the state (e.g., economic sanctions).",
+      "state violence is more easily accepted than violence by nonstate entities.",
+      "state violence is evaluated via just war theory, but violence by nonstate entities is evaluated via consequentialism."
+    ],
+    "answer": "C",
+    "input": "Question: The \"double standard\" with which states and nonstate entities are judged, according to Andrew Valls, is that\nOptions:\n(A) violence by nonstate entities is more easily accepted than state violence.\n(B) state violence is treated differently from nonmilitary action by the state (e.g., economic sanctions).\n(C) state violence is more easily accepted than violence by nonstate entities.\n(D) state violence is evaluated via just war theory, but violence by nonstate entities is evaluated via consequentialism.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Reiman could be described as a(n)",
+    "choices": [
+      "consequentialist",
+      "believer in the principle of equality",
+      "abolitionist",
+      "retentionist"
+    ],
+    "answer": "C",
+    "input": "Question: Reiman could be described as a(n)\nOptions:\n(A) consequentialist\n(B) believer in the principle of equality\n(C) abolitionist\n(D) retentionist\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The idea of moral injury involves",
+    "choices": [
+      "the natural law idea of the doctrine of double effect.",
+      "the Rossian idea of prima facie duties.",
+      "the utilitarian idea of greatest good for the greatest number.",
+      "the Kantian idea of the equal dignity of all persons."
+    ],
+    "answer": "D",
+    "input": "Question: The idea of moral injury involves\nOptions:\n(A) the natural law idea of the doctrine of double effect.\n(B) the Rossian idea of prima facie duties.\n(C) the utilitarian idea of greatest good for the greatest number.\n(D) the Kantian idea of the equal dignity of all persons.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The main purpose of the veil of ignorance in Rawls's theory of justice is to",
+    "choices": [
+      "prevent people in the original position from making rational decisions about guiding social principles.",
+      "prevent people in the original position from selecting principles that favor their particular positions .",
+      "guarantee that people in the original position do not form alliances with others.",
+      "ensure that everyone in the original position is aware of his or her own conception of the good."
+    ],
+    "answer": "B",
+    "input": "Question: The main purpose of the veil of ignorance in Rawls's theory of justice is to\nOptions:\n(A) prevent people in the original position from making rational decisions about guiding social principles.\n(B) prevent people in the original position from selecting principles that favor their particular positions .\n(C) guarantee that people in the original position do not form alliances with others.\n(D) ensure that everyone in the original position is aware of his or her own conception of the good.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to de Marneffe, what is the central difference between drug legalization and mere decriminalization?",
+    "choices": [
+      "Legalization allows for the manufacture and sale of drugs; mere decriminalization doesn't.",
+      "Mere decriminalization allows for the manufacture and sale of drugs; legalization doesn't.",
+      "Legalization is a federal issue, but decriminalization is a state issue.",
+      "none of the above; de Marneffe believes legalization and decriminalization are equivalent."
+    ],
+    "answer": "C",
+    "input": "Question: According to de Marneffe, what is the central difference between drug legalization and mere decriminalization?\nOptions:\n(A) Legalization allows for the manufacture and sale of drugs; mere decriminalization doesn't.\n(B) Mere decriminalization allows for the manufacture and sale of drugs; legalization doesn't.\n(C) Legalization is a federal issue, but decriminalization is a state issue.\n(D) none of the above; de Marneffe believes legalization and decriminalization are equivalent.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "To say that the consequentialist account of right action is a maximizing conception is to say that, according to the account,",
+    "choices": [
+      "we are obligated to convince as many people as possible to accept consequentialism.",
+      "we ought to perform that action the consequences of which will have at least as much overall value as any of the alternative actions.",
+      "we are to perform that action the consequences of which will have the least overall value compared to any of the alternative actions.",
+      "none of the above"
+    ],
+    "answer": "B",
+    "input": "Question: To say that the consequentialist account of right action is a maximizing conception is to say that, according to the account,\nOptions:\n(A) we are obligated to convince as many people as possible to accept consequentialism.\n(B) we ought to perform that action the consequences of which will have at least as much overall value as any of the alternative actions.\n(C) we are to perform that action the consequences of which will have the least overall value compared to any of the alternative actions.\n(D) none of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Van den Haag suggests that the actual costs of imposing the death penalty are trumped by",
+    "choices": [
+      "equality.",
+      "morality.",
+      "deterrence.",
+      "justice."
+    ],
+    "answer": "D",
+    "input": "Question: Van den Haag suggests that the actual costs of imposing the death penalty are trumped by\nOptions:\n(A) equality.\n(B) morality.\n(C) deterrence.\n(D) justice.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Walzer, \"in the absence of political support, terrorism may indeed be the one available strategy, but it is hard to see how its evils can then be excused\" because",
+    "choices": [
+      "the absence of political support implies that the terrorists do not represent the weak.",
+      "terrorism can never be the only available strategy.",
+      "evils, by definition, cannot be excused.",
+      "none of the above"
+    ],
+    "answer": "A",
+    "input": "Question: According to Walzer, \"in the absence of political support, terrorism may indeed be the one available strategy, but it is hard to see how its evils can then be excused\" because\nOptions:\n(A) the absence of political support implies that the terrorists do not represent the weak.\n(B) terrorism can never be the only available strategy.\n(C) evils, by definition, cannot be excused.\n(D) none of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "What, according to Singer, is the only defensible boundary of concern for the interests of others?",
+    "choices": [
+      "intelligence",
+      "rationality",
+      "sentience",
+      "none of the above"
+    ],
+    "answer": "C",
+    "input": "Question: What, according to Singer, is the only defensible boundary of concern for the interests of others?\nOptions:\n(A) intelligence\n(B) rationality\n(C) sentience\n(D) none of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Suppose Mary says, \"I understand that the use of the pesticide DDT will prevent thousands of human beings from dying of malaria. But it is still wrong to use DDT, because ultimately all that matters is the functional integrity of the ecosystems in which human beings live, and using DDT will severely damage this integrity.\" Mary is most likely a proponent of",
+    "choices": [
+      "biocentrism.",
+      "anthropocentrism.",
+      "ecoholism.",
+      "ecocentrism."
+    ],
+    "answer": "D",
+    "input": "Question: Suppose Mary says, \"I understand that the use of the pesticide DDT will prevent thousands of human beings from dying of malaria. But it is still wrong to use DDT, because ultimately all that matters is the functional integrity of the ecosystems in which human beings live, and using DDT will severely damage this integrity.\" Mary is most likely a proponent of\nOptions:\n(A) biocentrism.\n(B) anthropocentrism.\n(C) ecoholism.\n(D) ecocentrism.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Which of the following is a central claim in Shapiro's argument?",
+    "choices": [
+      "With easy access to drugs, we can expect a significant increase in drug addiction.",
+      "Even with easy access to drugs, most drug users don't become addicts.",
+      "Legal restrictions on drug use are justified because illegal drugs are inherently addictive.",
+      "Only by restricting access to drugs can we solve the drug problem."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a central claim in Shapiro's argument?\nOptions:\n(A) With easy access to drugs, we can expect a significant increase in drug addiction.\n(B) Even with easy access to drugs, most drug users don't become addicts.\n(C) Legal restrictions on drug use are justified because illegal drugs are inherently addictive.\n(D) Only by restricting access to drugs can we solve the drug problem.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Hursthouse's characterization of virtue ethics, an action is right if and only if",
+    "choices": [
+      "it is what a virtuous person would do in the circumstances.",
+      "it is what a vicious person would not avoid doing in the circumstances.",
+      "it produces the most virtue in the world compared to alternative actions.",
+      "all of the above"
+    ],
+    "answer": "A",
+    "input": "Question: According to Hursthouse's characterization of virtue ethics, an action is right if and only if\nOptions:\n(A) it is what a virtuous person would do in the circumstances.\n(B) it is what a vicious person would not avoid doing in the circumstances.\n(C) it produces the most virtue in the world compared to alternative actions.\n(D) all of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Singer claims that the best way to avoid loss of equality of opportunity through the genetic supermarket is to",
+    "choices": [
+      "provide genetic enhancement to those at the top and limit it to those at the bottom.",
+      "provide genetic enhancement to those at the bottom and limit it to those at the top.",
+      "distinguish intrinsic from positional goods.",
+      "enact a global ban on genetic enhancement."
+    ],
+    "answer": "B",
+    "input": "Question: Singer claims that the best way to avoid loss of equality of opportunity through the genetic supermarket is to\nOptions:\n(A) provide genetic enhancement to those at the top and limit it to those at the bottom.\n(B) provide genetic enhancement to those at the bottom and limit it to those at the top.\n(C) distinguish intrinsic from positional goods.\n(D) enact a global ban on genetic enhancement.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "On Huemer's view, it is wrong to think that",
+    "choices": [
+      "the government should prohibit things that do not degrade our dignity.",
+      "the government should prohibit things that on the basis of likely outcomes.",
+      "the government should prohibit things that cause people to harm themselves.",
+      "the government should prohibit things that fail to realize certain basic values."
+    ],
+    "answer": "C",
+    "input": "Question: On Huemer's view, it is wrong to think that\nOptions:\n(A) the government should prohibit things that do not degrade our dignity.\n(B) the government should prohibit things that on the basis of likely outcomes.\n(C) the government should prohibit things that cause people to harm themselves.\n(D) the government should prohibit things that fail to realize certain basic values.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "During his discussion of Japan, Caren claims that to answer the question of whether limitations on freedom of entry are justified, we have to weigh the claims of those trying to get in _____ the claims of those who are already inside.",
+    "choices": [
+      "more heavily with",
+      "less heavily with",
+      "independently of",
+      "equally with"
+    ],
+    "answer": "D",
+    "input": "Question: During his discussion of Japan, Caren claims that to answer the question of whether limitations on freedom of entry are justified, we have to weigh the claims of those trying to get in _____ the claims of those who are already inside.\nOptions:\n(A) more heavily with\n(B) less heavily with\n(C) independently of\n(D) equally with\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "According to Kate Manne, sexism involves",
+    "choices": [
+      "the patriarchy-reinforcing naturalization of sex differences.",
+      "the belief that men and women are different.",
+      "coercive mechanisms to enforce patriarchy.",
+      "violent oppression."
+    ],
+    "answer": "A",
+    "input": "Question: According to Kate Manne, sexism involves\nOptions:\n(A) the patriarchy-reinforcing naturalization of sex differences.\n(B) the belief that men and women are different.\n(C) coercive mechanisms to enforce patriarchy.\n(D) violent oppression.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "The principle of proportionality requires that",
+    "choices": [
+      "murderers receive the death penalty.",
+      "punishments must be in proportion to the crime.",
+      "we should do to the wrongdoer the same kind of action done to the victim.",
+      "punishments must be equal to the crime."
+    ],
+    "answer": "B",
+    "input": "Question: The principle of proportionality requires that\nOptions:\n(A) murderers receive the death penalty.\n(B) punishments must be in proportion to the crime.\n(C) we should do to the wrongdoer the same kind of action done to the victim.\n(D) punishments must be equal to the crime.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "If animals have no direct or indirect moral standing, then using them for human purposes is",
+    "choices": [
+      "always wrong.",
+      "always obligatory.",
+      "never wrong.",
+      "never optional."
+    ],
+    "answer": "C",
+    "input": "Question: If animals have no direct or indirect moral standing, then using them for human purposes is\nOptions:\n(A) always wrong.\n(B) always obligatory.\n(C) never wrong.\n(D) never optional.\nAnswer:",
+    "target": "(C)"
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following would lead to an expansion of the money supply?",
+    "choices": [
+      "The FED raises the discount rate.",
+      "The FED buys government securities in the secondary market.",
+      "The federal government deficit-spends.",
+      "The FED raises reserve requirements."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following would lead to an expansion of the money supply?\nOptions:\n(A) The FED raises the discount rate.\n(B) The FED buys government securities in the secondary market.\n(C) The federal government deficit-spends.\n(D) The FED raises reserve requirements.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following must exist to allow for mutual benefit from specialization and trade between two countries?",
+    "choices": [
+      "Comparative advantage in the production of a good or service",
+      "Absolute advantage in the production of a good or service",
+      "Increasing marginal returns in production",
+      "Absolute and comparative advantage in the production of a good or service"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following must exist to allow for mutual benefit from specialization and trade between two countries?\nOptions:\n(A) Comparative advantage in the production of a good or service\n(B) Absolute advantage in the production of a good or service\n(C) Increasing marginal returns in production\n(D) Absolute and comparative advantage in the production of a good or service\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "When government uses expansionary fiscal policy the spending multiplier is often smaller than predicted because of",
+    "choices": [
+      "lower taxes.",
+      "increasing net exports.",
+      "falling unemployment.",
+      "rising price levels."
+    ],
+    "answer": "D",
+    "input": "Question: When government uses expansionary fiscal policy the spending multiplier is often smaller than predicted because of\nOptions:\n(A) lower taxes.\n(B) increasing net exports.\n(C) falling unemployment.\n(D) rising price levels.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Some economists believe that when aggregate demand declines prices are inflexible or \"sticky\" in the downward direction. This implies that the short-run aggregate supply curve is",
+    "choices": [
+      "upward sloping at full employment.",
+      "horizontal below full employment.",
+      "vertical at full employment.",
+      "vertical below full employment."
+    ],
+    "answer": "B",
+    "input": "Question: Some economists believe that when aggregate demand declines prices are inflexible or \"sticky\" in the downward direction. This implies that the short-run aggregate supply curve is\nOptions:\n(A) upward sloping at full employment.\n(B) horizontal below full employment.\n(C) vertical at full employment.\n(D) vertical below full employment.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate demand curve shifts to the right? Assume an upward sloping aggregate supply curve.",
+    "choices": [
+      "The equilibrium price level increases while the equilibrium quantity of output decreases.",
+      "The equilibrium price level decreases while the equilibrium quantity of output increases.",
+      "The equilibrium price level and quantity of output increase.",
+      "The equilibrium price level and quantity of output decrease."
+    ],
+    "answer": "C",
+    "input": "Question: What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate demand curve shifts to the right? Assume an upward sloping aggregate supply curve.\nOptions:\n(A) The equilibrium price level increases while the equilibrium quantity of output decreases.\n(B) The equilibrium price level decreases while the equilibrium quantity of output increases.\n(C) The equilibrium price level and quantity of output increase.\n(D) The equilibrium price level and quantity of output decrease.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "If the economy is operating below full employment which of the following will have the greatest positive impact on real gross domestic product?",
+    "choices": [
+      "The government decreases spending with no change in taxes.",
+      "The government increases spending with no change in taxes.",
+      "The government decreases spending and matches it with a decrease in taxes.",
+      "The government holds spending constant while decreasing taxes."
+    ],
+    "answer": "B",
+    "input": "Question: If the economy is operating below full employment which of the following will have the greatest positive impact on real gross domestic product?\nOptions:\n(A) The government decreases spending with no change in taxes.\n(B) The government increases spending with no change in taxes.\n(C) The government decreases spending and matches it with a decrease in taxes.\n(D) The government holds spending constant while decreasing taxes.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "The theory of rational expectations",
+    "choices": [
+      "assumes that consumers and businesses anticipate rising prices when the government pursues an expansionary fiscal policy.",
+      "implies that fiscal policy will be effective even during stagflation.",
+      "supports the notion of a Phillips tradeoff.",
+      "assumes that consumers and businesses do not use all the information available to them."
+    ],
+    "answer": "A",
+    "input": "Question: The theory of rational expectations\nOptions:\n(A) assumes that consumers and businesses anticipate rising prices when the government pursues an expansionary fiscal policy.\n(B) implies that fiscal policy will be effective even during stagflation.\n(C) supports the notion of a Phillips tradeoff.\n(D) assumes that consumers and businesses do not use all the information available to them.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "The price of gasoline has recently increased while at the same time gasoline consumption has also increased. What is happening in the gasoline market?",
+    "choices": [
+      "This is evidence that contradicts the law of demand.",
+      "The price of crude oil has fallen shifting the supply of gasoline to the right.",
+      "A price ceiling has been imposed in the market for gasoline.",
+      "Consumers prefer larger automobiles shifting the demand for gasoline to the right."
+    ],
+    "answer": "D",
+    "input": "Question: The price of gasoline has recently increased while at the same time gasoline consumption has also increased. What is happening in the gasoline market?\nOptions:\n(A) This is evidence that contradicts the law of demand.\n(B) The price of crude oil has fallen shifting the supply of gasoline to the right.\n(C) A price ceiling has been imposed in the market for gasoline.\n(D) Consumers prefer larger automobiles shifting the demand for gasoline to the right.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Stagflation occurs when",
+    "choices": [
+      "the price level rises for two consecutive quarters",
+      "the price level rises and output falls",
+      "the price level stays the same and output increases",
+      "the price level stays the same and output decreases"
+    ],
+    "answer": "B",
+    "input": "Question: Stagflation occurs when\nOptions:\n(A) the price level rises for two consecutive quarters\n(B) the price level rises and output falls\n(C) the price level stays the same and output increases\n(D) the price level stays the same and output decreases\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Suppose an economy is in long-run equilibrium at the full-employment level of output. If government spending then increases",
+    "choices": [
+      "an inflationary gap is created because the aggregate demand curve shifts to the right",
+      "an inflationary gap is created because the aggregate supply curve shifts to the right",
+      "an inflationary gap is created because potential GDP shifts to the left",
+      "a recessionary gap is created because the aggregate supply curve shifts to the left"
+    ],
+    "answer": "A",
+    "input": "Question: Suppose an economy is in long-run equilibrium at the full-employment level of output. If government spending then increases\nOptions:\n(A) an inflationary gap is created because the aggregate demand curve shifts to the right\n(B) an inflationary gap is created because the aggregate supply curve shifts to the right\n(C) an inflationary gap is created because potential GDP shifts to the left\n(D) a recessionary gap is created because the aggregate supply curve shifts to the left\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is a direct accurate link within the circular flow?",
+    "choices": [
+      "Goods and services are exchanged for inputs via the factor markets.",
+      "Wages and rents are exchanged for income via the product markets.",
+      "Household expenditures result in revenues for firms via the product markets.",
+      "Household income results in revenues via the factor markets."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a direct accurate link within the circular flow?\nOptions:\n(A) Goods and services are exchanged for inputs via the factor markets.\n(B) Wages and rents are exchanged for income via the product markets.\n(C) Household expenditures result in revenues for firms via the product markets.\n(D) Household income results in revenues via the factor markets.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "According to the way in which economists use the word the bulk of \"investment\" is done by",
+    "choices": [
+      "households.",
+      "businesses.",
+      "government.",
+      "foreigners."
+    ],
+    "answer": "B",
+    "input": "Question: According to the way in which economists use the word the bulk of \"investment\" is done by\nOptions:\n(A) households.\n(B) businesses.\n(C) government.\n(D) foreigners.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "A nation's economic growth can be seen as a(n)",
+    "choices": [
+      "increase in the SRAS curve.",
+      "increase in the AD curve.",
+      "increase in the LRAS curve.",
+      "decrease in the production possibility curve."
+    ],
+    "answer": "C",
+    "input": "Question: A nation's economic growth can be seen as a(n)\nOptions:\n(A) increase in the SRAS curve.\n(B) increase in the AD curve.\n(C) increase in the LRAS curve.\n(D) decrease in the production possibility curve.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Suppose that the federal government reclassified the purchase of a new home as consumption spending rather than investment spending. This decision would",
+    "choices": [
+      "increase aggregate demand and decrease real GDP.",
+      "decrease aggregate demand and decrease real GDP.",
+      "decrease aggregate demand and increase real GDP.",
+      "have no impact on aggregate demand and real GDP."
+    ],
+    "answer": "D",
+    "input": "Question: Suppose that the federal government reclassified the purchase of a new home as consumption spending rather than investment spending. This decision would\nOptions:\n(A) increase aggregate demand and decrease real GDP.\n(B) decrease aggregate demand and decrease real GDP.\n(C) decrease aggregate demand and increase real GDP.\n(D) have no impact on aggregate demand and real GDP.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Gross Domestic Product is a close approximation of",
+    "choices": [
+      "national income",
+      "societal welfare",
+      "the consumer price index",
+      "the GDP deflator"
+    ],
+    "answer": "A",
+    "input": "Question: Gross Domestic Product is a close approximation of\nOptions:\n(A) national income\n(B) societal welfare\n(C) the consumer price index\n(D) the GDP deflator\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Stagflation occurs when",
+    "choices": [
+      "inflation falls and unemployment rises.",
+      "inflation rises and unemployment falls.",
+      "inflation and unemployment both rise.",
+      "Inflation and output both rise."
+    ],
+    "answer": "C",
+    "input": "Question: Stagflation occurs when\nOptions:\n(A) inflation falls and unemployment rises.\n(B) inflation rises and unemployment falls.\n(C) inflation and unemployment both rise.\n(D) Inflation and output both rise.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Assume Country Z only produces hot dogs and buns. Given the table below what is the value of GDP in Country Z? Production      Price 4 hot dogs      $1.00 4 buns      $0.50",
+    "choices": [
+      "$1.50",
+      "$12.00",
+      "$6.00",
+      "$8.00"
+    ],
+    "answer": "C",
+    "input": "Question: Assume Country Z only produces hot dogs and buns. Given the table below what is the value of GDP in Country Z? Production      Price 4 hot dogs      $1.00 4 buns      $0.50\nOptions:\n(A) $1.50\n(B) $12.00\n(C) $6.00\n(D) $8.00\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to",
+    "choices": [
+      "decrease by $133.33 million.",
+      "increase by $133.33 million.",
+      "decrease by $400 million.",
+      "increase by $400 million."
+    ],
+    "answer": "D",
+    "input": "Question: If the marginal propensity to consume equals .75 and government spending increases by $100 million then overall real GDP can be expected to\nOptions:\n(A) decrease by $133.33 million.\n(B) increase by $133.33 million.\n(C) decrease by $400 million.\n(D) increase by $400 million.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Country A has a current account surplus; this means that",
+    "choices": [
+      "Country A also has a financial account surplus.",
+      "Country A has a financial account deficit.",
+      "Country A must borrow from its foreign reserves.",
+      "Country A is operating in a recessionary gap."
+    ],
+    "answer": "B",
+    "input": "Question: Country A has a current account surplus; this means that\nOptions:\n(A) Country A also has a financial account surplus.\n(B) Country A has a financial account deficit.\n(C) Country A must borrow from its foreign reserves.\n(D) Country A is operating in a recessionary gap.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Julia would spend $30 per week even if she made no income. Her weekly income is $1000 and her marginal propensity to consume is 0.5. How much does Julia save per week?",
+    "choices": [
+      "$500",
+      "$ 35",
+      "$530",
+      "$470"
+    ],
+    "answer": "D",
+    "input": "Question: Julia would spend $30 per week even if she made no income. Her weekly income is $1000 and her marginal propensity to consume is 0.5. How much does Julia save per week?\nOptions:\n(A) $500\n(B) $ 35\n(C) $530\n(D) $470\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "In the circular-flow diagram households send to firms in return for",
+    "choices": [
+      "resources; spending",
+      "spending; resources",
+      "resources; wages and profits",
+      "goods and services; wages"
+    ],
+    "answer": "C",
+    "input": "Question: In the circular-flow diagram households send to firms in return for\nOptions:\n(A) resources; spending\n(B) spending; resources\n(C) resources; wages and profits\n(D) goods and services; wages\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "According to Classical economic theory a decrease in the money supply would",
+    "choices": [
+      "raise the price level and output in the economy.",
+      "lower the price level and output in the economy.",
+      "raise the price level in the economy.",
+      "lower the price level in the economy."
+    ],
+    "answer": "D",
+    "input": "Question: According to Classical economic theory a decrease in the money supply would\nOptions:\n(A) raise the price level and output in the economy.\n(B) lower the price level and output in the economy.\n(C) raise the price level in the economy.\n(D) lower the price level in the economy.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Assume Astobia and Bonavia are countries that exercise free trade. If the real interest rate in Astobia decreases in comparison to Bonavia's real interest rate then for Bonavia which of the following would be true of capital flow the value of its currency and its exports? Capital Flow     Currency     Exports",
+    "choices": [
+      "(A) outflow     appreciation     decrease",
+      "(B) outflow     appreciation     increase",
+      "(C) inflow     depreciation     decrease",
+      "(E) inflow     appreciation     decrease"
+    ],
+    "answer": "D",
+    "input": "Question: Assume Astobia and Bonavia are countries that exercise free trade. If the real interest rate in Astobia decreases in comparison to Bonavia's real interest rate then for Bonavia which of the following would be true of capital flow the value of its currency and its exports? Capital Flow     Currency     Exports\nOptions:\n(A) (A) outflow     appreciation     decrease\n(B) (B) outflow     appreciation     increase\n(C) (C) inflow     depreciation     decrease\n(D) (E) inflow     appreciation     decrease\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "In the long run aggregate supply is",
+    "choices": [
+      "upward sloping at full employment.",
+      "horizontal below full employment.",
+      "vertical at full employment.",
+      "vertical below full employment."
+    ],
+    "answer": "C",
+    "input": "Question: In the long run aggregate supply is\nOptions:\n(A) upward sloping at full employment.\n(B) horizontal below full employment.\n(C) vertical at full employment.\n(D) vertical below full employment.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Assume the reserve requirement is 5 percent. If the FED buys $4 million worth of government securities in an open market operation then the money supply can",
+    "choices": [
+      "increase by $1.25 million.",
+      "decrease by $1.25 million.",
+      "increase by $20 million.",
+      "increase by $80 million."
+    ],
+    "answer": "D",
+    "input": "Question: Assume the reserve requirement is 5 percent. If the FED buys $4 million worth of government securities in an open market operation then the money supply can\nOptions:\n(A) increase by $1.25 million.\n(B) decrease by $1.25 million.\n(C) increase by $20 million.\n(D) increase by $80 million.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "An Italian company opens a shoe factory in the U.S. The production from this shoe company is included in",
+    "choices": [
+      "the Italian GDP.",
+      "the U.S. GDP.",
+      "both the Italian and U.S. GDP",
+      "both the Italian and U.S. GDP split 50/50."
+    ],
+    "answer": "B",
+    "input": "Question: An Italian company opens a shoe factory in the U.S. The production from this shoe company is included in\nOptions:\n(A) the Italian GDP.\n(B) the U.S. GDP.\n(C) both the Italian and U.S. GDP\n(D) both the Italian and U.S. GDP split 50/50.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "The Phillips curve",
+    "choices": [
+      "shows how government spending and tax collections are related.",
+      "is upward sloping from left to right.",
+      "indicates that inflation will be high when unemployment is low.",
+      "shows how the equilibrium price level is related to fiscal policy."
+    ],
+    "answer": "C",
+    "input": "Question: The Phillips curve\nOptions:\n(A) shows how government spending and tax collections are related.\n(B) is upward sloping from left to right.\n(C) indicates that inflation will be high when unemployment is low.\n(D) shows how the equilibrium price level is related to fiscal policy.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "What will happen to the equilibrium price and the equilibrium quantity of corn when the prices of corn seed and fertilizer fall?",
+    "choices": [
+      "The equilibrium price will rise and the equilibrium quantity will fall.",
+      "The equilibrium price will fall and the equilibrium quantity will rise.",
+      "The equilibrium price and the equilibrium quantity will rise.",
+      "The equilibrium price and the equilibrium quantity will fall."
+    ],
+    "answer": "B",
+    "input": "Question: What will happen to the equilibrium price and the equilibrium quantity of corn when the prices of corn seed and fertilizer fall?\nOptions:\n(A) The equilibrium price will rise and the equilibrium quantity will fall.\n(B) The equilibrium price will fall and the equilibrium quantity will rise.\n(C) The equilibrium price and the equilibrium quantity will rise.\n(D) The equilibrium price and the equilibrium quantity will fall.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "The Law of Demand states that",
+    "choices": [
+      "the quantity demanded of a product will fall when the price of the product falls.",
+      "the quantity demanded of a product will fall when the price of the product rises.",
+      "when the demand for a product falls so will its price.",
+      "when the demand for a product falls its price will rise."
+    ],
+    "answer": "B",
+    "input": "Question: The Law of Demand states that\nOptions:\n(A) the quantity demanded of a product will fall when the price of the product falls.\n(B) the quantity demanded of a product will fall when the price of the product rises.\n(C) when the demand for a product falls so will its price.\n(D) when the demand for a product falls its price will rise.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Currency held by the public",
+    "choices": [
+      "is not part of the money supply but currency held by banks is.",
+      "is part of M 1 but not M2.",
+      "is part of the money supply but currency held by banks is not.",
+      "and by banks is part of the money supply."
+    ],
+    "answer": "C",
+    "input": "Question: Currency held by the public\nOptions:\n(A) is not part of the money supply but currency held by banks is.\n(B) is part of M 1 but not M2.\n(C) is part of the money supply but currency held by banks is not.\n(D) and by banks is part of the money supply.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following transactions would be included in the official computation of gross domestic product?",
+    "choices": [
+      "Josh buys a new pair of running shoes.",
+      "Nancy offers to babysit her granddaughter.",
+      "Max buys his dad's used car.",
+      "Eli cannot go to a concert so he resells his ticket to a friend."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following transactions would be included in the official computation of gross domestic product?\nOptions:\n(A) Josh buys a new pair of running shoes.\n(B) Nancy offers to babysit her granddaughter.\n(C) Max buys his dad's used car.\n(D) Eli cannot go to a concert so he resells his ticket to a friend.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "If the reserve requirement is 2 percent then the money multiplier is",
+    "choices": [
+      "5",
+      "5 percent",
+      "50",
+      "50 percent"
+    ],
+    "answer": "C",
+    "input": "Question: If the reserve requirement is 2 percent then the money multiplier is\nOptions:\n(A) 5\n(B) 5 percent\n(C) 50\n(D) 50 percent\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is a predictable advantage of expansionary monetary policy in a recession?",
+    "choices": [
+      "It decreases aggregate demand so that the price level falls which increases demand for the dollar.",
+      "It increases investment which increases aggregate demand and increases employment.",
+      "It increases aggregate demand which increases real GDP and increases the unemployment rate.",
+      "It keeps interest rates high which attracts foreign investment."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a predictable advantage of expansionary monetary policy in a recession?\nOptions:\n(A) It decreases aggregate demand so that the price level falls which increases demand for the dollar.\n(B) It increases investment which increases aggregate demand and increases employment.\n(C) It increases aggregate demand which increases real GDP and increases the unemployment rate.\n(D) It keeps interest rates high which attracts foreign investment.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "A decline in the demand for money could be the result of",
+    "choices": [
+      "higher prices.",
+      "more money placed in checking accounts.",
+      "higher returns on bonds.",
+      "more credit cards."
+    ],
+    "answer": "C",
+    "input": "Question: A decline in the demand for money could be the result of\nOptions:\n(A) higher prices.\n(B) more money placed in checking accounts.\n(C) higher returns on bonds.\n(D) more credit cards.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is true of the complete circular flow model of an open economy?",
+    "choices": [
+      "All goods and services flow through the government in exchange for resource payments.",
+      "There is no role for the foreign sector.",
+      "Households supply resources to producers in exchange for goods and services.",
+      "The government collects taxes from firms and households in exchange for goods and services."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is true of the complete circular flow model of an open economy?\nOptions:\n(A) All goods and services flow through the government in exchange for resource payments.\n(B) There is no role for the foreign sector.\n(C) Households supply resources to producers in exchange for goods and services.\n(D) The government collects taxes from firms and households in exchange for goods and services.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve?",
+    "choices": [
+      "Horizontal",
+      "Convex to the origin",
+      "Concave to the origin",
+      "Vertical"
+    ],
+    "answer": "D",
+    "input": "Question: A fixed output level in the long run at full-employment output corresponds with which of the following shapes of the long-run Phillips curve?\nOptions:\n(A) Horizontal\n(B) Convex to the origin\n(C) Concave to the origin\n(D) Vertical\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Suppose today's headline is that private investment has decreased as a result of an action by the Federal Reserve. Which of the following choices is the most likely cause?",
+    "choices": [
+      "Selling Treasury securities to commercial banks",
+      "Lowering of the discount rate",
+      "Decreasing the reserve ratio",
+      "Elimination of a corporate tax credit on investment"
+    ],
+    "answer": "A",
+    "input": "Question: Suppose today's headline is that private investment has decreased as a result of an action by the Federal Reserve. Which of the following choices is the most likely cause?\nOptions:\n(A) Selling Treasury securities to commercial banks\n(B) Lowering of the discount rate\n(C) Decreasing the reserve ratio\n(D) Elimination of a corporate tax credit on investment\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "The standard of living will increase if",
+    "choices": [
+      "everyone works harder.",
+      "the population grows.",
+      "GDP increases.",
+      "real GDP increases at a greater rate than the population."
+    ],
+    "answer": "D",
+    "input": "Question: The standard of living will increase if\nOptions:\n(A) everyone works harder.\n(B) the population grows.\n(C) GDP increases.\n(D) real GDP increases at a greater rate than the population.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "A recessionary gap exists when the short-run equilibrium level of real GDP",
+    "choices": [
+      "decreases over time",
+      "equals the full-employment level of real GDP",
+      "is above the full-employment level of real GDP",
+      "is below the full-employment level of real GDP"
+    ],
+    "answer": "D",
+    "input": "Question: A recessionary gap exists when the short-run equilibrium level of real GDP\nOptions:\n(A) decreases over time\n(B) equals the full-employment level of real GDP\n(C) is above the full-employment level of real GDP\n(D) is below the full-employment level of real GDP\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "If the economy is suffering from extremely high rates of inflation which of the following fiscal policies would be an appropriate strategy for the economy?",
+    "choices": [
+      "Increase government spending and decrease taxes.",
+      "Decrease government spending and increase taxes.",
+      "Increase government spending with no change in taxes.",
+      "The Federal Reserve increases the discount rate."
+    ],
+    "answer": "B",
+    "input": "Question: If the economy is suffering from extremely high rates of inflation which of the following fiscal policies would be an appropriate strategy for the economy?\nOptions:\n(A) Increase government spending and decrease taxes.\n(B) Decrease government spending and increase taxes.\n(C) Increase government spending with no change in taxes.\n(D) The Federal Reserve increases the discount rate.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "If global warming raises temperatures so high that snow can never again exist anywhere snow ski instructors will experience which type of unemployment?",
+    "choices": [
+      "Structural",
+      "Frictional",
+      "Seasonal",
+      "Institutional"
+    ],
+    "answer": "A",
+    "input": "Question: If global warming raises temperatures so high that snow can never again exist anywhere snow ski instructors will experience which type of unemployment?\nOptions:\n(A) Structural\n(B) Frictional\n(C) Seasonal\n(D) Institutional\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Which of the following is a likely effect of a higher tariff imposed by the United States on imported automobiles?",
+    "choices": [
+      "Net exports will fall and the dollar will appreciate in value.",
+      "Net exports will fall and the dollar will depreciate in value.",
+      "The price of automobiles in the United States will fall.",
+      "Net exports will rise and the dollar will appreciate in value."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is a likely effect of a higher tariff imposed by the United States on imported automobiles?\nOptions:\n(A) Net exports will fall and the dollar will appreciate in value.\n(B) Net exports will fall and the dollar will depreciate in value.\n(C) The price of automobiles in the United States will fall.\n(D) Net exports will rise and the dollar will appreciate in value.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_macroeconomics",
+    "question": "Market economies",
+    "choices": [
+      "rely on markets to coordinate economic activity.",
+      "rely on the government to address the fundamental economic questions.",
+      "rely on elected officials to make the most important economic decisions.",
+      "rely on courts to ensure people and firms get what they deserve."
+    ],
+    "answer": "A",
+    "input": "Question: Market economies\nOptions:\n(A) rely on markets to coordinate economic activity.\n(B) rely on the government to address the fundamental economic questions.\n(C) rely on elected officials to make the most important economic decisions.\n(D) rely on courts to ensure people and firms get what they deserve.\nAnswer:",
+    "target": "(A)"
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "subject": "conceptual_physics",
+    "question": "A real image can be cast on a screen by a",
+    "choices": [
+      "converging lens",
+      "diverging lens",
+      "Either of these",
+      "Neither of these"
+    ],
+    "answer": "A",
+    "input": "Question: A real image can be cast on a screen by a\nOptions:\n(A) converging lens\n(B) diverging lens\n(C) Either of these\n(D) Neither of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Consider a ball rolling down an inclined plane. The normal force on the ball (the force perpendicular to the plane).",
+    "choices": [
+      "is mg",
+      "is greater than mg always",
+      "may be greater or less than mg",
+      "is less than mg always"
+    ],
+    "answer": "D",
+    "input": "Question: Consider a ball rolling down an inclined plane. The normal force on the ball (the force perpendicular to the plane).\nOptions:\n(A) is mg\n(B) is greater than mg always\n(C) may be greater or less than mg\n(D) is less than mg always\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which of these can NOT be deflected by electrical or magnetic means?",
+    "choices": [
+      "Alpha rays",
+      "Beta rays",
+      "Gamma rays",
+      "All can"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these can NOT be deflected by electrical or magnetic means?\nOptions:\n(A) Alpha rays\n(B) Beta rays\n(C) Gamma rays\n(D) All can\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have",
+    "choices": [
+      "the same sign of charge.",
+      "opposite signs of charge.",
+      "either the same or opposite signs of charge.",
+      "Need more information."
+    ],
+    "answer": "C",
+    "input": "Question: Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have\nOptions:\n(A) the same sign of charge.\n(B) opposite signs of charge.\n(C) either the same or opposite signs of charge.\n(D) Need more information.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A high-temperature source radiates relatively",
+    "choices": [
+      "short wavelengths",
+      "long wavelengths",
+      "low frequencies of radiation",
+      "None of these"
+    ],
+    "answer": "A",
+    "input": "Question: A high-temperature source radiates relatively\nOptions:\n(A) short wavelengths\n(B) long wavelengths\n(C) low frequencies of radiation\n(D) None of these\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "According to the correspondence principle,",
+    "choices": [
+      "new theory must agree with old theory where they overlap.",
+      "Newton’s mechanics is as valid as Einstein’s mechanics.",
+      "relativity equations apply to high speeds while Newton’s equations apply to low speeds.",
+      "special relativity and general relativity are two sides of the same coin."
+    ],
+    "answer": "A",
+    "input": "Question: According to the correspondence principle,\nOptions:\n(A) new theory must agree with old theory where they overlap.\n(B) Newton’s mechanics is as valid as Einstein’s mechanics.\n(C) relativity equations apply to high speeds while Newton’s equations apply to low speeds.\n(D) special relativity and general relativity are two sides of the same coin.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A magnetic force can act on an electron even when it",
+    "choices": [
+      "is at rest",
+      "moves parallel to magnetic field lines",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "D",
+    "input": "Question: A magnetic force can act on an electron even when it\nOptions:\n(A) is at rest\n(B) moves parallel to magnetic field lines\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The sound waves that most humans cannot hear are",
+    "choices": [
+      "infrasonic",
+      "ultrasonic",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": "C",
+    "input": "Question: The sound waves that most humans cannot hear are\nOptions:\n(A) infrasonic\n(B) ultrasonic\n(C) Both of these\n(D) Neither of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A machine cannot multiply",
+    "choices": [
+      "forces",
+      "distances",
+      "energy",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: A machine cannot multiply\nOptions:\n(A) forces\n(B) distances\n(C) energy\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Atmospheric pressure is due to the weight",
+    "choices": [
+      "of the atmosphere",
+      "and volume of the atmosphere",
+      "density and volume of the atmosphere",
+      "of planet Earth itself"
+    ],
+    "answer": "A",
+    "input": "Question: Atmospheric pressure is due to the weight\nOptions:\n(A) of the atmosphere\n(B) and volume of the atmosphere\n(C) density and volume of the atmosphere\n(D) of planet Earth itself\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Einstein’s second postulate tells us that the speed of light",
+    "choices": [
+      "depends on one’s frame of reference.",
+      "is a constant in all frames of reference.",
+      "provides accurate clocks.",
+      "slows in a transparent medium."
+    ],
+    "answer": "B",
+    "input": "Question: Einstein’s second postulate tells us that the speed of light\nOptions:\n(A) depends on one’s frame of reference.\n(B) is a constant in all frames of reference.\n(C) provides accurate clocks.\n(D) slows in a transparent medium.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Planck’s constant can be found by dividing the energy of a photon by its",
+    "choices": [
+      "wavelength",
+      "frequency",
+      "amplitude",
+      "None of these"
+    ],
+    "answer": "B",
+    "input": "Question: Planck’s constant can be found by dividing the energy of a photon by its\nOptions:\n(A) wavelength\n(B) frequency\n(C) amplitude\n(D) None of these\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The \"greenhouse gases\" that contribute to global warming absorb",
+    "choices": [
+      "more visible radiation than infrared.",
+      "more infrared radiation than visible.",
+      "visible and infrared about equally.",
+      "very little radiation of any kind."
+    ],
+    "answer": "B",
+    "input": "Question: The \"greenhouse gases\" that contribute to global warming absorb\nOptions:\n(A) more visible radiation than infrared.\n(B) more infrared radiation than visible.\n(C) visible and infrared about equally.\n(D) very little radiation of any kind.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Standing waves are the result of",
+    "choices": [
+      "interference",
+      "waves overlapping in phase and out of phase",
+      "waves reflecting upon themselves",
+      "All of these"
+    ],
+    "answer": "D",
+    "input": "Question: Standing waves are the result of\nOptions:\n(A) interference\n(B) waves overlapping in phase and out of phase\n(C) waves reflecting upon themselves\n(D) All of these\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Heat is simply another word for",
+    "choices": [
+      "temperature.",
+      "internal energy.",
+      "internal energy that flows from hot to cold.",
+      "radiant energy."
+    ],
+    "answer": "C",
+    "input": "Question: Heat is simply another word for\nOptions:\n(A) temperature.\n(B) internal energy.\n(C) internal energy that flows from hot to cold.\n(D) radiant energy.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "The greenhouse gases that contribute to global warming are",
+    "choices": [
+      "water vapor",
+      "carbon dioxide",
+      "Both",
+      "Neither"
+    ],
+    "answer": "C",
+    "input": "Question: The greenhouse gases that contribute to global warming are\nOptions:\n(A) water vapor\n(B) carbon dioxide\n(C) Both\n(D) Neither\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "How many electrons are there in the third shell of sodium, Na (atomic number 11)?",
+    "choices": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "B",
+    "input": "Question: How many electrons are there in the third shell of sodium, Na (atomic number 11)?\nOptions:\n(A) None\n(B) One\n(C) Two\n(D) Three\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Which process would release energy from gold: fission or fusion? From carbon?",
+    "choices": [
+      "Gold: fission; carbon: fusion",
+      "Gold: fusion; carbon: fission",
+      "Gold: fission; carbon: fission",
+      "Gold: fusion; carbon: fusion"
+    ],
+    "answer": "A",
+    "input": "Question: Which process would release energy from gold: fission or fusion? From carbon?\nOptions:\n(A) Gold: fission; carbon: fusion\n(B) Gold: fusion; carbon: fission\n(C) Gold: fission; carbon: fission\n(D) Gold: fusion; carbon: fusion\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore",
+    "choices": [
+      "the same",
+      "opposite",
+      "Either of these",
+      "Need more information"
+    ],
+    "answer": "C",
+    "input": "Question: Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore\nOptions:\n(A) the same\n(B) opposite\n(C) Either of these\n(D) Need more information\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "Sound will travel fastest in",
+    "choices": [
+      "a steel beam",
+      "a wooden plank",
+      "ocean water",
+      "air in a balloon"
+    ],
+    "answer": "A",
+    "input": "Question: Sound will travel fastest in\nOptions:\n(A) a steel beam\n(B) a wooden plank\n(C) ocean water\n(D) air in a balloon\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When energy is released by the process of fusion, the total mass of the material after the event is",
+    "choices": [
+      "less",
+      "the same",
+      "more",
+      "zero"
+    ],
+    "answer": "A",
+    "input": "Question: When energy is released by the process of fusion, the total mass of the material after the event is\nOptions:\n(A) less\n(B) the same\n(C) more\n(D) zero\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A 5.0 kg mass is placed in an elevator that is accelerating upwards at 4.0 m/s2. The apparent weight of this mass is",
+    "choices": [
+      "20. N",
+      "29 N",
+      "49 N",
+      "69 N"
+    ],
+    "answer": "D",
+    "input": "Question: A 5.0 kg mass is placed in an elevator that is accelerating upwards at 4.0 m/s2. The apparent weight of this mass is\nOptions:\n(A) 20. N\n(B) 29 N\n(C) 49 N\n(D) 69 N\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "An object that absorbs energy well also",
+    "choices": [
+      "conducts well",
+      "convects well",
+      "radiates well",
+      "None of these"
+    ],
+    "answer": "C",
+    "input": "Question: An object that absorbs energy well also\nOptions:\n(A) conducts well\n(B) convects well\n(C) radiates well\n(D) None of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "When you breathe on your hand, the temperature of the exhaled air reaching your hand",
+    "choices": [
+      "increases",
+      "decreases",
+      "remains unchanged",
+      "depends on how you blow"
+    ],
+    "answer": "D",
+    "input": "Question: When you breathe on your hand, the temperature of the exhaled air reaching your hand\nOptions:\n(A) increases\n(B) decreases\n(C) remains unchanged\n(D) depends on how you blow\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "A hologram best illustrates",
+    "choices": [
+      "polarization",
+      "diffraction",
+      "superposition",
+      "electron interference"
+    ],
+    "answer": "B",
+    "input": "Question: A hologram best illustrates\nOptions:\n(A) polarization\n(B) diffraction\n(C) superposition\n(D) electron interference\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "conceptual_physics",
+    "question": "From quantum mechanics we learn that a radioactive nucleus is governed by",
+    "choices": [
+      "Newton’s laws",
+      "probability",
+      "certainty",
+      "no laws at all"
+    ],
+    "answer": "B",
+    "input": "Question: From quantum mechanics we learn that a radioactive nucleus is governed by\nOptions:\n(A) Newton’s laws\n(B) probability\n(C) certainty\n(D) no laws at all\nAnswer:",
+    "target": "(B)"
+  }
+]

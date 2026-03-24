@@ -1,0 +1,17 @@
+# 非标准字段名配置示例
+# 适用于数据字段名不是 input/target 的情况
+
+datasets:
+  squad:
+    data_dir: ./data/squad
+
+    # 手动指定字段名（自动检测失败时使用）
+    format:
+      examples_key: "data"        # 默认为 examples，此处数据根键为 data
+      input_key: "question"       # 默认为 input，此处字段名为 question
+      target_key: "answer"        # 默认为 target，此处字段名为 answer
+
+    default_prompt:
+      task_prompt: "根据上下文回答问题。"
+      answer_format: "只输出答案，不要解释。"
+      generation_length: 64

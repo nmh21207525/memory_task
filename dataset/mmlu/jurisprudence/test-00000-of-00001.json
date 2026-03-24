@@ -1,0 +1,1406 @@
+[
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement best explains the purpose of Hart's distinction between 'being obliged' and 'having an obligation'?",
+    "choices": [
+      "It demonstrates the difference between the internal and the external aspect of a rule.",
+      "It refutes the natural lawyer' view of the role of morality in law.",
+      "It explains the nature of power-conferring rules.",
+      "It illuminates the concept of a rule."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement best explains the purpose of Hart's distinction between 'being obliged' and 'having an obligation'?\nOptions:\n(A) It demonstrates the difference between the internal and the external aspect of a rule.\n(B) It refutes the natural lawyer' view of the role of morality in law.\n(C) It explains the nature of power-conferring rules.\n(D) It illuminates the concept of a rule.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Maine's famous aphorism that 'the movement of progressive societies has hitherto been a movement from Status to Contract' is often misunderstood. In what way?",
+    "choices": [
+      "It is misinterpreted as a prediction.",
+      "His concept of status is misrepresented.",
+      "It is taken literally.",
+      "His idea is considered inapplicable to Western legal systems."
+    ],
+    "answer": "A",
+    "input": "Question: Maine's famous aphorism that 'the movement of progressive societies has hitherto been a movement from Status to Contract' is often misunderstood. In what way?\nOptions:\n(A) It is misinterpreted as a prediction.\n(B) His concept of status is misrepresented.\n(C) It is taken literally.\n(D) His idea is considered inapplicable to Western legal systems.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following factors contributed significantly to the revival of natural law in the 20th century?",
+    "choices": [
+      "Depression of the 1930",
+      "The rise of Fascism",
+      "The international recognition of human rights after World War II",
+      "The Bolshevik Revolution"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following factors contributed significantly to the revival of natural law in the 20th century?\nOptions:\n(A) Depression of the 1930\n(B) The rise of Fascism\n(C) The international recognition of human rights after World War II\n(D) The Bolshevik Revolution\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?",
+    "choices": [
+      "There is no distinction between the two forms of legal reasoning.",
+      "Judges are appointed to interpret the law, not to make it.",
+      "It is misleading to pigeon-hole judges in this way.",
+      "Judicial reasoning is always formal."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?\nOptions:\n(A) There is no distinction between the two forms of legal reasoning.\n(B) Judges are appointed to interpret the law, not to make it.\n(C) It is misleading to pigeon-hole judges in this way.\n(D) Judicial reasoning is always formal.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which proposition below is the most consistent with what Rawls claims the POP would opt for in respect of 'social primary goods'?",
+    "choices": [
+      "The POP will choose wealth over a compassionate society.",
+      "The POP will choose equality over power.",
+      "The POP will be unselfish.",
+      "The POP will choose to protect the disabled."
+    ],
+    "answer": "A",
+    "input": "Question: Which proposition below is the most consistent with what Rawls claims the POP would opt for in respect of 'social primary goods'?\nOptions:\n(A) The POP will choose wealth over a compassionate society.\n(B) The POP will choose equality over power.\n(C) The POP will be unselfish.\n(D) The POP will choose to protect the disabled.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School believes that promoting market efficiency should be the central goal of legal decision-making.",
+    "choices": [
+      "Law and Economics",
+      "Critical Legal Studies",
+      "Historical",
+      "Natural Law"
+    ],
+    "answer": "A",
+    "input": "Question: The ________ School believes that promoting market efficiency should be the central goal of legal decision-making.\nOptions:\n(A) Law and Economics\n(B) Critical Legal Studies\n(C) Historical\n(D) Natural Law\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement below is the least likely to follow logically from Austin's argument that a sanction consists of the smallest chance of incurring the smallest evil?",
+    "choices": [
+      "All commands include some sanction.",
+      "The concept of a command contains the likelihood that a sanction will follow failure to obey the command.",
+      "Without a sanction the mere expression of a wish is not a command.",
+      "A command confers power to change one's legal status."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement below is the least likely to follow logically from Austin's argument that a sanction consists of the smallest chance of incurring the smallest evil?\nOptions:\n(A) All commands include some sanction.\n(B) The concept of a command contains the likelihood that a sanction will follow failure to obey the command.\n(C) Without a sanction the mere expression of a wish is not a command.\n(D) A command confers power to change one's legal status.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "How does Weber solve the 'England problem'?",
+    "choices": [
+      "By denying its existence.",
+      "By explaining the difference between the common law and civil law.",
+      "By distinguishing certain features of the English legal system that facilitated the development of capitalism.",
+      "By recognizing the importance of legitimate domination."
+    ],
+    "answer": "C",
+    "input": "Question: How does Weber solve the 'England problem'?\nOptions:\n(A) By denying its existence.\n(B) By explaining the difference between the common law and civil law.\n(C) By distinguishing certain features of the English legal system that facilitated the development of capitalism.\n(D) By recognizing the importance of legitimate domination.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Cicero's conception of natural law is 'based on the idea that 'true law is right reason in agreement with Nature.' Reason is a key element because:",
+    "choices": [
+      "It is a sin for humans not to apply reason.",
+      "The principles of natural law are discoverable by reason.",
+      "Natural law does not apply without good reason.",
+      "The law of nature is the basis of all positive law."
+    ],
+    "answer": "B",
+    "input": "Question: Cicero's conception of natural law is 'based on the idea that 'true law is right reason in agreement with Nature.' Reason is a key element because:\nOptions:\n(A) It is a sin for humans not to apply reason.\n(B) The principles of natural law are discoverable by reason.\n(C) Natural law does not apply without good reason.\n(D) The law of nature is the basis of all positive law.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Catharine MacKinnon argues that since men dominate women, the question is ultimately one of power. Which proposition below is the most inconsistent with this argument?",
+    "choices": [
+      "Women can achieve equality through political pressure.",
+      "Equality is impossible because men define women as different.",
+      "The idea of 'woman' needs to be redefined.",
+      "The world is phallocentric and oppressive."
+    ],
+    "answer": "A",
+    "input": "Question: Catharine MacKinnon argues that since men dominate women, the question is ultimately one of power. Which proposition below is the most inconsistent with this argument?\nOptions:\n(A) Women can achieve equality through political pressure.\n(B) Equality is impossible because men define women as different.\n(C) The idea of 'woman' needs to be redefined.\n(D) The world is phallocentric and oppressive.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who was an exponent of “natural law with a variable content”?",
+    "choices": [
+      "John Rawls",
+      "Stammler",
+      "Jerome Hall",
+      "John Finns"
+    ],
+    "answer": "B",
+    "input": "Question: Who was an exponent of “natural law with a variable content”?\nOptions:\n(A) John Rawls\n(B) Stammler\n(C) Jerome Hall\n(D) John Finns\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School of jurisprudence asserts that the law is a means of achieving and advancing certain sociological goals.",
+    "choices": [
+      "Historical",
+      "Analytical",
+      "Command",
+      "Sociological"
+    ],
+    "answer": "D",
+    "input": "Question: The ________ School of jurisprudence asserts that the law is a means of achieving and advancing certain sociological goals.\nOptions:\n(A) Historical\n(B) Analytical\n(C) Command\n(D) Sociological\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "According to Malinowski, the Trobriand Islanders organized their society around what concept?",
+    "choices": [
+      "Conflict.",
+      "Love.",
+      "War.",
+      "Reciprocity."
+    ],
+    "answer": "D",
+    "input": "Question: According to Malinowski, the Trobriand Islanders organized their society around what concept?\nOptions:\n(A) Conflict.\n(B) Love.\n(C) War.\n(D) Reciprocity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "In Justice for Hedgehogs Dworkin endorses 'Hume's principle'. What does he understand by this idea?",
+    "choices": [
+      "That there is no distinction between law and morality.",
+      "That there is a distinction between right and wrong.",
+      "That facts about the world or human nature cannot normally ordain what ought to be",
+      "That human rights are fundamentally unsound."
+    ],
+    "answer": "C",
+    "input": "Question: In Justice for Hedgehogs Dworkin endorses 'Hume's principle'. What does he understand by this idea?\nOptions:\n(A) That there is no distinction between law and morality.\n(B) That there is a distinction between right and wrong.\n(C) That facts about the world or human nature cannot normally ordain what ought to be\n(D) That human rights are fundamentally unsound.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means:",
+    "choices": [
+      "Individual stories are suspect.",
+      "The law is static.",
+      "Universal values are meaningless.",
+      "Literature reproduces repression."
+    ],
+    "answer": "C",
+    "input": "Question: Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means:\nOptions:\n(A) Individual stories are suspect.\n(B) The law is static.\n(C) Universal values are meaningless.\n(D) Literature reproduces repression.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Habermas distinguishes between 'law as medium' and 'law as institution'. Which statement below most accurately describes this distinction?",
+    "choices": [
+      "Law as medium' describes law as a body of formal, general rules that control the state and the economy; 'law as institution' inhabits the 'lifeworld' and expresses its shared values and norms in institutional form.",
+      "Law as medium' consists of the manner in which law is presented by the media; 'law as institution' describes the courts.",
+      "Law as medium' concerns the manner in which the law expresses its rules in simplified terms; 'law as institution' refers to the formal declaration of laws by legislative bodies.",
+      "Law as medium' is defined as the intermediate stage of legal development; 'law as institution' is the advanced stage."
+    ],
+    "answer": "A",
+    "input": "Question: Habermas distinguishes between 'law as medium' and 'law as institution'. Which statement below most accurately describes this distinction?\nOptions:\n(A) Law as medium' describes law as a body of formal, general rules that control the state and the economy; 'law as institution' inhabits the 'lifeworld' and expresses its shared values and norms in institutional form.\n(B) Law as medium' consists of the manner in which law is presented by the media; 'law as institution' describes the courts.\n(C) Law as medium' concerns the manner in which the law expresses its rules in simplified terms; 'law as institution' refers to the formal declaration of laws by legislative bodies.\n(D) Law as medium' is defined as the intermediate stage of legal development; 'law as institution' is the advanced stage.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "To claim that one has a prima facie duty to obey the law is to assert that:",
+    "choices": [
+      "One is under a duty to obey the law without exception, regardless of its content.",
+      "There is no duty to obey a law to which one hasn't agreed.",
+      "The duty applies only to those who are directly affected by the law in question.",
+      "The obligation arises independently of the precise legal provisions involved - unless there are grounds to justify a specific exception."
+    ],
+    "answer": "D",
+    "input": "Question: To claim that one has a prima facie duty to obey the law is to assert that:\nOptions:\n(A) One is under a duty to obey the law without exception, regardless of its content.\n(B) There is no duty to obey a law to which one hasn't agreed.\n(C) The duty applies only to those who are directly affected by the law in question.\n(D) The obligation arises independently of the precise legal provisions involved - unless there are grounds to justify a specific exception.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Dworkin contends that to every legal question there is only one right answer. Which proposition below is most inconsistent with this claim?",
+    "choices": [
+      "In hard cases judges generally decide cases on the basis of rights.",
+      "The rights of the parties feature in the determination of most cases before the courts.",
+      "Judges exercise strong discretion.",
+      "Judges seek the best 'fit' with constitutional and institutional history."
+    ],
+    "answer": "C",
+    "input": "Question: Dworkin contends that to every legal question there is only one right answer. Which proposition below is most inconsistent with this claim?\nOptions:\n(A) In hard cases judges generally decide cases on the basis of rights.\n(B) The rights of the parties feature in the determination of most cases before the courts.\n(C) Judges exercise strong discretion.\n(D) Judges seek the best 'fit' with constitutional and institutional history.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Robert makes the following statement while negotiating the sale of his car, 'This is the sharpest car on the market.' His statement may support a claim for:",
+    "choices": [
+      "misrepresentation",
+      "fraud",
+      "fraud and misrepresentation",
+      "none of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Robert makes the following statement while negotiating the sale of his car, 'This is the sharpest car on the market.' His statement may support a claim for:\nOptions:\n(A) misrepresentation\n(B) fraud\n(C) fraud and misrepresentation\n(D) none of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "According to Austin the science of jurisprudence is concerned with",
+    "choices": [
+      "Morality",
+      "Positive law",
+      "Divine law",
+      "Natural law"
+    ],
+    "answer": "B",
+    "input": "Question: According to Austin the science of jurisprudence is concerned with\nOptions:\n(A) Morality\n(B) Positive law\n(C) Divine law\n(D) Natural law\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following statements best captures the nature of Fuller's 'inner morality of law'?",
+    "choices": [
+      "A positivist view of law.",
+      "A morality of aspiration.",
+      "An Aquinian concept of natural law.",
+      "A rejection of the 'harm principle'."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following statements best captures the nature of Fuller's 'inner morality of law'?\nOptions:\n(A) A positivist view of law.\n(B) A morality of aspiration.\n(C) An Aquinian concept of natural law.\n(D) A rejection of the 'harm principle'.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Hart argues that secondary rules are 'power-conferring' but this seems unconvincing in the case of the rule of recognition because:",
+    "choices": [
+      "It both confers power and imposes duties on judges to decide cases.",
+      "It is not a social rule.",
+      "It applies only in the case of unitary constitutions.",
+      "It fails to specify the source of authority."
+    ],
+    "answer": "A",
+    "input": "Question: Hart argues that secondary rules are 'power-conferring' but this seems unconvincing in the case of the rule of recognition because:\nOptions:\n(A) It both confers power and imposes duties on judges to decide cases.\n(B) It is not a social rule.\n(C) It applies only in the case of unitary constitutions.\n(D) It fails to specify the source of authority.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Adherence to precedent is called the doctrine of ________.",
+    "choices": [
+      "nolo contendere",
+      "stare decisis",
+      "substantial performance",
+      "commercial impracticability"
+    ],
+    "answer": "B",
+    "input": "Question: Adherence to precedent is called the doctrine of ________.\nOptions:\n(A) nolo contendere\n(B) stare decisis\n(C) substantial performance\n(D) commercial impracticability\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which proposition below may be characterized as the most powerful refutation by Hart of Lord Devlin's argument?",
+    "choices": [
+      "Society has no right to preserve its moral and social cohesion through the criminal law.",
+      "Homosexual acts cause public outrage.",
+      "The courts are the best place to resolve moral questions such as those concerning homosexuality and prostitution.",
+      "The law is anachronistic."
+    ],
+    "answer": "A",
+    "input": "Question: Which proposition below may be characterized as the most powerful refutation by Hart of Lord Devlin's argument?\nOptions:\n(A) Society has no right to preserve its moral and social cohesion through the criminal law.\n(B) Homosexual acts cause public outrage.\n(C) The courts are the best place to resolve moral questions such as those concerning homosexuality and prostitution.\n(D) The law is anachronistic.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "What relationships to the type of law that exists in society does Durkheim identify between (1) mechanical and (2) organic solidarity?",
+    "choices": [
+      "Mechanical solidarity produces conflict in society. Organic solidarity leads to greater social harmony.",
+      "Mechanical solidarity leads to repressive law. Organic solidarity leads to restitutive law.",
+      "Mechanical solidarity fosters efficiency. Organic solidarity leads to inefficiency.",
+      "Mechanical solidarity generates a more democratic legal system; organic solidarity a more authoritarian legal system."
+    ],
+    "answer": "B",
+    "input": "Question: What relationships to the type of law that exists in society does Durkheim identify between (1) mechanical and (2) organic solidarity?\nOptions:\n(A) Mechanical solidarity produces conflict in society. Organic solidarity leads to greater social harmony.\n(B) Mechanical solidarity leads to repressive law. Organic solidarity leads to restitutive law.\n(C) Mechanical solidarity fosters efficiency. Organic solidarity leads to inefficiency.\n(D) Mechanical solidarity generates a more democratic legal system; organic solidarity a more authoritarian legal system.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following quotations best describes the central thesis of difference feminism?",
+    "choices": [
+      "There are fundamental differences between individual women.'",
+      "Men and women have different conceptions of the feminist project.'",
+      "Women look to context, whereas men appeal to neutral, abstract notions of justice.'",
+      "Men are unable to comprehend their differences from women.'"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following quotations best describes the central thesis of difference feminism?\nOptions:\n(A) There are fundamental differences between individual women.'\n(B) Men and women have different conceptions of the feminist project.'\n(C) Women look to context, whereas men appeal to neutral, abstract notions of justice.'\n(D) Men are unable to comprehend their differences from women.'\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement below is the least likely to follow logically from Dworkin's notion of law as integrity?",
+    "choices": [
+      "It is likely to generate more individual rights and greater liberty.",
+      "It renders a community more genuine.",
+      "It opens the door to authoritarianism.",
+      "It improves the moral justification for the exercise of political power."
+    ],
+    "answer": "C",
+    "input": "Question: Which statement below is the least likely to follow logically from Dworkin's notion of law as integrity?\nOptions:\n(A) It is likely to generate more individual rights and greater liberty.\n(B) It renders a community more genuine.\n(C) It opens the door to authoritarianism.\n(D) It improves the moral justification for the exercise of political power.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement best describes one of Dworkin's central arguments in Justice for Hedgehogs?",
+    "choices": [
+      "Morality plays no role in the concept of law.",
+      "Moral arguments operate only in hard cases.",
+      "The law dictates what moral values should affect our ethical behaviour.",
+      "Moral values are both independent and objective."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement best describes one of Dworkin's central arguments in Justice for Hedgehogs?\nOptions:\n(A) Morality plays no role in the concept of law.\n(B) Moral arguments operate only in hard cases.\n(C) The law dictates what moral values should affect our ethical behaviour.\n(D) Moral values are both independent and objective.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement best describes the nature and function of Kelsen's Grundnorm?",
+    "choices": [
+      "The ultimate source of a legal system's morality.",
+      "The rule that distinguishes norms from habits of obedience.",
+      "The constitution of a state.",
+      "A presupposition that facilitates our understanding of the legal system."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement best describes the nature and function of Kelsen's Grundnorm?\nOptions:\n(A) The ultimate source of a legal system's morality.\n(B) The rule that distinguishes norms from habits of obedience.\n(C) The constitution of a state.\n(D) A presupposition that facilitates our understanding of the legal system.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Critical Legal Studies (CLS) is often compared to (or with) American realism. Which of the following statements is inaccurate?",
+    "choices": [
+      "Both are concerned with the 'law in action.'",
+      "Both are anti-formalist and sceptical",
+      "Both adopt a liberal ideology.",
+      "Both attempt to demystify the law."
+    ],
+    "answer": "C",
+    "input": "Question: Critical Legal Studies (CLS) is often compared to (or with) American realism. Which of the following statements is inaccurate?\nOptions:\n(A) Both are concerned with the 'law in action.'\n(B) Both are anti-formalist and sceptical\n(C) Both adopt a liberal ideology.\n(D) Both attempt to demystify the law.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following best describes Dworkin's distinction between principles and policies?",
+    "choices": [
+      "Principles are legislative, policies are precedents.",
+      "Principles describe rights, policies describe duties.",
+      "Principles are democratic, policies are autocratic.",
+      "Principles describe rights, policies describe goals."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following best describes Dworkin's distinction between principles and policies?\nOptions:\n(A) Principles are legislative, policies are precedents.\n(B) Principles describe rights, policies describe duties.\n(C) Principles are democratic, policies are autocratic.\n(D) Principles describe rights, policies describe goals.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Statutes are often called ________ law.",
+    "choices": [
+      "quasi",
+      "qualified",
+      "collaborated",
+      "codified"
+    ],
+    "answer": "D",
+    "input": "Question: Statutes are often called ________ law.\nOptions:\n(A) quasi\n(B) qualified\n(C) collaborated\n(D) codified\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which is the least accurate description of legal positivism?",
+    "choices": [
+      "It regards morals and law as inseparable.",
+      "It perceives law as commands.",
+      "It regards a legal order as a closed logical system.",
+      "It espouses the view that there is no necessary connection between morality and law."
+    ],
+    "answer": "A",
+    "input": "Question: Which is the least accurate description of legal positivism?\nOptions:\n(A) It regards morals and law as inseparable.\n(B) It perceives law as commands.\n(C) It regards a legal order as a closed logical system.\n(D) It espouses the view that there is no necessary connection between morality and law.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which proposition below is the most powerful refutation of Bentham's felicific calculus?",
+    "choices": [
+      "Happiness is less important than economic prosperity.",
+      "It is impossible to calculate all the consequences of one's acts.",
+      "Pain and pleasure are inevitable features of life.",
+      "Utilitarianism fails to take account of differences in social background."
+    ],
+    "answer": "B",
+    "input": "Question: Which proposition below is the most powerful refutation of Bentham's felicific calculus?\nOptions:\n(A) Happiness is less important than economic prosperity.\n(B) It is impossible to calculate all the consequences of one's acts.\n(C) Pain and pleasure are inevitable features of life.\n(D) Utilitarianism fails to take account of differences in social background.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Donny threw a knife at Sally, intending to injure her severely. However, Donny missed Sally. Sally saw the knife just as it whizzed by her head, missing it by about one inch. As a result, Sally was very scared. Sally sued Donny for assault and battery. Which of the following is most correct?",
+    "choices": [
+      "Donny will be liable for battery, but not assault.",
+      "Donny will be liable for assault, but not battery.",
+      "Donny will be liable for assault and for battery.",
+      "Donny will not be liable for either assault or battery because this is only a criminal matter."
+    ],
+    "answer": "B",
+    "input": "Question: Donny threw a knife at Sally, intending to injure her severely. However, Donny missed Sally. Sally saw the knife just as it whizzed by her head, missing it by about one inch. As a result, Sally was very scared. Sally sued Donny for assault and battery. Which of the following is most correct?\nOptions:\n(A) Donny will be liable for battery, but not assault.\n(B) Donny will be liable for assault, but not battery.\n(C) Donny will be liable for assault and for battery.\n(D) Donny will not be liable for either assault or battery because this is only a criminal matter.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why does a Marxist account of law reject individual rights?",
+    "choices": [
+      "Because they are inconsistent with state control.",
+      "Because they are an expression of a capitalist economy and are unnecessary in a socialist society.",
+      "Because the concept of rights is philosophically unsound.",
+      "Because Marx, Engels, and Lenin failed to provide a coherent analysis of rights."
+    ],
+    "answer": "B",
+    "input": "Question: Why does a Marxist account of law reject individual rights?\nOptions:\n(A) Because they are inconsistent with state control.\n(B) Because they are an expression of a capitalist economy and are unnecessary in a socialist society.\n(C) Because the concept of rights is philosophically unsound.\n(D) Because Marx, Engels, and Lenin failed to provide a coherent analysis of rights.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Kelsen’s theory of law is called pure theory because Kelsen :",
+    "choices": [
+      "Purely discussed jurisprudence only",
+      "Defined law in according with morality and purity",
+      "Separated law from religion, ethics, sociology and history",
+      "Discussed law purely in terms of justice"
+    ],
+    "answer": "A",
+    "input": "Question: Kelsen’s theory of law is called pure theory because Kelsen :\nOptions:\n(A) Purely discussed jurisprudence only\n(B) Defined law in according with morality and purity\n(C) Separated law from religion, ethics, sociology and history\n(D) Discussed law purely in terms of justice\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following purposes does the 'internal point of view' play in Hart's concept of law?",
+    "choices": [
+      "It distinguishes social rules from mere group habits.",
+      "It defines the judicial function.",
+      "It illustrates the authority of the legislature.",
+      "It stresses the relationship between law and justice."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following purposes does the 'internal point of view' play in Hart's concept of law?\nOptions:\n(A) It distinguishes social rules from mere group habits.\n(B) It defines the judicial function.\n(C) It illustrates the authority of the legislature.\n(D) It stresses the relationship between law and justice.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The body of law which establishes rights between persons and provides for redress for violation of those rights is known as:",
+    "choices": [
+      "Criminal Law",
+      "Civil Law.",
+      "The Uniform Commercial Code.",
+      "Stare decisis."
+    ],
+    "answer": "B",
+    "input": "Question: The body of law which establishes rights between persons and provides for redress for violation of those rights is known as:\nOptions:\n(A) Criminal Law\n(B) Civil Law.\n(C) The Uniform Commercial Code.\n(D) Stare decisis.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why does Parfit oppose equality?",
+    "choices": [
+      "He argues than an unequal society is inevitable.",
+      "He claims that by giving priority to the needs of the poor, we can increase equality.",
+      "He asserts that we are each responsible for our poverty.",
+      "He rejects the idea of equality altogether."
+    ],
+    "answer": "B",
+    "input": "Question: Why does Parfit oppose equality?\nOptions:\n(A) He argues than an unequal society is inevitable.\n(B) He claims that by giving priority to the needs of the poor, we can increase equality.\n(C) He asserts that we are each responsible for our poverty.\n(D) He rejects the idea of equality altogether.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The most fundamental of positivism's key commitments,' writes Ken Himma, 'is the Social Fact Thesis.' What does it claim?",
+    "choices": [
+      "That law is essentially an artefact or social construction.",
+      "That legal systems are unrelated to social forces.",
+      "That society is constantly in a state of flux.",
+      "That legal positivism is a social theory."
+    ],
+    "answer": "A",
+    "input": "Question: The most fundamental of positivism's key commitments,' writes Ken Himma, 'is the Social Fact Thesis.' What does it claim?\nOptions:\n(A) That law is essentially an artefact or social construction.\n(B) That legal systems are unrelated to social forces.\n(C) That society is constantly in a state of flux.\n(D) That legal positivism is a social theory.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "How does Nozick answer the criticism of his historical entitlement theory that if the distribution of goods in society is unjust those at the bottom always lose?",
+    "choices": [
+      "It can be remedied by redistribution of wealth.",
+      "If each person's holdings are just, then the total distribution of holdings is just.",
+      "Historical factors are secondary to moral imperatives.",
+      "He has no answer."
+    ],
+    "answer": "B",
+    "input": "Question: How does Nozick answer the criticism of his historical entitlement theory that if the distribution of goods in society is unjust those at the bottom always lose?\nOptions:\n(A) It can be remedied by redistribution of wealth.\n(B) If each person's holdings are just, then the total distribution of holdings is just.\n(C) Historical factors are secondary to moral imperatives.\n(D) He has no answer.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School of jurisprudence maintains that the law is shaped by logic.",
+    "choices": [
+      "Historical",
+      "Analytical",
+      "Command",
+      "Sociological"
+    ],
+    "answer": "B",
+    "input": "Question: The ________ School of jurisprudence maintains that the law is shaped by logic.\nOptions:\n(A) Historical\n(B) Analytical\n(C) Command\n(D) Sociological\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Dworkin argues that it is only a conception of equality of resources that can secure the ideal of equality of welfare. How does he suggest this aspect of equality to be measured?",
+    "choices": [
+      "When no-one would prefer another's bundle of resources to his or her own.",
+      "By reference to the ownership of private property.",
+      "By the amount of income tax paid by individuals.",
+      "When the community determines that equality has been achieved."
+    ],
+    "answer": "A",
+    "input": "Question: Dworkin argues that it is only a conception of equality of resources that can secure the ideal of equality of welfare. How does he suggest this aspect of equality to be measured?\nOptions:\n(A) When no-one would prefer another's bundle of resources to his or her own.\n(B) By reference to the ownership of private property.\n(C) By the amount of income tax paid by individuals.\n(D) When the community determines that equality has been achieved.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement best describes the relationship between law and morality among non-positivist legal theorists?",
+    "choices": [
+      "There is no relationship between law and morality.",
+      "Law is always in advance of moral ideas.",
+      "The law is inextricably bound up with morals.",
+      "Morality is generally in advance of the law."
+    ],
+    "answer": "C",
+    "input": "Question: Which statement best describes the relationship between law and morality among non-positivist legal theorists?\nOptions:\n(A) There is no relationship between law and morality.\n(B) Law is always in advance of moral ideas.\n(C) The law is inextricably bound up with morals.\n(D) Morality is generally in advance of the law.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why does communitarianism resemble Aristotle's philosophy more than Kant's?",
+    "choices": [
+      "Because Aristotle justified slavery.",
+      "Because Kant failed to distinguish individual from social morality?",
+      "Because Aristotle believed that man is a 'social animal'",
+      "Because Kant regarded the individual as unimportant."
+    ],
+    "answer": "C",
+    "input": "Question: Why does communitarianism resemble Aristotle's philosophy more than Kant's?\nOptions:\n(A) Because Aristotle justified slavery.\n(B) Because Kant failed to distinguish individual from social morality?\n(C) Because Aristotle believed that man is a 'social animal'\n(D) Because Kant regarded the individual as unimportant.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which proposition below is the most inconsistent with a consequentialist justification of punishment?",
+    "choices": [
+      "Punishment protects security.",
+      "Punishment is a cost-effective method by which to prevent or reduce crime.",
+      "Punishment protects personal safety.",
+      "Punishment should fit the crime."
+    ],
+    "answer": "D",
+    "input": "Question: Which proposition below is the most inconsistent with a consequentialist justification of punishment?\nOptions:\n(A) Punishment protects security.\n(B) Punishment is a cost-effective method by which to prevent or reduce crime.\n(C) Punishment protects personal safety.\n(D) Punishment should fit the crime.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The philosophers of the ________ School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology.",
+    "choices": [
+      "Command",
+      "Law and Economics",
+      "Natural Law",
+      "Critical Legal Studies"
+    ],
+    "answer": "A",
+    "input": "Question: The philosophers of the ________ School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology.\nOptions:\n(A) Command\n(B) Law and Economics\n(C) Natural Law\n(D) Critical Legal Studies\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement below best represents Durkheim's view of the function of punishment?",
+    "choices": [
+      "Deterrence.",
+      "Rehabilitation.",
+      "Vengeance.",
+      "Desert."
+    ],
+    "answer": "C",
+    "input": "Question: Which statement below best represents Durkheim's view of the function of punishment?\nOptions:\n(A) Deterrence.\n(B) Rehabilitation.\n(C) Vengeance.\n(D) Desert.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "What does Dworkin mean by the 'semantic sting'?",
+    "choices": [
+      "The language of the law is generally unclear.",
+      "Lawyers' arguments usually concern language.",
+      "Judges are prey to linguistic misunderstanding.",
+      "The rule of recognition cannot fully account for legal validity."
+    ],
+    "answer": "D",
+    "input": "Question: What does Dworkin mean by the 'semantic sting'?\nOptions:\n(A) The language of the law is generally unclear.\n(B) Lawyers' arguments usually concern language.\n(C) Judges are prey to linguistic misunderstanding.\n(D) The rule of recognition cannot fully account for legal validity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The expression to signify any assumption which conceals of affects to conceal the fact that a rule of law has undergone alteration, its letter being unchanged, its operation being modified is :",
+    "choices": [
+      "Legal fiction",
+      "Equity",
+      "Custom",
+      "Legislation"
+    ],
+    "answer": "A",
+    "input": "Question: The expression to signify any assumption which conceals of affects to conceal the fact that a rule of law has undergone alteration, its letter being unchanged, its operation being modified is :\nOptions:\n(A) Legal fiction\n(B) Equity\n(C) Custom\n(D) Legislation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Hume's attack on natural law is founded on his argument that:",
+    "choices": [
+      "We cannot objectively know what is morally right or wrong.",
+      "Natural law is backward-looking.",
+      "There is no such thing as a social contract.",
+      "Natural law fails to protect the state against attacks."
+    ],
+    "answer": "A",
+    "input": "Question: Hume's attack on natural law is founded on his argument that:\nOptions:\n(A) We cannot objectively know what is morally right or wrong.\n(B) Natural law is backward-looking.\n(C) There is no such thing as a social contract.\n(D) Natural law fails to protect the state against attacks.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why does Dworkin support liberal egalitarianism?",
+    "choices": [
+      "Because it attempts to give effect to personal choice over individual luck.",
+      "Because liberty is more important than equality.",
+      "Because a market economy is just.",
+      "Because the state is the best arbiter of equality between individuals."
+    ],
+    "answer": "A",
+    "input": "Question: Why does Dworkin support liberal egalitarianism?\nOptions:\n(A) Because it attempts to give effect to personal choice over individual luck.\n(B) Because liberty is more important than equality.\n(C) Because a market economy is just.\n(D) Because the state is the best arbiter of equality between individuals.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why do the Scandinavian realists reject a metaphysical approach to law?",
+    "choices": [
+      "Because they regard empiricism as a more reliable method by which to understand the concept of law.",
+      "Because they have no interest in the operation of the legal system.",
+      "Because their approach is based on Bentham's sceptical account of the common law.",
+      "Because they prefer a natural law analysis of legal ideas."
+    ],
+    "answer": "A",
+    "input": "Question: Why do the Scandinavian realists reject a metaphysical approach to law?\nOptions:\n(A) Because they regard empiricism as a more reliable method by which to understand the concept of law.\n(B) Because they have no interest in the operation of the legal system.\n(C) Because their approach is based on Bentham's sceptical account of the common law.\n(D) Because they prefer a natural law analysis of legal ideas.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?",
+    "choices": [
+      "Judges are under a duty to act justly.",
+      "Since they also prop up the unjust system, lawyers should also resign.",
+      "If a moral judge resigns, he or she may be replaced by a less moral judge.",
+      "Judges do not make the law, hence they cannot be held responsible for applying unjust legislation."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?\nOptions:\n(A) Judges are under a duty to act justly.\n(B) Since they also prop up the unjust system, lawyers should also resign.\n(C) If a moral judge resigns, he or she may be replaced by a less moral judge.\n(D) Judges do not make the law, hence they cannot be held responsible for applying unjust legislation.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Normative legal theory is most accurately summarized by which of the following statements?",
+    "choices": [
+      "Its principal concern is with moral or political values.",
+      "It is represented by the positivist view of law as developed by HLA Hart.",
+      "It expresses the idea that law consists only of norms.",
+      "It is preoccupied with the analysis of the application of legislation to moral issues."
+    ],
+    "answer": "A",
+    "input": "Question: Normative legal theory is most accurately summarized by which of the following statements?\nOptions:\n(A) Its principal concern is with moral or political values.\n(B) It is represented by the positivist view of law as developed by HLA Hart.\n(C) It expresses the idea that law consists only of norms.\n(D) It is preoccupied with the analysis of the application of legislation to moral issues.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Hart writes: '[T]he certification of something as legally valid is not conclusive of the question of obedience ... however great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny.' What does this say about the nature of legal positivism?",
+    "choices": [
+      "That legal positivism is unconcerned about the morality of the law.",
+      "That validly enacted law should always be obeyed.",
+      "That moral issues fall outside the official legal system.",
+      "That there is no moral duty to obey an unjust law."
+    ],
+    "answer": "D",
+    "input": "Question: Hart writes: '[T]he certification of something as legally valid is not conclusive of the question of obedience ... however great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny.' What does this say about the nature of legal positivism?\nOptions:\n(A) That legal positivism is unconcerned about the morality of the law.\n(B) That validly enacted law should always be obeyed.\n(C) That moral issues fall outside the official legal system.\n(D) That there is no moral duty to obey an unjust law.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following propositions would be rejected by those who describe themselves as critical legal theorists?",
+    "choices": [
+      "Law is politics.",
+      "Law is determinate.",
+      "Law reflects economic power.",
+      "Law is unstable."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following propositions would be rejected by those who describe themselves as critical legal theorists?\nOptions:\n(A) Law is politics.\n(B) Law is determinate.\n(C) Law reflects economic power.\n(D) Law is unstable.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Posner denies the autonomy of law on two grounds. Name one of them.",
+    "choices": [
+      "He denies that law develops independently of social and economic forces.",
+      "He claims that law is economically immoral.",
+      "He rejects a positivist account of law.",
+      "He opposes any sociological analysis of the law."
+    ],
+    "answer": "A",
+    "input": "Question: Posner denies the autonomy of law on two grounds. Name one of them.\nOptions:\n(A) He denies that law develops independently of social and economic forces.\n(B) He claims that law is economically immoral.\n(C) He rejects a positivist account of law.\n(D) He opposes any sociological analysis of the law.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:",
+    "choices": [
+      "Ajax is a merchant selling Sipep.",
+      "Ajax knew or should have known of the defective condition",
+      "Ajax had prior notice of other similar problems with Sipep products.",
+      "Ajax actually placed the dead insects into the can."
+    ],
+    "answer": "A",
+    "input": "Question: Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:\nOptions:\n(A) Ajax is a merchant selling Sipep.\n(B) Ajax knew or should have known of the defective condition\n(C) Ajax had prior notice of other similar problems with Sipep products.\n(D) Ajax actually placed the dead insects into the can.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School of jurisprudence believes that the law is an aggregate of social traditions and customs that have developed over the centuries.",
+    "choices": [
+      "Historical",
+      "Analytical",
+      "Command",
+      "Sociological"
+    ],
+    "answer": "A",
+    "input": "Question: The ________ School of jurisprudence believes that the law is an aggregate of social traditions and customs that have developed over the centuries.\nOptions:\n(A) Historical\n(B) Analytical\n(C) Command\n(D) Sociological\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Point out the most accurate response : According to Austin, law has the following attributes :",
+    "choices": [
+      "Command, sovereign and enforceability",
+      "Command, sovereign and legal remedy",
+      "Command, sovereign and sanction",
+      "Command, sovereign and obedience by subject"
+    ],
+    "answer": "C",
+    "input": "Question: Point out the most accurate response : According to Austin, law has the following attributes :\nOptions:\n(A) Command, sovereign and enforceability\n(B) Command, sovereign and legal remedy\n(C) Command, sovereign and sanction\n(D) Command, sovereign and obedience by subject\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which one of the following schools supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts",
+    "choices": [
+      "Analytical School",
+      "Natural Law School",
+      "Historical School",
+      "Sociological School"
+    ],
+    "answer": "A",
+    "input": "Question: Which one of the following schools supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts\nOptions:\n(A) Analytical School\n(B) Natural Law School\n(C) Historical School\n(D) Sociological School\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The will theory of rights maintains that the enforcement of Y's duty requires the exercise of will by X. It assumes the correlativity of rights and duties. Which of the following succeeds in formulating the interest theory without this correlativity?",
+    "choices": [
+      "Regarding X's interest as directly related to Y's duty.",
+      "Accepting that conferring right means that the interest represented by that right ought to be recognized.",
+      "Treating an interest as the exercise of choice.",
+      "Asserting that X has a right whenever the protection of his interest is recognized as a reason for imposing duties -only when they are actually imposed."
+    ],
+    "answer": "B",
+    "input": "Question: The will theory of rights maintains that the enforcement of Y's duty requires the exercise of will by X. It assumes the correlativity of rights and duties. Which of the following succeeds in formulating the interest theory without this correlativity?\nOptions:\n(A) Regarding X's interest as directly related to Y's duty.\n(B) Accepting that conferring right means that the interest represented by that right ought to be recognized.\n(C) Treating an interest as the exercise of choice.\n(D) Asserting that X has a right whenever the protection of his interest is recognized as a reason for imposing duties -only when they are actually imposed.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?",
+    "choices": [
+      "They adopt different attitudes towards the role of the courts in maintaining order.",
+      "They disagree about the role of law in society.",
+      "They have opposing views about the nature of contractual obligations.",
+      "They differ in respect of their account of life before the social contract."
+    ],
+    "answer": "D",
+    "input": "Question: Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?\nOptions:\n(A) They adopt different attitudes towards the role of the courts in maintaining order.\n(B) They disagree about the role of law in society.\n(C) They have opposing views about the nature of contractual obligations.\n(D) They differ in respect of their account of life before the social contract.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following statements best describes the postmodernist project?",
+    "choices": [
+      "It attempts to demonstrate the relationship between law and literature.",
+      "It seeks to defend Enlightenment values.",
+      "It is preoccupied with the rise of bureaucratic government.",
+      "It rejects the Kantian concern with individual rights, equality, and justice."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements best describes the postmodernist project?\nOptions:\n(A) It attempts to demonstrate the relationship between law and literature.\n(B) It seeks to defend Enlightenment values.\n(C) It is preoccupied with the rise of bureaucratic government.\n(D) It rejects the Kantian concern with individual rights, equality, and justice.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?",
+    "choices": [
+      "To demonstrate the differences between the criminal law and the civil law as they relate to cannibalism.",
+      "To examine the central questions of legal and political philosophy.",
+      "To criticize the role of the judiciary in cases involving a conflict between law and morality.",
+      "To consider the extent to which murder requires mens rea."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?\nOptions:\n(A) To demonstrate the differences between the criminal law and the civil law as they relate to cannibalism.\n(B) To examine the central questions of legal and political philosophy.\n(C) To criticize the role of the judiciary in cases involving a conflict between law and morality.\n(D) To consider the extent to which murder requires mens rea.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following arguments against the 'fair play' argument in support of a duty to obey the law is the most persuasive?",
+    "choices": [
+      "Fairness is a relative term.",
+      "The legal system is, in fact, unfair.",
+      "It sets a bad example.",
+      "The law is irrational and ambiguous."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following arguments against the 'fair play' argument in support of a duty to obey the law is the most persuasive?\nOptions:\n(A) Fairness is a relative term.\n(B) The legal system is, in fact, unfair.\n(C) It sets a bad example.\n(D) The law is irrational and ambiguous.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "What is the main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth'?",
+    "choices": [
+      "Because of their vagueness.",
+      "Because they have failed to produce racial justice.",
+      "Because they are unrelated to contemporary conditions.",
+      "Because these ideas are alien to most people of colour."
+    ],
+    "answer": "B",
+    "input": "Question: What is the main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth'?\nOptions:\n(A) Because of their vagueness.\n(B) Because they have failed to produce racial justice.\n(C) Because they are unrelated to contemporary conditions.\n(D) Because these ideas are alien to most people of colour.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "On what grounds does John Finnis reject Hume's conception of practical reason?",
+    "choices": [
+      "That natural law corresponds to positive law.",
+      "That Hume is a legal positivist.",
+      "That syllogistic logic is false.",
+      "That human reason can help us to determine what constitutes a worthwhile life."
+    ],
+    "answer": "D",
+    "input": "Question: On what grounds does John Finnis reject Hume's conception of practical reason?\nOptions:\n(A) That natural law corresponds to positive law.\n(B) That Hume is a legal positivist.\n(C) That syllogistic logic is false.\n(D) That human reason can help us to determine what constitutes a worthwhile life.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The distinction between general and particular jurisprudence was recognized by",
+    "choices": [
+      "Holland",
+      "Salmond",
+      "Austin",
+      "Kelsen"
+    ],
+    "answer": "C",
+    "input": "Question: The distinction between general and particular jurisprudence was recognized by\nOptions:\n(A) Holland\n(B) Salmond\n(C) Austin\n(D) Kelsen\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Lex iniusta non est lex' has which of the following meanings?",
+    "choices": [
+      "The law is not valid unless it is formally enacted.",
+      "Law has lexical priority over morality.",
+      "An unjust law is not law.",
+      "No-one is above the law."
+    ],
+    "answer": "C",
+    "input": "Question: Lex iniusta non est lex' has which of the following meanings?\nOptions:\n(A) The law is not valid unless it is formally enacted.\n(B) Law has lexical priority over morality.\n(C) An unjust law is not law.\n(D) No-one is above the law.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "In which of the following the idea of ‘natural law’ first appeared",
+    "choices": [
+      "French Revolution",
+      "American War of Independence",
+      "Roman Law",
+      "Greek Thinking"
+    ],
+    "answer": "D",
+    "input": "Question: In which of the following the idea of ‘natural law’ first appeared\nOptions:\n(A) French Revolution\n(B) American War of Independence\n(C) Roman Law\n(D) Greek Thinking\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Tom and Jerry entered into a contract whereby Tom agreed to sell Jerry $1,000 worth of heroin, an illegal substance. This is an example of a:",
+    "choices": [
+      "quasi contract",
+      "void contract",
+      "voidable contract",
+      "secondary party beneficiary contract"
+    ],
+    "answer": "B",
+    "input": "Question: Tom and Jerry entered into a contract whereby Tom agreed to sell Jerry $1,000 worth of heroin, an illegal substance. This is an example of a:\nOptions:\n(A) quasi contract\n(B) void contract\n(C) voidable contract\n(D) secondary party beneficiary contract\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement best describes Tom Regan's 'sentimental anthropomorphicism' in support of animals rights?",
+    "choices": [
+      "Animals have inherent worth which entitles them to the absolute right to live their lives with respect and autonomy.",
+      "The social contract includes animals and their welfare.",
+      "The suffering of a few animals may in principle be justified by the pleasure of or benefit to the many.",
+      "Cruelty to animals is a reflection of the barbarity of a society."
+    ],
+    "answer": "A",
+    "input": "Question: Which statement best describes Tom Regan's 'sentimental anthropomorphicism' in support of animals rights?\nOptions:\n(A) Animals have inherent worth which entitles them to the absolute right to live their lives with respect and autonomy.\n(B) The social contract includes animals and their welfare.\n(C) The suffering of a few animals may in principle be justified by the pleasure of or benefit to the many.\n(D) Cruelty to animals is a reflection of the barbarity of a society.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Hart dismissed American realism as 'the claim that talk of rules is a myth, cloaking the truth that law consists simply of the decisions of courts and predictions of them.' What is the strongest reason for regarding this remark as unfair?",
+    "choices": [
+      "Because American realism was not concerned with the predictions of what courts will do but more interested in the rights and duties of parties involved in litigation.",
+      "Because American realists were preoccupied with the concept of justice and its application in American courts.",
+      "Because the American realists exposed the limitations of a doctrinal account of law without a proper empirical investigation of the way it functions thereby paving the way to a sociological approach to law.",
+      "Because the principal focus of the American realist 'school' was legal education."
+    ],
+    "answer": "C",
+    "input": "Question: Hart dismissed American realism as 'the claim that talk of rules is a myth, cloaking the truth that law consists simply of the decisions of courts and predictions of them.' What is the strongest reason for regarding this remark as unfair?\nOptions:\n(A) Because American realism was not concerned with the predictions of what courts will do but more interested in the rights and duties of parties involved in litigation.\n(B) Because American realists were preoccupied with the concept of justice and its application in American courts.\n(C) Because the American realists exposed the limitations of a doctrinal account of law without a proper empirical investigation of the way it functions thereby paving the way to a sociological approach to law.\n(D) Because the principal focus of the American realist 'school' was legal education.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The following person is the author of the book ‘The Concept of Law’ :",
+    "choices": [
+      "Hart",
+      "Austin",
+      "Bentham",
+      "None of the above"
+    ],
+    "answer": "A",
+    "input": "Question: The following person is the author of the book ‘The Concept of Law’ :\nOptions:\n(A) Hart\n(B) Austin\n(C) Bentham\n(D) None of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which description below most accurately captures the distinction between Gemeinschaft and Gesellschaft?",
+    "choices": [
+      "Gemeinschaft is democratic Gesellschaft, autocratic.",
+      "Gemeinschaft exists in civil society, Gesellschaft in civic society.",
+      "Gemeinschaft is a society based on community, Gesellschaft one based on association",
+      "Gemeinschaft refers to an open government, Gesellschaft to a lack of transparency."
+    ],
+    "answer": "C",
+    "input": "Question: Which description below most accurately captures the distinction between Gemeinschaft and Gesellschaft?\nOptions:\n(A) Gemeinschaft is democratic Gesellschaft, autocratic.\n(B) Gemeinschaft exists in civil society, Gesellschaft in civic society.\n(C) Gemeinschaft is a society based on community, Gesellschaft one based on association\n(D) Gemeinschaft refers to an open government, Gesellschaft to a lack of transparency.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The judicial branch of the United States government has the power to ________ the law.",
+    "choices": [
+      "interpret",
+      "make",
+      "enforce",
+      "override"
+    ],
+    "answer": "A",
+    "input": "Question: The judicial branch of the United States government has the power to ________ the law.\nOptions:\n(A) interpret\n(B) make\n(C) enforce\n(D) override\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "“Natural law is based on the nature of man and on his inward need of living in society.” Who said it?",
+    "choices": [
+      "Hugo Grotius",
+      "Hobbes",
+      "Locke",
+      "Rousseau"
+    ],
+    "answer": "B",
+    "input": "Question: “Natural law is based on the nature of man and on his inward need of living in society.” Who said it?\nOptions:\n(A) Hugo Grotius\n(B) Hobbes\n(C) Locke\n(D) Rousseau\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "‘Law consists of set of principles or body of rules recognized and applied by the State in the administration of justice’. The statement is made by :",
+    "choices": [
+      "Austin",
+      "Salmond",
+      "Holland",
+      "Gray"
+    ],
+    "answer": "B",
+    "input": "Question: ‘Law consists of set of principles or body of rules recognized and applied by the State in the administration of justice’. The statement is made by :\nOptions:\n(A) Austin\n(B) Salmond\n(C) Holland\n(D) Gray\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why does the 'capability' approach to justice reject Rawls' theory?",
+    "choices": [
+      "Because it fails to address the actual capabilities people have to benefit from his theory of justice.",
+      "Because it ignores the duties of individuals.",
+      "Because it applies only to democratic societies.",
+      "Because it overlooks the importance of the courts."
+    ],
+    "answer": "A",
+    "input": "Question: Why does the 'capability' approach to justice reject Rawls' theory?\nOptions:\n(A) Because it fails to address the actual capabilities people have to benefit from his theory of justice.\n(B) Because it ignores the duties of individuals.\n(C) Because it applies only to democratic societies.\n(D) Because it overlooks the importance of the courts.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following apparent correlatives contradicts Hohfeld's scheme of 'jural relations'?",
+    "choices": [
+      "Right and duty.",
+      "Privilege and no-right.",
+      "Power and liability.",
+      "Immunity and disability."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following apparent correlatives contradicts Hohfeld's scheme of 'jural relations'?\nOptions:\n(A) Right and duty.\n(B) Privilege and no-right.\n(C) Power and liability.\n(D) Immunity and disability.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Why is it important to separate the concept of punishment from its justification?",
+    "choices": [
+      "Because its justification depends on the concept employed.",
+      "Because any definition of punishment should be value-neutral.",
+      "Because the concept of punishment is controversial.",
+      "Because the practice of punishment is separate from its justification."
+    ],
+    "answer": "B",
+    "input": "Question: Why is it important to separate the concept of punishment from its justification?\nOptions:\n(A) Because its justification depends on the concept employed.\n(B) Because any definition of punishment should be value-neutral.\n(C) Because the concept of punishment is controversial.\n(D) Because the practice of punishment is separate from its justification.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "According to Hobbes, peace is the first law of nature because of which of the following situations?",
+    "choices": [
+      "Without peace everyone has a right to everything - including another's life.",
+      "Peace is possible only after war.",
+      "Law cannot achieve peace.",
+      "The social contract cannot be entered into unless there is peace."
+    ],
+    "answer": "A",
+    "input": "Question: According to Hobbes, peace is the first law of nature because of which of the following situations?\nOptions:\n(A) Without peace everyone has a right to everything - including another's life.\n(B) Peace is possible only after war.\n(C) Law cannot achieve peace.\n(D) The social contract cannot be entered into unless there is peace.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The United States Supreme Court's decision in Roe v Wade is highly controversial because:",
+    "choices": [
+      "It failed to consider the rights of fathers.",
+      "It overlooked the common law relating to abortion.",
+      "The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.",
+      "The court failed to consider the medical evidence."
+    ],
+    "answer": "C",
+    "input": "Question: The United States Supreme Court's decision in Roe v Wade is highly controversial because:\nOptions:\n(A) It failed to consider the rights of fathers.\n(B) It overlooked the common law relating to abortion.\n(C) The majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy.\n(D) The court failed to consider the medical evidence.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The focus of liberal feminists on equality is denounced by radical feminists as mistaken because:",
+    "choices": [
+      "It treats women as objects.",
+      "It makes women into men.",
+      "It reduces feminism to a political movement.",
+      "It overlooks the historical struggle of women for justice."
+    ],
+    "answer": "B",
+    "input": "Question: The focus of liberal feminists on equality is denounced by radical feminists as mistaken because:\nOptions:\n(A) It treats women as objects.\n(B) It makes women into men.\n(C) It reduces feminism to a political movement.\n(D) It overlooks the historical struggle of women for justice.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who said that “Jurisprudence is the eye of law”",
+    "choices": [
+      "Maine",
+      "Savigny",
+      "Pound",
+      "Laski"
+    ],
+    "answer": "D",
+    "input": "Question: Who said that “Jurisprudence is the eye of law”\nOptions:\n(A) Maine\n(B) Savigny\n(C) Pound\n(D) Laski\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who amongst the following said that jurisprudence is the philosophy of positive law",
+    "choices": [
+      "Gray",
+      "Holland",
+      "Hart",
+      "Austin"
+    ],
+    "answer": "D",
+    "input": "Question: Who amongst the following said that jurisprudence is the philosophy of positive law\nOptions:\n(A) Gray\n(B) Holland\n(C) Hart\n(D) Austin\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Hart’s analysis of law distinguishes between",
+    "choices": [
+      "Cause and effect",
+      "Theory and fact",
+      "Being obliged and having an obligation",
+      "Corporeal and incorporeal rights"
+    ],
+    "answer": "C",
+    "input": "Question: Hart’s analysis of law distinguishes between\nOptions:\n(A) Cause and effect\n(B) Theory and fact\n(C) Being obliged and having an obligation\n(D) Corporeal and incorporeal rights\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who defined jurisprudence as the knowledge of things divine and human, the science of right and wrong",
+    "choices": [
+      "Austin",
+      "Ulpian",
+      "Holland",
+      "Allen"
+    ],
+    "answer": "B",
+    "input": "Question: Who defined jurisprudence as the knowledge of things divine and human, the science of right and wrong\nOptions:\n(A) Austin\n(B) Ulpian\n(C) Holland\n(D) Allen\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the factors below contributed significantly to the revival of natural law in the 20th century?",
+    "choices": [
+      "The Depression of the 1930s.",
+      "The rise of Fascism.",
+      "The international recognition of human rights after WWII.",
+      "The Bolshevik revolution."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the factors below contributed significantly to the revival of natural law in the 20th century?\nOptions:\n(A) The Depression of the 1930s.\n(B) The rise of Fascism.\n(C) The international recognition of human rights after WWII.\n(D) The Bolshevik revolution.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The U.S. Congress is empowered by the Commerce Clause and other provisions of the U.S. Constitution to enact ________ to regulate foreign and interstate commerce.",
+    "choices": [
+      "ordinances",
+      "federal statutes",
+      "executive orders",
+      "charters"
+    ],
+    "answer": "B",
+    "input": "Question: The U.S. Congress is empowered by the Commerce Clause and other provisions of the U.S. Constitution to enact ________ to regulate foreign and interstate commerce.\nOptions:\n(A) ordinances\n(B) federal statutes\n(C) executive orders\n(D) charters\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who amongst the following said that “right with me is a child of law…..a natural right is a son that never had a father\"",
+    "choices": [
+      "Jeremy Valdon",
+      "Jeremy Bentham",
+      "Salmond",
+      "Paton"
+    ],
+    "answer": "B",
+    "input": "Question: Who amongst the following said that “right with me is a child of law…..a natural right is a son that never had a father\"\nOptions:\n(A) Jeremy Valdon\n(B) Jeremy Bentham\n(C) Salmond\n(D) Paton\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "American realists argued that formalism devalued the authority of the judge to make law, because:",
+    "choices": [
+      "Judicial decisions are less important than legislation.",
+      "Formalism treats legal reasoning as syllogistic reasoning.",
+      "Judges generally base their decisions on formal logic.",
+      "The structure of legal reasoning is flawed."
+    ],
+    "answer": "B",
+    "input": "Question: American realists argued that formalism devalued the authority of the judge to make law, because:\nOptions:\n(A) Judicial decisions are less important than legislation.\n(B) Formalism treats legal reasoning as syllogistic reasoning.\n(C) Judges generally base their decisions on formal logic.\n(D) The structure of legal reasoning is flawed.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following most accurately describes Hart's response to Fuller's argument concerning the invalidity of Nazi law?",
+    "choices": [
+      "The Nazi law in question was validly enacted.",
+      "The court misunderstood the legislation.",
+      "Fuller misconstrued the purpose of the law.",
+      "The Nazi rule of recognition was unclear."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following most accurately describes Hart's response to Fuller's argument concerning the invalidity of Nazi law?\nOptions:\n(A) The Nazi law in question was validly enacted.\n(B) The court misunderstood the legislation.\n(C) Fuller misconstrued the purpose of the law.\n(D) The Nazi rule of recognition was unclear.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following is the strongest argument against ethical relativism's hostility to human rights?",
+    "choices": [
+      "Utilitarianism",
+      "Communitarianism.",
+      "Cognitivism.",
+      "Positivism."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is the strongest argument against ethical relativism's hostility to human rights?\nOptions:\n(A) Utilitarianism\n(B) Communitarianism.\n(C) Cognitivism.\n(D) Positivism.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Robert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?",
+    "choices": [
+      "Effectiveness of rehabilitation of multiplied by hazard to the community.",
+      "Extent of responsibility multiplied by actual harm done.",
+      "Risk of violence multiplied by degree of humility of offender.",
+      "Recidivism multiplied by defendant's history."
+    ],
+    "answer": "B",
+    "input": "Question: Robert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?\nOptions:\n(A) Effectiveness of rehabilitation of multiplied by hazard to the community.\n(B) Extent of responsibility multiplied by actual harm done.\n(C) Risk of violence multiplied by degree of humility of offender.\n(D) Recidivism multiplied by defendant's history.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Who says that “Social Contract is not a historical fact but a hypothetical construction of reason”",
+    "choices": [
+      "Hobbes",
+      "Locke",
+      "Thomas Acquinas",
+      "Rousseau"
+    ],
+    "answer": "D",
+    "input": "Question: Who says that “Social Contract is not a historical fact but a hypothetical construction of reason”\nOptions:\n(A) Hobbes\n(B) Locke\n(C) Thomas Acquinas\n(D) Rousseau\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The legislative branch of the United States government has the power to ________ the law.",
+    "choices": [
+      "interpret",
+      "make",
+      "enforce",
+      "override"
+    ],
+    "answer": "B",
+    "input": "Question: The legislative branch of the United States government has the power to ________ the law.\nOptions:\n(A) interpret\n(B) make\n(C) enforce\n(D) override\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Leopold Pospisil identifies four elements manifested by law: authority, universality, 'obligatio' - and fourthly?",
+    "choices": [
+      "Dispute.",
+      "Sanction.",
+      "Order.",
+      "Hierarchy."
+    ],
+    "answer": "B",
+    "input": "Question: Leopold Pospisil identifies four elements manifested by law: authority, universality, 'obligatio' - and fourthly?\nOptions:\n(A) Dispute.\n(B) Sanction.\n(C) Order.\n(D) Hierarchy.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "What is Kant's 'categorical imperative?",
+    "choices": [
+      "You must not consciously harm another person.",
+      "You must always act in the best interests of the community.",
+      "You must treat human beings as means rather than ends.",
+      "You must act according as if your values apply to everyone."
+    ],
+    "answer": "D",
+    "input": "Question: What is Kant's 'categorical imperative?\nOptions:\n(A) You must not consciously harm another person.\n(B) You must always act in the best interests of the community.\n(C) You must treat human beings as means rather than ends.\n(D) You must act according as if your values apply to everyone.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following statements is correct concerning the \"reasonable person\" standard in tort law?",
+    "choices": [
+      "The reasonable person standard varies from person to person.",
+      "The reasonable person standard focuses on the defendant's subjective mental state rather than on the defendant's behavior",
+      "A person with a physical disability must act as would a reasonable person with the same disability.",
+      "A person with a mental disability must act as would a person with the same mental disability."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements is correct concerning the \"reasonable person\" standard in tort law?\nOptions:\n(A) The reasonable person standard varies from person to person.\n(B) The reasonable person standard focuses on the defendant's subjective mental state rather than on the defendant's behavior\n(C) A person with a physical disability must act as would a reasonable person with the same disability.\n(D) A person with a mental disability must act as would a person with the same mental disability.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "What is the purpose of politics, according to Aristotle?",
+    "choices": [
+      "To advance the interests of politicians.",
+      "To produce virtuous citizens and encourage righteousness in individuals.",
+      "To obtain power.",
+      "To secure justice by abolishing slavery."
+    ],
+    "answer": "B",
+    "input": "Question: What is the purpose of politics, according to Aristotle?\nOptions:\n(A) To advance the interests of politicians.\n(B) To produce virtuous citizens and encourage righteousness in individuals.\n(C) To obtain power.\n(D) To secure justice by abolishing slavery.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which of the following statements most accurately explains Ross' comparison of social life to the game of chess?",
+    "choices": [
+      "Chess is a game of skill; success in life is also a matter of skill.",
+      "Winning a game of chess, like life, frequently depends on luck.",
+      "In both games of chess and social life, there is effectively a dispute or contest.",
+      "Social life is similar to chess because individual actions are often related to a common idea of rules."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements most accurately explains Ross' comparison of social life to the game of chess?\nOptions:\n(A) Chess is a game of skill; success in life is also a matter of skill.\n(B) Winning a game of chess, like life, frequently depends on luck.\n(C) In both games of chess and social life, there is effectively a dispute or contest.\n(D) Social life is similar to chess because individual actions are often related to a common idea of rules.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which statement below is the least likely to follow logically from Savigny's notion of a Volksgeist?",
+    "choices": [
+      "A society's law is a reflection of its culture.",
+      "Law is like language.",
+      "Law is the deliberate expression of a sovereign's will.",
+      "Law is an integral element of the social fabric."
+    ],
+    "answer": "C",
+    "input": "Question: Which statement below is the least likely to follow logically from Savigny's notion of a Volksgeist?\nOptions:\n(A) A society's law is a reflection of its culture.\n(B) Law is like language.\n(C) Law is the deliberate expression of a sovereign's will.\n(D) Law is an integral element of the social fabric.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School proposes that legal rules are unnecessary and are used as an obstacle by the powerful to maintain the status quo.",
+    "choices": [
+      "Law and Economics",
+      "Critical Legal Studies",
+      "Historical",
+      "Natural Law"
+    ],
+    "answer": "B",
+    "input": "Question: The ________ School proposes that legal rules are unnecessary and are used as an obstacle by the powerful to maintain the status quo.\nOptions:\n(A) Law and Economics\n(B) Critical Legal Studies\n(C) Historical\n(D) Natural Law\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Austin has been described as a 'naive empiricist.' Why?",
+    "choices": [
+      "Because he neglects the importance of morality.",
+      "Because his account of law is based on an anachronistic model of a legal system.",
+      "Because he conceives of laws in a pragmatic rather than a conceptual manner.",
+      "Because he overlooks the role of law in economic relations."
+    ],
+    "answer": "C",
+    "input": "Question: Austin has been described as a 'naive empiricist.' Why?\nOptions:\n(A) Because he neglects the importance of morality.\n(B) Because his account of law is based on an anachronistic model of a legal system.\n(C) Because he conceives of laws in a pragmatic rather than a conceptual manner.\n(D) Because he overlooks the role of law in economic relations.\nAnswer:",
+    "target": "(C)"
+  }
+]

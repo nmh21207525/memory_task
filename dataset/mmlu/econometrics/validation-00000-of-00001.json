@@ -1,0 +1,158 @@
+[
+  {
+    "subject": "econometrics",
+    "question": "Suppose that a test that the true value of the intercept coefficient is zero results in non-rejection. What would be the appropriate conclusion?",
+    "choices": [
+      "Drop the intercept and re-run the regression",
+      "Retain the intercept",
+      "Re-compute the test statistic",
+      "The regression line is running exactly through the origin"
+    ],
+    "answer": "B",
+    "input": "Question: Suppose that a test that the true value of the intercept coefficient is zero results in non-rejection. What would be the appropriate conclusion?\nOptions:\n(A) Drop the intercept and re-run the regression\n(B) Retain the intercept\n(C) Re-compute the test statistic\n(D) The regression line is running exactly through the origin\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "In order to determine whether to use a fixed effects or random effects model, a researcher conducts a Hausman test. Which of the following statements is false?",
+    "choices": [
+      "For random effects models, the use of OLS would result in consistent but inefficient parameter estimation",
+      "If the Hausman test is not satisfied, the random effects model is more appropriate.",
+      "Random effects estimation involves the construction of \"quasi-demeaned\" data",
+      "Random effects estimation will not be appropriate if the composite error term is correlated with one or more of the explanatory variables in the model"
+    ],
+    "answer": "B",
+    "input": "Question: In order to determine whether to use a fixed effects or random effects model, a researcher conducts a Hausman test. Which of the following statements is false?\nOptions:\n(A) For random effects models, the use of OLS would result in consistent but inefficient parameter estimation\n(B) If the Hausman test is not satisfied, the random effects model is more appropriate.\n(C) Random effects estimation involves the construction of \"quasi-demeaned\" data\n(D) Random effects estimation will not be appropriate if the composite error term is correlated with one or more of the explanatory variables in the model\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "Suppose that observations are available on the monthly bond prices of 100 companies for 5 years. What type of data are these?",
+    "choices": [
+      "Cross-sectional",
+      "Time-series",
+      "Panel",
+      "Qualitative"
+    ],
+    "answer": "C",
+    "input": "Question: Suppose that observations are available on the monthly bond prices of 100 companies for 5 years. What type of data are these?\nOptions:\n(A) Cross-sectional\n(B) Time-series\n(C) Panel\n(D) Qualitative\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "An \"ex ante\" forecasting model is one which",
+    "choices": [
+      "Includes only contemporaneous values of variables on the RHS",
+      "Includes only contemporaneous and previous values of variables on the RHS",
+      "Includes only previous values of variables on the RHS",
+      "Includes only contemporaneous values of exogenous variables on the RHS"
+    ],
+    "answer": "C",
+    "input": "Question: An \"ex ante\" forecasting model is one which\nOptions:\n(A) Includes only contemporaneous values of variables on the RHS\n(B) Includes only contemporaneous and previous values of variables on the RHS\n(C) Includes only previous values of variables on the RHS\n(D) Includes only contemporaneous values of exogenous variables on the RHS\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "If a researcher uses daily data to examine a particular problem and creates a variable that assigns a numerical value of 1 to Monday observations, what term would best describe this type of number?",
+    "choices": [
+      "Continuous",
+      "Cardinal",
+      "Ordinal",
+      "Nominal"
+    ],
+    "answer": "D",
+    "input": "Question: If a researcher uses daily data to examine a particular problem and creates a variable that assigns a numerical value of 1 to Monday observations, what term would best describe this type of number?\nOptions:\n(A) Continuous\n(B) Cardinal\n(C) Ordinal\n(D) Nominal\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "Consider the following MA(3) process\n\nyt = μ + Εt + θ1Εt-1 + θ2Εt-2 + θ3Εt-3 , where σt is a zero mean white noise process with variance σ2.\n\nWhich of the following statements are true?\n\ni) The process yt has zero mean\n\nii) The autocorrelation function will have a zero value at lag 5\n\niii) The process yt has variance σ2\n\niv) The autocorrelation function will have a value of one at lag 0",
+    "choices": [
+      "(ii) and (iv) only",
+      "(i) and (iii) only",
+      "(i), (ii), and (iii) only",
+      "(i), (ii), (iii), and (iv)"
+    ],
+    "answer": "A",
+    "input": "Question: Consider the following MA(3) process\n\nyt = μ + Εt + θ1Εt-1 + θ2Εt-2 + θ3Εt-3 , where σt is a zero mean white noise process with variance σ2.\n\nWhich of the following statements are true?\n\ni) The process yt has zero mean\n\nii) The autocorrelation function will have a zero value at lag 5\n\niii) The process yt has variance σ2\n\niv) The autocorrelation function will have a value of one at lag 0\nOptions:\n(A) (ii) and (iv) only\n(B) (i) and (iii) only\n(C) (i), (ii), and (iii) only\n(D) (i), (ii), (iii), and (iv)\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "A leptokurtic distribution is one which",
+    "choices": [
+      "Has fatter tails and a smaller mean than a normal distribution with the same mean and variance",
+      "Has fatter tails and is more peaked at the mean than a normal distribution with the same mean and variance",
+      "Has thinner tails and is more peaked at the mean than a normal distribution with the same mean and variance",
+      "Has thinner tails than a normal distribution and is skewed."
+    ],
+    "answer": "B",
+    "input": "Question: A leptokurtic distribution is one which\nOptions:\n(A) Has fatter tails and a smaller mean than a normal distribution with the same mean and variance\n(B) Has fatter tails and is more peaked at the mean than a normal distribution with the same mean and variance\n(C) Has thinner tails and is more peaked at the mean than a normal distribution with the same mean and variance\n(D) Has thinner tails than a normal distribution and is skewed.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "Near multicollinearity occurs when",
+    "choices": [
+      "Two or more explanatory variables are perfectly correlated with one another",
+      "The explanatory variables are highly correlated with the error term",
+      "The explanatory variables are highly correlated with the dependent variable",
+      "Two or more explanatory variables are highly correlated with one another"
+    ],
+    "answer": "D",
+    "input": "Question: Near multicollinearity occurs when\nOptions:\n(A) Two or more explanatory variables are perfectly correlated with one another\n(B) The explanatory variables are highly correlated with the error term\n(C) The explanatory variables are highly correlated with the dependent variable\n(D) Two or more explanatory variables are highly correlated with one another\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "Consider the following time series model applied to daily data:\n\n\n\nwhere rt are the returns, and D1, D2, D3 and D4 are dummy variables. D1 = 1 on Monday and zero otherwise; D2 = 1 on Tuesday and zero otherwise, ..., D4 = 1 on Thursday and zero otherwise. What is the interpretation of the parameter estimate for the intercept?",
+    "choices": [
+      "It is the average return on Friday",
+      "It is the average return on Monday",
+      "It is the Friday deviation from the mean return for the week",
+      "It is the Monday deviation from the mean return for the week."
+    ],
+    "answer": "A",
+    "input": "Question: Consider the following time series model applied to daily data:\n\n\n\nwhere rt are the returns, and D1, D2, D3 and D4 are dummy variables. D1 = 1 on Monday and zero otherwise; D2 = 1 on Tuesday and zero otherwise, ..., D4 = 1 on Thursday and zero otherwise. What is the interpretation of the parameter estimate for the intercept?\nOptions:\n(A) It is the average return on Friday\n(B) It is the average return on Monday\n(C) It is the Friday deviation from the mean return for the week\n(D) It is the Monday deviation from the mean return for the week.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "Which of the following statements are true concerning the class of ARIMA(p,d,q) models?\n\n(i) The \"I\" stands for independent\n\n(ii) An ARIMA(p,1,q) model estimated on a series of logs of prices is equivalent to an ARIMA(p,0,q) model estimated on a set of continuously compounded returns\n\n(iii) It is plausible for financial time series that the optimal value of d could be 2 or 3.\n\n(iv) The estimation of ARIMA models is incompatible with the notion of cointegration",
+    "choices": [
+      "(ii) and (iv) only",
+      "(i) and (iii) only",
+      "(i), (ii), and (iii) only",
+      "(i), (ii), (iii), and (iv)"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following statements are true concerning the class of ARIMA(p,d,q) models?\n\n(i) The \"I\" stands for independent\n\n(ii) An ARIMA(p,1,q) model estimated on a series of logs of prices is equivalent to an ARIMA(p,0,q) model estimated on a set of continuously compounded returns\n\n(iii) It is plausible for financial time series that the optimal value of d could be 2 or 3.\n\n(iv) The estimation of ARIMA models is incompatible with the notion of cointegration\nOptions:\n(A) (ii) and (iv) only\n(B) (i) and (iii) only\n(C) (i), (ii), and (iii) only\n(D) (i), (ii), (iii), and (iv)\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "If the residuals from a regression estimated using a small sample of data are not normally distributed, which one of the following consequences may arise?",
+    "choices": [
+      "The coefficient estimates will be unbiased but inconsistent",
+      "The coefficient estimates will be biased but consistent",
+      "The coefficient estimates will be biased and inconsistent",
+      "Test statistics concerning the parameters will not follow their assumed distributions."
+    ],
+    "answer": "D",
+    "input": "Question: If the residuals from a regression estimated using a small sample of data are not normally distributed, which one of the following consequences may arise?\nOptions:\n(A) The coefficient estimates will be unbiased but inconsistent\n(B) The coefficient estimates will be biased but consistent\n(C) The coefficient estimates will be biased and inconsistent\n(D) Test statistics concerning the parameters will not follow their assumed distributions.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "econometrics",
+    "question": "If a threshold autoregressive (TAR) model is termed a \"SETAR\", what must be true about it?",
+    "choices": [
+      "It must follow a Markov process",
+      "The model must contain only two regimes",
+      "The state-determining variable must be the variable being modelled",
+      "The number of lagged variables on the RHS of the equations for each regime must be the same"
+    ],
+    "answer": "C",
+    "input": "Question: If a threshold autoregressive (TAR) model is termed a \"SETAR\", what must be true about it?\nOptions:\n(A) It must follow a Markov process\n(B) The model must contain only two regimes\n(C) The state-determining variable must be the variable being modelled\n(D) The number of lagged variables on the RHS of the equations for each regime must be the same\nAnswer:",
+    "target": "(C)"
+  }
+]

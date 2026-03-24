@@ -1,0 +1,2576 @@
+[
+  {
+    "subject": "high_school_geography",
+    "question": "The main factor preventing subsistence economies from advancing economically is the lack of",
+    "choices": [
+      "a currency.",
+      "a well-connected transportation infrastructure.",
+      "government activity.",
+      "a banking service."
+    ],
+    "answer": "B",
+    "input": "Question: The main factor preventing subsistence economies from advancing economically is the lack of\nOptions:\n(A) a currency.\n(B) a well-connected transportation infrastructure.\n(C) government activity.\n(D) a banking service.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called",
+    "choices": [
+      "zero population growth.",
+      "rapid growth rate.",
+      "homeostatic plateau.",
+      "demographic momentum."
+    ],
+    "answer": "D",
+    "input": "Question: The tendency for a population to continue to grow long after replacement fertility has been achieved is called\nOptions:\n(A) zero population growth.\n(B) rapid growth rate.\n(C) homeostatic plateau.\n(D) demographic momentum.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The tendency for migration to decrease with distance is called",
+    "choices": [
+      "push factors.",
+      "pull factors.",
+      "distance decay.",
+      "migration selectivity."
+    ],
+    "answer": "C",
+    "input": "Question: The tendency for migration to decrease with distance is called\nOptions:\n(A) push factors.\n(B) pull factors.\n(C) distance decay.\n(D) migration selectivity.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?",
+    "choices": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer": "A",
+    "input": "Question: Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?\nOptions:\n(A) First\n(B) Second\n(C) Third\n(D) Fourth\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements is TRUE concerning women in the labor force?",
+    "choices": [
+      "Most women work in agriculture",
+      "The percentage of women economically active in the labor force declined worldwide",
+      "The percentage of women in the total labor force declined",
+      "Women spend more hours per day working than men in all regions except Anglo America and Australia"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is TRUE concerning women in the labor force?\nOptions:\n(A) Most women work in agriculture\n(B) The percentage of women economically active in the labor force declined worldwide\n(C) The percentage of women in the total labor force declined\n(D) Women spend more hours per day working than men in all regions except Anglo America and Australia\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "All the following factors can be considered pull factors of migration EXCEPT",
+    "choices": [
+      "safety.",
+      "better climate.",
+      "better schools.",
+      "overcrowding."
+    ],
+    "answer": "D",
+    "input": "Question: All the following factors can be considered pull factors of migration EXCEPT\nOptions:\n(A) safety.\n(B) better climate.\n(C) better schools.\n(D) overcrowding.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following countries does NOT have a well-known example of a relict boundary?",
+    "choices": [
+      "Vietnam",
+      "United Kingdom",
+      "Germany",
+      "Bolivia"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following countries does NOT have a well-known example of a relict boundary?\nOptions:\n(A) Vietnam\n(B) United Kingdom\n(C) Germany\n(D) Bolivia\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which form of migration below are farm workers from another country most likely to be practicing during the year?",
+    "choices": [
+      "Chain migration",
+      "Cluster migration",
+      "Circular migration",
+      "International migration"
+    ],
+    "answer": "C",
+    "input": "Question: Which form of migration below are farm workers from another country most likely to be practicing during the year?\nOptions:\n(A) Chain migration\n(B) Cluster migration\n(C) Circular migration\n(D) International migration\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a centrifugal force in a country?",
+    "choices": [
+      "Religious differences",
+      "A national holiday",
+      "An attack by another country",
+      "A charismatic national leader"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is a centrifugal force in a country?\nOptions:\n(A) Religious differences\n(B) A national holiday\n(C) An attack by another country\n(D) A charismatic national leader\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?",
+    "choices": [
+      "Mediterranean climate",
+      "Limited forest cover",
+      "Growth of manufacturing",
+      "Access to trade routes"
+    ],
+    "answer": "D",
+    "input": "Question: Early settlements and high population density along coastlines and rivers are best attributed to which of the following?\nOptions:\n(A) Mediterranean climate\n(B) Limited forest cover\n(C) Growth of manufacturing\n(D) Access to trade routes\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The first stage of the demographic transition exhibits",
+    "choices": [
+      "high birth rates with high but fluctuating death rates.",
+      "declining birth rates with continuing high death rates.",
+      "low birth rates with continuing high death rates.",
+      "high birth rates with declining death rates."
+    ],
+    "answer": "A",
+    "input": "Question: The first stage of the demographic transition exhibits\nOptions:\n(A) high birth rates with high but fluctuating death rates.\n(B) declining birth rates with continuing high death rates.\n(C) low birth rates with continuing high death rates.\n(D) high birth rates with declining death rates.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?",
+    "choices": [
+      "Crude birth rate",
+      "Replacement level",
+      "Mortality rate",
+      "Total fertility rate"
+    ],
+    "answer": "B",
+    "input": "Question: What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?\nOptions:\n(A) Crude birth rate\n(B) Replacement level\n(C) Mortality rate\n(D) Total fertility rate\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What is the most rapidly growing religion in the United States today?",
+    "choices": [
+      "Islam",
+      "Christianity",
+      "Hinduism",
+      "Buddhism"
+    ],
+    "answer": "A",
+    "input": "Question: What is the most rapidly growing religion in the United States today?\nOptions:\n(A) Islam\n(B) Christianity\n(C) Hinduism\n(D) Buddhism\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The outlying area serviced by a urban center is referred to as a",
+    "choices": [
+      "redline area.",
+      "threshold.",
+      "range.",
+      "hinterland."
+    ],
+    "answer": "D",
+    "input": "Question: The outlying area serviced by a urban center is referred to as a\nOptions:\n(A) redline area.\n(B) threshold.\n(C) range.\n(D) hinterland.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The best definition of an urban area is",
+    "choices": [
+      "the central city and its developed areas.",
+      "the central city and its surrounding suburbs.",
+      "the central city and its hinterlands.",
+      "the central city and the adjacent counties."
+    ],
+    "answer": "B",
+    "input": "Question: The best definition of an urban area is\nOptions:\n(A) the central city and its developed areas.\n(B) the central city and its surrounding suburbs.\n(C) the central city and its hinterlands.\n(D) the central city and the adjacent counties.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following religions developed first?",
+    "choices": [
+      "Buddhism",
+      "Christianity",
+      "Islam",
+      "Hinduism"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following religions developed first?\nOptions:\n(A) Buddhism\n(B) Christianity\n(C) Islam\n(D) Hinduism\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following is NOT a characteristic of world cities?",
+    "choices": [
+      "World cities contain the headquarters of many transnational corporations.",
+      "World cities are well connected to secondary-level world cities.",
+      "World cities contain many offices of multinational organizations.",
+      "World cities are found only in the northern and western hemispheres."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following is NOT a characteristic of world cities?\nOptions:\n(A) World cities contain the headquarters of many transnational corporations.\n(B) World cities are well connected to secondary-level world cities.\n(C) World cities contain many offices of multinational organizations.\n(D) World cities are found only in the northern and western hemispheres.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which type of transportation system created the star-shaped city pattern?",
+    "choices": [
+      "Highways to airports that link cities",
+      "Interstate highways that link cities",
+      "Beltways around cities",
+      "Streetcar and trolley lines extending from the CBD"
+    ],
+    "answer": "D",
+    "input": "Question: Which type of transportation system created the star-shaped city pattern?\nOptions:\n(A) Highways to airports that link cities\n(B) Interstate highways that link cities\n(C) Beltways around cities\n(D) Streetcar and trolley lines extending from the CBD\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In which urban US setting below would you expect to find planned communities?",
+    "choices": [
+      "Ghettos",
+      "Suburbs",
+      "CBDs",
+      "Transition zones"
+    ],
+    "answer": "B",
+    "input": "Question: In which urban US setting below would you expect to find planned communities?\nOptions:\n(A) Ghettos\n(B) Suburbs\n(C) CBDs\n(D) Transition zones\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The latitude and longitude coordinates of a place are an example of",
+    "choices": [
+      "a formal region.",
+      "a functional region.",
+      "an absolute location.",
+      "a relative location."
+    ],
+    "answer": "C",
+    "input": "Question: The latitude and longitude coordinates of a place are an example of\nOptions:\n(A) a formal region.\n(B) a functional region.\n(C) an absolute location.\n(D) a relative location.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The voluntary association of three or more countries willing to give up some measure of sovereignty is called",
+    "choices": [
+      "nationalism.",
+      "devolution.",
+      "supranationalism.",
+      "complementarity."
+    ],
+    "answer": "C",
+    "input": "Question: The voluntary association of three or more countries willing to give up some measure of sovereignty is called\nOptions:\n(A) nationalism.\n(B) devolution.\n(C) supranationalism.\n(D) complementarity.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The key factor Thomas Malthus failed to recognize in his population theory was",
+    "choices": [
+      "population is limited by their means of subsistence.",
+      "all populations have the potential to increase more than the actual rate of increase.",
+      "wars and famine inhibit population's reproductive capacity.",
+      "technology's ability to raise the Earth's carrying capacity."
+    ],
+    "answer": "D",
+    "input": "Question: The key factor Thomas Malthus failed to recognize in his population theory was\nOptions:\n(A) population is limited by their means of subsistence.\n(B) all populations have the potential to increase more than the actual rate of increase.\n(C) wars and famine inhibit population's reproductive capacity.\n(D) technology's ability to raise the Earth's carrying capacity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which pair of religions are both universalizing religions?",
+    "choices": [
+      "Islam and Judaism",
+      "Judaism and Buddhism",
+      "Hinduism and Buddhism",
+      "Christianity and Buddhism"
+    ],
+    "answer": "D",
+    "input": "Question: Which pair of religions are both universalizing religions?\nOptions:\n(A) Islam and Judaism\n(B) Judaism and Buddhism\n(C) Hinduism and Buddhism\n(D) Christianity and Buddhism\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?",
+    "choices": [
+      "Concentric zone model",
+      "Central place model",
+      "Urban realms model",
+      "Sector model"
+    ],
+    "answer": "D",
+    "input": "Question: Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?\nOptions:\n(A) Concentric zone model\n(B) Central place model\n(C) Urban realms model\n(D) Sector model\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "When a country combines its religion with its government, it is called a",
+    "choices": [
+      "dictatorship.",
+      "theocracy.",
+      "democracy.",
+      "autocracy."
+    ],
+    "answer": "B",
+    "input": "Question: When a country combines its religion with its government, it is called a\nOptions:\n(A) dictatorship.\n(B) theocracy.\n(C) democracy.\n(D) autocracy.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What is the chief religion practiced in Europe?",
+    "choices": [
+      "Christianity",
+      "Islam",
+      "Hinduism",
+      "Animism"
+    ],
+    "answer": "A",
+    "input": "Question: What is the chief religion practiced in Europe?\nOptions:\n(A) Christianity\n(B) Islam\n(C) Hinduism\n(D) Animism\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which group enacted the first effective settlement in the eastern United States?",
+    "choices": [
+      "French",
+      "British (English, Scotch-Irish, Welsh, Scottish)",
+      "Russian",
+      "Chinese"
+    ],
+    "answer": "B",
+    "input": "Question: Which group enacted the first effective settlement in the eastern United States?\nOptions:\n(A) French\n(B) British (English, Scotch-Irish, Welsh, Scottish)\n(C) Russian\n(D) Chinese\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT",
+    "choices": [
+      "future social spending needs of the population.",
+      "the impact of \"baby booms\" on the population.",
+      "the impact of wars on the population.",
+      "a quick visual depiction of the country's demographics."
+    ],
+    "answer": "B",
+    "input": "Question: A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT\nOptions:\n(A) future social spending needs of the population.\n(B) the impact of \"baby booms\" on the population.\n(C) the impact of wars on the population.\n(D) a quick visual depiction of the country's demographics.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The Rhine River is an example of which type of boundary?",
+    "choices": [
+      "Geometric",
+      "Artificial",
+      "Natural",
+      "Relict"
+    ],
+    "answer": "C",
+    "input": "Question: The Rhine River is an example of which type of boundary?\nOptions:\n(A) Geometric\n(B) Artificial\n(C) Natural\n(D) Relict\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which type of economic activity is most closely tied to the physical environment?",
+    "choices": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "answer": "A",
+    "input": "Question: Which type of economic activity is most closely tied to the physical environment?\nOptions:\n(A) Primary\n(B) Secondary\n(C) Tertiary\n(D) Quaternary\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The majority of workers in periphery countries are probably employed in which type of activities?",
+    "choices": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "answer": "A",
+    "input": "Question: The majority of workers in periphery countries are probably employed in which type of activities?\nOptions:\n(A) Primary\n(B) Secondary\n(C) Tertiary\n(D) Quaternary\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "All of the following are non-basic jobs in the city EXCEPT",
+    "choices": [
+      "city firefighter.",
+      "social worker.",
+      "dry cleaner.",
+      "garment factory worker."
+    ],
+    "answer": "D",
+    "input": "Question: All of the following are non-basic jobs in the city EXCEPT\nOptions:\n(A) city firefighter.\n(B) social worker.\n(C) dry cleaner.\n(D) garment factory worker.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Transnational corporations distribute their operations",
+    "choices": [
+      "manufacturing goods where production costs are the highest.",
+      "conducting accounting and research services where economical.",
+      "based on comparative advantage.",
+      "with headquarters located in LDCs."
+    ],
+    "answer": "C",
+    "input": "Question: Transnational corporations distribute their operations\nOptions:\n(A) manufacturing goods where production costs are the highest.\n(B) conducting accounting and research services where economical.\n(C) based on comparative advantage.\n(D) with headquarters located in LDCs.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is LEAST associated with the development of alluvial landscapes?",
+    "choices": [
+      "A deep cover of loose materials",
+      "A predominance of gentle slopes",
+      "Frequent flooding",
+      "Deep dissection and erosion"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is LEAST associated with the development of alluvial landscapes?\nOptions:\n(A) A deep cover of loose materials\n(B) A predominance of gentle slopes\n(C) Frequent flooding\n(D) Deep dissection and erosion\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?",
+    "choices": [
+      "United States",
+      "Japan",
+      "France",
+      "United Kingdom"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?\nOptions:\n(A) United States\n(B) Japan\n(C) France\n(D) United Kingdom\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it",
+    "choices": [
+      "limits the marine climate of Europe to coastal areas",
+      "provides a corridor for communication between southern and northern Europe",
+      "enables marine-like climatic conditions to extend eastward into Germany and Poland",
+      "effectively prevents population movement between parts of the Mediterranean region"
+    ],
+    "answer": "C",
+    "input": "Question: One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it\nOptions:\n(A) limits the marine climate of Europe to coastal areas\n(B) provides a corridor for communication between southern and northern Europe\n(C) enables marine-like climatic conditions to extend eastward into Germany and Poland\n(D) effectively prevents population movement between parts of the Mediterranean region\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The largest Hindu temple complex ever constructed is found in",
+    "choices": [
+      "Calcutta.",
+      "Bombay.",
+      "Cambodia.",
+      "Bali."
+    ],
+    "answer": "C",
+    "input": "Question: The largest Hindu temple complex ever constructed is found in\nOptions:\n(A) Calcutta.\n(B) Bombay.\n(C) Cambodia.\n(D) Bali.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which term describes the forces that unify and strengthen a country?",
+    "choices": [
+      "Diffusion",
+      "Centrifugal",
+      "Centripetal",
+      "Ethnocentric"
+    ],
+    "answer": "C",
+    "input": "Question: Which term describes the forces that unify and strengthen a country?\nOptions:\n(A) Diffusion\n(B) Centrifugal\n(C) Centripetal\n(D) Ethnocentric\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following statements best describes an application of the S-curve?",
+    "choices": [
+      "Graph of the Bantu migration",
+      "Graph of the growth of human populations since their first appearance on Earth",
+      "The chart showing how cities associate with one another based on their population sizes",
+      "A model showing the decrease in population growth for several countries after they industrialize"
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following statements best describes an application of the S-curve?\nOptions:\n(A) Graph of the Bantu migration\n(B) Graph of the growth of human populations since their first appearance on Earth\n(C) The chart showing how cities associate with one another based on their population sizes\n(D) A model showing the decrease in population growth for several countries after they industrialize\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following items is NOT a challenge to the state?",
+    "choices": [
+      "Transnational corporations",
+      "EU",
+      "World Trade Organization",
+      "Good transportation network"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following items is NOT a challenge to the state?\nOptions:\n(A) Transnational corporations\n(B) EU\n(C) World Trade Organization\n(D) Good transportation network\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "National sports teams, flags, national anthems, and national holidays all promote",
+    "choices": [
+      "nationalism.",
+      "sectarianism.",
+      "political unrest.",
+      "functional disputes."
+    ],
+    "answer": "A",
+    "input": "Question: National sports teams, flags, national anthems, and national holidays all promote\nOptions:\n(A) nationalism.\n(B) sectarianism.\n(C) political unrest.\n(D) functional disputes.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The process whereby immigrants learn the values, language, and customs of their new country is called",
+    "choices": [
+      "assimilation.",
+      "acculturation.",
+      "adaptation.",
+      "amalgamation."
+    ],
+    "answer": "B",
+    "input": "Question: The process whereby immigrants learn the values, language, and customs of their new country is called\nOptions:\n(A) assimilation.\n(B) acculturation.\n(C) adaptation.\n(D) amalgamation.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?",
+    "choices": [
+      "A Mercator projection",
+      "A globe",
+      "A conic projection",
+      "A gnomonic projection"
+    ],
+    "answer": "B",
+    "input": "Question: On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?\nOptions:\n(A) A Mercator projection\n(B) A globe\n(C) A conic projection\n(D) A gnomonic projection\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following could be considered a higher-order central place function?",
+    "choices": [
+      "Winn-Dixie grocery store",
+      "Mercedes-Benz dealership",
+      "Shoe store",
+      "Family doctor"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following could be considered a higher-order central place function?\nOptions:\n(A) Winn-Dixie grocery store\n(B) Mercedes-Benz dealership\n(C) Shoe store\n(D) Family doctor\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?",
+    "choices": [
+      "Rostow",
+      "Ravenstein",
+      "Von Thünen",
+      "Burgess"
+    ],
+    "answer": "D",
+    "input": "Question: Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?\nOptions:\n(A) Rostow\n(B) Ravenstein\n(C) Von Thünen\n(D) Burgess\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "To get to school in the morning, we ALL use this as our guide:",
+    "choices": [
+      "Rand-McNally Road Atlas.",
+      "world globe.",
+      "road map.",
+      "mental map."
+    ],
+    "answer": "D",
+    "input": "Question: To get to school in the morning, we ALL use this as our guide:\nOptions:\n(A) Rand-McNally Road Atlas.\n(B) world globe.\n(C) road map.\n(D) mental map.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Of these, the map using the smallest map scale would be the map of",
+    "choices": [
+      "the world.",
+      "Atlanta, Georgia.",
+      "Main Street, Small Town, Ohio.",
+      "Pennsylvania."
+    ],
+    "answer": "A",
+    "input": "Question: Of these, the map using the smallest map scale would be the map of\nOptions:\n(A) the world.\n(B) Atlanta, Georgia.\n(C) Main Street, Small Town, Ohio.\n(D) Pennsylvania.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as",
+    "choices": [
+      "an antecedent boundary.",
+      "a geometric boundary.",
+      "a relict boundary.",
+      "a subsequent boundary."
+    ],
+    "answer": "A",
+    "input": "Question: An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as\nOptions:\n(A) an antecedent boundary.\n(B) a geometric boundary.\n(C) a relict boundary.\n(D) a subsequent boundary.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following jobs is in the non-basic employment sector?",
+    "choices": [
+      "Software engineer",
+      "F-10 pickup truck assembly-line worker",
+      "Oil refinery worker",
+      "Parking lot attendant"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following jobs is in the non-basic employment sector?\nOptions:\n(A) Software engineer\n(B) F-10 pickup truck assembly-line worker\n(C) Oil refinery worker\n(D) Parking lot attendant\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?",
+    "choices": [
+      "The Swiss Alps",
+      "The Amazon Basin",
+      "North Africa",
+      "The Alaskan tundra"
+    ],
+    "answer": "B",
+    "input": "Question: In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?\nOptions:\n(A) The Swiss Alps\n(B) The Amazon Basin\n(C) North Africa\n(D) The Alaskan tundra\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A strong movement away from all religions is called",
+    "choices": [
+      "secularism.",
+      "heathenism.",
+      "sacrilege.",
+      "nationalism."
+    ],
+    "answer": "A",
+    "input": "Question: A strong movement away from all religions is called\nOptions:\n(A) secularism.\n(B) heathenism.\n(C) sacrilege.\n(D) nationalism.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Regions share all of these characteristics EXCEPT",
+    "choices": [
+      "boundaries.",
+      "common features.",
+      "relative location.",
+      "easily defined."
+    ],
+    "answer": "D",
+    "input": "Question: Regions share all of these characteristics EXCEPT\nOptions:\n(A) boundaries.\n(B) common features.\n(C) relative location.\n(D) easily defined.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following U.S. main immigration flow associations is NOT correct?",
+    "choices": [
+      "Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans",
+      "1870–1914—Asians",
+      "1870–1914—Eastern and southern Europeans",
+      "1965–present—Hispanics"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following U.S. main immigration flow associations is NOT correct?\nOptions:\n(A) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans\n(B) 1870–1914—Asians\n(C) 1870–1914—Eastern and southern Europeans\n(D) 1965–present—Hispanics\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the statements below is characteristic of most African cities?",
+    "choices": [
+      "They have thriving, clean residential areas.",
+      "There are jobs for most rural-to-urban migrants.",
+      "They have three separate business districts.",
+      "They have a well-developed infrastructure."
+    ],
+    "answer": "C",
+    "input": "Question: Which one of the statements below is characteristic of most African cities?\nOptions:\n(A) They have thriving, clean residential areas.\n(B) There are jobs for most rural-to-urban migrants.\n(C) They have three separate business districts.\n(D) They have a well-developed infrastructure.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which country faces a serious trade disadvantage due to its location?",
+    "choices": [
+      "Singapore",
+      "Italy",
+      "Spain",
+      "Mongolia"
+    ],
+    "answer": "D",
+    "input": "Question: Which country faces a serious trade disadvantage due to its location?\nOptions:\n(A) Singapore\n(B) Italy\n(C) Spain\n(D) Mongolia\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?",
+    "choices": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "answer": "C",
+    "input": "Question: In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?\nOptions:\n(A) First\n(B) Second\n(C) Third\n(D) Fourth\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The theory that every society develops economically according to a five-stage pattern of growth is attributed to",
+    "choices": [
+      "Rostow.",
+      "Ravenstein.",
+      "von Thünen.",
+      "Burgess."
+    ],
+    "answer": "A",
+    "input": "Question: The theory that every society develops economically according to a five-stage pattern of growth is attributed to\nOptions:\n(A) Rostow.\n(B) Ravenstein.\n(C) von Thünen.\n(D) Burgess.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following would NOT be considered a barrier to diffusion of a cultural trait?",
+    "choices": [
+      "Language",
+      "Religion",
+      "Oceans",
+      "Tolerant complaisant citizens"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following would NOT be considered a barrier to diffusion of a cultural trait?\nOptions:\n(A) Language\n(B) Religion\n(C) Oceans\n(D) Tolerant complaisant citizens\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The process of invasion and succession is a process involving migration and is best described as when",
+    "choices": [
+      "new residents tear down and rebuild housing units.",
+      "new residents live peacefully with old residents.",
+      "new residents assimilate with old residents completely.",
+      "new residents move into areas occupied by older resident groups."
+    ],
+    "answer": "D",
+    "input": "Question: The process of invasion and succession is a process involving migration and is best described as when\nOptions:\n(A) new residents tear down and rebuild housing units.\n(B) new residents live peacefully with old residents.\n(C) new residents assimilate with old residents completely.\n(D) new residents move into areas occupied by older resident groups.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following best illustrates the definition of a functional region?",
+    "choices": [
+      "A map showing Atlanta as a hub for Delta Airlines",
+      "An article describing the region referred to as the South",
+      "A map showing North Carolina's one hundred counties",
+      "An essay explaining the region known as the Bible Belt"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following best illustrates the definition of a functional region?\nOptions:\n(A) A map showing Atlanta as a hub for Delta Airlines\n(B) An article describing the region referred to as the South\n(C) A map showing North Carolina's one hundred counties\n(D) An essay explaining the region known as the Bible Belt\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "New stores opening around a large shopping mall reflect which concept?",
+    "choices": [
+      "Gravity concept",
+      "Distance decay",
+      "Complementarity",
+      "Movement bias"
+    ],
+    "answer": "D",
+    "input": "Question: New stores opening around a large shopping mall reflect which concept?\nOptions:\n(A) Gravity concept\n(B) Distance decay\n(C) Complementarity\n(D) Movement bias\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The birth of an urban industrial workforce in Europe contributed to the start of the",
+    "choices": [
+      "First Agricultural Revolution.",
+      "Second Agricultural Revolution.",
+      "Third Agricultural Revolution.",
+      "Fourth Agricultural Revolution."
+    ],
+    "answer": "B",
+    "input": "Question: The birth of an urban industrial workforce in Europe contributed to the start of the\nOptions:\n(A) First Agricultural Revolution.\n(B) Second Agricultural Revolution.\n(C) Third Agricultural Revolution.\n(D) Fourth Agricultural Revolution.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements about East Asia's industrial regions is true?",
+    "choices": [
+      "Japan has a rich natural resource base.",
+      "China lacks natural resources but has a massive labor force.",
+      "China is industrializing rapidly.",
+      "Taiwan lacks industrial enterprise and an educated workforce."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements about East Asia's industrial regions is true?\nOptions:\n(A) Japan has a rich natural resource base.\n(B) China lacks natural resources but has a massive labor force.\n(C) China is industrializing rapidly.\n(D) Taiwan lacks industrial enterprise and an educated workforce.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements best describes the United Nations?",
+    "choices": [
+      "The UN operates a worldwide police force.",
+      "Member states surrender sovereignty to the UN.",
+      "World laws are enforced by the UN.",
+      "The UN often practices interventionism in world conflicts."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements best describes the United Nations?\nOptions:\n(A) The UN operates a worldwide police force.\n(B) Member states surrender sovereignty to the UN.\n(C) World laws are enforced by the UN.\n(D) The UN often practices interventionism in world conflicts.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a formal region?",
+    "choices": [
+      "Dixie",
+      "Pennsylvania",
+      "The market area of Winn-Dixie",
+      "The Pacific Northwest"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a formal region?\nOptions:\n(A) Dixie\n(B) Pennsylvania\n(C) The market area of Winn-Dixie\n(D) The Pacific Northwest\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The concentration of production activities and people spatially to benefit everyone is called",
+    "choices": [
+      "the substitution principle.",
+      "deglomeration.",
+      "agglomeration.",
+      "infrastructure."
+    ],
+    "answer": "C",
+    "input": "Question: The concentration of production activities and people spatially to benefit everyone is called\nOptions:\n(A) the substitution principle.\n(B) deglomeration.\n(C) agglomeration.\n(D) infrastructure.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which language family contains Italian, Spanish, Portuguese, and Romanian?",
+    "choices": [
+      "European",
+      "Slavic",
+      "Germanic",
+      "Romance"
+    ],
+    "answer": "D",
+    "input": "Question: Which language family contains Italian, Spanish, Portuguese, and Romanian?\nOptions:\n(A) European\n(B) Slavic\n(C) Germanic\n(D) Romance\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Ankara, Turkey and Islamabad, Pakistan are both examples of",
+    "choices": [
+      "desert cities.",
+      "forward-thrust capitals.",
+      "old colonial capitals.",
+      "rival cities."
+    ],
+    "answer": "B",
+    "input": "Question: Ankara, Turkey and Islamabad, Pakistan are both examples of\nOptions:\n(A) desert cities.\n(B) forward-thrust capitals.\n(C) old colonial capitals.\n(D) rival cities.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT an example of syncretism?",
+    "choices": [
+      "Halloween",
+      "Foreign cuisine changed to suit American tastes",
+      "Hasidic Judaism",
+      "Catholicism in Louisiana"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is NOT an example of syncretism?\nOptions:\n(A) Halloween\n(B) Foreign cuisine changed to suit American tastes\n(C) Hasidic Judaism\n(D) Catholicism in Louisiana\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The theory that whoever controlled the landmass of Europe would rule the world is called the",
+    "choices": [
+      "devolution theory.",
+      "domino theory.",
+      "heartland theory.",
+      "rimland theory."
+    ],
+    "answer": "C",
+    "input": "Question: The theory that whoever controlled the landmass of Europe would rule the world is called the\nOptions:\n(A) devolution theory.\n(B) domino theory.\n(C) heartland theory.\n(D) rimland theory.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?",
+    "choices": [
+      "Sunni",
+      "Shiite",
+      "Imam",
+      "Untouchables"
+    ],
+    "answer": "B",
+    "input": "Question: Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?\nOptions:\n(A) Sunni\n(B) Shiite\n(C) Imam\n(D) Untouchables\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The multiplier effect is",
+    "choices": [
+      "the addition of non-basic workers to an urban economy that has added more basic workers.",
+      "a ratio of urban to rural workers in an economy.",
+      "the ratio of city workers to farm workers in an economy.",
+      "the addition of rural jobs created by the urban economy."
+    ],
+    "answer": "A",
+    "input": "Question: The multiplier effect is\nOptions:\n(A) the addition of non-basic workers to an urban economy that has added more basic workers.\n(B) a ratio of urban to rural workers in an economy.\n(C) the ratio of city workers to farm workers in an economy.\n(D) the addition of rural jobs created by the urban economy.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The sacred book of the Hindu is called the",
+    "choices": [
+      "Talmud.",
+      "Bible.",
+      "Torah.",
+      "Veda."
+    ],
+    "answer": "D",
+    "input": "Question: The sacred book of the Hindu is called the\nOptions:\n(A) Talmud.\n(B) Bible.\n(C) Torah.\n(D) Veda.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a distinct characteristic of an East European city?",
+    "choices": [
+      "A central park",
+      "Prominent religious buildings",
+      "A large central square surrounded by government and administrative buildings",
+      "Luxury apartment buildings"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a distinct characteristic of an East European city?\nOptions:\n(A) A central park\n(B) Prominent religious buildings\n(C) A large central square surrounded by government and administrative buildings\n(D) Luxury apartment buildings\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?",
+    "choices": [
+      "Italy",
+      "Russia",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?\nOptions:\n(A) Italy\n(B) Russia\n(C) Japan\n(D) Brazil\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is an example of a bulk-gaining industry?",
+    "choices": [
+      "Steel",
+      "Bottled orange juice",
+      "Paper",
+      "Copper"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is an example of a bulk-gaining industry?\nOptions:\n(A) Steel\n(B) Bottled orange juice\n(C) Paper\n(D) Copper\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a feature of an export processing zone (EPZ)?",
+    "choices": [
+      "Tariff reductions on exports",
+      "Raw materials imported duty-free",
+      "Exemption from customs duties",
+      "Strict pollution regulations"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT a feature of an export processing zone (EPZ)?\nOptions:\n(A) Tariff reductions on exports\n(B) Raw materials imported duty-free\n(C) Exemption from customs duties\n(D) Strict pollution regulations\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following characteristics is NOT true of a state?",
+    "choices": [
+      "Independent territory",
+      "Internationally recognized",
+      "Boundaries",
+      "A national language"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following characteristics is NOT true of a state?\nOptions:\n(A) Independent territory\n(B) Internationally recognized\n(C) Boundaries\n(D) A national language\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of",
+    "choices": [
+      "intervening opportunity.",
+      "distance decay.",
+      "involuntary migration.",
+      "push-pull factors."
+    ],
+    "answer": "A",
+    "input": "Question: You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of\nOptions:\n(A) intervening opportunity.\n(B) distance decay.\n(C) involuntary migration.\n(D) push-pull factors.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A large node of office and commercial land use outside the central city with more jobs than residents is a(n)",
+    "choices": [
+      "suburb.",
+      "primate city.",
+      "town.",
+      "edge city."
+    ],
+    "answer": "D",
+    "input": "Question: A large node of office and commercial land use outside the central city with more jobs than residents is a(n)\nOptions:\n(A) suburb.\n(B) primate city.\n(C) town.\n(D) edge city.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which crop began the Third Agricultural Revolution?",
+    "choices": [
+      "Rice",
+      "Wheat",
+      "Barley",
+      "Millet"
+    ],
+    "answer": "A",
+    "input": "Question: Which crop began the Third Agricultural Revolution?\nOptions:\n(A) Rice\n(B) Wheat\n(C) Barley\n(D) Millet\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?",
+    "choices": [
+      "The introduction of new languages",
+      "The end of the Cold War",
+      "The invasion by the Soviets",
+      "The acceptance of many Eastern European countries into the EU"
+    ],
+    "answer": "B",
+    "input": "Question: Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?\nOptions:\n(A) The introduction of new languages\n(B) The end of the Cold War\n(C) The invasion by the Soviets\n(D) The acceptance of many Eastern European countries into the EU\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?",
+    "choices": [
+      "Truck",
+      "Air",
+      "Ship",
+      "Railroad"
+    ],
+    "answer": "B",
+    "input": "Question: If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?\nOptions:\n(A) Truck\n(B) Air\n(C) Ship\n(D) Railroad\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a functional region?",
+    "choices": [
+      "Dixie",
+      "Pennsylvania",
+      "The market area of Winn-Dixie",
+      "The Pacific Northwest"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a functional region?\nOptions:\n(A) Dixie\n(B) Pennsylvania\n(C) The market area of Winn-Dixie\n(D) The Pacific Northwest\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?",
+    "choices": [
+      "European",
+      "Muslim",
+      "Sub-Saharan African",
+      "Latin American"
+    ],
+    "answer": "D",
+    "input": "Question: Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?\nOptions:\n(A) European\n(B) Muslim\n(C) Sub-Saharan African\n(D) Latin American\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What family do most European languages belong to?",
+    "choices": [
+      "Ural-Altaic",
+      "Basque",
+      "Indo-European",
+      "Phoenician"
+    ],
+    "answer": "C",
+    "input": "Question: What family do most European languages belong to?\nOptions:\n(A) Ural-Altaic\n(B) Basque\n(C) Indo-European\n(D) Phoenician\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What do the terms apartheid, ethnic cleansing, and integration all have in common?",
+    "choices": [
+      "They all occurred in Nazi Germany during World War I.",
+      "They are all forms of residential segregation.",
+      "They are all ways to integrate different ethnic populations in neighborhoods.",
+      "They are different expressions for the same concept."
+    ],
+    "answer": "B",
+    "input": "Question: What do the terms apartheid, ethnic cleansing, and integration all have in common?\nOptions:\n(A) They all occurred in Nazi Germany during World War I.\n(B) They are all forms of residential segregation.\n(C) They are all ways to integrate different ethnic populations in neighborhoods.\n(D) They are different expressions for the same concept.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the statements below correctly describes immigrants living in Europe?",
+    "choices": [
+      "Most find citizenship easy to get in host countries.",
+      "Muslims immigrants from North Africa are well integrated in France.",
+      "Immigrants to European cities rarely bring their families.",
+      "They are usually restricted to certain neighborhoods."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the statements below correctly describes immigrants living in Europe?\nOptions:\n(A) Most find citizenship easy to get in host countries.\n(B) Muslims immigrants from North Africa are well integrated in France.\n(C) Immigrants to European cities rarely bring their families.\n(D) They are usually restricted to certain neighborhoods.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following activities are NOT secondary economic activities?",
+    "choices": [
+      "Assembling automotive parts",
+      "Sewing shirts",
+      "Mining copper",
+      "Binding books"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following activities are NOT secondary economic activities?\nOptions:\n(A) Assembling automotive parts\n(B) Sewing shirts\n(C) Mining copper\n(D) Binding books\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?",
+    "choices": [
+      "They are crossing another country's borders.",
+      "They are not taking anything with them.",
+      "They are moving permanently.",
+      "They will be gone more than one year."
+    ],
+    "answer": "C",
+    "input": "Question: Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?\nOptions:\n(A) They are crossing another country's borders.\n(B) They are not taking anything with them.\n(C) They are moving permanently.\n(D) They will be gone more than one year.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following entities is a state?",
+    "choices": [
+      "Antarctica",
+      "American Samoa",
+      "Egypt",
+      "Marshall Islands"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following entities is a state?\nOptions:\n(A) Antarctica\n(B) American Samoa\n(C) Egypt\n(D) Marshall Islands\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What is the most abundant fossil fuel?",
+    "choices": [
+      "Phosphate",
+      "Oil",
+      "Petroleum",
+      "Coal"
+    ],
+    "answer": "D",
+    "input": "Question: What is the most abundant fossil fuel?\nOptions:\n(A) Phosphate\n(B) Oil\n(C) Petroleum\n(D) Coal\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A rejection of or indifference to religion in a country is called",
+    "choices": [
+      "polytheism.",
+      "animism.",
+      "secularism.",
+      "monotheism."
+    ],
+    "answer": "C",
+    "input": "Question: A rejection of or indifference to religion in a country is called\nOptions:\n(A) polytheism.\n(B) animism.\n(C) secularism.\n(D) monotheism.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In a postindustrial economy, which of the following resources is considered most important to increase productivity?",
+    "choices": [
+      "Energy",
+      "Labor",
+      "Information",
+      "Specialization"
+    ],
+    "answer": "C",
+    "input": "Question: In a postindustrial economy, which of the following resources is considered most important to increase productivity?\nOptions:\n(A) Energy\n(B) Labor\n(C) Information\n(D) Specialization\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A city that is more than twice as large as the next largest city in a country is called a",
+    "choices": [
+      "global city.",
+      "world leader city.",
+      "megalopolis.",
+      "primate city."
+    ],
+    "answer": "D",
+    "input": "Question: A city that is more than twice as large as the next largest city in a country is called a\nOptions:\n(A) global city.\n(B) world leader city.\n(C) megalopolis.\n(D) primate city.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?",
+    "choices": [
+      "The EEZ extends up to 200 nautical miles (370 km) from the coastline.",
+      "Countries have the right to exploit natural resources in their EEZ.",
+      "Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ.",
+      "A country does not have the right to exploit living resources in its EEZ."
+    ],
+    "answer": "D",
+    "input": "Question: Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?\nOptions:\n(A) The EEZ extends up to 200 nautical miles (370 km) from the coastline.\n(B) Countries have the right to exploit natural resources in their EEZ.\n(C) Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ.\n(D) A country does not have the right to exploit living resources in its EEZ.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is MOST likely to experience population pressure?",
+    "choices": [
+      "An industrial society with abundant natural resources and large imports of food",
+      "A society with a highly mechanized agricultural sector",
+      "A non-ecumene",
+      "A slash-and-burn agricultural society"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is MOST likely to experience population pressure?\nOptions:\n(A) An industrial society with abundant natural resources and large imports of food\n(B) A society with a highly mechanized agricultural sector\n(C) A non-ecumene\n(D) A slash-and-burn agricultural society\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Part of the boundary between the United States and Mexico is the Rio Grande, an example of",
+    "choices": [
+      "a water divider.",
+      "a watercourse.",
+      "an artificial boundary.",
+      "a natural boundary."
+    ],
+    "answer": "D",
+    "input": "Question: Part of the boundary between the United States and Mexico is the Rio Grande, an example of\nOptions:\n(A) a water divider.\n(B) a watercourse.\n(C) an artificial boundary.\n(D) a natural boundary.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?",
+    "choices": [
+      "Destination",
+      "Origin point",
+      "All locations along the diffusion path",
+      "Axis point"
+    ],
+    "answer": "B",
+    "input": "Question: When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?\nOptions:\n(A) Destination\n(B) Origin point\n(C) All locations along the diffusion path\n(D) Axis point\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The distance north and south of the equator is the",
+    "choices": [
+      "global grid system.",
+      "Prime Meridian",
+      "latitude.",
+      "longitude."
+    ],
+    "answer": "C",
+    "input": "Question: The distance north and south of the equator is the\nOptions:\n(A) global grid system.\n(B) Prime Meridian\n(C) latitude.\n(D) longitude.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Why are perceptual or vernacular regions so difficult to identify?",
+    "choices": [
+      "Boundaries are constantly being redrawn.",
+      "Physical features, such as rivers, are constantly shifting.",
+      "Defining criteria are subjective and differ among researchers.",
+      "Antecedent boundaries were drawn before humans were located in the regions."
+    ],
+    "answer": "C",
+    "input": "Question: Why are perceptual or vernacular regions so difficult to identify?\nOptions:\n(A) Boundaries are constantly being redrawn.\n(B) Physical features, such as rivers, are constantly shifting.\n(C) Defining criteria are subjective and differ among researchers.\n(D) Antecedent boundaries were drawn before humans were located in the regions.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which structure(s) traditionally occupies the center of a historic Asian city?",
+    "choices": [
+      "A central market",
+      "High-density housing",
+      "A religious building",
+      "Government office buildings"
+    ],
+    "answer": "C",
+    "input": "Question: Which structure(s) traditionally occupies the center of a historic Asian city?\nOptions:\n(A) A central market\n(B) High-density housing\n(C) A religious building\n(D) Government office buildings\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?",
+    "choices": [
+      "Multiplier effect",
+      "Rank-size rule",
+      "Central place theory",
+      "Burgess's sector model"
+    ],
+    "answer": "B",
+    "input": "Question: Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?\nOptions:\n(A) Multiplier effect\n(B) Rank-size rule\n(C) Central place theory\n(D) Burgess's sector model\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a major concern in countries with a large and rapidly aging population?",
+    "choices": [
+      "Immunization",
+      "Adequate schools",
+      "Daycare facilities",
+      "Health care"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is a major concern in countries with a large and rapidly aging population?\nOptions:\n(A) Immunization\n(B) Adequate schools\n(C) Daycare facilities\n(D) Health care\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following capital cities is located OUTSIDE the central core area of the country?",
+    "choices": [
+      "Abuja, Nigeria",
+      "Paris, France",
+      "London, United Kingdom",
+      "Cairo, Egypt"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following capital cities is located OUTSIDE the central core area of the country?\nOptions:\n(A) Abuja, Nigeria\n(B) Paris, France\n(C) London, United Kingdom\n(D) Cairo, Egypt\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?",
+    "choices": [
+      "Southeast Asia",
+      "Sub-Saharan Africa",
+      "North America",
+      "Latin America"
+    ],
+    "answer": "D",
+    "input": "Question: Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?\nOptions:\n(A) Southeast Asia\n(B) Sub-Saharan Africa\n(C) North America\n(D) Latin America\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The purpose for the creation of NATO was to",
+    "choices": [
+      "defend North America and Western Europe against the threat of communism.",
+      "form an economic alliance for trade between Europe and North America.",
+      "defend Europe against a second Nazi invasion.",
+      "defend northern Europe against Chinese missiles."
+    ],
+    "answer": "A",
+    "input": "Question: The purpose for the creation of NATO was to\nOptions:\n(A) defend North America and Western Europe against the threat of communism.\n(B) form an economic alliance for trade between Europe and North America.\n(C) defend Europe against a second Nazi invasion.\n(D) defend northern Europe against Chinese missiles.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a key milestone reached by the EU?",
+    "choices": [
+      "The introduction of a common currency used by many EU countries",
+      "A customs union",
+      "A single market",
+      "A common European language"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT a key milestone reached by the EU?\nOptions:\n(A) The introduction of a common currency used by many EU countries\n(B) A customs union\n(C) A single market\n(D) A common European language\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The use and spread of English in nineteenth-century India is an example of what type of diffusion?",
+    "choices": [
+      "Stimulus",
+      "Contagious",
+      "Hierarchal",
+      "Relocation"
+    ],
+    "answer": "C",
+    "input": "Question: The use and spread of English in nineteenth-century India is an example of what type of diffusion?\nOptions:\n(A) Stimulus\n(B) Contagious\n(C) Hierarchal\n(D) Relocation\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The theory that most migration occurs over a short distance and in steps is attributed to",
+    "choices": [
+      "Rostow.",
+      "Ravenstein.",
+      "von Thünen.",
+      "Burgess."
+    ],
+    "answer": "B",
+    "input": "Question: The theory that most migration occurs over a short distance and in steps is attributed to\nOptions:\n(A) Rostow.\n(B) Ravenstein.\n(C) von Thünen.\n(D) Burgess.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called",
+    "choices": [
+      "swidden.",
+      "subsistence farming.",
+      "pastorialism.",
+      "hunting and gathering."
+    ],
+    "answer": "C",
+    "input": "Question: The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called\nOptions:\n(A) swidden.\n(B) subsistence farming.\n(C) pastorialism.\n(D) hunting and gathering.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The European Union (EU) replaced which of the following organizations?",
+    "choices": [
+      "NATO",
+      "EEC",
+      "UN",
+      "ASEAN"
+    ],
+    "answer": "B",
+    "input": "Question: The European Union (EU) replaced which of the following organizations?\nOptions:\n(A) NATO\n(B) EEC\n(C) UN\n(D) ASEAN\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the",
+    "choices": [
+      "First Agricultural Revolution.",
+      "Second Agricultural Revolution.",
+      "Third Agricultural Revolution.",
+      "Green Revolution."
+    ],
+    "answer": "D",
+    "input": "Question: The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the\nOptions:\n(A) First Agricultural Revolution.\n(B) Second Agricultural Revolution.\n(C) Third Agricultural Revolution.\n(D) Green Revolution.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Shifting cultivation is most often practiced in",
+    "choices": [
+      "alpine tundra.",
+      "tropical forests.",
+      "flood plains.",
+      "deserts."
+    ],
+    "answer": "B",
+    "input": "Question: Shifting cultivation is most often practiced in\nOptions:\n(A) alpine tundra.\n(B) tropical forests.\n(C) flood plains.\n(D) deserts.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
+    "choices": [
+      "Europe and North Africa",
+      "Asia and Latin America",
+      "Sub-Saharan Africa and Oceania",
+      "Central Europe and Australia"
+    ],
+    "answer": "B",
+    "input": "Question: The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?\nOptions:\n(A) Europe and North Africa\n(B) Asia and Latin America\n(C) Sub-Saharan Africa and Oceania\n(D) Central Europe and Australia\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following North American associations is NOT correct?",
+    "choices": [
+      "Southeast—African Americans",
+      "Oklahoma and the Southwest—Native Americans",
+      "Quebec and northern Maine—French Americans and French Canadians",
+      "Southern prairie provinces—African Americans"
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following North American associations is NOT correct?\nOptions:\n(A) Southeast—African Americans\n(B) Oklahoma and the Southwest—Native Americans\n(C) Quebec and northern Maine—French Americans and French Canadians\n(D) Southern prairie provinces—African Americans\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following countries is NOT a federal state?",
+    "choices": [
+      "Canada",
+      "United States",
+      "France",
+      "People's Republic of China"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following countries is NOT a federal state?\nOptions:\n(A) Canada\n(B) United States\n(C) France\n(D) People's Republic of China\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following world regions is NOT considered one of the world's most densely populated regions?",
+    "choices": [
+      "South Asia",
+      "Europe",
+      "South America",
+      "Northeast United States"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following world regions is NOT considered one of the world's most densely populated regions?\nOptions:\n(A) South Asia\n(B) Europe\n(C) South America\n(D) Northeast United States\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Olives, grapes, and chickpeas are staple crops of which type of farming?",
+    "choices": [
+      "Pastoral nomadism",
+      "Subsistence",
+      "Plantation",
+      "Mediterranean"
+    ],
+    "answer": "D",
+    "input": "Question: Olives, grapes, and chickpeas are staple crops of which type of farming?\nOptions:\n(A) Pastoral nomadism\n(B) Subsistence\n(C) Plantation\n(D) Mediterranean\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A person who practices the Hindu religion would be most likely to",
+    "choices": [
+      "visit a shrine built on the shore of a lake.",
+      "pray five times a day.",
+      "bathe in the Ganges River.",
+      "make a pilgrimage to Jerusalem."
+    ],
+    "answer": "C",
+    "input": "Question: A person who practices the Hindu religion would be most likely to\nOptions:\n(A) visit a shrine built on the shore of a lake.\n(B) pray five times a day.\n(C) bathe in the Ganges River.\n(D) make a pilgrimage to Jerusalem.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The language with the largest number of \"speakers\" is",
+    "choices": [
+      "English.",
+      "Russian.",
+      "Spanish.",
+      "Mandarin Chinese."
+    ],
+    "answer": "D",
+    "input": "Question: The language with the largest number of \"speakers\" is\nOptions:\n(A) English.\n(B) Russian.\n(C) Spanish.\n(D) Mandarin Chinese.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following statements does NOT correctly describe the Green Revolution?",
+    "choices": [
+      "It changed centuries-old methods of farming.",
+      "It was an attempt to feed a growing world population.",
+      "It centered on increased rice, wheat, and maize yields.",
+      "It greatly improved crop yields in sub-Saharan Africa."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following statements does NOT correctly describe the Green Revolution?\nOptions:\n(A) It changed centuries-old methods of farming.\n(B) It was an attempt to feed a growing world population.\n(C) It centered on increased rice, wheat, and maize yields.\n(D) It greatly improved crop yields in sub-Saharan Africa.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Historically, the world's major languages have spread by all of the following methods EXCEPT",
+    "choices": [
+      "Sanskrit records.",
+      "migration.",
+      "trade.",
+      "conquest."
+    ],
+    "answer": "A",
+    "input": "Question: Historically, the world's major languages have spread by all of the following methods EXCEPT\nOptions:\n(A) Sanskrit records.\n(B) migration.\n(C) trade.\n(D) conquest.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A primate city is",
+    "choices": [
+      "a large city located on the periphery of the country.",
+      "the most important city in a country.",
+      "when the largest city in a country is more than twice the size of the next largest city.",
+      "the largest city in a country."
+    ],
+    "answer": "C",
+    "input": "Question: A primate city is\nOptions:\n(A) a large city located on the periphery of the country.\n(B) the most important city in a country.\n(C) when the largest city in a country is more than twice the size of the next largest city.\n(D) the largest city in a country.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following factors would be considered a \"pull\" factor for Riva when considering a move from India to the United States?",
+    "choices": [
+      "Abject poverty",
+      "Better job and higher wages",
+      "India's caste system",
+      "Violence in her neighborhood"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following factors would be considered a \"pull\" factor for Riva when considering a move from India to the United States?\nOptions:\n(A) Abject poverty\n(B) Better job and higher wages\n(C) India's caste system\n(D) Violence in her neighborhood\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "All of the following are reasons major cities attract young people in Latin America EXCEPT",
+    "choices": [
+      "the availability of jobs.",
+      "the potential for decent housing.",
+      "educational opportunities.",
+      "their families live there already."
+    ],
+    "answer": "D",
+    "input": "Question: All of the following are reasons major cities attract young people in Latin America EXCEPT\nOptions:\n(A) the availability of jobs.\n(B) the potential for decent housing.\n(C) educational opportunities.\n(D) their families live there already.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?",
+    "choices": [
+      "Dravidian",
+      "Uralic-Altaic",
+      "Sino-Tibetan",
+      "Indo-European"
+    ],
+    "answer": "D",
+    "input": "Question: Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?\nOptions:\n(A) Dravidian\n(B) Uralic-Altaic\n(C) Sino-Tibetan\n(D) Indo-European\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?",
+    "choices": [
+      "Rostow",
+      "Ravenstein",
+      "Von Thünen",
+      "Burgess"
+    ],
+    "answer": "C",
+    "input": "Question: Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?\nOptions:\n(A) Rostow\n(B) Ravenstein\n(C) Von Thünen\n(D) Burgess\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a spread effect in the core-periphery model of development?",
+    "choices": [
+      "Congestion in the core",
+      "High cost of labor in the core",
+      "High density in the core",
+      "More infrastructure in the core"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT a spread effect in the core-periphery model of development?\nOptions:\n(A) Congestion in the core\n(B) High cost of labor in the core\n(C) High density in the core\n(D) More infrastructure in the core\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT an important environmental factor influencing a country's agriculture?",
+    "choices": [
+      "Number of frost-free days per year",
+      "Availability of sufficient rainfall",
+      "Reliability of sufficient rainfall",
+      "Amount of fertilizer produced in the country"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT an important environmental factor influencing a country's agriculture?\nOptions:\n(A) Number of frost-free days per year\n(B) Availability of sufficient rainfall\n(C) Reliability of sufficient rainfall\n(D) Amount of fertilizer produced in the country\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?",
+    "choices": [
+      "Brazil",
+      "Australia",
+      "Chile",
+      "India"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?\nOptions:\n(A) Brazil\n(B) Australia\n(C) Chile\n(D) India\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following statements is NOT true of the \"core\" countries?",
+    "choices": [
+      "They are technologically advanced.",
+      "They are wealthy.",
+      "They are powerful.",
+      "They are less developed."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following statements is NOT true of the \"core\" countries?\nOptions:\n(A) They are technologically advanced.\n(B) They are wealthy.\n(C) They are powerful.\n(D) They are less developed.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "If you wanted to find the global distribution of coal, you would use a",
+    "choices": [
+      "reference map.",
+      "topographic map.",
+      "thematic map.",
+      "location map."
+    ],
+    "answer": "C",
+    "input": "Question: If you wanted to find the global distribution of coal, you would use a\nOptions:\n(A) reference map.\n(B) topographic map.\n(C) thematic map.\n(D) location map.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following is NOT a centripetal force in a state?",
+    "choices": [
+      "A high level of confidence in central government",
+      "The existence of strong separatist groups",
+      "The existence of national transportation networks",
+      "The national anthem"
+    ],
+    "answer": "B",
+    "input": "Question: Which one of the following is NOT a centripetal force in a state?\nOptions:\n(A) A high level of confidence in central government\n(B) The existence of strong separatist groups\n(C) The existence of national transportation networks\n(D) The national anthem\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are",
+    "choices": [
+      "capitals of countries formerly colonized by the English",
+      "destinations for vast numbers of pilgrims",
+      "financial centers for a large fraction of the world's economy",
+      "examples of modern urban planning"
+    ],
+    "answer": "B",
+    "input": "Question: The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are\nOptions:\n(A) capitals of countries formerly colonized by the English\n(B) destinations for vast numbers of pilgrims\n(C) financial centers for a large fraction of the world's economy\n(D) examples of modern urban planning\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "China and Vietnam's dispute over the Spratley Islands is",
+    "choices": [
+      "a positional dispute.",
+      "a territorial dispute.",
+      "a resource dispute.",
+      "a functional dispute."
+    ],
+    "answer": "C",
+    "input": "Question: China and Vietnam's dispute over the Spratley Islands is\nOptions:\n(A) a positional dispute.\n(B) a territorial dispute.\n(C) a resource dispute.\n(D) a functional dispute.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT used by geographers to determine absolute location?",
+    "choices": [
+      "Longitude",
+      "Latitude",
+      "Equator",
+      "Distance to the nearest city"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT used by geographers to determine absolute location?\nOptions:\n(A) Longitude\n(B) Latitude\n(C) Equator\n(D) Distance to the nearest city\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a characteristic of a developed country?",
+    "choices": [
+      "Over 50% of workforce engaged in agriculture",
+      "Women held in inferior place in society",
+      "Main disease related to age and lifestyle",
+      "High birth and death rates"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a characteristic of a developed country?\nOptions:\n(A) Over 50% of workforce engaged in agriculture\n(B) Women held in inferior place in society\n(C) Main disease related to age and lifestyle\n(D) High birth and death rates\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)",
+    "choices": [
+      "win-win.",
+      "trade-off.",
+      "infill.",
+      "leapfrog development."
+    ],
+    "answer": "B",
+    "input": "Question: Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)\nOptions:\n(A) win-win.\n(B) trade-off.\n(C) infill.\n(D) leapfrog development.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following items below is an absolute location?",
+    "choices": [
+      "10 miles east of Pittsburgh",
+      "Washington",
+      "3 degrees south",
+      "479 Elm Street, Muncie, Indiana"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following items below is an absolute location?\nOptions:\n(A) 10 miles east of Pittsburgh\n(B) Washington\n(C) 3 degrees south\n(D) 479 Elm Street, Muncie, Indiana\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following groups is excluded from the caste system of Hinduism?",
+    "choices": [
+      "Scholar-priests",
+      "Warrior-landowners",
+      "Businessmen and farmers",
+      "Untouchables"
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following groups is excluded from the caste system of Hinduism?\nOptions:\n(A) Scholar-priests\n(B) Warrior-landowners\n(C) Businessmen and farmers\n(D) Untouchables\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is a push factor?",
+    "choices": [
+      "Dissatisfaction with current jobs",
+      "Higher-paying jobs elsewhere",
+      "An attractive retirement community elsewhere",
+      "A pleasant climate"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is a push factor?\nOptions:\n(A) Dissatisfaction with current jobs\n(B) Higher-paying jobs elsewhere\n(C) An attractive retirement community elsewhere\n(D) A pleasant climate\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The Basques, Bretons, Kashmiris, and Tamils are all examples of",
+    "choices": [
+      "regionalist groups.",
+      "separatist groups.",
+      "terrorist groups.",
+      "interventionist groups."
+    ],
+    "answer": "B",
+    "input": "Question: The Basques, Bretons, Kashmiris, and Tamils are all examples of\nOptions:\n(A) regionalist groups.\n(B) separatist groups.\n(C) terrorist groups.\n(D) interventionist groups.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following factors does NOT play a role in gender relationships in a culture or society?",
+    "choices": [
+      "Biology",
+      "Advancements in technological development",
+      "Religion",
+      "Custom"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following factors does NOT play a role in gender relationships in a culture or society?\nOptions:\n(A) Biology\n(B) Advancements in technological development\n(C) Religion\n(D) Custom\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The intensive agricultural practice of planting and harvesting the same crop more than once a year is called",
+    "choices": [
+      "swidden.",
+      "double cropping.",
+      "pastorialism.",
+      "intertillage."
+    ],
+    "answer": "B",
+    "input": "Question: The intensive agricultural practice of planting and harvesting the same crop more than once a year is called\nOptions:\n(A) swidden.\n(B) double cropping.\n(C) pastorialism.\n(D) intertillage.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "When a new fashion design is introduced globally, the information initially travels through a process known as",
+    "choices": [
+      "contagious diffusion",
+      "relocation diffusion",
+      "innovative diffusion",
+      "hierarchical diffusion"
+    ],
+    "answer": "D",
+    "input": "Question: When a new fashion design is introduced globally, the information initially travels through a process known as\nOptions:\n(A) contagious diffusion\n(B) relocation diffusion\n(C) innovative diffusion\n(D) hierarchical diffusion\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs",
+    "choices": [
+      "will hinder global trade.",
+      "make plants more resistant to disease.",
+      "may cause irreversible changes in humans.",
+      "make plants more resistant to drought."
+    ],
+    "answer": "C",
+    "input": "Question: Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs\nOptions:\n(A) will hinder global trade.\n(B) make plants more resistant to disease.\n(C) may cause irreversible changes in humans.\n(D) make plants more resistant to drought.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following is NOT an advantage of urban agriculture?",
+    "choices": [
+      "Helping to solve the problem of solid waste disposal",
+      "Fresh produce for sale to others",
+      "Beautification of a dingy urban area",
+      "Renewed or purified water supplies"
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following is NOT an advantage of urban agriculture?\nOptions:\n(A) Helping to solve the problem of solid waste disposal\n(B) Fresh produce for sale to others\n(C) Beautification of a dingy urban area\n(D) Renewed or purified water supplies\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a problem Europe currently faces today?",
+    "choices": [
+      "Rising immigration",
+      "Lack of population growth",
+      "Environmental apathy",
+      "Urban ethnic ghettos on the rise"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is NOT a problem Europe currently faces today?\nOptions:\n(A) Rising immigration\n(B) Lack of population growth\n(C) Environmental apathy\n(D) Urban ethnic ghettos on the rise\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The world systems theory divides the world into",
+    "choices": [
+      "core, periphery, and semi-periphery.",
+      "rich and poor.",
+      "developed and undeveloped.",
+      "haves and have-nots."
+    ],
+    "answer": "A",
+    "input": "Question: The world systems theory divides the world into\nOptions:\n(A) core, periphery, and semi-periphery.\n(B) rich and poor.\n(C) developed and undeveloped.\n(D) haves and have-nots.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The majority of Kurds are found in which country?",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Turkey",
+      "Egypt"
+    ],
+    "answer": "C",
+    "input": "Question: The majority of Kurds are found in which country?\nOptions:\n(A) Iran\n(B) Iraq\n(C) Turkey\n(D) Egypt\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In what country are the most Basque speakers found?",
+    "choices": [
+      "Denmark",
+      "Finland",
+      "Luxembourg",
+      "Spain"
+    ],
+    "answer": "D",
+    "input": "Question: In what country are the most Basque speakers found?\nOptions:\n(A) Denmark\n(B) Finland\n(C) Luxembourg\n(D) Spain\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The most rapidly urbanizing area of the world is:",
+    "choices": [
+      "Europe",
+      "East Asia",
+      "Sub-Saharan Africa",
+      "South Asia"
+    ],
+    "answer": "C",
+    "input": "Question: The most rapidly urbanizing area of the world is:\nOptions:\n(A) Europe\n(B) East Asia\n(C) Sub-Saharan Africa\n(D) South Asia\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The influence of neo-Malthusianism can be seen in",
+    "choices": [
+      "government programs for birth control and planning.",
+      "famine relief.",
+      "increased spending in social welfare programs.",
+      "increased total fertility rates."
+    ],
+    "answer": "A",
+    "input": "Question: The influence of neo-Malthusianism can be seen in\nOptions:\n(A) government programs for birth control and planning.\n(B) famine relief.\n(C) increased spending in social welfare programs.\n(D) increased total fertility rates.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The process of devolution involves",
+    "choices": [
+      "the change of government from a democracy to a communist dictatorship.",
+      "the movement of power from the central government to regional governments in the country.",
+      "the movement of power from a monarchy to a military dictatorship.",
+      "the movement of power from regional governments to central governments."
+    ],
+    "answer": "B",
+    "input": "Question: The process of devolution involves\nOptions:\n(A) the change of government from a democracy to a communist dictatorship.\n(B) the movement of power from the central government to regional governments in the country.\n(C) the movement of power from a monarchy to a military dictatorship.\n(D) the movement of power from regional governments to central governments.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The theory that cities grow outward from a core utilizing several nodes of growth was proposed by",
+    "choices": [
+      "Rostow.",
+      "Ravenstein.",
+      "von Thünen.",
+      "Harris and Ullmann."
+    ],
+    "answer": "D",
+    "input": "Question: The theory that cities grow outward from a core utilizing several nodes of growth was proposed by\nOptions:\n(A) Rostow.\n(B) Ravenstein.\n(C) von Thünen.\n(D) Harris and Ullmann.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the",
+    "choices": [
+      "urban hierarchy theory.",
+      "central place theory.",
+      "concentric zone model.",
+      "multiplier effect."
+    ],
+    "answer": "B",
+    "input": "Question: The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the\nOptions:\n(A) urban hierarchy theory.\n(B) central place theory.\n(C) concentric zone model.\n(D) multiplier effect.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following statements does NOT correctly describe transnational companies (TNCs)?",
+    "choices": [
+      "Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum.",
+      "Most TNCs produce and sell manufactured goods.",
+      "Most TNCs are headquartered in the United States, Japan, and the European Union.",
+      "TNCs are generally controlled by foreign governments."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following statements does NOT correctly describe transnational companies (TNCs)?\nOptions:\n(A) Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum.\n(B) Most TNCs produce and sell manufactured goods.\n(C) Most TNCs are headquartered in the United States, Japan, and the European Union.\n(D) TNCs are generally controlled by foreign governments.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called",
+    "choices": [
+      "amalgamation theory.",
+      "acculturation.",
+      "ethnic islands.",
+      "ethnic clustering."
+    ],
+    "answer": "A",
+    "input": "Question: The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called\nOptions:\n(A) amalgamation theory.\n(B) acculturation.\n(C) ethnic islands.\n(D) ethnic clustering.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?",
+    "choices": [
+      "Devolution",
+      "Colonialism",
+      "Heartland theory",
+      "Containment theory"
+    ],
+    "answer": "D",
+    "input": "Question: Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?\nOptions:\n(A) Devolution\n(B) Colonialism\n(C) Heartland theory\n(D) Containment theory\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Urban agriculture can benefit urban society in all of the following ways EXCEPT",
+    "choices": [
+      "create sustainable food systems in urban areas.",
+      "provide jobs for women and children.",
+      "turn urban waste into a resource when utilized in safe manner.",
+      "replace agribusiness as the main focus of global food production."
+    ],
+    "answer": "D",
+    "input": "Question: Urban agriculture can benefit urban society in all of the following ways EXCEPT\nOptions:\n(A) create sustainable food systems in urban areas.\n(B) provide jobs for women and children.\n(C) turn urban waste into a resource when utilized in safe manner.\n(D) replace agribusiness as the main focus of global food production.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following organizations is NOT a supranational organization?",
+    "choices": [
+      "UN",
+      "NATO",
+      "ASEAN",
+      "PLO"
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following organizations is NOT a supranational organization?\nOptions:\n(A) UN\n(B) NATO\n(C) ASEAN\n(D) PLO\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?",
+    "choices": [
+      "Zero population growth",
+      "High mortality rates",
+      "High birth rates",
+      "High sex ratios"
+    ],
+    "answer": "A",
+    "input": "Question: Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?\nOptions:\n(A) Zero population growth\n(B) High mortality rates\n(C) High birth rates\n(D) High sex ratios\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?",
+    "choices": [
+      "A shorter workweek made time for a commute possible.",
+      "Changes in the housing mortgage regulations made home ownership easier.",
+      "Fixed-route public transit routes increased in importance.",
+      "Improved automobiles made transportation easier and less limited."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?\nOptions:\n(A) A shorter workweek made time for a commute possible.\n(B) Changes in the housing mortgage regulations made home ownership easier.\n(C) Fixed-route public transit routes increased in importance.\n(D) Improved automobiles made transportation easier and less limited.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "An isobar map shows lines connecting all points of equal",
+    "choices": [
+      "atmospheric pressure",
+      "surface temperature",
+      "elevation",
+      "precipitation"
+    ],
+    "answer": "A",
+    "input": "Question: An isobar map shows lines connecting all points of equal\nOptions:\n(A) atmospheric pressure\n(B) surface temperature\n(C) elevation\n(D) precipitation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?",
+    "choices": [
+      "Transferability",
+      "Complementarity",
+      "Intervening opportunity",
+      "Territoriality"
+    ],
+    "answer": "C",
+    "input": "Question: Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?\nOptions:\n(A) Transferability\n(B) Complementarity\n(C) Intervening opportunity\n(D) Territoriality\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What type of countries generally possesses a greater variety of climates and resources than other countries?",
+    "choices": [
+      "Perforated states",
+      "Fragmented states",
+      "Elongated states",
+      "Prorupt states"
+    ],
+    "answer": "C",
+    "input": "Question: What type of countries generally possesses a greater variety of climates and resources than other countries?\nOptions:\n(A) Perforated states\n(B) Fragmented states\n(C) Elongated states\n(D) Prorupt states\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following factors has little or no impact on mortality rates in the developing countries?",
+    "choices": [
+      "New medicines",
+      "Improved birth control methods",
+      "Pesticides",
+      "Famine relief"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following factors has little or no impact on mortality rates in the developing countries?\nOptions:\n(A) New medicines\n(B) Improved birth control methods\n(C) Pesticides\n(D) Famine relief\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The idea that you identify with, and give allegiance, to a nation-state is",
+    "choices": [
+      "regionalism.",
+      "diffusion.",
+      "iconography.",
+      "nationalism."
+    ],
+    "answer": "D",
+    "input": "Question: The idea that you identify with, and give allegiance, to a nation-state is\nOptions:\n(A) regionalism.\n(B) diffusion.\n(C) iconography.\n(D) nationalism.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?",
+    "choices": [
+      "Nationalism",
+      "Resource dispute",
+      "Irredentism",
+      "Positional dispute"
+    ],
+    "answer": "C",
+    "input": "Question: What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?\nOptions:\n(A) Nationalism\n(B) Resource dispute\n(C) Irredentism\n(D) Positional dispute\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Variations in vocabulary, pronunciation, and rhythm in a spoken language are called",
+    "choices": [
+      "syntax.",
+      "isoglosses.",
+      "lingua francas.",
+      "dialects."
+    ],
+    "answer": "D",
+    "input": "Question: Variations in vocabulary, pronunciation, and rhythm in a spoken language are called\nOptions:\n(A) syntax.\n(B) isoglosses.\n(C) lingua francas.\n(D) dialects.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Boundary problems along the United States–Mexico border are caused by which type of issue below?",
+    "choices": [
+      "Ownership of fertile ground",
+      "Land use",
+      "Irredentism",
+      "Immigration"
+    ],
+    "answer": "D",
+    "input": "Question: Boundary problems along the United States–Mexico border are caused by which type of issue below?\nOptions:\n(A) Ownership of fertile ground\n(B) Land use\n(C) Irredentism\n(D) Immigration\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In which country does language pose a centrifugal force?",
+    "choices": [
+      "Canada",
+      "United States",
+      "Brazil",
+      "Norway"
+    ],
+    "answer": "A",
+    "input": "Question: In which country does language pose a centrifugal force?\nOptions:\n(A) Canada\n(B) United States\n(C) Brazil\n(D) Norway\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Quebec is a strong example of which of the following situations?",
+    "choices": [
+      "Irredentism",
+      "Secession",
+      "Ethnonationalism",
+      "A colony"
+    ],
+    "answer": "C",
+    "input": "Question: Quebec is a strong example of which of the following situations?\nOptions:\n(A) Irredentism\n(B) Secession\n(C) Ethnonationalism\n(D) A colony\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following items below is NOT considered a barrier to the diffusion of an innovation?",
+    "choices": [
+      "Internet",
+      "Distance",
+      "Cultural obstacles",
+      "Government interference"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following items below is NOT considered a barrier to the diffusion of an innovation?\nOptions:\n(A) Internet\n(B) Distance\n(C) Cultural obstacles\n(D) Government interference\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Change in any culture is introduced through all the following processes EXCEPT",
+    "choices": [
+      "innovation.",
+      "diffusion.",
+      "acculturation.",
+      "gravity."
+    ],
+    "answer": "D",
+    "input": "Question: Change in any culture is introduced through all the following processes EXCEPT\nOptions:\n(A) innovation.\n(B) diffusion.\n(C) acculturation.\n(D) gravity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements regarding historical North American migration streams is NOT correct?",
+    "choices": [
+      "Canada's first major migration came from France.",
+      "Canada's second major migration stream originated in the British Isles.",
+      "Canada's third major migration stream came from Latin America.",
+      "The first major migration wave to the United States originated in Europe."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements regarding historical North American migration streams is NOT correct?\nOptions:\n(A) Canada's first major migration came from France.\n(B) Canada's second major migration stream originated in the British Isles.\n(C) Canada's third major migration stream came from Latin America.\n(D) The first major migration wave to the United States originated in Europe.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A chief factor that contributed to the Second Agricultural Revolution was",
+    "choices": [
+      "the Industrial Revolution.",
+      "World War I.",
+      "World War II.",
+      "the discovery of the plow."
+    ],
+    "answer": "A",
+    "input": "Question: A chief factor that contributed to the Second Agricultural Revolution was\nOptions:\n(A) the Industrial Revolution.\n(B) World War I.\n(C) World War II.\n(D) the discovery of the plow.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Zero population growth (ZPG) is achieved when",
+    "choices": [
+      "CBR – CDR 5 2.",
+      "Births 1 immigration 5 deaths 1 emigration.",
+      "Total fertility 5 3.",
+      "Replacement fertility is achieved."
+    ],
+    "answer": "B",
+    "input": "Question: Zero population growth (ZPG) is achieved when\nOptions:\n(A) CBR – CDR 5 2.\n(B) Births 1 immigration 5 deaths 1 emigration.\n(C) Total fertility 5 3.\n(D) Replacement fertility is achieved.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "In which of the following Asian countries would one find special economic zones (SEZs)?",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Vietnam"
+    ],
+    "answer": "C",
+    "input": "Question: In which of the following Asian countries would one find special economic zones (SEZs)?\nOptions:\n(A) Japan\n(B) South Korea\n(C) China\n(D) Vietnam\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following industries does NOT need to be close to its markets?",
+    "choices": [
+      "Dairy foods",
+      "Bulk-gaining products",
+      "Single-market products",
+      "Bulk-reducing products"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following industries does NOT need to be close to its markets?\nOptions:\n(A) Dairy foods\n(B) Bulk-gaining products\n(C) Single-market products\n(D) Bulk-reducing products\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following is NOT a characteristic of a city in the developing world?",
+    "choices": [
+      "Contains modern centers of commerce",
+      "Has a well-developed infrastructure",
+      "Experiences large in-migrations of rural people into the city",
+      "Produces a large share of its country's GDI"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is NOT a characteristic of a city in the developing world?\nOptions:\n(A) Contains modern centers of commerce\n(B) Has a well-developed infrastructure\n(C) Experiences large in-migrations of rural people into the city\n(D) Produces a large share of its country's GDI\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "A map that presents a single class of statistics is called a",
+    "choices": [
+      "general purpose map.",
+      "thematic map.",
+      "reference map.",
+      "mental map."
+    ],
+    "answer": "B",
+    "input": "Question: A map that presents a single class of statistics is called a\nOptions:\n(A) general purpose map.\n(B) thematic map.\n(C) reference map.\n(D) mental map.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The construction of freeways leads to all but which of the following results?",
+    "choices": [
+      "Urban sprawl",
+      "Traffic increase",
+      "Traffic congestion",
+      "Decreased dependency on cars"
+    ],
+    "answer": "D",
+    "input": "Question: The construction of freeways leads to all but which of the following results?\nOptions:\n(A) Urban sprawl\n(B) Traffic increase\n(C) Traffic congestion\n(D) Decreased dependency on cars\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which continent has the highest total fertility rates?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+    ],
+    "answer": "A",
+    "input": "Question: Which continent has the highest total fertility rates?\nOptions:\n(A) Africa\n(B) Asia\n(C) South America\n(D) Europe\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?",
+    "choices": [
+      "Islam",
+      "Christianity",
+      "Hinduism",
+      "Buddhism"
+    ],
+    "answer": "B",
+    "input": "Question: What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?\nOptions:\n(A) Islam\n(B) Christianity\n(C) Hinduism\n(D) Buddhism\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements is true concerning folklore?",
+    "choices": [
+      "It is the written tradition of a group.",
+      "It encourages changing the old values and customs.",
+      "It serves to blend all cultures into one.",
+      "It expresses in words the shared values of a group by expressing their ideals."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is true concerning folklore?\nOptions:\n(A) It is the written tradition of a group.\n(B) It encourages changing the old values and customs.\n(C) It serves to blend all cultures into one.\n(D) It expresses in words the shared values of a group by expressing their ideals.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?",
+    "choices": [
+      "Food production",
+      "Population patterns",
+      "Wildlife conservation efforts",
+      "Tourism"
+    ],
+    "answer": "A",
+    "input": "Question: The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?\nOptions:\n(A) Food production\n(B) Population patterns\n(C) Wildlife conservation efforts\n(D) Tourism\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?",
+    "choices": [
+      "Labor",
+      "Transport",
+      "Raw materials",
+      "Agglomeration costs"
+    ],
+    "answer": "B",
+    "input": "Question: According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?\nOptions:\n(A) Labor\n(B) Transport\n(C) Raw materials\n(D) Agglomeration costs\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?",
+    "choices": [
+      "The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island.",
+      "Hot springs throughout the country raise the temperature of the surrounding land and air.",
+      "Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic.",
+      "Small landmasses generate their own local climate and are largely unaffected by latitude."
+    ],
+    "answer": "A",
+    "input": "Question: The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?\nOptions:\n(A) The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island.\n(B) Hot springs throughout the country raise the temperature of the surrounding land and air.\n(C) Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic.\n(D) Small landmasses generate their own local climate and are largely unaffected by latitude.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following supranational organizations is not an economic union?",
+    "choices": [
+      "EU",
+      "CARICOM",
+      "NAFTA",
+      "NATO"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following supranational organizations is not an economic union?\nOptions:\n(A) EU\n(B) CARICOM\n(C) NAFTA\n(D) NATO\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The global lingua franca is",
+    "choices": [
+      "Chinese.",
+      "English.",
+      "French.",
+      "Arabic."
+    ],
+    "answer": "B",
+    "input": "Question: The global lingua franca is\nOptions:\n(A) Chinese.\n(B) English.\n(C) French.\n(D) Arabic.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What are the two major branches of Islam?",
+    "choices": [
+      "Sunni and Shinto",
+      "Shinto and Shiite",
+      "Sunni and Shiite",
+      "Shamanism and Shiite"
+    ],
+    "answer": "C",
+    "input": "Question: What are the two major branches of Islam?\nOptions:\n(A) Sunni and Shinto\n(B) Shinto and Shiite\n(C) Sunni and Shiite\n(D) Shamanism and Shiite\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "What was the primary reason the Green Revolution did NOT help Africa much?",
+    "choices": [
+      "It targeted crops Africans don't grow and eat.",
+      "It required sophisticated machinery.",
+      "Population growth has fallen so drastically that Africans don't need the increased food production.",
+      "African agricultural production went up without its help."
+    ],
+    "answer": "A",
+    "input": "Question: What was the primary reason the Green Revolution did NOT help Africa much?\nOptions:\n(A) It targeted crops Africans don't grow and eat.\n(B) It required sophisticated machinery.\n(C) Population growth has fallen so drastically that Africans don't need the increased food production.\n(D) African agricultural production went up without its help.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The largest exporter of agricultural goods in the world is",
+    "choices": [
+      "China.",
+      "Mexico.",
+      "Chile.",
+      "the United States."
+    ],
+    "answer": "D",
+    "input": "Question: The largest exporter of agricultural goods in the world is\nOptions:\n(A) China.\n(B) Mexico.\n(C) Chile.\n(D) the United States.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?",
+    "choices": [
+      "Developing and developed regions share similarly in wealth through trade.",
+      "The core will always dominate the periphery.",
+      "Growth and prosperity of the core exists at the expense of the periphery.",
+      "Regions with initial advantage keep and expand it as they attract labor, capital, and trade."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?\nOptions:\n(A) Developing and developed regions share similarly in wealth through trade.\n(B) The core will always dominate the periphery.\n(C) Growth and prosperity of the core exists at the expense of the periphery.\n(D) Regions with initial advantage keep and expand it as they attract labor, capital, and trade.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which pair of religions below share a long-held tradition of cremating their dead?",
+    "choices": [
+      "Hindu and Buddhist",
+      "Hindu and Muslim",
+      "Muslim and Jewish",
+      "Christian and Buddhist"
+    ],
+    "answer": "A",
+    "input": "Question: Which pair of religions below share a long-held tradition of cremating their dead?\nOptions:\n(A) Hindu and Buddhist\n(B) Hindu and Muslim\n(C) Muslim and Jewish\n(D) Christian and Buddhist\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?",
+    "choices": [
+      "North America",
+      "South America",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "B",
+    "input": "Question: The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?\nOptions:\n(A) North America\n(B) South America\n(C) Africa\n(D) Asia\nAnswer:",
+    "target": "(B)"
+  }
+]

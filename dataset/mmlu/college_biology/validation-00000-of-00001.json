@@ -1,0 +1,210 @@
+[
+  {
+    "subject": "college_biology",
+    "question": "Which of the following is the most direct cause of polyteny in somatic cells of certain organisms?",
+    "choices": [
+      "RNA transcription",
+      "Supercoiling of chromatin",
+      "Chromosome replication without cell division",
+      "Chromosome recombination"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is the most direct cause of polyteny in somatic cells of certain organisms?\nOptions:\n(A) RNA transcription\n(B) Supercoiling of chromatin\n(C) Chromosome replication without cell division\n(D) Chromosome recombination\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "All of the following statements about muscle contraction are true EXCEPT:",
+    "choices": [
+      "The ends of actin filaments move closer together.",
+      "The length of myosin filaments does not change.",
+      "Calcium-troponin binding precedes actin-myosin binding.",
+      "Calcium-tropomyosin binding precedes actin-myosin binding."
+    ],
+    "answer": "D",
+    "input": "Question: All of the following statements about muscle contraction are true EXCEPT:\nOptions:\n(A) The ends of actin filaments move closer together.\n(B) The length of myosin filaments does not change.\n(C) Calcium-troponin binding precedes actin-myosin binding.\n(D) Calcium-tropomyosin binding precedes actin-myosin binding.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Short-term changes in plant growth rate mediated by the plant hormone auxin are hypothesized to result from",
+    "choices": [
+      "loss of turgor pressure in the affected cells",
+      "increased extensibility of the walls of affected cells",
+      "suppression of metabolic activity in affected cells",
+      "cytoskeletal rearrangements in the affected cells"
+    ],
+    "answer": "B",
+    "input": "Question: Short-term changes in plant growth rate mediated by the plant hormone auxin are hypothesized to result from\nOptions:\n(A) loss of turgor pressure in the affected cells\n(B) increased extensibility of the walls of affected cells\n(C) suppression of metabolic activity in affected cells\n(D) cytoskeletal rearrangements in the affected cells\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "RNA is thought to have played an important role in the evolution of life for which of the following reasons?\nI. It occurred in great quantities on early Earth.\nII. It can self-replicate via a complementary chain.\nIII. It can catalyze some cellular functions.",
+    "choices": [
+      "I only",
+      "II only",
+      "III only",
+      "II and III"
+    ],
+    "answer": "D",
+    "input": "Question: RNA is thought to have played an important role in the evolution of life for which of the following reasons?\nI. It occurred in great quantities on early Earth.\nII. It can self-replicate via a complementary chain.\nIII. It can catalyze some cellular functions.\nOptions:\n(A) I only\n(B) II only\n(C) III only\n(D) II and III\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "An organism with a lobed thallus, rhizoids, and gemmae is a",
+    "choices": [
+      "moss",
+      "liverwort",
+      "fern",
+      "mushroom"
+    ],
+    "answer": "B",
+    "input": "Question: An organism with a lobed thallus, rhizoids, and gemmae is a\nOptions:\n(A) moss\n(B) liverwort\n(C) fern\n(D) mushroom\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "One hypothesis posed by evolutionary biologists to account for an organism's altruistic behavior in social groups is that of kin selection. According to the kin selection theory, the risk incurred by a bird that sounds an alarm call due to a nearby predator may be offset by the fact that",
+    "choices": [
+      "the alarm call induces the predator to abandon its hunt",
+      "the alarm call allows the bird to gain protection at the center of a flock",
+      "the alarm call will benefit those members with whom the bird shares a percentage of its genes",
+      "the bird will gain the same early warning advantage from another member of the flock at a future time"
+    ],
+    "answer": "C",
+    "input": "Question: One hypothesis posed by evolutionary biologists to account for an organism's altruistic behavior in social groups is that of kin selection. According to the kin selection theory, the risk incurred by a bird that sounds an alarm call due to a nearby predator may be offset by the fact that\nOptions:\n(A) the alarm call induces the predator to abandon its hunt\n(B) the alarm call allows the bird to gain protection at the center of a flock\n(C) the alarm call will benefit those members with whom the bird shares a percentage of its genes\n(D) the bird will gain the same early warning advantage from another member of the flock at a future time\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "A plant that possesses swimming sperm, xylem with tracheids, independent gametophyte and sporophyte phases, and no seeds is probably most closely related to",
+    "choices": [
+      "mosses",
+      "pines",
+      "ferns",
+      "liverworts"
+    ],
+    "answer": "C",
+    "input": "Question: A plant that possesses swimming sperm, xylem with tracheids, independent gametophyte and sporophyte phases, and no seeds is probably most closely related to\nOptions:\n(A) mosses\n(B) pines\n(C) ferns\n(D) liverworts\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following is NOT a characteristic of an oligotrophic lake?",
+    "choices": [
+      "Low nutrient levels",
+      "High altitudes",
+      "Shallow water",
+      "Sand or gravel bottom"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is NOT a characteristic of an oligotrophic lake?\nOptions:\n(A) Low nutrient levels\n(B) High altitudes\n(C) Shallow water\n(D) Sand or gravel bottom\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Evidence that sea urchins are more closely related to frogs than they are to snails is that echinoderms and chordates share which of the following embryological features?",
+    "choices": [
+      "An embryonic notochord disappears by the adult stage.",
+      "Larvae undergo metamorphosis.",
+      "Early embryos are unable to compensate for missing cells.",
+      "The pore that forms the mouth develops after the pore that forms the anus."
+    ],
+    "answer": "D",
+    "input": "Question: Evidence that sea urchins are more closely related to frogs than they are to snails is that echinoderms and chordates share which of the following embryological features?\nOptions:\n(A) An embryonic notochord disappears by the adult stage.\n(B) Larvae undergo metamorphosis.\n(C) Early embryos are unable to compensate for missing cells.\n(D) The pore that forms the mouth develops after the pore that forms the anus.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following is NOT a correct statement concerning elastin?",
+    "choices": [
+      "It is a component of large blood vessels.",
+      "Its secondary structure consists primarily of alpha helices.",
+      "It is secreted into the extracellular matrix of tissues.",
+      "It is a globular protein found in connective tissue."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is NOT a correct statement concerning elastin?\nOptions:\n(A) It is a component of large blood vessels.\n(B) Its secondary structure consists primarily of alpha helices.\n(C) It is secreted into the extracellular matrix of tissues.\n(D) It is a globular protein found in connective tissue.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "In cloning experiments on the frog Xenopus laevis, nuclei were removed from intestinal cells of tadpoles and transplanted into zygotes whose nuclei had been removed. A small percent of these zygotes developed into normal frogs, suggesting that",
+    "choices": [
+      "intestinal cells can be transformed into all cell types",
+      "frogs do not have the same developmental constraints as other species",
+      "intestinal cell nuclei are highly specialized",
+      "the genomes of all somatic cells are equivalent"
+    ],
+    "answer": "D",
+    "input": "Question: In cloning experiments on the frog Xenopus laevis, nuclei were removed from intestinal cells of tadpoles and transplanted into zygotes whose nuclei had been removed. A small percent of these zygotes developed into normal frogs, suggesting that\nOptions:\n(A) intestinal cells can be transformed into all cell types\n(B) frogs do not have the same developmental constraints as other species\n(C) intestinal cell nuclei are highly specialized\n(D) the genomes of all somatic cells are equivalent\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following sets of reactions occurs in the stroma of the chloroplast in plant cells?",
+    "choices": [
+      "Calvin cycle",
+      "Krebs cycle",
+      "Fermentation",
+      "Decarboxylation"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following sets of reactions occurs in the stroma of the chloroplast in plant cells?\nOptions:\n(A) Calvin cycle\n(B) Krebs cycle\n(C) Fermentation\n(D) Decarboxylation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following provides visual evidence of genetic recombination during meiosis?",
+    "choices": [
+      "Centromeres",
+      "Synaptonemal complexes",
+      "Haploid nuclei",
+      "Chiasmata"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following provides visual evidence of genetic recombination during meiosis?\nOptions:\n(A) Centromeres\n(B) Synaptonemal complexes\n(C) Haploid nuclei\n(D) Chiasmata\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following occurred first during the separation of the elements of Pangaea through continental drift?",
+    "choices": [
+      "Gondwana and Laurasia were formed.",
+      "Africa separated from South America.",
+      "India collided with Eurasia to form the Himalayan mountain chain.",
+      "Australia separated from the rest of the continental landmasses."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following occurred first during the separation of the elements of Pangaea through continental drift?\nOptions:\n(A) Gondwana and Laurasia were formed.\n(B) Africa separated from South America.\n(C) India collided with Eurasia to form the Himalayan mountain chain.\n(D) Australia separated from the rest of the continental landmasses.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "Which of the following traits do prokaryotes and eukaryotes have in common?",
+    "choices": [
+      "A single chromosome carries the entire genome.",
+      "Chromosomes are circular.",
+      "Replication is bidirectional.",
+      "Molecular weight of respective DNA is comparable."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following traits do prokaryotes and eukaryotes have in common?\nOptions:\n(A) A single chromosome carries the entire genome.\n(B) Chromosomes are circular.\n(C) Replication is bidirectional.\n(D) Molecular weight of respective DNA is comparable.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_biology",
+    "question": "All of the following are required procedures in order to clone specific mRNA molecules EXCEPT",
+    "choices": [
+      "extracting mRNA from cells",
+      "cleaving the full genome of a cell into fragments",
+      "creating a cDNA molecule",
+      "converting single-stranded cDNA into double-stranded cDNA"
+    ],
+    "answer": "B",
+    "input": "Question: All of the following are required procedures in order to clone specific mRNA molecules EXCEPT\nOptions:\n(A) extracting mRNA from cells\n(B) cleaving the full genome of a cell into fragments\n(C) creating a cDNA molecule\n(D) converting single-stranded cDNA into double-stranded cDNA\nAnswer:",
+    "target": "(B)"
+  }
+]

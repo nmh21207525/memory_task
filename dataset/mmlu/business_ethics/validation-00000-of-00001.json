@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "business_ethics",
+    "question": "Disqualification of directors may result from breaches under the",
+    "choices": [
+      "Sale of Goods Act 1979",
+      "Financial Services Act 1986",
+      "Companies Act 2006 and Insolvency Act 1986",
+      "Health and Safety at Work Act 1974"
+    ],
+    "answer": "C",
+    "input": "Question: Disqualification of directors may result from breaches under the\nOptions:\n(A) Sale of Goods Act 1979\n(B) Financial Services Act 1986\n(C) Companies Act 2006 and Insolvency Act 1986\n(D) Health and Safety at Work Act 1974\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "In a global context, many companies have significant ______ power due to their ability to threaten governments, in the face of ________ with relocation to other territories, which Beck (1998) describes as 'corporate power of _______.",
+    "choices": [
+      "Economic, Commercial competition, Social sanction",
+      "Political, Undesirable regulation, Transnational withdrawal",
+      "Social, Commercial competition, Social sanction",
+      "Social, Undesirable regulation, Transnational withdrawal"
+    ],
+    "answer": "B",
+    "input": "Question: In a global context, many companies have significant ______ power due to their ability to threaten governments, in the face of ________ with relocation to other territories, which Beck (1998) describes as 'corporate power of _______.\nOptions:\n(A) Economic, Commercial competition, Social sanction\n(B) Political, Undesirable regulation, Transnational withdrawal\n(C) Social, Commercial competition, Social sanction\n(D) Social, Undesirable regulation, Transnational withdrawal\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Ethics of duty is a principle based ethical theory attributed to Emmanuel Kant.",
+    "choices": [
+      "1,3",
+      "2,3",
+      "1,2",
+      "1,2,3"
+    ],
+    "answer": "A",
+    "input": "Question: Ethics of duty is a principle based ethical theory attributed to Emmanuel Kant.\nOptions:\n(A) 1,3\n(B) 2,3\n(C) 1,2\n(D) 1,2,3\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "While businesses traditionally engaged in civil society through ______, recently more business-________ collaboration have emerged in order to tackle social and environmental problems. Likewise, CSO's strategies have evolved with an increasing number setting up _________, which are more commercially orientated then traditional charity models.",
+    "choices": [
+      "Philanthropy, CSO, Social enterprises",
+      "Philanthropy, Government, Lobbying groups",
+      "Advertising campaigns, CSO, Lobbying groups",
+      "Advertising campaigns, Government, Social enterprises"
+    ],
+    "answer": "A",
+    "input": "Question: While businesses traditionally engaged in civil society through ______, recently more business-________ collaboration have emerged in order to tackle social and environmental problems. Likewise, CSO's strategies have evolved with an increasing number setting up _________, which are more commercially orientated then traditional charity models.\nOptions:\n(A) Philanthropy, CSO, Social enterprises\n(B) Philanthropy, Government, Lobbying groups\n(C) Advertising campaigns, CSO, Lobbying groups\n(D) Advertising campaigns, Government, Social enterprises\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The relationship between shareholders and the company, or so called ________, describes shareholders as _________ and managers of the company as ________.",
+    "choices": [
+      "Agency relation, Agent, Principals",
+      "Stakeholder management, Agent, Principals",
+      "Agency relation, Principal, Agents",
+      "Stakeholder management, Principal, Agents"
+    ],
+    "answer": "C",
+    "input": "Question: The relationship between shareholders and the company, or so called ________, describes shareholders as _________ and managers of the company as ________.\nOptions:\n(A) Agency relation, Agent, Principals\n(B) Stakeholder management, Agent, Principals\n(C) Agency relation, Principal, Agents\n(D) Stakeholder management, Principal, Agents\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Executive directors are responsible for running the firm.",
+    "choices": [
+      "1,4",
+      "1,3",
+      "2,3",
+      "1,2,3"
+    ],
+    "answer": "A",
+    "input": "Question: Executive directors are responsible for running the firm.\nOptions:\n(A) 1,4\n(B) 1,3\n(C) 2,3\n(D) 1,2,3\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Subjection to emotional exploitation.",
+    "choices": [
+      "1,2,4",
+      "1,3,4",
+      "2,3,4",
+      "1,2,3,4,5"
+    ],
+    "answer": "B",
+    "input": "Question: Subjection to emotional exploitation.\nOptions:\n(A) 1,2,4\n(B) 1,3,4\n(C) 2,3,4\n(D) 1,2,3,4,5\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The recent global sustainability agenda has been dominated by which of the following organisations sustainability goals?",
+    "choices": [
+      "Marks & Spencer's 'Plan A'",
+      "United Nations 'Sustainable Development Goals'",
+      "The Alibaba Group's 'Sustainability Initiatives'",
+      "Unilever's 'Sustainable Living Plan'"
+    ],
+    "answer": "B",
+    "input": "Question: The recent global sustainability agenda has been dominated by which of the following organisations sustainability goals?\nOptions:\n(A) Marks & Spencer's 'Plan A'\n(B) United Nations 'Sustainable Development Goals'\n(C) The Alibaba Group's 'Sustainability Initiatives'\n(D) Unilever's 'Sustainable Living Plan'\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The OECD argues that corporate governance problems arise because:",
+    "choices": [
+      "Ownership and control is separated",
+      "Managers always act in their own self interest",
+      "Profit maximization is the main objective of organizations",
+      "Stakeholders have differing levels of power"
+    ],
+    "answer": "A",
+    "input": "Question: The OECD argues that corporate governance problems arise because:\nOptions:\n(A) Ownership and control is separated\n(B) Managers always act in their own self interest\n(C) Profit maximization is the main objective of organizations\n(D) Stakeholders have differing levels of power\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What is meant by the phrase CSR?",
+    "choices": [
+      "Corporate Social Responsibility",
+      "Company Social Responsibility",
+      "Corporate Society Responsibility",
+      "Company Society Responsibility"
+    ],
+    "answer": "A",
+    "input": "Question: What is meant by the phrase CSR?\nOptions:\n(A) Corporate Social Responsibility\n(B) Company Social Responsibility\n(C) Corporate Society Responsibility\n(D) Company Society Responsibility\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______, ________ and _______ are all factors which can impinge upon stakeholder communication and collaboration.",
+    "choices": [
+      "Resource intensity, Culture clash, Accountability",
+      "Resource clash, Culture intensity, Accountability",
+      "Resource intensity, Culture clash, Coordinative fluidity",
+      "Resource clash, Culture clash, Coordinative fluidity"
+    ],
+    "answer": "A",
+    "input": "Question: ______, ________ and _______ are all factors which can impinge upon stakeholder communication and collaboration.\nOptions:\n(A) Resource intensity, Culture clash, Accountability\n(B) Resource clash, Culture intensity, Accountability\n(C) Resource intensity, Culture clash, Coordinative fluidity\n(D) Resource clash, Culture clash, Coordinative fluidity\nAnswer:",
+    "target": "(A)"
+  }
+]

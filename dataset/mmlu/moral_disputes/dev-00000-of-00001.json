@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "moral_disputes",
+    "question": "According to Metz, what is wrong with consequentialist arguments against capital punishment based on African values?",
+    "choices": [
+      "It is unclear as of yet whether or not capital punishment deters harm to the community.",
+      "It is unclear as of yet whether or not capital punishment deters harm to any individuals.",
+      "Consequentialism is not supported by African values.",
+      "Even though consequentialism is supported by African values, no consequentialist arguments framed in terms of African values have been offered."
+    ],
+    "answer": "A",
+    "input": "Question: According to Metz, what is wrong with consequentialist arguments against capital punishment based on African values?\nOptions:\n(A) It is unclear as of yet whether or not capital punishment deters harm to the community.\n(B) It is unclear as of yet whether or not capital punishment deters harm to any individuals.\n(C) Consequentialism is not supported by African values.\n(D) Even though consequentialism is supported by African values, no consequentialist arguments framed in terms of African values have been offered.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "A fertilized ovum is also known as",
+    "choices": [
+      "a zygote.",
+      "an embryo.",
+      "a viability.",
+      "a blastocyst."
+    ],
+    "answer": "A",
+    "input": "Question: A fertilized ovum is also known as\nOptions:\n(A) a zygote.\n(B) an embryo.\n(C) a viability.\n(D) a blastocyst.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Which of the following is an intrinsic good, according to Singer?",
+    "choices": [
+      "being in the upper class",
+      "the ability to learn and solve problems",
+      "being more beautiful than most of the population",
+      "being shorter than average"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is an intrinsic good, according to Singer?\nOptions:\n(A) being in the upper class\n(B) the ability to learn and solve problems\n(C) being more beautiful than most of the population\n(D) being shorter than average\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Pence compares six different cases of reproduction, from natural twinning to SCNT. What conclusion does he draw from this comparison?",
+    "choices": [
+      "SCNT is not a different kind of reproduction because there are no morally relevant differences between it and other permissible means of reproduction.",
+      "Because there is a low risk of harm for natural twinning, there will be a low risk of harm for SCNT.",
+      "both A and B",
+      "neither A nor B"
+    ],
+    "answer": "A",
+    "input": "Question: Pence compares six different cases of reproduction, from natural twinning to SCNT. What conclusion does he draw from this comparison?\nOptions:\n(A) SCNT is not a different kind of reproduction because there are no morally relevant differences between it and other permissible means of reproduction.\n(B) Because there is a low risk of harm for natural twinning, there will be a low risk of harm for SCNT.\n(C) both A and B\n(D) neither A nor B\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "moral_disputes",
+    "question": "Baron admits that the versions of the ticking bomb hypothetical she discusses are \"stunningly stupid,\" but she claims this is actually evidence of",
+    "choices": [
+      "the stupidity of most traditional philosophical examples.",
+      "a general lack of intelligence among people with advanced degrees.",
+      "the wrongness of torture.",
+      "the readiness on the part of many intelligent people to see torture as the best solution to deal with terrorism."
+    ],
+    "answer": "D",
+    "input": "Question: Baron admits that the versions of the ticking bomb hypothetical she discusses are \"stunningly stupid,\" but she claims this is actually evidence of\nOptions:\n(A) the stupidity of most traditional philosophical examples.\n(B) a general lack of intelligence among people with advanced degrees.\n(C) the wrongness of torture.\n(D) the readiness on the part of many intelligent people to see torture as the best solution to deal with terrorism.\nAnswer:",
+    "target": "(D)"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "world_religions",
+    "question": "What is the sign of the covenant for Jewish males?",
+    "choices": [
+      "The rainbow",
+      "Circumcision",
+      "A son",
+      "Bar mitzvah"
+    ],
+    "answer": "B",
+    "input": "Question: What is the sign of the covenant for Jewish males?\nOptions:\n(A) The rainbow\n(B) Circumcision\n(C) A son\n(D) Bar mitzvah\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What is the Second Gem in Buddhism?",
+    "choices": [
+      "The Dharma",
+      "The Sangha",
+      "The Buddha",
+      "The Bodhisattva"
+    ],
+    "answer": "A",
+    "input": "Question: What is the Second Gem in Buddhism?\nOptions:\n(A) The Dharma\n(B) The Sangha\n(C) The Buddha\n(D) The Bodhisattva\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "In which dynasty was the \"Mandate of Heaven\" developed to legitimatize the new rulers?",
+    "choices": [
+      "Shang",
+      "Zhou",
+      "Han",
+      "Xia"
+    ],
+    "answer": "B",
+    "input": "Question: In which dynasty was the \"Mandate of Heaven\" developed to legitimatize the new rulers?\nOptions:\n(A) Shang\n(B) Zhou\n(C) Han\n(D) Xia\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which Japanese government promoted a kind of national cult based on the emperor and his associations with kami?",
+    "choices": [
+      "Honen",
+      "Tanaka",
+      "Tokugawa",
+      "Meiji"
+    ],
+    "answer": "D",
+    "input": "Question: Which Japanese government promoted a kind of national cult based on the emperor and his associations with kami?\nOptions:\n(A) Honen\n(B) Tanaka\n(C) Tokugawa\n(D) Meiji\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "How can the Upanishads be characterized?",
+    "choices": [
+      "Ritual texts",
+      "Philosophical texts",
+      "Hymns",
+      "Origin stories"
+    ],
+    "answer": "B",
+    "input": "Question: How can the Upanishads be characterized?\nOptions:\n(A) Ritual texts\n(B) Philosophical texts\n(C) Hymns\n(D) Origin stories\nAnswer:",
+    "target": "(B)"
+  }
+]

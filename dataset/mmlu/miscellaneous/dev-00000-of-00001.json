@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "miscellaneous",
+    "question": "How many axles does a standard automobile have?",
+    "choices": [
+      "one",
+      "two",
+      "four",
+      "eight"
+    ],
+    "answer": "B",
+    "input": "Question: How many axles does a standard automobile have?\nOptions:\n(A) one\n(B) two\n(C) four\n(D) eight\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+    "choices": [
+      "Budapest",
+      "Budokan",
+      "Bhutan",
+      "Britain"
+    ],
+    "answer": "B",
+    "input": "Question: What place is named in the title of the 1979 live album by rock legends Cheap Trick?\nOptions:\n(A) Budapest\n(B) Budokan\n(C) Bhutan\n(D) Britain\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+    "choices": [
+      "Anthony 'Spud' Webb",
+      "Michael 'Air' Jordan",
+      "Tyrone 'Muggsy' Bogues",
+      "Julius 'Dr J' Erving"
+    ],
+    "answer": "A",
+    "input": "Question: Who is the shortest man to ever win an NBA slam dunk competition?\nOptions:\n(A) Anthony 'Spud' Webb\n(B) Michael 'Air' Jordan\n(C) Tyrone 'Muggsy' Bogues\n(D) Julius 'Dr J' Erving\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "What is produced during photosynthesis?",
+    "choices": [
+      "hydrogen",
+      "nylon",
+      "oxygen",
+      "light"
+    ],
+    "answer": "C",
+    "input": "Question: What is produced during photosynthesis?\nOptions:\n(A) hydrogen\n(B) nylon\n(C) oxygen\n(D) light\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "miscellaneous",
+    "question": "Which of these songs was a Top 10 hit for the rock band The Police?",
+    "choices": [
+      "'Radio Ga-Ga'",
+      "'Ob-la-di Ob-la-da'",
+      "'De Do Do Do De Da Da Da'",
+      "'In-a-Gadda-Da-Vida'"
+    ],
+    "answer": "C",
+    "input": "Question: Which of these songs was a Top 10 hit for the rock band The Police?\nOptions:\n(A) 'Radio Ga-Ga'\n(B) 'Ob-la-di Ob-la-da'\n(C) 'De Do Do Do De Da Da Da'\n(D) 'In-a-Gadda-Da-Vida'\nAnswer:",
+    "target": "(C)"
+  }
+]

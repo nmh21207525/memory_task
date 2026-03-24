@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "business_ethics",
+    "question": "Beyond the business case for engaging in CSR there are a number of moral arguments relating to: negative _______, the _______that corporations possess and the ________ of business and society.",
+    "choices": [
+      "Externalities, Power, Independence",
+      "Publicity, Insubstantial resources, Mutual dependence",
+      "Publicity, Power, Independence",
+      "Externalities, Power, Mutual dependence"
+    ],
+    "answer": "D",
+    "input": "Question: Beyond the business case for engaging in CSR there are a number of moral arguments relating to: negative _______, the _______that corporations possess and the ________ of business and society.\nOptions:\n(A) Externalities, Power, Independence\n(B) Publicity, Insubstantial resources, Mutual dependence\n(C) Publicity, Power, Independence\n(D) Externalities, Power, Mutual dependence\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes.",
+    "choices": [
+      "Corporate social responsibility",
+      "Business ethics management",
+      "Sustainability",
+      "Environmental management"
+    ],
+    "answer": "B",
+    "input": "Question: _______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes.\nOptions:\n(A) Corporate social responsibility\n(B) Business ethics management\n(C) Sustainability\n(D) Environmental management\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "To ensure the independence of the non-executive board members, they are a number of steps which can be taken, which include non-executives being drawn from _______ the company, being appointed for a _________ time period as well as being appointed _________.",
+    "choices": [
+      "Outside, Limited, Independently",
+      "Inside, Limited, Intermittently",
+      "Outside, Unlimited, Intermittently",
+      "Inside, Unlimited, Independently"
+    ],
+    "answer": "A",
+    "input": "Question: To ensure the independence of the non-executive board members, they are a number of steps which can be taken, which include non-executives being drawn from _______ the company, being appointed for a _________ time period as well as being appointed _________.\nOptions:\n(A) Outside, Limited, Independently\n(B) Inside, Limited, Intermittently\n(C) Outside, Unlimited, Intermittently\n(D) Inside, Unlimited, Independently\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Three contrasting tactics that CSO's can engage in to meet their aims are ________ which typically involves research and communication, ________, which may involve physically attacking a company's operations or ________, often involving some form of _______.",
+    "choices": [
+      "Non-violent direct action, Violent direct action, Indirect action, Boycott",
+      "Indirect action, Instrumental action, Non-violent direct action, Information campaign",
+      "Indirect action, Violent direct action, Non-violent direct-action Boycott",
+      "Non-violent direct action, Instrumental action, Indirect action, Information campaign"
+    ],
+    "answer": "C",
+    "input": "Question: Three contrasting tactics that CSO's can engage in to meet their aims are ________ which typically involves research and communication, ________, which may involve physically attacking a company's operations or ________, often involving some form of _______.\nOptions:\n(A) Non-violent direct action, Violent direct action, Indirect action, Boycott\n(B) Indirect action, Instrumental action, Non-violent direct action, Information campaign\n(C) Indirect action, Violent direct action, Non-violent direct-action Boycott\n(D) Non-violent direct action, Instrumental action, Indirect action, Information campaign\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "In contrast to _______, _______ aim to reward favourable behaviour by companies. The success of such campaigns have been heightened through the use of ___________, which allow campaigns to facilitate the company in achieving _________ .",
+    "choices": [
+      "Buycotts, Boycotts, Blockchain technology, Charitable donations",
+      "Buycotts, Boycotts, Digital technology, Increased Sales",
+      "Boycotts, Buyalls, Blockchain technology, Charitable donations",
+      "Boycotts, Buycotts, Digital technology, Increased Sales"
+    ],
+    "answer": "D",
+    "input": "Question: In contrast to _______, _______ aim to reward favourable behaviour by companies. The success of such campaigns have been heightened through the use of ___________, which allow campaigns to facilitate the company in achieving _________ .\nOptions:\n(A) Buycotts, Boycotts, Blockchain technology, Charitable donations\n(B) Buycotts, Boycotts, Digital technology, Increased Sales\n(C) Boycotts, Buyalls, Blockchain technology, Charitable donations\n(D) Boycotts, Buycotts, Digital technology, Increased Sales\nAnswer:",
+    "target": "(D)"
+  }
+]

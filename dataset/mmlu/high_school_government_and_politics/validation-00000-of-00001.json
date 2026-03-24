@@ -1,0 +1,275 @@
+[
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following accurately describes congressional committees? I. The committee chairpersons always belong to the majority party. II. Seats on each committee are divided between the two major parties in exact proportion to the parties' representation in Congress. III. They recommend whether Congress should pass various pieces of legislation, and those recommendations are always approved by the full congressional body. IV. When a committee vote results in a tie, the vice president casts the tie-breaking vote.",
+    "choices": [
+      "I only",
+      "II only",
+      "I and III only",
+      "II and III only"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following accurately describes congressional committees? I. The committee chairpersons always belong to the majority party. II. Seats on each committee are divided between the two major parties in exact proportion to the parties' representation in Congress. III. They recommend whether Congress should pass various pieces of legislation, and those recommendations are always approved by the full congressional body. IV. When a committee vote results in a tie, the vice president casts the tie-breaking vote.\nOptions:\n(A) I only\n(B) II only\n(C) I and III only\n(D) II and III only\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following statements about interest groups is accurate?",
+    "choices": [
+      "They don't use campaign funding as a tactic to win favor with legislators.",
+      "They are more successful when their members all belong to the same political party.",
+      "They rarely cover issues that appeal to residents of more than one state.",
+      "They generally are not focused on appealing to a broad group of people."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements about interest groups is accurate?\nOptions:\n(A) They don't use campaign funding as a tactic to win favor with legislators.\n(B) They are more successful when their members all belong to the same political party.\n(C) They rarely cover issues that appeal to residents of more than one state.\n(D) They generally are not focused on appealing to a broad group of people.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The government often finds it difficult to make substantive changes to entitlement programs for which of the following reasons?",
+    "choices": [
+      "Most such programs were established by constitutional amendment.",
+      "These programs are extremely popular among their numerous beneficiaries.",
+      "Such programs are vital to national defense.",
+      "Most such programs primarily benefit the wealthy, a powerful political bloc."
+    ],
+    "answer": "B",
+    "input": "Question: The government often finds it difficult to make substantive changes to entitlement programs for which of the following reasons?\nOptions:\n(A) Most such programs were established by constitutional amendment.\n(B) These programs are extremely popular among their numerous beneficiaries.\n(C) Such programs are vital to national defense.\n(D) Most such programs primarily benefit the wealthy, a powerful political bloc.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following describes an unintended result of the Federal Election Campaign Act of 1974?",
+    "choices": [
+      "Limits were placed on the amount of money individuals could donate to a federal election campaign.",
+      "Federal funding became available to presidential candidates who agree to abide by spending limits.",
+      "Candidates drastically decreased the amount of money spent on television advertising.",
+      "Thousands of political action committees were created to raise funds for candidates."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following describes an unintended result of the Federal Election Campaign Act of 1974?\nOptions:\n(A) Limits were placed on the amount of money individuals could donate to a federal election campaign.\n(B) Federal funding became available to presidential candidates who agree to abide by spending limits.\n(C) Candidates drastically decreased the amount of money spent on television advertising.\n(D) Thousands of political action committees were created to raise funds for candidates.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Legislative oversight occurs when",
+    "choices": [
+      "congressional committees investigate and evaluate the performance of executive agencies and departments",
+      "a court is unwilling to break with precedent to overturn legislative acts",
+      "the Supreme Court declares laws or executive actions unconstitutional",
+      "an amendment to a bill is proposed that softens more objectionable elements of the bill"
+    ],
+    "answer": "A",
+    "input": "Question: Legislative oversight occurs when\nOptions:\n(A) congressional committees investigate and evaluate the performance of executive agencies and departments\n(B) a court is unwilling to break with precedent to overturn legislative acts\n(C) the Supreme Court declares laws or executive actions unconstitutional\n(D) an amendment to a bill is proposed that softens more objectionable elements of the bill\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The largest portion of the federal budget covers the costs of",
+    "choices": [
+      "national defense",
+      "the Department of Energy",
+      "interest on the national debt",
+      "entitlement programs"
+    ],
+    "answer": "D",
+    "input": "Question: The largest portion of the federal budget covers the costs of\nOptions:\n(A) national defense\n(B) the Department of Energy\n(C) interest on the national debt\n(D) entitlement programs\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following is an accurate statement about the federal court system?",
+    "choices": [
+      "The creation of new federal courts requires a constitutional amendment.",
+      "The creation of new federal courts requires the unanimous consent of all 50 states.",
+      "The Supreme Court has the sole power to create new federal courts.",
+      "Congress has the power to create new federal courts."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is an accurate statement about the federal court system?\nOptions:\n(A) The creation of new federal courts requires a constitutional amendment.\n(B) The creation of new federal courts requires the unanimous consent of all 50 states.\n(C) The Supreme Court has the sole power to create new federal courts.\n(D) Congress has the power to create new federal courts.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The media play a major role in establishing the public agenda by",
+    "choices": [
+      "deciding how prominently to cover issue-related news stories",
+      "refusing to publicize the opinions of any pundit deemed \"too political\"",
+      "reviewing the accuracy of candidates' campaign advertisements",
+      "reporting political news from foreign nations"
+    ],
+    "answer": "A",
+    "input": "Question: The media play a major role in establishing the public agenda by\nOptions:\n(A) deciding how prominently to cover issue-related news stories\n(B) refusing to publicize the opinions of any pundit deemed \"too political\"\n(C) reviewing the accuracy of candidates' campaign advertisements\n(D) reporting political news from foreign nations\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "During the second half of the twentieth century, the Supreme Court's position on free speech was that",
+    "choices": [
+      "free speech is essential to liberty and therefore may be abridged only under extreme circumstances",
+      "the government may never limit speech because free speech is protected by the First Amendment",
+      "state governments may place limits on free speech, but the national government may not because of the First Amendment",
+      "the government may limit speech that the majority of Americans finds offensive"
+    ],
+    "answer": "A",
+    "input": "Question: During the second half of the twentieth century, the Supreme Court's position on free speech was that\nOptions:\n(A) free speech is essential to liberty and therefore may be abridged only under extreme circumstances\n(B) the government may never limit speech because free speech is protected by the First Amendment\n(C) state governments may place limits on free speech, but the national government may not because of the First Amendment\n(D) the government may limit speech that the majority of Americans finds offensive\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "An \"unfunded mandate\" is created when the federal government requires state and municipal governments to",
+    "choices": [
+      "collect a sales tax in their areas without instructions on how to spend the revenues",
+      "comply with federal laws, even if those laws conflict with state and municipal laws",
+      "issue short-term bonds without specifying the interest rate for those bonds",
+      "fulfill a particular duty but does not provide the finances for doing so"
+    ],
+    "answer": "D",
+    "input": "Question: An \"unfunded mandate\" is created when the federal government requires state and municipal governments to\nOptions:\n(A) collect a sales tax in their areas without instructions on how to spend the revenues\n(B) comply with federal laws, even if those laws conflict with state and municipal laws\n(C) issue short-term bonds without specifying the interest rate for those bonds\n(D) fulfill a particular duty but does not provide the finances for doing so\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following court decisions did NOT deal with the First Amendment?",
+    "choices": [
+      "Roe v. Wade",
+      "New York Times v. United States",
+      "DeJonge v. Oregon",
+      "Dennis v. United States"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following court decisions did NOT deal with the First Amendment?\nOptions:\n(A) Roe v. Wade\n(B) New York Times v. United States\n(C) DeJonge v. Oregon\n(D) Dennis v. United States\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Before serving in the House of Representatives or Senate, the greatest number of federal legislators",
+    "choices": [
+      "own and operate small businesses",
+      "are professional athletes",
+      "teach political science at the college level",
+      "earn law degrees"
+    ],
+    "answer": "D",
+    "input": "Question: Before serving in the House of Representatives or Senate, the greatest number of federal legislators\nOptions:\n(A) own and operate small businesses\n(B) are professional athletes\n(C) teach political science at the college level\n(D) earn law degrees\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The separation of church and state is articulated in the",
+    "choices": [
+      "establishment clause",
+      "Nineteenth Amendment",
+      "inevitable discovery rule",
+      "Seventh Amendment"
+    ],
+    "answer": "A",
+    "input": "Question: The separation of church and state is articulated in the\nOptions:\n(A) establishment clause\n(B) Nineteenth Amendment\n(C) inevitable discovery rule\n(D) Seventh Amendment\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "An appointment to which of the following offices is NOT subject to confirmation by the U.S. Senate?",
+    "choices": [
+      "Securities and Exchange commissioner",
+      "Secretary of the Interior",
+      "White House Chief of Staff",
+      "Administrator of the Environmental Protection Agency"
+    ],
+    "answer": "C",
+    "input": "Question: An appointment to which of the following offices is NOT subject to confirmation by the U.S. Senate?\nOptions:\n(A) Securities and Exchange commissioner\n(B) Secretary of the Interior\n(C) White House Chief of Staff\n(D) Administrator of the Environmental Protection Agency\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which group most frequently benefits from political action committee (PAC) donations?",
+    "choices": [
+      "Charitable organizations",
+      "Federal judges",
+      "Political interest groups",
+      "Incumbents running for reelection"
+    ],
+    "answer": "D",
+    "input": "Question: Which group most frequently benefits from political action committee (PAC) donations?\nOptions:\n(A) Charitable organizations\n(B) Federal judges\n(C) Political interest groups\n(D) Incumbents running for reelection\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following statements best describes the central constitutional issue concerning the death penalty?",
+    "choices": [
+      "The death penalty violates the prohibition of double jeopardy.",
+      "Different states use different means of executing convicts in capital cases.",
+      "The death penalty arguably constitutes cruel and unusual punishment.",
+      "Federal law and state law differ in their definitions of what constitutes a capital crime."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements best describes the central constitutional issue concerning the death penalty?\nOptions:\n(A) The death penalty violates the prohibition of double jeopardy.\n(B) Different states use different means of executing convicts in capital cases.\n(C) The death penalty arguably constitutes cruel and unusual punishment.\n(D) Federal law and state law differ in their definitions of what constitutes a capital crime.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Congress's power to determine national policy",
+    "choices": [
+      "usually increases as a president's popularity decreases, and vice versa",
+      "has declined steadily since the ratification of the Constitution",
+      "is severely limited by the \"elastic clause\" of the Constitution",
+      "increases during times of war"
+    ],
+    "answer": "A",
+    "input": "Question: Congress's power to determine national policy\nOptions:\n(A) usually increases as a president's popularity decreases, and vice versa\n(B) has declined steadily since the ratification of the Constitution\n(C) is severely limited by the \"elastic clause\" of the Constitution\n(D) increases during times of war\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The responsibilities of the secretary of state are most likely to overlap with those of",
+    "choices": [
+      "the secretary of the interior",
+      "the secretary of the treasury",
+      "the speaker of the house",
+      "the chief national security advisor to the president"
+    ],
+    "answer": "D",
+    "input": "Question: The responsibilities of the secretary of state are most likely to overlap with those of\nOptions:\n(A) the secretary of the interior\n(B) the secretary of the treasury\n(C) the speaker of the house\n(D) the chief national security advisor to the president\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Which of the following processes best exemplifies the federal structure of the United States government?",
+    "choices": [
+      "Amending the United States Constitution",
+      "Imposing export taxes",
+      "Spending treasury money without the passage of an appropriations bill",
+      "Granting titles of nobility"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following processes best exemplifies the federal structure of the United States government?\nOptions:\n(A) Amending the United States Constitution\n(B) Imposing export taxes\n(C) Spending treasury money without the passage of an appropriations bill\n(D) Granting titles of nobility\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "The national and state governments share all of the following powers EXCEPT the power to",
+    "choices": [
+      "administer elections",
+      "impose taxes",
+      "establish courts",
+      "borrow money"
+    ],
+    "answer": "A",
+    "input": "Question: The national and state governments share all of the following powers EXCEPT the power to\nOptions:\n(A) administer elections\n(B) impose taxes\n(C) establish courts\n(D) borrow money\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_government_and_politics",
+    "question": "Federalism is a principle of government in which",
+    "choices": [
+      "power is shared between the national government and state governments",
+      "states have equal representation in the national government",
+      "individual liberties are guaranteed by a Bill of Rights",
+      "legislative, executive, and judicial powers are separated"
+    ],
+    "answer": "A",
+    "input": "Question: Federalism is a principle of government in which\nOptions:\n(A) power is shared between the national government and state governments\n(B) states have equal representation in the national government\n(C) individual liberties are guaranteed by a Bill of Rights\n(D) legislative, executive, and judicial powers are separated\nAnswer:",
+    "target": "(A)"
+  }
+]

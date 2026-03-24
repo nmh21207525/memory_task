@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "global_facts",
+    "question": "Which of the following pairs of statements are both true (as of 2019)?",
+    "choices": [
+      "People tend to be optimistic about their own future and the future of their nation or the world.",
+      "People tend to be optimistic about their own future but pessimistic about the future of their nation or the world.",
+      "People tend to be pessimistic about their own future but optimistic about the future of their nation or the world.",
+      "People tend to be pessimistic about their own future and the future of their nation or the world."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following pairs of statements are both true (as of 2019)?\nOptions:\n(A) People tend to be optimistic about their own future and the future of their nation or the world.\n(B) People tend to be optimistic about their own future but pessimistic about the future of their nation or the world.\n(C) People tend to be pessimistic about their own future but optimistic about the future of their nation or the world.\n(D) People tend to be pessimistic about their own future and the future of their nation or the world.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of Americans agree that the state is run for the benefit of all the people?",
+    "choices": [
+      "31%",
+      "46%",
+      "61%",
+      "76%"
+    ],
+    "answer": "B",
+    "input": "Question: As of 2019, about what percentage of Americans agree that the state is run for the benefit of all the people?\nOptions:\n(A) 31%\n(B) 46%\n(C) 61%\n(D) 76%\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "As of 2015, since 1990 forests have ____ in Europe and have ____ in Africa and the Americas.",
+    "choices": [
+      "increased, increased",
+      "increased, decreased",
+      "decreased, increased",
+      "decreased, decreased"
+    ],
+    "answer": "B",
+    "input": "Question: As of 2015, since 1990 forests have ____ in Europe and have ____ in Africa and the Americas.\nOptions:\n(A) increased, increased\n(B) increased, decreased\n(C) decreased, increased\n(D) decreased, decreased\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "As of 2019, about what percentage of Russians say it is very important to have free media in our country without government/state censorship?",
+    "choices": [
+      "38%",
+      "53%",
+      "68%",
+      "83%"
+    ],
+    "answer": "A",
+    "input": "Question: As of 2019, about what percentage of Russians say it is very important to have free media in our country without government/state censorship?\nOptions:\n(A) 38%\n(B) 53%\n(C) 68%\n(D) 83%\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "global_facts",
+    "question": "As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *",
+    "choices": [
+      "80%",
+      "60%",
+      "40%",
+      "20%"
+    ],
+    "answer": "A",
+    "input": "Question: As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *\nOptions:\n(A) 80%\n(B) 60%\n(C) 40%\n(D) 20%\nAnswer:",
+    "target": "(A)"
+  }
+]

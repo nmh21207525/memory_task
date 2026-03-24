@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "astronomy",
+    "question": "You are pushing a truck along a road. Would it be easier to accelerate this truck on Mars? Why? (Assume there is no friction)",
+    "choices": [
+      "It would be harder since the truck is heavier on Mars.",
+      "It would be easier since the truck is lighter on Mars.",
+      "It would be harder since the truck is lighter on Mars.",
+      "It would be the same no matter where you are."
+    ],
+    "answer": "D",
+    "input": "Question: You are pushing a truck along a road. Would it be easier to accelerate this truck on Mars? Why? (Assume there is no friction)\nOptions:\n(A) It would be harder since the truck is heavier on Mars.\n(B) It would be easier since the truck is lighter on Mars.\n(C) It would be harder since the truck is lighter on Mars.\n(D) It would be the same no matter where you are.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Where do most short-period comets come from and how do we know?",
+    "choices": [
+      "The Kuiper belt; short period comets tend to be in the plane of the solar system just like the Kuiper belt.",
+      "The Kuiper belt; short period comets tend to come from random directions indicating a spherical distribution of comets called the Kuiper belt.",
+      "The asteroid belt; short period comets have orbital periods similar to asteroids like Vesta and are found in the plane of the solar system just like the asteroid belt.",
+      "The Oort cloud; short period comets tend to be in the plane of the solar system just like the Oort cloud."
+    ],
+    "answer": "A",
+    "input": "Question: Where do most short-period comets come from and how do we know?\nOptions:\n(A) The Kuiper belt; short period comets tend to be in the plane of the solar system just like the Kuiper belt.\n(B) The Kuiper belt; short period comets tend to come from random directions indicating a spherical distribution of comets called the Kuiper belt.\n(C) The asteroid belt; short period comets have orbital periods similar to asteroids like Vesta and are found in the plane of the solar system just like the asteroid belt.\n(D) The Oort cloud; short period comets tend to be in the plane of the solar system just like the Oort cloud.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Say the pupil of your eye has a diameter of 5 mm and you have a telescope with an aperture of 50 cm. How much more light can the telescope gather than your eye?",
+    "choices": [
+      "10000 times more",
+      "100 times more",
+      "1000 times more",
+      "10 times more"
+    ],
+    "answer": "A",
+    "input": "Question: Say the pupil of your eye has a diameter of 5 mm and you have a telescope with an aperture of 50 cm. How much more light can the telescope gather than your eye?\nOptions:\n(A) 10000 times more\n(B) 100 times more\n(C) 1000 times more\n(D) 10 times more\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Why isn't there a planet where the asteroid belt is located?",
+    "choices": [
+      "A planet once formed here but it was broken apart by a catastrophic collision.",
+      "There was not enough material in this part of the solar nebula to form a planet.",
+      "There was too much rocky material to form a terrestrial planet but not enough gaseous material to form a jovian planet.",
+      "Resonance with Jupiter prevented material from collecting together to form a planet."
+    ],
+    "answer": "D",
+    "input": "Question: Why isn't there a planet where the asteroid belt is located?\nOptions:\n(A) A planet once formed here but it was broken apart by a catastrophic collision.\n(B) There was not enough material in this part of the solar nebula to form a planet.\n(C) There was too much rocky material to form a terrestrial planet but not enough gaseous material to form a jovian planet.\n(D) Resonance with Jupiter prevented material from collecting together to form a planet.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "astronomy",
+    "question": "Why is Mars red?",
+    "choices": [
+      "Because the surface is covered with heavily oxidized (\"rusted\") minerals.",
+      "Because the atmosphere scatters more light at bluer wavelengths transmitting mostly red light.",
+      "Because Mars is covered with ancient lava flows which are red in color.",
+      "Because flowing water on Mars's surface altered the surface minerals several billion years ago."
+    ],
+    "answer": "A",
+    "input": "Question: Why is Mars red?\nOptions:\n(A) Because the surface is covered with heavily oxidized (\"rusted\") minerals.\n(B) Because the atmosphere scatters more light at bluer wavelengths transmitting mostly red light.\n(C) Because Mars is covered with ancient lava flows which are red in color.\n(D) Because flowing water on Mars's surface altered the surface minerals several billion years ago.\nAnswer:",
+    "target": "(A)"
+  }
+]

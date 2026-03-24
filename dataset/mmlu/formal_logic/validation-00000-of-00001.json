@@ -1,0 +1,184 @@
+[
+  {
+    "subject": "formal_logic",
+    "question": "Identify the antecedent of the following conditional proposition: If the Bees win their first game, then neither the Aardvarks nor the Chipmunks win their first games.",
+    "choices": [
+      "The Aardvarks do not win their first game.",
+      "The Bees win their first game.",
+      "The Chipmunks do not win their first game.",
+      "Neither the Aardvarks nor the Chipmunks win their first games."
+    ],
+    "answer": "B",
+    "input": "Question: Identify the antecedent of the following conditional proposition: If the Bees win their first game, then neither the Aardvarks nor the Chipmunks win their first games.\nOptions:\n(A) The Aardvarks do not win their first game.\n(B) The Bees win their first game.\n(C) The Chipmunks do not win their first game.\n(D) Neither the Aardvarks nor the Chipmunks win their first games.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Which of the given formulas of PL is the best symbolization of the following sentence?\nElliott likes to skateboard or he likes to write songs and to play them.",
+    "choices": [
+      "S ∨ (W • P)",
+      "(S ∨ W) ∨ P",
+      "S • (W ∨ P)",
+      "(S • W) ∨ P"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the given formulas of PL is the best symbolization of the following sentence?\nElliott likes to skateboard or he likes to write songs and to play them.\nOptions:\n(A) S ∨ (W • P)\n(B) (S ∨ W) ∨ P\n(C) S • (W ∨ P)\n(D) (S • W) ∨ P\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Which of the given formulas of PL is the best symbolization of the following sentence?\nA married couple can report their combined income and deduct their combined allowable expenses on one return provided that only one had income or they did not live together all year.",
+    "choices": [
+      "(R • D) ⊃ (I ∨ ~L)",
+      "(I ∨ ~L) ⊃ (R • D)",
+      "R • [(I ⊃ D) ∨ ~L]",
+      "~(I ∨ L) ⊃ (R • D)"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the given formulas of PL is the best symbolization of the following sentence?\nA married couple can report their combined income and deduct their combined allowable expenses on one return provided that only one had income or they did not live together all year.\nOptions:\n(A) (R • D) ⊃ (I ∨ ~L)\n(B) (I ∨ ~L) ⊃ (R • D)\n(C) R • [(I ⊃ D) ∨ ~L]\n(D) ~(I ∨ L) ⊃ (R • D)\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Select the best translation into predicate logic.Some robbers steal money from a bank. (Bx: x is a bank; Mx: x is money; Rx: x is a robber; Sxyz: x steals y from z)",
+    "choices": [
+      "(∃x){Bx • (∃y)[Ry • (∀z)(Mz ⊃ Syzx)]}",
+      "(∃x)(∃y)(∃z)[(Rx • By) • (Mz • Syxz)]",
+      "(∃x){Rx ⊃ (∃y)[My ⊃ (∃z)(Bz ⊃ Sxyz)]}",
+      "(∃x){Rx • (∃y)[My • (∃z)(Bz • Sxyz)]}"
+    ],
+    "answer": "D",
+    "input": "Question: Select the best translation into predicate logic.Some robbers steal money from a bank. (Bx: x is a bank; Mx: x is money; Rx: x is a robber; Sxyz: x steals y from z)\nOptions:\n(A) (∃x){Bx • (∃y)[Ry • (∀z)(Mz ⊃ Syzx)]}\n(B) (∃x)(∃y)(∃z)[(Rx • By) • (Mz • Syxz)]\n(C) (∃x){Rx ⊃ (∃y)[My ⊃ (∃z)(Bz ⊃ Sxyz)]}\n(D) (∃x){Rx • (∃y)[My • (∃z)(Bz • Sxyz)]}\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~[(G ⊃ H) ∨ ~H] and ~G ⊃ G",
+    "choices": [
+      "Logically equivalent",
+      "Contradictory",
+      "Neither logically equivalent nor contradictory, but consistent",
+      "Inconsistent"
+    ],
+    "answer": "D",
+    "input": "Question: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~[(G ⊃ H) ∨ ~H] and ~G ⊃ G\nOptions:\n(A) Logically equivalent\n(B) Contradictory\n(C) Neither logically equivalent nor contradictory, but consistent\n(D) Inconsistent\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nD ⊃ (~E ⊃ F)\n~D ⊃ E\n~E / F",
+    "choices": [
+      "Valid",
+      "Invalid. Counterexample when D and E are true and F is false",
+      "Invalid. Counterexample when D is true and E and F are false",
+      "Invalid. Counterexample when E is true and D and F are false"
+    ],
+    "answer": "A",
+    "input": "Question: Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nD ⊃ (~E ⊃ F)\n~D ⊃ E\n~E / F\nOptions:\n(A) Valid\n(B) Invalid. Counterexample when D and E are true and F is false\n(C) Invalid. Counterexample when D is true and E and F are false\n(D) Invalid. Counterexample when E is true and D and F are false\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){(Lx • Ax) ⊃ (∃y)[(Hy • ~Ly) • Bxy]}",
+    "choices": [
+      "All large apartments are bigger than all houses that are not large.",
+      "Some house that is not large is bigger than all large apartments.",
+      "Any apartment bigger than a house that is not large is large.",
+      "Every large apartment is bigger than some house that is not large."
+    ],
+    "answer": "D",
+    "input": "Question: Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){(Lx • Ax) ⊃ (∃y)[(Hy • ~Ly) • Bxy]}\nOptions:\n(A) All large apartments are bigger than all houses that are not large.\n(B) Some house that is not large is bigger than all large apartments.\n(C) Any apartment bigger than a house that is not large is large.\n(D) Every large apartment is bigger than some house that is not large.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(A ∨ B) ∨ C\n~C\n~A ⊃ B",
+    "choices": [
+      "Inconsistent",
+      "Consistent. Consistent valuation when A and B are true and C is false",
+      "Consistent. Consistent valuation when A and C are true and B is false",
+      "Consistent. Consistent valuation when B and C are true and A is false"
+    ],
+    "answer": "B",
+    "input": "Question: Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(A ∨ B) ∨ C\n~C\n~A ⊃ B\nOptions:\n(A) Inconsistent\n(B) Consistent. Consistent valuation when A and B are true and C is false\n(C) Consistent. Consistent valuation when A and C are true and B is false\n(D) Consistent. Consistent valuation when B and C are true and A is false\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n~(J ∨ ~K)\nL ⊃ M\n(J ∨ L) ⊃ (K · M)",
+    "choices": [
+      "Inconsistent",
+      "Consistent. Consistent valuation when J, K, and M are true and L is false",
+      "Consistent. Consistent valuation when L and M are true and J and K are false",
+      "Consistent. Consistent valuation when K and M are true and J and L are false"
+    ],
+    "answer": "D",
+    "input": "Question: Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n~(J ∨ ~K)\nL ⊃ M\n(J ∨ L) ⊃ (K · M)\nOptions:\n(A) Inconsistent\n(B) Consistent. Consistent valuation when J, K, and M are true and L is false\n(C) Consistent. Consistent valuation when L and M are true and J and K are false\n(D) Consistent. Consistent valuation when K and M are true and J and L are false\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~E ∨ F\n~F / E",
+    "choices": [
+      "Valid",
+      "Invalid. Counterexample when E and F are true",
+      "Invalid. Counterexample when E is true and F is false",
+      "Invalid. Counterexample when E and F are false"
+    ],
+    "answer": "D",
+    "input": "Question: Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~E ∨ F\n~F / E\nOptions:\n(A) Valid\n(B) Invalid. Counterexample when E and F are true\n(C) Invalid. Counterexample when E is true and F is false\n(D) Invalid. Counterexample when E and F are false\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nP ≡ Q\n~Q ≡ R\nR ≡ P\nS ≡ ~P\nS ≡ R",
+    "choices": [
+      "Inconsistent",
+      "Consistent. Consistent valuation when P and Q are true and R and S are false",
+      "Consistent. Consistent valuation when P, Q, R, and S are true",
+      "Consistent. Consistent valuation when R and S are true and P and Q are false"
+    ],
+    "answer": "A",
+    "input": "Question: Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nP ≡ Q\n~Q ≡ R\nR ≡ P\nS ≡ ~P\nS ≡ R\nOptions:\n(A) Inconsistent\n(B) Consistent. Consistent valuation when P and Q are true and R and S are false\n(C) Consistent. Consistent valuation when P, Q, R, and S are true\n(D) Consistent. Consistent valuation when R and S are true and P and Q are false\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nA ⊃ (~B ≡ C)\nB ≡ D\n~C ≡ ~D / ~A",
+    "choices": [
+      "Valid",
+      "Invalid. Counterexample when A, B, and D are true and C is false",
+      "Invalid. Counterexample when A and B are true and C and D are false",
+      "Invalid. Counterexample when A, C, and D are true and B is false"
+    ],
+    "answer": "A",
+    "input": "Question: Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nA ⊃ (~B ≡ C)\nB ≡ D\n~C ≡ ~D / ~A\nOptions:\n(A) Valid\n(B) Invalid. Counterexample when A, B, and D are true and C is false\n(C) Invalid. Counterexample when A and B are true and C and D are false\n(D) Invalid. Counterexample when A, C, and D are true and B is false\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nA ⊃ ~B and B ⊃ A",
+    "choices": [
+      "Logically equivalent",
+      "Contradictory",
+      "Neither logically equivalent nor contradictory, but consistent",
+      "Inconsistent"
+    ],
+    "answer": "C",
+    "input": "Question: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nA ⊃ ~B and B ⊃ A\nOptions:\n(A) Logically equivalent\n(B) Contradictory\n(C) Neither logically equivalent nor contradictory, but consistent\n(D) Inconsistent\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "formal_logic",
+    "question": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(G ≡ H) ⊃ H\n~H ∨ I\nG · ~I",
+    "choices": [
+      "Inconsistent",
+      "Consistent. Consistent valuation when G, H, and I are true",
+      "Consistent. Consistent valuation when G and H are true and I is false",
+      "Consistent. Consistent valuation when G is true and H and I are false"
+    ],
+    "answer": "D",
+    "input": "Question: Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(G ≡ H) ⊃ H\n~H ∨ I\nG · ~I\nOptions:\n(A) Inconsistent\n(B) Consistent. Consistent valuation when G, H, and I are true\n(C) Consistent. Consistent valuation when G and H are true and I is false\n(D) Consistent. Consistent valuation when G is true and H and I are false\nAnswer:",
+    "target": "(D)"
+  }
+]

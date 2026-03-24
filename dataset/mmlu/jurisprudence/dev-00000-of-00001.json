@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "jurisprudence",
+    "question": "Which position does Rawls claim is the least likely to be adopted by the POP (people in the original position)?",
+    "choices": [
+      "The POP would choose equality above liberty.",
+      "The POP would opt for the 'maximin' strategy.",
+      "The POP would opt for the 'difference principle'.",
+      "The POP would reject the 'system of natural liberty.'"
+    ],
+    "answer": "A",
+    "input": "Question: Which position does Rawls claim is the least likely to be adopted by the POP (people in the original position)?\nOptions:\n(A) The POP would choose equality above liberty.\n(B) The POP would opt for the 'maximin' strategy.\n(C) The POP would opt for the 'difference principle'.\n(D) The POP would reject the 'system of natural liberty.'\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Functions of the law include all but which of the following?",
+    "choices": [
+      "maximizing individual freedom",
+      "providing a basis for compromise",
+      "keeping the peace",
+      "promoting the principles of the free enterprise system"
+    ],
+    "answer": "D",
+    "input": "Question: Functions of the law include all but which of the following?\nOptions:\n(A) maximizing individual freedom\n(B) providing a basis for compromise\n(C) keeping the peace\n(D) promoting the principles of the free enterprise system\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Which word best summarizes Weber's explanation of the development of formally rational law?",
+    "choices": [
+      "Authority.",
+      "Charisma.",
+      "Co-operation.",
+      "Capitalism."
+    ],
+    "answer": "D",
+    "input": "Question: Which word best summarizes Weber's explanation of the development of formally rational law?\nOptions:\n(A) Authority.\n(B) Charisma.\n(C) Co-operation.\n(D) Capitalism.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "The ________ School of jurisprudence postulates that the law is based on what is \"correct.\"",
+    "choices": [
+      "Natural Law",
+      "Analytical",
+      "Historical",
+      "Sociological"
+    ],
+    "answer": "A",
+    "input": "Question: The ________ School of jurisprudence postulates that the law is based on what is \"correct.\"\nOptions:\n(A) Natural Law\n(B) Analytical\n(C) Historical\n(D) Sociological\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "jurisprudence",
+    "question": "Iverson Jewelers wrote a letter to Miller, 'We have received an exceptionally fine self winding Rolox watch which we will sell to you at a very favorable price.'",
+    "choices": [
+      "The letter is an offer to sell",
+      "A valid offer cannot be made by letter.",
+      "The letter contains a valid offer which will terminate within a reasonable time.",
+      "The letter lacks one of the essential elements of an offer."
+    ],
+    "answer": "D",
+    "input": "Question: Iverson Jewelers wrote a letter to Miller, 'We have received an exceptionally fine self winding Rolox watch which we will sell to you at a very favorable price.'\nOptions:\n(A) The letter is an offer to sell\n(B) A valid offer cannot be made by letter.\n(C) The letter contains a valid offer which will terminate within a reasonable time.\n(D) The letter lacks one of the essential elements of an offer.\nAnswer:",
+    "target": "(D)"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "human_sexuality",
+    "question": "Morning sickness is typically a problem:",
+    "choices": [
+      "during the first trimester",
+      "during the second trimester",
+      "during the third trimester",
+      "all through the pregnancy"
+    ],
+    "answer": "A",
+    "input": "Question: Morning sickness is typically a problem:\nOptions:\n(A) during the first trimester\n(B) during the second trimester\n(C) during the third trimester\n(D) all through the pregnancy\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "A woman who knows she has active herpes and untreated syphilis but continues to have sex without informing her partners of her condition has, in psychoanalytic terms:",
+    "choices": [
+      "a strong ego",
+      "a weak superego",
+      "a weak id",
+      "a strong superego"
+    ],
+    "answer": "B",
+    "input": "Question: A woman who knows she has active herpes and untreated syphilis but continues to have sex without informing her partners of her condition has, in psychoanalytic terms:\nOptions:\n(A) a strong ego\n(B) a weak superego\n(C) a weak id\n(D) a strong superego\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "Women's ability to have multiple orgasms is primarily due to:",
+    "choices": [
+      "the fact that they do not have a refractory period.",
+      "the response of the inner layers of the vagina.",
+      "having alternating orgasms in different locations.",
+      "the G-Spot."
+    ],
+    "answer": "A",
+    "input": "Question: Women's ability to have multiple orgasms is primarily due to:\nOptions:\n(A) the fact that they do not have a refractory period.\n(B) the response of the inner layers of the vagina.\n(C) having alternating orgasms in different locations.\n(D) the G-Spot.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "The nature of homosexual activities that occur during preadolescence include all but which of the following?",
+    "choices": [
+      "sexual intercourse",
+      "circle jerks",
+      "exhibitionism",
+      "touching each other's genitals"
+    ],
+    "answer": "A",
+    "input": "Question: The nature of homosexual activities that occur during preadolescence include all but which of the following?\nOptions:\n(A) sexual intercourse\n(B) circle jerks\n(C) exhibitionism\n(D) touching each other's genitals\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_sexuality",
+    "question": "The most common disorder among men who seek sexual therapy is:",
+    "choices": [
+      "premature ejaculation",
+      "inhibited ejaculation",
+      "erectile disorder",
+      "ejaculatory disorder"
+    ],
+    "answer": "C",
+    "input": "Question: The most common disorder among men who seek sexual therapy is:\nOptions:\n(A) premature ejaculation\n(B) inhibited ejaculation\n(C) erectile disorder\n(D) ejaculatory disorder\nAnswer:",
+    "target": "(C)"
+  }
+]

@@ -1,0 +1,1887 @@
+[
+  {
+    "subject": "electrical_engineering",
+    "question": "The Barkhausen criterion for an oscillator",
+    "choices": [
+      "Loop gain should be unity",
+      "Loop gain should be less than unity",
+      "The phase of a feedback signal with respect to input should be 0° or 360°",
+      "Both A and C"
+    ],
+    "answer": "D",
+    "input": "Question: The Barkhausen criterion for an oscillator\nOptions:\n(A) Loop gain should be unity\n(B) Loop gain should be less than unity\n(C) The phase of a feedback signal with respect to input should be 0° or 360°\n(D) Both A and C\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because",
+    "choices": [
+      "It loads the circuit moderately.",
+      "It loads the circuit to maximum extent.",
+      "It uses centre zero galvanometer instead of voltmeter.",
+      "It does not load the circuit at all."
+    ],
+    "answer": "D",
+    "input": "Question: Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\nOptions:\n(A) It loads the circuit moderately.\n(B) It loads the circuit to maximum extent.\n(C) It uses centre zero galvanometer instead of voltmeter.\n(D) It does not load the circuit at all.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of these sets of logic gates are designated as universal gates?",
+    "choices": [
+      "NOR, NAND.",
+      "XOR, NOR, NAND.",
+      "OR, NOT, AND.",
+      "NOR, NAND, XNOR."
+    ],
+    "answer": "A",
+    "input": "Question: Which of these sets of logic gates are designated as universal gates?\nOptions:\n(A) NOR, NAND.\n(B) XOR, NOR, NAND.\n(C) OR, NOT, AND.\n(D) NOR, NAND, XNOR.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",
+    "choices": [
+      "30° to 150°.",
+      "30° to 180°.",
+      "60° to 120°.",
+      "60° to 180°."
+    ],
+    "answer": "A",
+    "input": "Question: A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\nOptions:\n(A) 30° to 150°.\n(B) 30° to 180°.\n(C) 60° to 120°.\n(D) 60° to 180°.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A box which tells the effect of inputs on control sub system is known as",
+    "choices": [
+      "Data Box.",
+      "Logical box.",
+      "Decision box.",
+      "State box."
+    ],
+    "answer": "C",
+    "input": "Question: A box which tells the effect of inputs on control sub system is known as\nOptions:\n(A) Data Box.\n(B) Logical box.\n(C) Decision box.\n(D) State box.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is",
+    "choices": [
+      "same as that produced by one plate.",
+      "double the field produced by one plate.",
+      "dependent on coordinates of field points.",
+      "zero."
+    ],
+    "answer": "D",
+    "input": "Question: Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\nOptions:\n(A) same as that produced by one plate.\n(B) double the field produced by one plate.\n(C) dependent on coordinates of field points.\n(D) zero.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be",
+    "choices": [
+      "Low.",
+      "Very low.",
+      "High.",
+      "Almost zero."
+    ],
+    "answer": "C",
+    "input": "Question: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\nOptions:\n(A) Low.\n(B) Very low.\n(C) High.\n(D) Almost zero.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The following are the necessary requirements of an oscillator",
+    "choices": [
+      "Amplitude stability",
+      "Frequency stability",
+      "Power stability",
+      "Both A and B"
+    ],
+    "answer": "D",
+    "input": "Question: The following are the necessary requirements of an oscillator\nOptions:\n(A) Amplitude stability\n(B) Frequency stability\n(C) Power stability\n(D) Both A and B\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The normal voltage used in directional heating is",
+    "choices": [
+      "1.5 KV.",
+      "15 KV.",
+      "33 KV.",
+      "66 KV."
+    ],
+    "answer": "A",
+    "input": "Question: The normal voltage used in directional heating is\nOptions:\n(A) 1.5 KV.\n(B) 15 KV.\n(C) 33 KV.\n(D) 66 KV.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "LC oscillators are used for produce a waveform with frequency ranging from",
+    "choices": [
+      "1MHz to 500 MHz",
+      "100 KHz to 500 MHz",
+      "1 KHz to 1 MHz",
+      "1MHz to 100 GHz"
+    ],
+    "answer": "A",
+    "input": "Question: LC oscillators are used for produce a waveform with frequency ranging from\nOptions:\n(A) 1MHz to 500 MHz\n(B) 100 KHz to 500 MHz\n(C) 1 KHz to 1 MHz\n(D) 1MHz to 100 GHz\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A working diode must have",
+    "choices": [
+      "High resistance when forward or reverse biased",
+      "Low resistance when forward biased, while high resistance when reverse bias",
+      "High resistance when forward biased, while low resistance when reverse bias",
+      "Low resistance when forward or reverse biased"
+    ],
+    "answer": "B",
+    "input": "Question: A working diode must have\nOptions:\n(A) High resistance when forward or reverse biased\n(B) Low resistance when forward biased, while high resistance when reverse bias\n(C) High resistance when forward biased, while low resistance when reverse bias\n(D) Low resistance when forward or reverse biased\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "What is the name of the fluorescent material that gives red colour fluorescence?",
+    "choices": [
+      "Zinc silicate.",
+      "Calcium silicate.",
+      "Zinc sulphide.",
+      "Magnesium silicate."
+    ],
+    "answer": "D",
+    "input": "Question: What is the name of the fluorescent material that gives red colour fluorescence?\nOptions:\n(A) Zinc silicate.\n(B) Calcium silicate.\n(C) Zinc sulphide.\n(D) Magnesium silicate.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "How many bits are required to store one BCD digit ?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "D",
+    "input": "Question: How many bits are required to store one BCD digit ?\nOptions:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Commutator in DC generator is used for",
+    "choices": [
+      "collecting of current",
+      "reduce losses",
+      "increase efficiency",
+      "convert AC armature current in to DC"
+    ],
+    "answer": "D",
+    "input": "Question: Commutator in DC generator is used for\nOptions:\n(A) collecting of current\n(B) reduce losses\n(C) increase efficiency\n(D) convert AC armature current in to DC\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "1 F is theoretically equal to",
+    "choices": [
+      "1 ohm of resistance",
+      "ratio of 1 V to 1 C",
+      "ratio of 1 C to 1 V",
+      "none of these"
+    ],
+    "answer": "C",
+    "input": "Question: 1 F is theoretically equal to\nOptions:\n(A) 1 ohm of resistance\n(B) ratio of 1 V to 1 C\n(C) ratio of 1 C to 1 V\n(D) none of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "How many entries will be in the truth table of a 3 input NAND gate ?",
+    "choices": [
+      "3",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "C",
+    "input": "Question: How many entries will be in the truth table of a 3 input NAND gate ?\nOptions:\n(A) 3\n(B) 6\n(C) 8\n(D) 9\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In decimal number system what is MSD",
+    "choices": [
+      "First digit from left to right",
+      "First digit from right to left",
+      "Middle digit",
+      "Mean of all digits"
+    ],
+    "answer": "A",
+    "input": "Question: In decimal number system what is MSD\nOptions:\n(A) First digit from left to right\n(B) First digit from right to left\n(C) Middle digit\n(D) Mean of all digits\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In Digital Logic Designs, GAL is abbreviated as",
+    "choices": [
+      "General Advance Logic",
+      "General Array Logic",
+      "Generic Advance Logic",
+      "Generic Array Logic"
+    ],
+    "answer": "D",
+    "input": "Question: In Digital Logic Designs, GAL is abbreviated as\nOptions:\n(A) General Advance Logic\n(B) General Array Logic\n(C) Generic Advance Logic\n(D) Generic Array Logic\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Inintel 8085A microprocessor ALE signal is made high to",
+    "choices": [
+      "Enable the data bus to be used as low order address bus",
+      "To latch data D0-D7 from data bus",
+      "To disable data bus",
+      "To achieve all the functions listed above"
+    ],
+    "answer": "A",
+    "input": "Question: Inintel 8085A microprocessor ALE signal is made high to\nOptions:\n(A) Enable the data bus to be used as low order address bus\n(B) To latch data D0-D7 from data bus\n(C) To disable data bus\n(D) To achieve all the functions listed above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?",
+    "choices": [
+      "111.9 ohm",
+      "11.19 ohm",
+      "108 ohm",
+      "115 ohm"
+    ],
+    "answer": "A",
+    "input": "Question: For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?\nOptions:\n(A) 111.9 ohm\n(B) 11.19 ohm\n(C) 108 ohm\n(D) 115 ohm\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The concept of V/f control of inverters driving induction motors resuls in",
+    "choices": [
+      "constant torque operation",
+      "speed reversal",
+      "reduced magnetic loss",
+      "hormonic elimination"
+    ],
+    "answer": "A",
+    "input": "Question: The concept of V/f control of inverters driving induction motors resuls in\nOptions:\n(A) constant torque operation\n(B) speed reversal\n(C) reduced magnetic loss\n(D) hormonic elimination\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",
+    "choices": [
+      "0.015 joule.",
+      "0.15 joule.",
+      "0.015 joule.",
+      "1.15 joule."
+    ],
+    "answer": "B",
+    "input": "Question: The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is\nOptions:\n(A) 0.015 joule.\n(B) 0.15 joule.\n(C) 0.015 joule.\n(D) 1.15 joule.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "While operating on variable frequency supplies, the AC motor requires variable voltage in order to",
+    "choices": [
+      "protect the insulation.",
+      "avoid effect of saturation.",
+      "improve the capabilities of the inverter.",
+      "protect thyristor from dV / dt."
+    ],
+    "answer": "B",
+    "input": "Question: While operating on variable frequency supplies, the AC motor requires variable voltage in order to\nOptions:\n(A) protect the insulation.\n(B) avoid effect of saturation.\n(C) improve the capabilities of the inverter.\n(D) protect thyristor from dV / dt.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following windings are necessary in case of all dc machines?",
+    "choices": [
+      "closed winding",
+      "lap winding",
+      "wave winding",
+      "open type winding"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following windings are necessary in case of all dc machines?\nOptions:\n(A) closed winding\n(B) lap winding\n(C) wave winding\n(D) open type winding\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Relaxation Voltage controlled oscillators are used to generate",
+    "choices": [
+      "Sinusoidal wave",
+      "Triangular wave",
+      "Sawtooth wave",
+      "Both B and C"
+    ],
+    "answer": "D",
+    "input": "Question: Relaxation Voltage controlled oscillators are used to generate\nOptions:\n(A) Sinusoidal wave\n(B) Triangular wave\n(C) Sawtooth wave\n(D) Both B and C\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The supply frequency usually employed for high frequency eddy current heating is",
+    "choices": [
+      "1 KHz.",
+      "5 KHz.",
+      "10 MHz.",
+      "10 KHz to 400 KHz."
+    ],
+    "answer": "D",
+    "input": "Question: The supply frequency usually employed for high frequency eddy current heating is\nOptions:\n(A) 1 KHz.\n(B) 5 KHz.\n(C) 10 MHz.\n(D) 10 KHz to 400 KHz.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In the toggle mode a JK flip-flop has",
+    "choices": [
+      "J = 0, K = 0.",
+      "J = 1, K = 1.",
+      "J = 0, K = 1.",
+      "J = 1, K = 0."
+    ],
+    "answer": "B",
+    "input": "Question: In the toggle mode a JK flip-flop has\nOptions:\n(A) J = 0, K = 0.\n(B) J = 1, K = 1.\n(C) J = 0, K = 1.\n(D) J = 1, K = 0.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Electric drive is becoming more and more popular because",
+    "choices": [
+      "all of below.",
+      "it provide smooth and easy control.",
+      "it is cheaper in cost.",
+      "it is simple and reliable."
+    ],
+    "answer": "A",
+    "input": "Question: Electric drive is becoming more and more popular because\nOptions:\n(A) all of below.\n(B) it provide smooth and easy control.\n(C) it is cheaper in cost.\n(D) it is simple and reliable.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is",
+    "choices": [
+      "0.32.",
+      "0.67.",
+      "0.45.",
+      "0.27."
+    ],
+    "answer": "B",
+    "input": "Question: A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is\nOptions:\n(A) 0.32.\n(B) 0.67.\n(C) 0.45.\n(D) 0.27.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A Binary number system has how many digits.",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "10"
+    ],
+    "answer": "C",
+    "input": "Question: A Binary number system has how many digits.\nOptions:\n(A) 0\n(B) 1\n(C) 2\n(D) 10\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is",
+    "choices": [
+      "LC.",
+      "RL.",
+      "RC.",
+      "Any of the above."
+    ],
+    "answer": "C",
+    "input": "Question: Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is\nOptions:\n(A) LC.\n(B) RL.\n(C) RC.\n(D) Any of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Advantages of open loop control system is/are",
+    "choices": [
+      "simple and economical.",
+      "accurate.",
+      "reliable.",
+      "all of the above."
+    ],
+    "answer": "A",
+    "input": "Question: Advantages of open loop control system is/are\nOptions:\n(A) simple and economical.\n(B) accurate.\n(C) reliable.\n(D) all of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The voltage induced in an inductor is represented as,",
+    "choices": [
+      "product of its inductance and current through it.",
+      "ratio of its inductance to current through it.",
+      "ratio of current through it to its inductance.",
+      "product of its inductance and rate of change of current through it."
+    ],
+    "answer": "D",
+    "input": "Question: The voltage induced in an inductor is represented as,\nOptions:\n(A) product of its inductance and current through it.\n(B) ratio of its inductance to current through it.\n(C) ratio of current through it to its inductance.\n(D) product of its inductance and rate of change of current through it.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",
+    "choices": [
+      "1",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "C",
+    "input": "Question: If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits\nOptions:\n(A) 1\n(B) 2\n(C) 4\n(D) 8\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Induction heating takes place in",
+    "choices": [
+      "conducting but non-magnetic materials.",
+      "conducting materials which may be either magnetic or non-magentic materials.",
+      "insulating materials.",
+      "conducting and magnetic materials."
+    ],
+    "answer": "B",
+    "input": "Question: Induction heating takes place in\nOptions:\n(A) conducting but non-magnetic materials.\n(B) conducting materials which may be either magnetic or non-magentic materials.\n(C) insulating materials.\n(D) conducting and magnetic materials.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch",
+    "choices": [
+      "10",
+      "100",
+      "50",
+      "1"
+    ],
+    "answer": "A",
+    "input": "Question: In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch\nOptions:\n(A) 10\n(B) 100\n(C) 50\n(D) 1\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Magnetic flux has the unit of",
+    "choices": [
+      "Newton",
+      "Ampere turn",
+      "Weber",
+      "Tesla"
+    ],
+    "answer": "C",
+    "input": "Question: Magnetic flux has the unit of\nOptions:\n(A) Newton\n(B) Ampere turn\n(C) Weber\n(D) Tesla\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",
+    "choices": [
+      "Reciprocity theorem",
+      "Thevinin's theorem",
+      "Norton's theorem",
+      "Compensation theorem"
+    ],
+    "answer": "A",
+    "input": "Question: In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem\nOptions:\n(A) Reciprocity theorem\n(B) Thevinin's theorem\n(C) Norton's theorem\n(D) Compensation theorem\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A D-flip-flop is said to be transparent when",
+    "choices": [
+      "the output is LOW",
+      "the output is HIGH",
+      "the output follows clock",
+      "the output follow input"
+    ],
+    "answer": "D",
+    "input": "Question: A D-flip-flop is said to be transparent when\nOptions:\n(A) the output is LOW\n(B) the output is HIGH\n(C) the output follows clock\n(D) the output follow input\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be",
+    "choices": [
+      "500 Hz.",
+      "250 Hz.",
+      "400 Hz.",
+      "625 Hz."
+    ],
+    "answer": "B",
+    "input": "Question: A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be\nOptions:\n(A) 500 Hz.\n(B) 250 Hz.\n(C) 400 Hz.\n(D) 625 Hz.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Speed control by variation of field flux results in",
+    "choices": [
+      "constant power drive.",
+      "constant torque drive.",
+      "variable power drive.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "input": "Question: Speed control by variation of field flux results in\nOptions:\n(A) constant power drive.\n(B) constant torque drive.\n(C) variable power drive.\n(D) none of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following memories uses one transistor and one capacitor as basic memory unit",
+    "choices": [
+      "SRAM",
+      "DRAM",
+      "Both SRAM and DRAM",
+      "None"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following memories uses one transistor and one capacitor as basic memory unit\nOptions:\n(A) SRAM\n(B) DRAM\n(C) Both SRAM and DRAM\n(D) None\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",
+    "choices": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "A",
+    "input": "Question: What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?\nOptions:\n(A) 2\n(B) 4\n(C) 5\n(D) 6\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The output of the system has an effect upon the input quantity, then the system is a",
+    "choices": [
+      "open loop control system.",
+      "closed loop control system.",
+      "either A or B.",
+      "none of the above."
+    ],
+    "answer": "B",
+    "input": "Question: The output of the system has an effect upon the input quantity, then the system is a\nOptions:\n(A) open loop control system.\n(B) closed loop control system.\n(C) either A or B.\n(D) none of the above.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A sinusoidal signal is analog signal, because",
+    "choices": [
+      "it can have a number of values between the negative and positive peaks",
+      "it is negative for one half cycle",
+      "it is positive for one half cycle",
+      "it has positive as well as negative values"
+    ],
+    "answer": "A",
+    "input": "Question: A sinusoidal signal is analog signal, because\nOptions:\n(A) it can have a number of values between the negative and positive peaks\n(B) it is negative for one half cycle\n(C) it is positive for one half cycle\n(D) it has positive as well as negative values\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "FM stands for",
+    "choices": [
+      "frequent modulation.",
+      "frequency modulation.",
+      "frequency moderator.",
+      "frequent moderator."
+    ],
+    "answer": "B",
+    "input": "Question: FM stands for\nOptions:\n(A) frequent modulation.\n(B) frequency modulation.\n(C) frequency moderator.\n(D) frequent moderator.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Stack is also known as",
+    "choices": [
+      "FIFO memory",
+      "Flash memory",
+      "LIFO memory",
+      "LILO memory"
+    ],
+    "answer": "C",
+    "input": "Question: Stack is also known as\nOptions:\n(A) FIFO memory\n(B) Flash memory\n(C) LIFO memory\n(D) LILO memory\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In Ward-Leonard system, the lower limit of the speed imposed by",
+    "choices": [
+      "Field resistance.",
+      "Armature resistance.",
+      "Residual magnetism of the generator.",
+      "None of above."
+    ],
+    "answer": "C",
+    "input": "Question: In Ward-Leonard system, the lower limit of the speed imposed by\nOptions:\n(A) Field resistance.\n(B) Armature resistance.\n(C) Residual magnetism of the generator.\n(D) None of above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Colpitts oscillator is also called as",
+    "choices": [
+      "Tank circuit oscillator",
+      "LC oscillator",
+      "Resonant circuit oscillator",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Colpitts oscillator is also called as\nOptions:\n(A) Tank circuit oscillator\n(B) LC oscillator\n(C) Resonant circuit oscillator\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be",
+    "choices": [
+      "1500 A.",
+      "6000 A.",
+      "2121.32 A.",
+      "4242.64 A."
+    ],
+    "answer": "C",
+    "input": "Question: An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be\nOptions:\n(A) 1500 A.\n(B) 6000 A.\n(C) 2121.32 A.\n(D) 4242.64 A.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Both the ALU and control section of CPU employ which special purpose storage location?",
+    "choices": [
+      "Buffers",
+      "Decoders",
+      "Accumulators",
+      "Registers"
+    ],
+    "answer": "C",
+    "input": "Question: Both the ALU and control section of CPU employ which special purpose storage location?\nOptions:\n(A) Buffers\n(B) Decoders\n(C) Accumulators\n(D) Registers\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Systematic errors are",
+    "choices": [
+      "environmental errors.",
+      "observational errors.",
+      "instrument errors.",
+      "all of the above."
+    ],
+    "answer": "D",
+    "input": "Question: Systematic errors are\nOptions:\n(A) environmental errors.\n(B) observational errors.\n(C) instrument errors.\n(D) all of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is/are the disadvantages of an open loop control system?",
+    "choices": [
+      "Inaccurate.",
+      "Unreliable.",
+      "both A and B.",
+      "none of the above."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is/are the disadvantages of an open loop control system?\nOptions:\n(A) Inaccurate.\n(B) Unreliable.\n(C) both A and B.\n(D) none of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A diode (p-n junction) when reverse biased act as",
+    "choices": [
+      "On Switch",
+      "Zener diode",
+      "Capacitor",
+      "Off Switch"
+    ],
+    "answer": "D",
+    "input": "Question: A diode (p-n junction) when reverse biased act as\nOptions:\n(A) On Switch\n(B) Zener diode\n(C) Capacitor\n(D) Off Switch\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Piezoelectric effect is carried out in",
+    "choices": [
+      "composite filter.",
+      "crystal filter.",
+      "m derived.",
+      "constant k prototype."
+    ],
+    "answer": "B",
+    "input": "Question: Piezoelectric effect is carried out in\nOptions:\n(A) composite filter.\n(B) crystal filter.\n(C) m derived.\n(D) constant k prototype.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The resistivity of the conductor depends on",
+    "choices": [
+      "area of the conductor.",
+      "length of the conductor.",
+      "type of material.",
+      "none of these."
+    ],
+    "answer": "C",
+    "input": "Question: The resistivity of the conductor depends on\nOptions:\n(A) area of the conductor.\n(B) length of the conductor.\n(C) type of material.\n(D) none of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The smallest change in measured variable to which instrument will respond is",
+    "choices": [
+      "resolution.",
+      "accuracy.",
+      "precision.",
+      "sensitivity."
+    ],
+    "answer": "A",
+    "input": "Question: The smallest change in measured variable to which instrument will respond is\nOptions:\n(A) resolution.\n(B) accuracy.\n(C) precision.\n(D) sensitivity.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In electronic communications, \"AM\" stands for",
+    "choices": [
+      "Amp Modification",
+      "Amplitude Method",
+      "Amplitude Modulation",
+      "Ampere Method"
+    ],
+    "answer": "C",
+    "input": "Question: In electronic communications, \"AM\" stands for\nOptions:\n(A) Amp Modification\n(B) Amplitude Method\n(C) Amplitude Modulation\n(D) Ampere Method\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which system is also known as automatic control system?",
+    "choices": [
+      "Open loop control system",
+      "Closed loop control system",
+      "Either A or B",
+      "Nether A nor B"
+    ],
+    "answer": "B",
+    "input": "Question: Which system is also known as automatic control system?\nOptions:\n(A) Open loop control system\n(B) Closed loop control system\n(C) Either A or B\n(D) Nether A nor B\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A combinational PLD with a fixed AND array and a programmable OR array is called a",
+    "choices": [
+      "PLD",
+      "PROM",
+      "PAL",
+      "PLA"
+    ],
+    "answer": "B",
+    "input": "Question: A combinational PLD with a fixed AND array and a programmable OR array is called a\nOptions:\n(A) PLD\n(B) PROM\n(C) PAL\n(D) PLA\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A null type instrument as compared to a deflected type instrument has",
+    "choices": [
+      "a lower sensitivity.",
+      "a faster response.",
+      "a higher accuracy.",
+      "all of the above."
+    ],
+    "answer": "C",
+    "input": "Question: A null type instrument as compared to a deflected type instrument has\nOptions:\n(A) a lower sensitivity.\n(B) a faster response.\n(C) a higher accuracy.\n(D) all of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Length of the cable is doubled, its capacitance C will be",
+    "choices": [
+      "one-fourth.",
+      "one-half.",
+      "doubled.",
+      "unchanged."
+    ],
+    "answer": "C",
+    "input": "Question: Length of the cable is doubled, its capacitance C will be\nOptions:\n(A) one-fourth.\n(B) one-half.\n(C) doubled.\n(D) unchanged.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Electrons in p-type material of a semi-conductor are called as",
+    "choices": [
+      "either minority carriers or majority carriers",
+      "minority carriers",
+      "majority carriers",
+      "valance carriers"
+    ],
+    "answer": "B",
+    "input": "Question: Electrons in p-type material of a semi-conductor are called as\nOptions:\n(A) either minority carriers or majority carriers\n(B) minority carriers\n(C) majority carriers\n(D) valance carriers\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "________ is the most detrimental impurity in the magnetic materials",
+    "choices": [
+      "Carbon.",
+      "Sulphur.",
+      "Oxygen.",
+      "Nitrogen."
+    ],
+    "answer": "A",
+    "input": "Question: ________ is the most detrimental impurity in the magnetic materials\nOptions:\n(A) Carbon.\n(B) Sulphur.\n(C) Oxygen.\n(D) Nitrogen.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Voltage controlled oscillators are used commonly in",
+    "choices": [
+      "Pulse Modulators Frequency Modulators Phase Clocked loops",
+      "Frequency Modulators",
+      "Phase Clocked loops",
+      "All the above"
+    ],
+    "answer": "D",
+    "input": "Question: Voltage controlled oscillators are used commonly in\nOptions:\n(A) Pulse Modulators Frequency Modulators Phase Clocked loops\n(B) Frequency Modulators\n(C) Phase Clocked loops\n(D) All the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Low frequency supply is necessary for direct core type induction furnaces because",
+    "choices": [
+      "With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.",
+      "Magnetic coupling between the primary and secondary circuit is poor.",
+      "Both A and B.",
+      "None of the above."
+    ],
+    "answer": "C",
+    "input": "Question: Low frequency supply is necessary for direct core type induction furnaces because\nOptions:\n(A) With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.\n(B) Magnetic coupling between the primary and secondary circuit is poor.\n(C) Both A and B.\n(D) None of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The moving coil-meters, damping is provided by",
+    "choices": [
+      "the aluminium frame of the coil.",
+      "the coil spring attached to the moving.",
+      "eddy current disk.",
+      "damping vane in the airtight chamber."
+    ],
+    "answer": "A",
+    "input": "Question: The moving coil-meters, damping is provided by\nOptions:\n(A) the aluminium frame of the coil.\n(B) the coil spring attached to the moving.\n(C) eddy current disk.\n(D) damping vane in the airtight chamber.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is the analogous quantity for mass element in force-voltage analogy?",
+    "choices": [
+      "Resistance.",
+      "Inductance.",
+      "Capacitance.",
+      "All of the above."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is the analogous quantity for mass element in force-voltage analogy?\nOptions:\n(A) Resistance.\n(B) Inductance.\n(C) Capacitance.\n(D) All of the above.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A latch is ________ sensitive",
+    "choices": [
+      "both level and edge",
+      "edge",
+      "level",
+      "None"
+    ],
+    "answer": "C",
+    "input": "Question: A latch is ________ sensitive\nOptions:\n(A) both level and edge\n(B) edge\n(C) level\n(D) None\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "What is used to protect the SCR from over current ?",
+    "choices": [
+      "CB and fuse.",
+      "Heat sink.",
+      "Snubber circuit.",
+      "Voltage clamping device."
+    ],
+    "answer": "A",
+    "input": "Question: What is used to protect the SCR from over current ?\nOptions:\n(A) CB and fuse.\n(B) Heat sink.\n(C) Snubber circuit.\n(D) Voltage clamping device.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The errors mainly caused by human mistakes are",
+    "choices": [
+      "gross error.",
+      "instrumental error.",
+      "observational error.",
+      "systematic error."
+    ],
+    "answer": "A",
+    "input": "Question: The errors mainly caused by human mistakes are\nOptions:\n(A) gross error.\n(B) instrumental error.\n(C) observational error.\n(D) systematic error.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Electrical analogous quantity for dash-pot in force-current analogy is",
+    "choices": [
+      "resistance.",
+      "conductance.",
+      "inductance.",
+      "capacitance."
+    ],
+    "answer": "B",
+    "input": "Question: Electrical analogous quantity for dash-pot in force-current analogy is\nOptions:\n(A) resistance.\n(B) conductance.\n(C) inductance.\n(D) capacitance.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which lamp has the best Colour Rendering Index (CRI)?",
+    "choices": [
+      "LED",
+      "Fluorescent",
+      "Incandescent",
+      "High pressure sodium vapour"
+    ],
+    "answer": "C",
+    "input": "Question: Which lamp has the best Colour Rendering Index (CRI)?\nOptions:\n(A) LED\n(B) Fluorescent\n(C) Incandescent\n(D) High pressure sodium vapour\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Power dissipation in ideal inductor is",
+    "choices": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "A finite value"
+    ],
+    "answer": "C",
+    "input": "Question: Power dissipation in ideal inductor is\nOptions:\n(A) Maximum\n(B) Minimum\n(C) Zero\n(D) A finite value\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "For intermittent work which of the following furnace is suitable?",
+    "choices": [
+      "Core less furnace.",
+      "Indirect arc furnace.",
+      "Either of above.",
+      "Nither of above."
+    ],
+    "answer": "B",
+    "input": "Question: For intermittent work which of the following furnace is suitable?\nOptions:\n(A) Core less furnace.\n(B) Indirect arc furnace.\n(C) Either of above.\n(D) Nither of above.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In electrical resistance welding material of electrode should have",
+    "choices": [
+      "higher electrical conductivities.",
+      "higher thermal conductivities.",
+      "sufficient strength to sustain high pressure at elevated temperatures.",
+      "all of above."
+    ],
+    "answer": "D",
+    "input": "Question: In electrical resistance welding material of electrode should have\nOptions:\n(A) higher electrical conductivities.\n(B) higher thermal conductivities.\n(C) sufficient strength to sustain high pressure at elevated temperatures.\n(D) all of above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following are the passive elements?",
+    "choices": [
+      "Resistor",
+      "Bulb",
+      "Both",
+      "None of these."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following are the passive elements?\nOptions:\n(A) Resistor\n(B) Bulb\n(C) Both\n(D) None of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The main advantage of dielectric heating is that",
+    "choices": [
+      "heating occurs in the material itself.",
+      "heating occurs due to high frequency.",
+      "it can be used for drying the explosives.",
+      "None of the above."
+    ],
+    "answer": "A",
+    "input": "Question: The main advantage of dielectric heating is that\nOptions:\n(A) heating occurs in the material itself.\n(B) heating occurs due to high frequency.\n(C) it can be used for drying the explosives.\n(D) None of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Materials used in heat sink should have",
+    "choices": [
+      "high thermal conductivity.",
+      "large surface area.",
+      "high melting point.",
+      "All of these."
+    ],
+    "answer": "D",
+    "input": "Question: Materials used in heat sink should have\nOptions:\n(A) high thermal conductivity.\n(B) large surface area.\n(C) high melting point.\n(D) All of these.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Conductor is static and the field is varying then emf will be induced. This principle is called",
+    "choices": [
+      "virtually induced emf.",
+      "dynamically induced emf.",
+      "static induced emf.",
+      "none of these"
+    ],
+    "answer": "C",
+    "input": "Question: Conductor is static and the field is varying then emf will be induced. This principle is called\nOptions:\n(A) virtually induced emf.\n(B) dynamically induced emf.\n(C) static induced emf.\n(D) none of these\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is",
+    "choices": [
+      "500 MVA",
+      "400 MVA",
+      "125 MVA",
+      "100 MVA"
+    ],
+    "answer": "A",
+    "input": "Question: Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is\nOptions:\n(A) 500 MVA\n(B) 400 MVA\n(C) 125 MVA\n(D) 100 MVA\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "According to the Bohr model, an electron gains or losses energy only by",
+    "choices": [
+      "moving faster or slower in an allowed orbit.",
+      "jumping from one allowed orbit to another.",
+      "being completely removed from an atom.",
+      "jumping from one atom to another atom."
+    ],
+    "answer": "B",
+    "input": "Question: According to the Bohr model, an electron gains or losses energy only by\nOptions:\n(A) moving faster or slower in an allowed orbit.\n(B) jumping from one allowed orbit to another.\n(C) being completely removed from an atom.\n(D) jumping from one atom to another atom.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A three-state buffer has the following output states",
+    "choices": [
+      "1, 0, float",
+      "High, Low, Float",
+      "Both A and B",
+      "Set, Reset, Halt"
+    ],
+    "answer": "C",
+    "input": "Question: A three-state buffer has the following output states\nOptions:\n(A) 1, 0, float\n(B) High, Low, Float\n(C) Both A and B\n(D) Set, Reset, Halt\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "By using which of the following elements, mechanical translational systems are obtained?",
+    "choices": [
+      "mass element",
+      "spring element",
+      "dash-pot",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: By using which of the following elements, mechanical translational systems are obtained?\nOptions:\n(A) mass element\n(B) spring element\n(C) dash-pot\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be",
+    "choices": [
+      "160 µF",
+      "10 µF",
+      "40 µF",
+      "5 µF"
+    ],
+    "answer": "A",
+    "input": "Question: Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be\nOptions:\n(A) 160 µF\n(B) 10 µF\n(C) 40 µF\n(D) 5 µF\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",
+    "choices": [
+      "R Ω",
+      "2R Ω",
+      "4R Ω",
+      "8R Ω"
+    ],
+    "answer": "C",
+    "input": "Question: The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be\nOptions:\n(A) R Ω\n(B) 2R Ω\n(C) 4R Ω\n(D) 8R Ω\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A single phase full bridge inverter can operated in load commutation mode in case load consist of",
+    "choices": [
+      "RL.",
+      "RLC underdamped.",
+      "RLC overdamped.",
+      "RLC critically damped."
+    ],
+    "answer": "B",
+    "input": "Question: A single phase full bridge inverter can operated in load commutation mode in case load consist of\nOptions:\n(A) RL.\n(B) RLC underdamped.\n(C) RLC overdamped.\n(D) RLC critically damped.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A microprocessor is ALU",
+    "choices": [
+      "and control unit on a single chip.",
+      "and memory on a single chip.",
+      "register unit and I/O device on a single chip.",
+      "register unit and control unit on a single chip."
+    ],
+    "answer": "D",
+    "input": "Question: A microprocessor is ALU\nOptions:\n(A) and control unit on a single chip.\n(B) and memory on a single chip.\n(C) register unit and I/O device on a single chip.\n(D) register unit and control unit on a single chip.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "To obtain a high value of capacitance, the permittivity of dielectric medium should be",
+    "choices": [
+      "low",
+      "zero",
+      "high",
+      "unity"
+    ],
+    "answer": "C",
+    "input": "Question: To obtain a high value of capacitance, the permittivity of dielectric medium should be\nOptions:\n(A) low\n(B) zero\n(C) high\n(D) unity\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Deflection method direct measurements are most widely used as these are",
+    "choices": [
+      "least time consuming.",
+      "most simple.",
+      "most simple and least time consuming.",
+      "most accurate."
+    ],
+    "answer": "C",
+    "input": "Question: Deflection method direct measurements are most widely used as these are\nOptions:\n(A) least time consuming.\n(B) most simple.\n(C) most simple and least time consuming.\n(D) most accurate.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Purely mechanical instrument cannot be used for dynamic measurements because they have",
+    "choices": [
+      "high inertia.",
+      "higher response time.",
+      "large time constant.",
+      "all of the above."
+    ],
+    "answer": "D",
+    "input": "Question: Purely mechanical instrument cannot be used for dynamic measurements because they have\nOptions:\n(A) high inertia.\n(B) higher response time.\n(C) large time constant.\n(D) all of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Advantages of higher transmission voltage is/are",
+    "choices": [
+      "Power transfer capability of the transmission line is increased",
+      "Transmission line losses are reduced",
+      "Area of cross section and volume of the conductor is reduced",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Advantages of higher transmission voltage is/are\nOptions:\n(A) Power transfer capability of the transmission line is increased\n(B) Transmission line losses are reduced\n(C) Area of cross section and volume of the conductor is reduced\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Under over voltage condition impedance offered by the voltage clamping device is",
+    "choices": [
+      "high.",
+      "low.",
+      "moderate.",
+      "infinity."
+    ],
+    "answer": "B",
+    "input": "Question: Under over voltage condition impedance offered by the voltage clamping device is\nOptions:\n(A) high.\n(B) low.\n(C) moderate.\n(D) infinity.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at",
+    "choices": [
+      "lower surface of the conductor.",
+      "upper surface of the conductor.",
+      "the ground surface.",
+      "midway between the conductor and ground."
+    ],
+    "answer": "A",
+    "input": "Question: A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at\nOptions:\n(A) lower surface of the conductor.\n(B) upper surface of the conductor.\n(C) the ground surface.\n(D) midway between the conductor and ground.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In a dc machine 6 pole wave winding is used. The number of parallel paths are?",
+    "choices": [
+      "6",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": "C",
+    "input": "Question: In a dc machine 6 pole wave winding is used. The number of parallel paths are?\nOptions:\n(A) 6\n(B) 4\n(C) 2\n(D) 1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is a digital device",
+    "choices": [
+      "Regulator of a fan",
+      "Microphone",
+      "Resistance of a material",
+      "Light switch"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is a digital device\nOptions:\n(A) Regulator of a fan\n(B) Microphone\n(C) Resistance of a material\n(D) Light switch\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Instantaneous power in inductor is proportional to the",
+    "choices": [
+      "product of the instantaneous current and rate of change of current.",
+      "square of instantaneous current.",
+      "square of the rate of change of current.",
+      "temperature of the inductor."
+    ],
+    "answer": "A",
+    "input": "Question: Instantaneous power in inductor is proportional to the\nOptions:\n(A) product of the instantaneous current and rate of change of current.\n(B) square of instantaneous current.\n(C) square of the rate of change of current.\n(D) temperature of the inductor.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is a variable displacement transducer?",
+    "choices": [
+      "tachometer",
+      "potentiometer",
+      "synchros",
+      "none of the above"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a variable displacement transducer?\nOptions:\n(A) tachometer\n(B) potentiometer\n(C) synchros\n(D) none of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be",
+    "choices": [
+      "5 µF",
+      "25 µF",
+      "10 µF",
+      "1 µF"
+    ],
+    "answer": "D",
+    "input": "Question: Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be\nOptions:\n(A) 5 µF\n(B) 25 µF\n(C) 10 µF\n(D) 1 µF\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Susceptibility is negative for",
+    "choices": [
+      "non magnetic substances.",
+      "diamagnetic substances.",
+      "ferromagnetic substances.",
+      "none of above."
+    ],
+    "answer": "B",
+    "input": "Question: Susceptibility is negative for\nOptions:\n(A) non magnetic substances.\n(B) diamagnetic substances.\n(C) ferromagnetic substances.\n(D) none of above.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "One of the following is the primary function of an oscillator",
+    "choices": [
+      "produces sinusoidal oscillations",
+      "generates non sinusoidal waveforms",
+      "generates sustained oscillations at a constant amplitude and specific frequency",
+      "none of the above"
+    ],
+    "answer": "C",
+    "input": "Question: One of the following is the primary function of an oscillator\nOptions:\n(A) produces sinusoidal oscillations\n(B) generates non sinusoidal waveforms\n(C) generates sustained oscillations at a constant amplitude and specific frequency\n(D) none of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The metal surfaces for electrical resistance welding must be",
+    "choices": [
+      "rough.",
+      "clean.",
+      "moistened",
+      "coloured"
+    ],
+    "answer": "B",
+    "input": "Question: The metal surfaces for electrical resistance welding must be\nOptions:\n(A) rough.\n(B) clean.\n(C) moistened\n(D) coloured\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The latching current of SCR is 20 mA. Its holding current will be",
+    "choices": [
+      "23 mA.",
+      "40 mA.",
+      "10 mA.",
+      "60 mA."
+    ],
+    "answer": "C",
+    "input": "Question: The latching current of SCR is 20 mA. Its holding current will be\nOptions:\n(A) 23 mA.\n(B) 40 mA.\n(C) 10 mA.\n(D) 60 mA.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In force-current analogy, electrical analogous quantity for displacement (x) is",
+    "choices": [
+      "voltage.",
+      "inductance.",
+      "capacitance.",
+      "flux."
+    ],
+    "answer": "D",
+    "input": "Question: In force-current analogy, electrical analogous quantity for displacement (x) is\nOptions:\n(A) voltage.\n(B) inductance.\n(C) capacitance.\n(D) flux.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Feedback circuit in an oscillator can be accomplished by",
+    "choices": [
+      "Resistive coupling between input and output",
+      "Capacitive coupling between input and output",
+      "Inductive coupling between input and output",
+      "Any one or combinations of the above methods"
+    ],
+    "answer": "D",
+    "input": "Question: Feedback circuit in an oscillator can be accomplished by\nOptions:\n(A) Resistive coupling between input and output\n(B) Capacitive coupling between input and output\n(C) Inductive coupling between input and output\n(D) Any one or combinations of the above methods\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",
+    "choices": [
+      "LC circuit.",
+      "RC circuit.",
+      "RLC circuit.",
+      "RL Circuit."
+    ],
+    "answer": "D",
+    "input": "Question: Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is\nOptions:\n(A) LC circuit.\n(B) RC circuit.\n(C) RLC circuit.\n(D) RL Circuit.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "What is the value of dielectric constant of air?",
+    "choices": [
+      "Less than 1",
+      "0.",
+      "1.",
+      "none of these."
+    ],
+    "answer": "C",
+    "input": "Question: What is the value of dielectric constant of air?\nOptions:\n(A) Less than 1\n(B) 0.\n(C) 1.\n(D) none of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Temperature variation is a/an",
+    "choices": [
+      "Digital quantity",
+      "Analog quantity",
+      "Either Digital or Analog quantity",
+      "None"
+    ],
+    "answer": "B",
+    "input": "Question: Temperature variation is a/an\nOptions:\n(A) Digital quantity\n(B) Analog quantity\n(C) Either Digital or Analog quantity\n(D) None\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is",
+    "choices": [
+      "30",
+      "140.",
+      "150.",
+      "200."
+    ],
+    "answer": "C",
+    "input": "Question: The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is\nOptions:\n(A) 30\n(B) 140.\n(C) 150.\n(D) 200.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "For a dc machine shunt resistance and armature resistance values are",
+    "choices": [
+      "high and high",
+      "high and low",
+      "low and low",
+      "low and high"
+    ],
+    "answer": "B",
+    "input": "Question: For a dc machine shunt resistance and armature resistance values are\nOptions:\n(A) high and high\n(B) high and low\n(C) low and low\n(D) low and high\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The change of cross sectional area of conductor in magnetic field will affect",
+    "choices": [
+      "reluctance of conductor.",
+      "resistance of conductor.",
+      "(A) and (B) both in the same way.",
+      "none of above."
+    ],
+    "answer": "C",
+    "input": "Question: The change of cross sectional area of conductor in magnetic field will affect\nOptions:\n(A) reluctance of conductor.\n(B) resistance of conductor.\n(C) (A) and (B) both in the same way.\n(D) none of above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is used in SCR to protect from high dV / dt?",
+    "choices": [
+      "Snubber circuit.",
+      "Fuse.",
+      "Equalizing circuit.",
+      "Circuit breaker."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is used in SCR to protect from high dV / dt?\nOptions:\n(A) Snubber circuit.\n(B) Fuse.\n(C) Equalizing circuit.\n(D) Circuit breaker.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",
+    "choices": [
+      "Mnemonics",
+      "Directives",
+      "Identifiers",
+      "Operands"
+    ],
+    "answer": "B",
+    "input": "Question: What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?\nOptions:\n(A) Mnemonics\n(B) Directives\n(C) Identifiers\n(D) Operands\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Speed of data transmission in 4-G network of telecom is",
+    "choices": [
+      "386 kbps - 2 mbps.",
+      "2 mbps.",
+      "2 mbps – 1 gbps.",
+      "100 mbps - 1 gbps."
+    ],
+    "answer": "D",
+    "input": "Question: Speed of data transmission in 4-G network of telecom is\nOptions:\n(A) 386 kbps - 2 mbps.\n(B) 2 mbps.\n(C) 2 mbps – 1 gbps.\n(D) 100 mbps - 1 gbps.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the followings is/are active element?",
+    "choices": [
+      "Voltage source",
+      "Current source",
+      "Both",
+      "None of these."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the followings is/are active element?\nOptions:\n(A) Voltage source\n(B) Current source\n(C) Both\n(D) None of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Electrical analogous quantity for spring element (K) in force-voltage analogy is",
+    "choices": [
+      "L",
+      "R",
+      "1/C",
+      "C"
+    ],
+    "answer": "C",
+    "input": "Question: Electrical analogous quantity for spring element (K) in force-voltage analogy is\nOptions:\n(A) L\n(B) R\n(C) 1/C\n(D) C\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A quartz crystal oscillator consists of",
+    "choices": [
+      "only series resonant frequency.",
+      "only parallel resonant frequency.",
+      "both series and parallel frequencies.",
+      "neither series nor parallel frequency."
+    ],
+    "answer": "C",
+    "input": "Question: A quartz crystal oscillator consists of\nOptions:\n(A) only series resonant frequency.\n(B) only parallel resonant frequency.\n(C) both series and parallel frequencies.\n(D) neither series nor parallel frequency.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following oscillators are used for low frequency (LF) applications",
+    "choices": [
+      "LC oscillators",
+      "RC oscillators",
+      "Both LC and RC Oscillators",
+      "None"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following oscillators are used for low frequency (LF) applications\nOptions:\n(A) LC oscillators\n(B) RC oscillators\n(C) Both LC and RC Oscillators\n(D) None\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is",
+    "choices": [
+      "3 / 2.",
+      "1 / 3.",
+      "2 / 3.",
+      "2 / 5."
+    ],
+    "answer": "C",
+    "input": "Question: The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is\nOptions:\n(A) 3 / 2.\n(B) 1 / 3.\n(C) 2 / 3.\n(D) 2 / 5.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Relative error is same as",
+    "choices": [
+      "ratio of absolute error and true value.",
+      "absolute error.",
+      "true error.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "input": "Question: Relative error is same as\nOptions:\n(A) ratio of absolute error and true value.\n(B) absolute error.\n(C) true error.\n(D) none of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "If holding current of a thyristor is 2 mA then latching current should be",
+    "choices": [
+      "0.01 A.",
+      "0.002 A.",
+      "0.009 A.",
+      "0.004 A."
+    ],
+    "answer": "D",
+    "input": "Question: If holding current of a thyristor is 2 mA then latching current should be\nOptions:\n(A) 0.01 A.\n(B) 0.002 A.\n(C) 0.009 A.\n(D) 0.004 A.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In an intel 8085A, which is the first machine cycle of an instruction?",
+    "choices": [
+      "An op-code fetch cycle",
+      "A memory read cycle",
+      "A memory write cycle",
+      "An I/O read cycle"
+    ],
+    "answer": "A",
+    "input": "Question: In an intel 8085A, which is the first machine cycle of an instruction?\nOptions:\n(A) An op-code fetch cycle\n(B) A memory read cycle\n(C) A memory write cycle\n(D) An I/O read cycle\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following are the disadvantages of a closed loop control system?",
+    "choices": [
+      "Reduces the overall gain.",
+      "Complex and costly.",
+      "Oscillatory response.",
+      "All of the above."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following are the disadvantages of a closed loop control system?\nOptions:\n(A) Reduces the overall gain.\n(B) Complex and costly.\n(C) Oscillatory response.\n(D) All of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",
+    "choices": [
+      "LC network.",
+      "RC network.",
+      "RL network.",
+      "Both 2 and 3."
+    ],
+    "answer": "D",
+    "input": "Question: Poles and zeros are arranged alternatively on negative real axis, then type of network is/are\nOptions:\n(A) LC network.\n(B) RC network.\n(C) RL network.\n(D) Both 2 and 3.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The magnetisation and applied field in ferromagnetic materials are related",
+    "choices": [
+      "sinusoidally.",
+      "non linearly.",
+      "linearly.",
+      "parabolically."
+    ],
+    "answer": "B",
+    "input": "Question: The magnetisation and applied field in ferromagnetic materials are related\nOptions:\n(A) sinusoidally.\n(B) non linearly.\n(C) linearly.\n(D) parabolically.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Thin laminations are used in a machine in order to reduce",
+    "choices": [
+      "Eddy current losses",
+      "Hysteresis losses",
+      "Both A and B",
+      "Copper losses"
+    ],
+    "answer": "A",
+    "input": "Question: Thin laminations are used in a machine in order to reduce\nOptions:\n(A) Eddy current losses\n(B) Hysteresis losses\n(C) Both A and B\n(D) Copper losses\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is",
+    "choices": [
+      "40π coulombs.",
+      "80π coulombs.",
+      "10π coulombs.",
+      "none of these."
+    ],
+    "answer": "B",
+    "input": "Question: A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is\nOptions:\n(A) 40π coulombs.\n(B) 80π coulombs.\n(C) 10π coulombs.\n(D) none of these.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In binary number system the first digit (bit) from right to left is called as",
+    "choices": [
+      "LSB, Least Significant Bit",
+      "MSB, Most Significant Bit",
+      "First Bit",
+      "Last Bit"
+    ],
+    "answer": "A",
+    "input": "Question: In binary number system the first digit (bit) from right to left is called as\nOptions:\n(A) LSB, Least Significant Bit\n(B) MSB, Most Significant Bit\n(C) First Bit\n(D) Last Bit\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is",
+    "choices": [
+      "0.",
+      "0.5.",
+      "1.",
+      "none of above."
+    ],
+    "answer": "B",
+    "input": "Question: In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is\nOptions:\n(A) 0.\n(B) 0.5.\n(C) 1.\n(D) none of above.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage",
+    "choices": [
+      "3.33 %.",
+      "2.66 %.",
+      "2 %.",
+      "1 %."
+    ],
+    "answer": "B",
+    "input": "Question: A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage\nOptions:\n(A) 3.33 %.\n(B) 2.66 %.\n(C) 2 %.\n(D) 1 %.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following methods is/are used for reactive or voltage compensation",
+    "choices": [
+      "shunt capacitor",
+      "series capacitor",
+      "generation excitation control",
+      "all of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following methods is/are used for reactive or voltage compensation\nOptions:\n(A) shunt capacitor\n(B) series capacitor\n(C) generation excitation control\n(D) all of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The ROM programmed during manufacturing process itself is called",
+    "choices": [
+      "MROM",
+      "PROM",
+      "EPROM",
+      "EEPROM"
+    ],
+    "answer": "A",
+    "input": "Question: The ROM programmed during manufacturing process itself is called\nOptions:\n(A) MROM\n(B) PROM\n(C) EPROM\n(D) EEPROM\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "In 8085 name/names of the 16 bit registers is/are",
+    "choices": [
+      "stack pointer.",
+      "program counter.",
+      "both A and B.",
+      "none of these."
+    ],
+    "answer": "C",
+    "input": "Question: In 8085 name/names of the 16 bit registers is/are\nOptions:\n(A) stack pointer.\n(B) program counter.\n(C) both A and B.\n(D) none of these.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Stability of a transmission line can be increased by",
+    "choices": [
+      "shunt capacitor",
+      "series capacitor",
+      "shunt reactor",
+      "both A and B"
+    ],
+    "answer": "D",
+    "input": "Question: Stability of a transmission line can be increased by\nOptions:\n(A) shunt capacitor\n(B) series capacitor\n(C) shunt reactor\n(D) both A and B\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Snubber circuit is used with SCR",
+    "choices": [
+      "in series.",
+      "in parallel.",
+      "either series or parallel.",
+      "anti parallel."
+    ],
+    "answer": "B",
+    "input": "Question: Snubber circuit is used with SCR\nOptions:\n(A) in series.\n(B) in parallel.\n(C) either series or parallel.\n(D) anti parallel.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The number of rings in the Bohr model of any element is determined by what?",
+    "choices": [
+      "Column number on periodic table.",
+      "Atomic mass.",
+      "Row number on periodic table.",
+      "Atomic number."
+    ],
+    "answer": "C",
+    "input": "Question: The number of rings in the Bohr model of any element is determined by what?\nOptions:\n(A) Column number on periodic table.\n(B) Atomic mass.\n(C) Row number on periodic table.\n(D) Atomic number.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Silicon and Germanium are ________ elements.",
+    "choices": [
+      "trivalant",
+      "pentavalant",
+      "hexavalant",
+      "tetravalant"
+    ],
+    "answer": "D",
+    "input": "Question: Silicon and Germanium are ________ elements.\nOptions:\n(A) trivalant\n(B) pentavalant\n(C) hexavalant\n(D) tetravalant\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The number of output pins in 8085 microprocessors are",
+    "choices": [
+      "27.",
+      "40.",
+      "21.",
+      "19."
+    ],
+    "answer": "A",
+    "input": "Question: The number of output pins in 8085 microprocessors are\nOptions:\n(A) 27.\n(B) 40.\n(C) 21.\n(D) 19.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "If P is the power of a star connected system then what will be power of an equivalent delta connected system?",
+    "choices": [
+      "P",
+      "3P",
+      "P/3",
+      "None of the above"
+    ],
+    "answer": "A",
+    "input": "Question: If P is the power of a star connected system then what will be power of an equivalent delta connected system?\nOptions:\n(A) P\n(B) 3P\n(C) P/3\n(D) None of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which oscillators are easy to fabricate in a monolithic IC?",
+    "choices": [
+      "Crystal oscillator.",
+      "Hartley oscillator.",
+      "Wien bridge oscillator.",
+      "Relaxation oscillator."
+    ],
+    "answer": "D",
+    "input": "Question: Which oscillators are easy to fabricate in a monolithic IC?\nOptions:\n(A) Crystal oscillator.\n(B) Hartley oscillator.\n(C) Wien bridge oscillator.\n(D) Relaxation oscillator.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",
+    "choices": [
+      "DC only",
+      "AC only",
+      "Either AC or DC",
+      "An Impulse"
+    ],
+    "answer": "C",
+    "input": "Question: If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is\nOptions:\n(A) DC only\n(B) AC only\n(C) Either AC or DC\n(D) An Impulse\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The feedback factor of a Wien bridge oscillator using Op-Amp is",
+    "choices": [
+      "1/3",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "answer": "C",
+    "input": "Question: The feedback factor of a Wien bridge oscillator using Op-Amp is\nOptions:\n(A) 1/3\n(B) 1/4\n(C) 1/2\n(D) 1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",
+    "choices": [
+      "T1 & T2",
+      "T2 & T3",
+      "T3 & T4",
+      "T4 & T1"
+    ],
+    "answer": "C",
+    "input": "Question: The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between\nOptions:\n(A) T1 & T2\n(B) T2 & T3\n(C) T3 & T4\n(D) T4 & T1\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "Which of the following is not a sinusoidal oscillator?",
+    "choices": [
+      "LC oscillator",
+      "RC phase shift oscillator",
+      "Relaxation oscillator",
+      "Crystal oscillator"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is not a sinusoidal oscillator?\nOptions:\n(A) LC oscillator\n(B) RC phase shift oscillator\n(C) Relaxation oscillator\n(D) Crystal oscillator\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "electrical_engineering",
+    "question": "A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be",
+    "choices": [
+      "parallel to the plane of the wire.",
+      "perpendicular to the circumference of the wire.",
+      "parallel to half portion and perpendicular for the other half.",
+      "none of above."
+    ],
+    "answer": "A",
+    "input": "Question: A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be\nOptions:\n(A) parallel to the plane of the wire.\n(B) perpendicular to the circumference of the wire.\n(C) parallel to half portion and perpendicular for the other half.\n(D) none of above.\nAnswer:",
+    "target": "(A)"
+  }
+]

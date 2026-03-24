@@ -1,0 +1,132 @@
+datasets:
+  bbh:
+    data_dir: ./dataset/bbh
+    default_prompt:
+      task_prompt: ''
+      answer_format: ''
+      generation_length: 128
+    task_prompts:
+      boolean_expressions:
+        task_prompt: Evaluate the result of a random Boolean expression.
+        answer_format: Answer with only 'True' or 'False'.
+        generation_length: 1
+      causal_judgement:
+        task_prompt: Answer questions about causal attribution.
+        answer_format: Answer with only 'Yes' or 'No'.
+        generation_length: 1
+      date_understanding:
+        task_prompt: Infer the date from context.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      disambiguation_qa:
+        task_prompt: Clarify the meaning of sentences with ambiguous pronouns.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      dyck_languages:
+        task_prompt: Correctly close a Dyck-n word.
+        answer_format: Answer with only a sequence of space-separated parentheses.
+        generation_length: 3
+      formal_fallacies:
+        task_prompt: Distinguish deductively valid arguments from formal fallacies.
+        answer_format: Answer with only 'valid' or 'invalid'.
+        generation_length: 1
+      geometric_shapes:
+        task_prompt: Name geometric shapes from their SVG paths.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      hyperbaton:
+        task_prompt: Order adjectives correctly in English sentences.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      logical_deduction_five_objects:
+        task_prompt: A logical deduction task which requires deducing the order of
+          a sequence of objects.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      logical_deduction_seven_objects:
+        task_prompt: A logical deduction task which requires deducing the order of
+          a sequence of objects.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      logical_deduction_three_objects:
+        task_prompt: A logical deduction task which requires deducing the order of
+          a sequence of objects.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      movie_recommendation:
+        task_prompt: Recommend movies similar to the given list of movies.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      multistep_arithmetic_two:
+        task_prompt: Solve multi-step arithmetic problems.
+        answer_format: Answer with only an integer.
+        generation_length: 3
+      navigate:
+        task_prompt: Given a series of navigation instructions, determine whether
+          one would end up back at the starting point.
+        answer_format: Answer with only 'Yes' or 'No'.
+        generation_length: 1
+      object_counting:
+        task_prompt: Questions that involve enumerating objects and asking the model
+          to count them.
+        answer_format: Answer with only an integer.
+        generation_length: 2
+      penguins_in_a_table:
+        task_prompt: Answer questions about a table of penguins and their attributes.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      reasoning_about_colored_objects:
+        task_prompt: Answer extremely simple questions about the colors of objects
+          on a surface.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      ruin_names:
+        task_prompt: Select the humorous edit that 'ruins' the input movie or musical
+          artist name.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      salient_translation_error_detection:
+        task_prompt: Detect the type of error in an English translation of a German
+          source sentence.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      snarks:
+        task_prompt: Determine which of two sentences is sarcastic.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      sports_understanding:
+        task_prompt: Determine whether an artificially constructed sentence relating
+          to sports is plausible or not.
+        answer_format: Answer with only 'yes' or 'no'.
+        generation_length: 1
+      temporal_sequences:
+        task_prompt: Answer questions about which times certain events could have
+          occurred.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      tracking_shuffled_objects_five_objects:
+        task_prompt: A task requiring determining the final positions of a set of
+          objects given their initial positions and a description of a sequence of
+          swaps.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      tracking_shuffled_objects_seven_objects:
+        task_prompt: A task requiring determining the final positions of a set of
+          objects given their initial positions and a description of a sequence of
+          swaps.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      tracking_shuffled_objects_three_objects:
+        task_prompt: A task requiring determining the final positions of a set of
+          objects given their initial positions and a description of a sequence of
+          swaps.
+        answer_format: Answer with only the corresponding letter (e.g. (A)).
+        generation_length: 3
+      web_of_lies:
+        task_prompt: Evaluate a random boolean function expressed as a word problem.
+        answer_format: Answer with only 'Yes' or 'No'.
+        generation_length: 1
+      word_sorting:
+        task_prompt: Sort a list of words.
+        answer_format: Answer with only a sequence of words.
+        generation_length: 50

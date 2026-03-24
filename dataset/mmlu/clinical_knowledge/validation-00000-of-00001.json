@@ -1,0 +1,379 @@
+[
+  {
+    "subject": "clinical_knowledge",
+    "question": "Type I muscle fibres have the following characteristics:",
+    "choices": [
+      "white, glycolytic, slow contracting.",
+      "white, oxidative, slow contracting.",
+      "red, oxidative, fast contracting.",
+      "red, oxidative, slow contracting."
+    ],
+    "answer": "D",
+    "input": "Question: Type I muscle fibres have the following characteristics:\nOptions:\n(A) white, glycolytic, slow contracting.\n(B) white, oxidative, slow contracting.\n(C) red, oxidative, fast contracting.\n(D) red, oxidative, slow contracting.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Mr Wood has just returned from surgery and has severe internal bleeding. Which of the following observations would you NOT expect to find on undertaking post-operative observations?",
+    "choices": [
+      "Hypotension.",
+      "Bradycardia.",
+      "Confusion",
+      "Tachypnoea."
+    ],
+    "answer": "B",
+    "input": "Question: Mr Wood has just returned from surgery and has severe internal bleeding. Which of the following observations would you NOT expect to find on undertaking post-operative observations?\nOptions:\n(A) Hypotension.\n(B) Bradycardia.\n(C) Confusion\n(D) Tachypnoea.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following represents Cushing's response?",
+    "choices": [
+      "Low blood pressure, tachycardia.",
+      "High blood pressure, tachycardia.",
+      "Low blood pressure, bradycardia.",
+      "High blood pressure, bradycardia."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following represents Cushing's response?\nOptions:\n(A) Low blood pressure, tachycardia.\n(B) High blood pressure, tachycardia.\n(C) Low blood pressure, bradycardia.\n(D) High blood pressure, bradycardia.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "How many 'true' movements are available at the hip?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "C",
+    "input": "Question: How many 'true' movements are available at the hip?\nOptions:\n(A) 4\n(B) 5\n(C) 6\n(D) 7\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "For patients with asthma, how many times a day should a peak flow reading be taken?",
+    "choices": [
+      "Daily.",
+      "Twice a day.",
+      "Three times a week.",
+      "Once a week."
+    ],
+    "answer": "B",
+    "input": "Question: For patients with asthma, how many times a day should a peak flow reading be taken?\nOptions:\n(A) Daily.\n(B) Twice a day.\n(C) Three times a week.\n(D) Once a week.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is incorrect?",
+    "choices": [
+      "Dentures should be removed at night.",
+      "Dentures should be cleaned on removal from mouth.",
+      "Dentures should be stored in a named pot.",
+      "Dentures should be stored dry."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is incorrect?\nOptions:\n(A) Dentures should be removed at night.\n(B) Dentures should be cleaned on removal from mouth.\n(C) Dentures should be stored in a named pot.\n(D) Dentures should be stored dry.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Why might you choose to use a silicone catheter (as of 2020 medical knowledge)?",
+    "choices": [
+      "Because the patient does not like the others.",
+      "Because the patient is allergic to latex.",
+      "Because there are no other kinds of catheter at your disposal.",
+      "Because it is cheaper."
+    ],
+    "answer": "B",
+    "input": "Question: Why might you choose to use a silicone catheter (as of 2020 medical knowledge)?\nOptions:\n(A) Because the patient does not like the others.\n(B) Because the patient is allergic to latex.\n(C) Because there are no other kinds of catheter at your disposal.\n(D) Because it is cheaper.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "The recommended dose of creatine to load the muscles of a 70 kg man within one week is:",
+    "choices": [
+      "2 g/day.",
+      "5 g/day.",
+      "10 g/day.",
+      "20 g/day."
+    ],
+    "answer": "D",
+    "input": "Question: The recommended dose of creatine to load the muscles of a 70 kg man within one week is:\nOptions:\n(A) 2 g/day.\n(B) 5 g/day.\n(C) 10 g/day.\n(D) 20 g/day.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "The coding sequences of genes are called:",
+    "choices": [
+      "extrons.",
+      "exons.",
+      "introns.",
+      "codons."
+    ],
+    "answer": "B",
+    "input": "Question: The coding sequences of genes are called:\nOptions:\n(A) extrons.\n(B) exons.\n(C) introns.\n(D) codons.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true with regards to the anatomy involved in the rectal examination?",
+    "choices": [
+      "The sacrum is palpated anteriorly",
+      "The pubic bone is palpated anteriorly in both sexes",
+      "In the male the testes can be appreciated anteriorly",
+      "The cervix can sometimes be felt anteriorly in the female"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is true with regards to the anatomy involved in the rectal examination?\nOptions:\n(A) The sacrum is palpated anteriorly\n(B) The pubic bone is palpated anteriorly in both sexes\n(C) In the male the testes can be appreciated anteriorly\n(D) The cervix can sometimes be felt anteriorly in the female\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Using a large volume spacer will improve the deposition of medication by:",
+    "choices": [
+      "10-15%",
+      "40-60%",
+      "99-100%",
+      "30-40%"
+    ],
+    "answer": "B",
+    "input": "Question: Using a large volume spacer will improve the deposition of medication by:\nOptions:\n(A) 10-15%\n(B) 40-60%\n(C) 99-100%\n(D) 30-40%\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which one of the following is not a use for intravenous infusions?",
+    "choices": [
+      "Administer prescribed intravenous fluid.",
+      "Administer dyes or contrast media for radiographic examinations.",
+      "Administer prescribed blood products.",
+      "To orally hydrate a patient."
+    ],
+    "answer": "D",
+    "input": "Question: Which one of the following is not a use for intravenous infusions?\nOptions:\n(A) Administer prescribed intravenous fluid.\n(B) Administer dyes or contrast media for radiographic examinations.\n(C) Administer prescribed blood products.\n(D) To orally hydrate a patient.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "During exercise, adrenaline secretion from the adrenal glands is stimulated by:",
+    "choices": [
+      "increased plasma glucose.",
+      "increased plasma fatty acids.",
+      "increased plasma ACTH.",
+      "increased sympathetic nerve activity."
+    ],
+    "answer": "D",
+    "input": "Question: During exercise, adrenaline secretion from the adrenal glands is stimulated by:\nOptions:\n(A) increased plasma glucose.\n(B) increased plasma fatty acids.\n(C) increased plasma ACTH.\n(D) increased sympathetic nerve activity.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true of blackouts and dizziness?",
+    "choices": [
+      "Confusion following a blackout is strongly suggestive of a fit",
+      "Pre-syncope is another term for a blackout",
+      "An epileptic fit always leads to the loss of consciousness",
+      "In the investigation of a blackout a blood sugar estimation is of no value"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is true of blackouts and dizziness?\nOptions:\n(A) Confusion following a blackout is strongly suggestive of a fit\n(B) Pre-syncope is another term for a blackout\n(C) An epileptic fit always leads to the loss of consciousness\n(D) In the investigation of a blackout a blood sugar estimation is of no value\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true about abdominal pain?",
+    "choices": [
+      "Peptic ulcer pain is usually experienced in the hypogastrium",
+      "The pain of irritable bowel syndrome is usually well localised",
+      "The pain of oesophagitis is usually retrosternal in site",
+      "The pain of pancreatitis usually radiates to the groin"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is true about abdominal pain?\nOptions:\n(A) Peptic ulcer pain is usually experienced in the hypogastrium\n(B) The pain of irritable bowel syndrome is usually well localised\n(C) The pain of oesophagitis is usually retrosternal in site\n(D) The pain of pancreatitis usually radiates to the groin\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "The following are features of Alzheimer's disease except:",
+    "choices": [
+      "short-term memory loss.",
+      "confusion.",
+      "poor attention.",
+      "drowsiness."
+    ],
+    "answer": "D",
+    "input": "Question: The following are features of Alzheimer's disease except:\nOptions:\n(A) short-term memory loss.\n(B) confusion.\n(C) poor attention.\n(D) drowsiness.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true about radial nerve palsy?",
+    "choices": [
+      "The radial nerve arises from the lateral cord of the brachial plexus",
+      "It is associated with sensory loss over the medial half of the hand",
+      "It leads to wrist drop",
+      "It can occur due to a superficial laceration over the wrist"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is true about radial nerve palsy?\nOptions:\n(A) The radial nerve arises from the lateral cord of the brachial plexus\n(B) It is associated with sensory loss over the medial half of the hand\n(C) It leads to wrist drop\n(D) It can occur due to a superficial laceration over the wrist\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "How can several different proteins be produced from the same gene?",
+    "choices": [
+      "By selective transcription of different parts of the DNA in the gene.",
+      "By doubling or tripling the length of the mRNA molecule produced from the primary transcript.",
+      "The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.",
+      "By splicing of the mRNA molecule after it has been formed from the primary transcript."
+    ],
+    "answer": "C",
+    "input": "Question: How can several different proteins be produced from the same gene?\nOptions:\n(A) By selective transcription of different parts of the DNA in the gene.\n(B) By doubling or tripling the length of the mRNA molecule produced from the primary transcript.\n(C) The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.\n(D) By splicing of the mRNA molecule after it has been formed from the primary transcript.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "How long can a long-term catheter stay in situ?",
+    "choices": [
+      "4 weeks.",
+      "7 weeks.",
+      "12 weeks.",
+      "20 weeks."
+    ],
+    "answer": "C",
+    "input": "Question: How long can a long-term catheter stay in situ?\nOptions:\n(A) 4 weeks.\n(B) 7 weeks.\n(C) 12 weeks.\n(D) 20 weeks.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Stridor is described as:",
+    "choices": [
+      "A wheezing sound.",
+      "A gurgling sound.",
+      "A rattling sound.",
+      "A high-pitched sound."
+    ],
+    "answer": "D",
+    "input": "Question: Stridor is described as:\nOptions:\n(A) A wheezing sound.\n(B) A gurgling sound.\n(C) A rattling sound.\n(D) A high-pitched sound.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "What is cardiac output?",
+    "choices": [
+      "Stroke volume × heart rate.",
+      "Systemic vascular resistance × heart rate.",
+      "Blood pressure × heart rate.",
+      "Preload × stroke volume."
+    ],
+    "answer": "A",
+    "input": "Question: What is cardiac output?\nOptions:\n(A) Stroke volume × heart rate.\n(B) Systemic vascular resistance × heart rate.\n(C) Blood pressure × heart rate.\n(D) Preload × stroke volume.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true about the assessment of gait?",
+    "choices": [
+      "A stamping gait is caused by bilateral foot drop",
+      "An antalgic gait is caused by a painful leg",
+      "A waddling gait is sometimes called a steppage gait",
+      "An apraxic gait is due to hysteria"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is true about the assessment of gait?\nOptions:\n(A) A stamping gait is caused by bilateral foot drop\n(B) An antalgic gait is caused by a painful leg\n(C) A waddling gait is sometimes called a steppage gait\n(D) An apraxic gait is due to hysteria\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "What should be done after catheterization is carried out?",
+    "choices": [
+      "The patient should be thanked.",
+      "The patient should be advised when to drink.",
+      "Document catheterization in the patient's notes.",
+      "The patient should be washed."
+    ],
+    "answer": "C",
+    "input": "Question: What should be done after catheterization is carried out?\nOptions:\n(A) The patient should be thanked.\n(B) The patient should be advised when to drink.\n(C) Document catheterization in the patient's notes.\n(D) The patient should be washed.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "In a patient with chest pain which of these features is most suggestive of a myocardial infarction?",
+    "choices": [
+      "Very severe pain",
+      "Sweating and vomiting",
+      "Pain has lasted for over a week",
+      "Pain is sharp like a knife"
+    ],
+    "answer": "B",
+    "input": "Question: In a patient with chest pain which of these features is most suggestive of a myocardial infarction?\nOptions:\n(A) Very severe pain\n(B) Sweating and vomiting\n(C) Pain has lasted for over a week\n(D) Pain is sharp like a knife\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "In the assessment of visual fields which of the following is true?",
+    "choices": [
+      "A lesion at the optic chiasma leads to a homonymous hemianopia",
+      "Impulses from the retinal leave the eye via the optic radiation",
+      "An enlarged blind spot may occur because of papilloedema",
+      "The visual field examination maps out a patient's central vision"
+    ],
+    "answer": "C",
+    "input": "Question: In the assessment of visual fields which of the following is true?\nOptions:\n(A) A lesion at the optic chiasma leads to a homonymous hemianopia\n(B) Impulses from the retinal leave the eye via the optic radiation\n(C) An enlarged blind spot may occur because of papilloedema\n(D) The visual field examination maps out a patient's central vision\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Who set the world record for the mile race in 1886?",
+    "choices": [
+      "R Bannister",
+      "S Coe",
+      "J DiMaggio",
+      "WG George"
+    ],
+    "answer": "D",
+    "input": "Question: Who set the world record for the mile race in 1886?\nOptions:\n(A) R Bannister\n(B) S Coe\n(C) J DiMaggio\n(D) WG George\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "What is erythema?",
+    "choices": [
+      "Inflammation of the sweat glands.",
+      "Redness of the skin due to congestion of the capillaries.",
+      "A form of skin infection.",
+      "Redness of the skin caused by pressure."
+    ],
+    "answer": "B",
+    "input": "Question: What is erythema?\nOptions:\n(A) Inflammation of the sweat glands.\n(B) Redness of the skin due to congestion of the capillaries.\n(C) A form of skin infection.\n(D) Redness of the skin caused by pressure.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:",
+    "choices": [
+      "converted into arginine and released from the muscle.",
+      "converted into alanine and glutamine and released from the muscle.",
+      "converted into urea and released from the muscle.",
+      "used to synthesise purines and pyrimidines in the muscle."
+    ],
+    "answer": "B",
+    "input": "Question: When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:\nOptions:\n(A) converted into arginine and released from the muscle.\n(B) converted into alanine and glutamine and released from the muscle.\n(C) converted into urea and released from the muscle.\n(D) used to synthesise purines and pyrimidines in the muscle.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "clinical_knowledge",
+    "question": "Which of the following is true regarding the examination of the legs?",
+    "choices": [
+      "Sustained clonus occurs with hypotonia",
+      "Clonus can only be demonstrated at the ankle",
+      "The root value of hip flexion is L4, L5",
+      "The root value of toe extension is L5"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is true regarding the examination of the legs?\nOptions:\n(A) Sustained clonus occurs with hypotonia\n(B) Clonus can only be demonstrated at the ankle\n(C) The root value of hip flexion is L4, L5\n(D) The root value of toe extension is L5\nAnswer:",
+    "target": "(D)"
+  }
+]

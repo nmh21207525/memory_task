@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "marketing",
+    "question": "_____________ is a natural outcome when combining demographic and geographic variables.",
+    "choices": [
+      "Geodemographics",
+      "Product differentiation.",
+      "ANSOFF matrix.",
+      "Brand management."
+    ],
+    "answer": "A",
+    "input": "Question: _____________ is a natural outcome when combining demographic and geographic variables.\nOptions:\n(A) Geodemographics\n(B) Product differentiation.\n(C) ANSOFF matrix.\n(D) Brand management.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In an organization, the group of people tasked with buying decisions is referred to as the _______________.",
+    "choices": [
+      "Outsourcing unit.",
+      "Procurement centre.",
+      "Chief executive unit.",
+      "Decision-making unit."
+    ],
+    "answer": "D",
+    "input": "Question: In an organization, the group of people tasked with buying decisions is referred to as the _______________.\nOptions:\n(A) Outsourcing unit.\n(B) Procurement centre.\n(C) Chief executive unit.\n(D) Decision-making unit.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is an assumption in Maslow's hierarchy of needs?",
+    "choices": [
+      "Needs are dependent on culture and also on social class.",
+      "Lower-level needs must be at least partially satisfied before higher needs can affect behaviour.",
+      "Needs are not prioritized or arranged in any particular order.",
+      "Satisfied needs are motivators, and new needs emerge when current needs remain unmet."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is an assumption in Maslow's hierarchy of needs?\nOptions:\n(A) Needs are dependent on culture and also on social class.\n(B) Lower-level needs must be at least partially satisfied before higher needs can affect behaviour.\n(C) Needs are not prioritized or arranged in any particular order.\n(D) Satisfied needs are motivators, and new needs emerge when current needs remain unmet.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The single group within society that is most vulnerable to reference group influence is:",
+    "choices": [
+      "The older consumer who feels somewhat left out of things.",
+      "The married women, many of whom feel a need for stability in their lives.",
+      "New immigrants who really want to assimilate into their new culture.",
+      "Children, who base most of their buying decisions on outside influences."
+    ],
+    "answer": "D",
+    "input": "Question: The single group within society that is most vulnerable to reference group influence is:\nOptions:\n(A) The older consumer who feels somewhat left out of things.\n(B) The married women, many of whom feel a need for stability in their lives.\n(C) New immigrants who really want to assimilate into their new culture.\n(D) Children, who base most of their buying decisions on outside influences.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Although the content and quality can be as controlled as direct mail, response rates of this medium are lower because of the lack of a personal address mechanism. This media format is known as:",
+    "choices": [
+      "Care lines.",
+      "Direct mail.",
+      "Inserts.",
+      "Door to door."
+    ],
+    "answer": "D",
+    "input": "Question: Although the content and quality can be as controlled as direct mail, response rates of this medium are lower because of the lack of a personal address mechanism. This media format is known as:\nOptions:\n(A) Care lines.\n(B) Direct mail.\n(C) Inserts.\n(D) Door to door.\nAnswer:",
+    "target": "(D)"
+  }
+]

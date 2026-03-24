@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "college_physics",
+    "question": "Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bombard a metal target. Which of the following processes results in the characteristic X rays?",
+    "choices": [
+      "Electrons producing Čerenkov radiation",
+      "Electrons colliding with phonons in the metal",
+      "Electrons filling inner shell vacancies that are created in the metal atoms",
+      "Electrons combining with protons to form neutrons"
+    ],
+    "answer": "C",
+    "input": "Question: Characteristic X rays, appearing as sharp lines on a continuous background, are produced when high-energy electrons bombard a metal target. Which of the following processes results in the characteristic X rays?\nOptions:\n(A) Electrons producing Čerenkov radiation\n(B) Electrons colliding with phonons in the metal\n(C) Electrons filling inner shell vacancies that are created in the metal atoms\n(D) Electrons combining with protons to form neutrons\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball’s mass is negligibly small.)",
+    "choices": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer": "D",
+    "input": "Question: Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball’s mass is negligibly small.)\nOptions:\n(A) 5%\n(B) 10%\n(C) 15%\n(D) 20%\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately",
+    "choices": [
+      "0.1 GeV/c^2",
+      "0.2 GeV/c^2",
+      "0.5 GeV/c^2",
+      "1.0 GeV/c^2"
+    ],
+    "answer": "D",
+    "input": "Question: The rest mass of a particle with total energy 5.0 GeV and momentum 4.9 GeV/c is approximately\nOptions:\n(A) 0.1 GeV/c^2\n(B) 0.2 GeV/c^2\n(C) 0.5 GeV/c^2\n(D) 1.0 GeV/c^2\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?",
+    "choices": [
+      "2",
+      "250",
+      "5,000",
+      "10,000"
+    ],
+    "answer": "B",
+    "input": "Question: A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nOptions:\n(A) 2\n(B) 250\n(C) 5,000\n(D) 10,000\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "Electromagnetic radiation emitted from a nucleus is most likely to be in the form of",
+    "choices": [
+      "gamma rays",
+      "microwaves",
+      "ultraviolet radiation",
+      "visible light"
+    ],
+    "answer": "A",
+    "input": "Question: Electromagnetic radiation emitted from a nucleus is most likely to be in the form of\nOptions:\n(A) gamma rays\n(B) microwaves\n(C) ultraviolet radiation\n(D) visible light\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",
+    "choices": [
+      "Constant temperature",
+      "Constant volume",
+      "Constant pressure",
+      "Adiabatic"
+    ],
+    "answer": "B",
+    "input": "Question: For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?\nOptions:\n(A) Constant temperature\n(B) Constant volume\n(C) Constant pressure\n(D) Adiabatic\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "An ideal monatomic gas expands quasi-statically to twice its volume. If the process is isothermal, the work done by the gas is Wi. If the process is adiabatic, the work done by the gas is Wa. Which of the following is true?",
+    "choices": [
+      "Wi = Wa",
+      "0 = Wi  < Wa",
+      "0 < Wi < Wa",
+      "0<Wa <Wi"
+    ],
+    "answer": "D",
+    "input": "Question: An ideal monatomic gas expands quasi-statically to twice its volume. If the process is isothermal, the work done by the gas is Wi. If the process is adiabatic, the work done by the gas is Wa. Which of the following is true?\nOptions:\n(A) Wi = Wa\n(B) 0 = Wi  < Wa\n(C) 0 < Wi < Wa\n(D) 0<Wa <Wi\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is",
+    "choices": [
+      "2c",
+      "c",
+      "0.8c",
+      "0.5c"
+    ],
+    "answer": "C",
+    "input": "Question: The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is\nOptions:\n(A) 2c\n(B) c\n(C) 0.8c\n(D) 0.5c\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "Which of the following statements is (are) true for a Maxwell-Boltzmann description of an ideal gas of atoms in equilibrium at temperature T?\r\nI. The average velocity of the atoms is zero.\r\nII. The distribution of the speeds of the atoms has a maximum at v = 0.\r\nIII. The probability of finding an atom with zero kinetic energy is zero.",
+    "choices": [
+      "I only",
+      "II only",
+      "I and II",
+      "I and III"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is (are) true for a Maxwell-Boltzmann description of an ideal gas of atoms in equilibrium at temperature T?\r\nI. The average velocity of the atoms is zero.\r\nII. The distribution of the speeds of the atoms has a maximum at v = 0.\r\nIII. The probability of finding an atom with zero kinetic energy is zero.\nOptions:\n(A) I only\n(B) II only\n(C) I and II\n(D) I and III\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)",
+    "choices": [
+      "1,000 Hz",
+      "1,030 Hz",
+      "1,200 Hz",
+      "1,400 Hz"
+    ],
+    "answer": "C",
+    "input": "Question: During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)\nOptions:\n(A) 1,000 Hz\n(B) 1,030 Hz\n(C) 1,200 Hz\n(D) 1,400 Hz\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_physics",
+    "question": "Fermat’s principle of ray optics states, “A ray of light follows the path between two points which requires the least time.” This principle can be used to derive which of the following?\r\nI. Snell’s law of refraction\r\nII. The law of reflection\r\nIII. Rayleigh’s criterion for resolution",
+    "choices": [
+      "I only",
+      "II only",
+      "III only",
+      "I and II"
+    ],
+    "answer": "D",
+    "input": "Question: Fermat’s principle of ray optics states, “A ray of light follows the path between two points which requires the least time.” This principle can be used to derive which of the following?\r\nI. Snell’s law of refraction\r\nII. The law of reflection\r\nIII. Rayleigh’s criterion for resolution\nOptions:\n(A) I only\n(B) II only\n(C) III only\n(D) I and II\nAnswer:",
+    "target": "(D)"
+  }
+]

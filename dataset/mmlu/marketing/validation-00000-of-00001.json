@@ -1,0 +1,327 @@
+[
+  {
+    "subject": "marketing",
+    "question": "___________ act as cues by indicating to a potential customer that there is a bargain to be had.",
+    "choices": [
+      "Odd-number pricing.",
+      "Sale signs.",
+      "Relative price.",
+      "Price surplus."
+    ],
+    "answer": "B",
+    "input": "Question: ___________ act as cues by indicating to a potential customer that there is a bargain to be had.\nOptions:\n(A) Odd-number pricing.\n(B) Sale signs.\n(C) Relative price.\n(D) Price surplus.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Considering what the audiences' communications needs and engaging with them using one-way, two-way, or dialogic communications is referred to as:",
+    "choices": [
+      "Engagement.",
+      "Responses.",
+      "Advertisement.",
+      "Publicity."
+    ],
+    "answer": "A",
+    "input": "Question: Considering what the audiences' communications needs and engaging with them using one-way, two-way, or dialogic communications is referred to as:\nOptions:\n(A) Engagement.\n(B) Responses.\n(C) Advertisement.\n(D) Publicity.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An electronic version of the spoken endorsement of an offering is known as:",
+    "choices": [
+      "Viral marketing.",
+      "Social media marketing.",
+      "Electronic marketing.",
+      "Digital marketing."
+    ],
+    "answer": "A",
+    "input": "Question: An electronic version of the spoken endorsement of an offering is known as:\nOptions:\n(A) Viral marketing.\n(B) Social media marketing.\n(C) Electronic marketing.\n(D) Digital marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________ is influenced by perceptions of the fairness of prices set, latitude of price acceptance (customers appear willing to accept a price within a range of prices suggesting a 'price zone of tolerance'), magnitude (absolute price) and frequency of purchase, price presentation (how prices are presented might produce different levels of willingness to pay), and advertising.",
+    "choices": [
+      "Brand awareness.",
+      "Price perception.",
+      "Willingness to pay.",
+      "Price consciousness."
+    ],
+    "answer": "C",
+    "input": "Question: _____________ is influenced by perceptions of the fairness of prices set, latitude of price acceptance (customers appear willing to accept a price within a range of prices suggesting a 'price zone of tolerance'), magnitude (absolute price) and frequency of purchase, price presentation (how prices are presented might produce different levels of willingness to pay), and advertising.\nOptions:\n(A) Brand awareness.\n(B) Price perception.\n(C) Willingness to pay.\n(D) Price consciousness.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following terms best fits the activity of marketing communications?",
+    "choices": [
+      "Making products available.",
+      "Convenience of location.",
+      "High level of regulation.",
+      "Developing messages that can be understood and acted on by target audiences."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following terms best fits the activity of marketing communications?\nOptions:\n(A) Making products available.\n(B) Convenience of location.\n(C) High level of regulation.\n(D) Developing messages that can be understood and acted on by target audiences.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The marketing communications strategy of the marketing mix deals exclusively with:",
+    "choices": [
+      "Engagement, audiences, and advertising.",
+      "Advertising, audiences, and responses.",
+      "Advertising, publicity, and responses",
+      "Engagement, audiences, and responses."
+    ],
+    "answer": "D",
+    "input": "Question: The marketing communications strategy of the marketing mix deals exclusively with:\nOptions:\n(A) Engagement, audiences, and advertising.\n(B) Advertising, audiences, and responses.\n(C) Advertising, publicity, and responses\n(D) Engagement, audiences, and responses.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following terms refers specifically to marketing goods directly to the consumer in the home?",
+    "choices": [
+      "Comparison shopping",
+      "Consignment",
+      "Direct selling",
+      "Merchandising"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following terms refers specifically to marketing goods directly to the consumer in the home?\nOptions:\n(A) Comparison shopping\n(B) Consignment\n(C) Direct selling\n(D) Merchandising\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________ often help set the technical specifications for the proposed purchase and assist the evaluation of alternative offerings by potential suppliers. These may be consultants hired to complete a particular project.",
+    "choices": [
+      "Users.",
+      "Influencers.",
+      "Initiators.",
+      "Buyers."
+    ],
+    "answer": "B",
+    "input": "Question: _____________ often help set the technical specifications for the proposed purchase and assist the evaluation of alternative offerings by potential suppliers. These may be consultants hired to complete a particular project.\nOptions:\n(A) Users.\n(B) Influencers.\n(C) Initiators.\n(D) Buyers.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A marketing researcher is conducting a survey in a large selling area by contacting a small group of people that is representative of all people in that area. The small, representative group is known as the",
+    "choices": [
+      "population",
+      "sample",
+      "stratification",
+      "universe"
+    ],
+    "answer": "B",
+    "input": "Question: A marketing researcher is conducting a survey in a large selling area by contacting a small group of people that is representative of all people in that area. The small, representative group is known as the\nOptions:\n(A) population\n(B) sample\n(C) stratification\n(D) universe\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_______________ have become increasingly necessary as the incidence of crises has increased. This appears to be due to an increasing number of simple managerial mistakes, incorrect decision making, technology failures, and uncontrollable events in the external environment.",
+    "choices": [
+      "Crisis communications.",
+      "Advertising.",
+      "Public relations.",
+      "Viral marketing."
+    ],
+    "answer": "A",
+    "input": "Question: _______________ have become increasingly necessary as the incidence of crises has increased. This appears to be due to an increasing number of simple managerial mistakes, incorrect decision making, technology failures, and uncontrollable events in the external environment.\nOptions:\n(A) Crisis communications.\n(B) Advertising.\n(C) Public relations.\n(D) Viral marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Salespeople at a large consumer goods manufacturer are encouraged to ask probing questions of customers to identify their interests. Once their key desires have been uncovered, the salesperson should tailor a presentation so that the customers can see how the product will satisfy their wants. Which of the following presentation formats does the scenario best represent?",
+    "choices": [
+      "Hard selling format",
+      "Formula selling format",
+      "Need-satisfaction format",
+      "Stimulus-response format"
+    ],
+    "answer": "C",
+    "input": "Question: Salespeople at a large consumer goods manufacturer are encouraged to ask probing questions of customers to identify their interests. Once their key desires have been uncovered, the salesperson should tailor a presentation so that the customers can see how the product will satisfy their wants. Which of the following presentation formats does the scenario best represent?\nOptions:\n(A) Hard selling format\n(B) Formula selling format\n(C) Need-satisfaction format\n(D) Stimulus-response format\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When customers assess prices, they estimate value using __________, because they do not always know the true cost and price of the item that they are purchasing. These pricing cues include: sale signs; odd-number pricing; the purchase context; and price bundling and rebates.",
+    "choices": [
+      "Pricing strategies.",
+      "Sale price.",
+      "Pricing cues.",
+      "Pricing bundles."
+    ],
+    "answer": "C",
+    "input": "Question: When customers assess prices, they estimate value using __________, because they do not always know the true cost and price of the item that they are purchasing. These pricing cues include: sale signs; odd-number pricing; the purchase context; and price bundling and rebates.\nOptions:\n(A) Pricing strategies.\n(B) Sale price.\n(C) Pricing cues.\n(D) Pricing bundles.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A more comprehensive set of data than that traditionally used to provide marketing information and customer insights is referred to as:_______________",
+    "choices": [
+      "Management information system.",
+      "Big data.",
+      "Internet of things.",
+      "Data analysis."
+    ],
+    "answer": "B",
+    "input": "Question: A more comprehensive set of data than that traditionally used to provide marketing information and customer insights is referred to as:_______________\nOptions:\n(A) Management information system.\n(B) Big data.\n(C) Internet of things.\n(D) Data analysis.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following are the three broad groups of consumer segmentation criteria?",
+    "choices": [
+      "Behavioural, psychological, and profile criteria.",
+      "Behavioural-, gender-, and industry-type variables.",
+      "Organizational size, demographic, and behavioural variables.",
+      "Psychographic, sociological, and price variables."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following are the three broad groups of consumer segmentation criteria?\nOptions:\n(A) Behavioural, psychological, and profile criteria.\n(B) Behavioural-, gender-, and industry-type variables.\n(C) Organizational size, demographic, and behavioural variables.\n(D) Psychographic, sociological, and price variables.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is when customers visit the service facility so that they are personally involved throughout the service delivery process:",
+    "choices": [
+      "High-contact services.",
+      "Information processing services.",
+      "Medium-contact services.",
+      "Low-contact services."
+    ],
+    "answer": "A",
+    "input": "Question: This is when customers visit the service facility so that they are personally involved throughout the service delivery process:\nOptions:\n(A) High-contact services.\n(B) Information processing services.\n(C) Medium-contact services.\n(D) Low-contact services.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "For a long time commercial media have been used to convey messages designed to develop consumers' attitudes and feelings towards brands. This is referred to as:",
+    "choices": [
+      "Direct response.",
+      "Behavioural response.",
+      "Attitudinal response.",
+      "Call-to-action response ."
+    ],
+    "answer": "C",
+    "input": "Question: For a long time commercial media have been used to convey messages designed to develop consumers' attitudes and feelings towards brands. This is referred to as:\nOptions:\n(A) Direct response.\n(B) Behavioural response.\n(C) Attitudinal response.\n(D) Call-to-action response .\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The _________ model emphasizes that each phase occurs in a particular sequence, which, according to Theodorson and Theodorson (1969), enables the 'transmission of information, ideas, attitudes, or emotion from one person or group to another (or others), primarily through symbols'.",
+    "choices": [
+      "Circular",
+      "Linear",
+      "Two-way",
+      "AIDA"
+    ],
+    "answer": "B",
+    "input": "Question: The _________ model emphasizes that each phase occurs in a particular sequence, which, according to Theodorson and Theodorson (1969), enables the 'transmission of information, ideas, attitudes, or emotion from one person or group to another (or others), primarily through symbols'.\nOptions:\n(A) Circular\n(B) Linear\n(C) Two-way\n(D) AIDA\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is the unpaid peer-to-peer communication of often provocative content originating from an identified sponsor using the Internet to persuade or influence an audience to pass along the content to others:",
+    "choices": [
+      "Viral marketing.",
+      "Word-of-mouth marketing.",
+      "Direct-response advertising.",
+      "Peer-to-peer marketing."
+    ],
+    "answer": "A",
+    "input": "Question: This is the unpaid peer-to-peer communication of often provocative content originating from an identified sponsor using the Internet to persuade or influence an audience to pass along the content to others:\nOptions:\n(A) Viral marketing.\n(B) Word-of-mouth marketing.\n(C) Direct-response advertising.\n(D) Peer-to-peer marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Bollywood cinema aimed at audiences in the Indian sub-continent and at diaspora around the world, using strong love and ethical themes, and a musical format, is an example of:",
+    "choices": [
+      "Group influence.",
+      "Ethnic marketing.",
+      "Social grade.",
+      "Lifestyle."
+    ],
+    "answer": "B",
+    "input": "Question: Bollywood cinema aimed at audiences in the Indian sub-continent and at diaspora around the world, using strong love and ethical themes, and a musical format, is an example of:\nOptions:\n(A) Group influence.\n(B) Ethnic marketing.\n(C) Social grade.\n(D) Lifestyle.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Segmentation by benefits sought is a type of product-related segmentation:",
+    "choices": [
+      "To determine the marketer's effectiveness in satisfying the consumer.",
+      "Used to create a psychographic profile of the benefit of having the product as a common alternative.",
+      "As a post-consumption evaluation tool.",
+      "That focuses on the attributes that people seek in a product."
+    ],
+    "answer": "D",
+    "input": "Question: Segmentation by benefits sought is a type of product-related segmentation:\nOptions:\n(A) To determine the marketer's effectiveness in satisfying the consumer.\n(B) Used to create a psychographic profile of the benefit of having the product as a common alternative.\n(C) As a post-consumption evaluation tool.\n(D) That focuses on the attributes that people seek in a product.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________ are involved professionally in the topic of interest. Their defining characteristic is that they exert personal influence because of their profession, authority, education, or status associated with the object of the communication process.",
+    "choices": [
+      "Opinion aggregators.",
+      "Opinion followers.",
+      "Opinion formers.",
+      "Opinion gatherers."
+    ],
+    "answer": "C",
+    "input": "Question: _____________ are involved professionally in the topic of interest. Their defining characteristic is that they exert personal influence because of their profession, authority, education, or status associated with the object of the communication process.\nOptions:\n(A) Opinion aggregators.\n(B) Opinion followers.\n(C) Opinion formers.\n(D) Opinion gatherers.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_________ is a strategic activity and is used to differentiate and distinguish a brand, so that a consumer understands the brand, not just remembers it.",
+    "choices": [
+      "Brand heritage.",
+      "Brand anatomy.",
+      "Brand extension.",
+      "Brand positioning."
+    ],
+    "answer": "D",
+    "input": "Question: _________ is a strategic activity and is used to differentiate and distinguish a brand, so that a consumer understands the brand, not just remembers it.\nOptions:\n(A) Brand heritage.\n(B) Brand anatomy.\n(C) Brand extension.\n(D) Brand positioning.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The ________________method is one of the main approaches to segmenting markets by adopting the view that the market consists of customers that are essentially the same, so the task is to identify groups which share particular differences.",
+    "choices": [
+      "Sample design.",
+      "Breakdown.",
+      "Build up.",
+      "Profile identification."
+    ],
+    "answer": "B",
+    "input": "Question: The ________________method is one of the main approaches to segmenting markets by adopting the view that the market consists of customers that are essentially the same, so the task is to identify groups which share particular differences.\nOptions:\n(A) Sample design.\n(B) Breakdown.\n(C) Build up.\n(D) Profile identification.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Supply chain management (SCM) embraces four main activities. Which of the following is NOT one of the activities?",
+    "choices": [
+      "Fulfilment.",
+      "Transportation",
+      "Customer services.",
+      "Stock management"
+    ],
+    "answer": "C",
+    "input": "Question: Supply chain management (SCM) embraces four main activities. Which of the following is NOT one of the activities?\nOptions:\n(A) Fulfilment.\n(B) Transportation\n(C) Customer services.\n(D) Stock management\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following refers to a listing of merchandise lines carried and the depth and breadth in which these products are stocked?",
+    "choices": [
+      "Basic stock list",
+      "Buying plan",
+      "Merchandise mix",
+      "Price-line list"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following refers to a listing of merchandise lines carried and the depth and breadth in which these products are stocked?\nOptions:\n(A) Basic stock list\n(B) Buying plan\n(C) Merchandise mix\n(D) Price-line list\nAnswer:",
+    "target": "(C)"
+  }
+]

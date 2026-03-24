@@ -1,0 +1,106 @@
+[
+  {
+    "subject": "college_chemistry",
+    "question": "Which of the following is true for Br2 at standard temperature and pressure?",
+    "choices": [
+      "It is a colorless gas.",
+      "It is a red-brown volatile liquid.",
+      "It is a colorless volatile liquid.",
+      "It is a yellow metallic solid."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is true for Br2 at standard temperature and pressure?\nOptions:\n(A) It is a colorless gas.\n(B) It is a red-brown volatile liquid.\n(C) It is a colorless volatile liquid.\n(D) It is a yellow metallic solid.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "The 13C spectrum of which isomer of C6H14 has lines with three distinct chemical shifts?",
+    "choices": [
+      "hexane",
+      "2-methylpentane",
+      "3-methylpentane",
+      "2,3-dimethylbutane"
+    ],
+    "answer": "A",
+    "input": "Question: The 13C spectrum of which isomer of C6H14 has lines with three distinct chemical shifts?\nOptions:\n(A) hexane\n(B) 2-methylpentane\n(C) 3-methylpentane\n(D) 2,3-dimethylbutane\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "The Rydberg equation v = R_H(1/n_1^2 - 1/n_2^2) accurately predicts the UV-visible emission spectrum of the hydrogen atom. A form of the Rydberg equation may also be used to predict the UV-visible emission for all of the following EXCEPT",
+    "choices": [
+      "hydride ion, H−",
+      "deuterium atom, D",
+      "tritium atom, T",
+      "helium cation, He+"
+    ],
+    "answer": "A",
+    "input": "Question: The Rydberg equation v = R_H(1/n_1^2 - 1/n_2^2) accurately predicts the UV-visible emission spectrum of the hydrogen atom. A form of the Rydberg equation may also be used to predict the UV-visible emission for all of the following EXCEPT\nOptions:\n(A) hydride ion, H−\n(B) deuterium atom, D\n(C) tritium atom, T\n(D) helium cation, He+\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "Reduction of D-xylose with NaBH4 yields a product that is a",
+    "choices": [
+      "racemic mixture",
+      "single pure enantiomer",
+      "mixture of two diastereomers in equal amounts",
+      "meso compound"
+    ],
+    "answer": "D",
+    "input": "Question: Reduction of D-xylose with NaBH4 yields a product that is a\nOptions:\n(A) racemic mixture\n(B) single pure enantiomer\n(C) mixture of two diastereomers in equal amounts\n(D) meso compound\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "Calculate the polarization of a proton in a magnetic field of 335 mT and 10.5 T at 298 K.",
+    "choices": [
+      "6.345 x 10^-4 at 0.335 T; 9.871 x 10^-5 at 10.5 T",
+      "0.793 x 10^-4 at 0.335 T; 6.931 x 10^-7 at 10.5 T",
+      "1.148 x 10^-6 at 0.335 T; 3.598 x 10^-5 at 10.5 T",
+      "4.126 x 10^-3 at 0.335 T; 2.142 x 10^-6 at 10.5 T"
+    ],
+    "answer": "D",
+    "input": "Question: Calculate the polarization of a proton in a magnetic field of 335 mT and 10.5 T at 298 K.\nOptions:\n(A) 6.345 x 10^-4 at 0.335 T; 9.871 x 10^-5 at 10.5 T\n(B) 0.793 x 10^-4 at 0.335 T; 6.931 x 10^-7 at 10.5 T\n(C) 1.148 x 10^-6 at 0.335 T; 3.598 x 10^-5 at 10.5 T\n(D) 4.126 x 10^-3 at 0.335 T; 2.142 x 10^-6 at 10.5 T\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "The anhydride of Ba(OH)2 is",
+    "choices": [
+      "BaH2",
+      "BaOH",
+      "Ba",
+      "BaO"
+    ],
+    "answer": "D",
+    "input": "Question: The anhydride of Ba(OH)2 is\nOptions:\n(A) BaH2\n(B) BaOH\n(C) Ba\n(D) BaO\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "A 1 M solution of TEMPO in chloroform at room temperature shows broader EPR spectrum than that of a 1 mM solution. Which sentence describes this phenomenon most accurately?",
+    "choices": [
+      "in the more concentrated solution, the lines are broadened due to the dipole-dipole interaction between the TEMPO molecules",
+      "in the more concentrated solution, the lines are broadened by the slow tumbling of TEMPO molecules",
+      "in the more concentrated solution, the lines are broadened due to the exchange interaction between the TEMPO molecules",
+      "in the more concentrated solution, the lines are broadened by the hyperfine interaction between the TEMPO molecules"
+    ],
+    "answer": "C",
+    "input": "Question: A 1 M solution of TEMPO in chloroform at room temperature shows broader EPR spectrum than that of a 1 mM solution. Which sentence describes this phenomenon most accurately?\nOptions:\n(A) in the more concentrated solution, the lines are broadened due to the dipole-dipole interaction between the TEMPO molecules\n(B) in the more concentrated solution, the lines are broadened by the slow tumbling of TEMPO molecules\n(C) in the more concentrated solution, the lines are broadened due to the exchange interaction between the TEMPO molecules\n(D) in the more concentrated solution, the lines are broadened by the hyperfine interaction between the TEMPO molecules\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_chemistry",
+    "question": "A set of hybrid sp^3 orbitals for a carbon atom is given above. Which of the following is NOT true about the orbitals?",
+    "choices": [
+      "The orbitals are degenerate.",
+      "The set of orbitals has a tetrahedral geometry.",
+      "These orbitals are constructed from a linear combination of atomic orbitals.",
+      "Each hybrid orbital may hold four electrons."
+    ],
+    "answer": "D",
+    "input": "Question: A set of hybrid sp^3 orbitals for a carbon atom is given above. Which of the following is NOT true about the orbitals?\nOptions:\n(A) The orbitals are degenerate.\n(B) The set of orbitals has a tetrahedral geometry.\n(C) These orbitals are constructed from a linear combination of atomic orbitals.\n(D) Each hybrid orbital may hold four electrons.\nAnswer:",
+    "target": "(D)"
+  }
+]

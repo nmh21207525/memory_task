@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "high_school_mathematics",
+    "question": "Joe was in charge of lights for a dance. The red light blinks every two seconds, the yellow light every three seconds, and the blue light every five seconds. If we include the very beginning and very end of the dance, how many times during a seven minute dance will all the lights come on at the same time? (Assume that all three lights blink simultaneously at the very beginning of the dance.)",
+    "choices": [
+      "3",
+      "15",
+      "6",
+      "5"
+    ],
+    "answer": "B",
+    "input": "Question: Joe was in charge of lights for a dance. The red light blinks every two seconds, the yellow light every three seconds, and the blue light every five seconds. If we include the very beginning and very end of the dance, how many times during a seven minute dance will all the lights come on at the same time? (Assume that all three lights blink simultaneously at the very beginning of the dance.)\nOptions:\n(A) 3\n(B) 15\n(C) 6\n(D) 5\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Five thousand dollars compounded annually at an $x\\%$ interest rate takes six years to double. At the same interest rate, how many years will it take $\\$300$ to grow to $\\$9600$?",
+    "choices": [
+      "12",
+      "1",
+      "30",
+      "5"
+    ],
+    "answer": "C",
+    "input": "Question: Five thousand dollars compounded annually at an $x\\%$ interest rate takes six years to double. At the same interest rate, how many years will it take $\\$300$ to grow to $\\$9600$?\nOptions:\n(A) 12\n(B) 1\n(C) 30\n(D) 5\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "The variable $x$ varies directly as the square of $y$, and $y$ varies directly as the cube of $z$. If $x$ equals $-16$ when $z$ equals 2, what is the value of $x$ when $z$ equals $\\frac{1}{2}$?",
+    "choices": [
+      "-1",
+      "16",
+      "-\\frac{1}{256}",
+      "\\frac{1}{16}"
+    ],
+    "answer": "C",
+    "input": "Question: The variable $x$ varies directly as the square of $y$, and $y$ varies directly as the cube of $z$. If $x$ equals $-16$ when $z$ equals 2, what is the value of $x$ when $z$ equals $\\frac{1}{2}$?\nOptions:\n(A) -1\n(B) 16\n(C) -\\frac{1}{256}\n(D) \\frac{1}{16}\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Simplify and write the result with a rational denominator: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "choices": [
+      "\\frac{3\\sqrt{3}}{3}",
+      "\\frac{1}{3}",
+      "\\sqrt{3}",
+      "\\frac{\\sqrt{3}}{3}"
+    ],
+    "answer": "D",
+    "input": "Question: Simplify and write the result with a rational denominator: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$\nOptions:\n(A) \\frac{3\\sqrt{3}}{3}\n(B) \\frac{1}{3}\n(C) \\sqrt{3}\n(D) \\frac{\\sqrt{3}}{3}\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_mathematics",
+    "question": "Ten students take a biology test and receive the following scores: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. What is the mean of the students’ test scores?",
+    "choices": [
+      "55",
+      "60",
+      "62",
+      "65"
+    ],
+    "answer": "D",
+    "input": "Question: Ten students take a biology test and receive the following scores: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. What is the mean of the students’ test scores?\nOptions:\n(A) 55\n(B) 60\n(C) 62\n(D) 65\nAnswer:",
+    "target": "(D)"
+  }
+]

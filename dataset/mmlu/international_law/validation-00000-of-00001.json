@@ -1,0 +1,171 @@
+[
+  {
+    "subject": "international_law",
+    "question": "What kind of passage does qualify as 'innocent passage'?",
+    "choices": [
+      "Innocent passage is the passage that does not involve any criminal activity",
+      "A vessel's passage is considered 'innocent' where it is not prejudicial to the peace, good order or security of the coastal State",
+      "Innocent passage concerns only vessels of the same nationality with the coastal State",
+      "Innocent passage concerns only the passage of merchant vessels and not of warships"
+    ],
+    "answer": "B",
+    "input": "Question: What kind of passage does qualify as 'innocent passage'?\nOptions:\n(A) Innocent passage is the passage that does not involve any criminal activity\n(B) A vessel's passage is considered 'innocent' where it is not prejudicial to the peace, good order or security of the coastal State\n(C) Innocent passage concerns only vessels of the same nationality with the coastal State\n(D) Innocent passage concerns only the passage of merchant vessels and not of warships\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What kind of State practice is required?",
+    "choices": [
+      "Widespread, consistent and uniform practice, consisting both of acts and omissions.",
+      "Only widespread, consistent and uniform acts and not omissions of States",
+      "Widespread acts and omissions of States but not necessarily consistent or uniform",
+      "Consistent practice of few States, including both acts and omissions, which is met with protestation by the other States"
+    ],
+    "answer": "A",
+    "input": "Question: What kind of State practice is required?\nOptions:\n(A) Widespread, consistent and uniform practice, consisting both of acts and omissions.\n(B) Only widespread, consistent and uniform acts and not omissions of States\n(C) Widespread acts and omissions of States but not necessarily consistent or uniform\n(D) Consistent practice of few States, including both acts and omissions, which is met with protestation by the other States\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "international_law",
+    "question": "Which treaties are considered as 'source of international law' under article 38 ICJ Statute?",
+    "choices": [
+      "All treaties that are in force at the time of the dispute",
+      "Only the treaties that are in force and binding upon the parties to the dispute",
+      "All treaties that have been concluded between the parties to the dispute, regardless whether they are in force",
+      "Only treaties that are multilateral and of paramount significance"
+    ],
+    "answer": "B",
+    "input": "Question: Which treaties are considered as 'source of international law' under article 38 ICJ Statute?\nOptions:\n(A) All treaties that are in force at the time of the dispute\n(B) Only the treaties that are in force and binding upon the parties to the dispute\n(C) All treaties that have been concluded between the parties to the dispute, regardless whether they are in force\n(D) Only treaties that are multilateral and of paramount significance\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What is the 'optional; clause' in the ICJ Statute?",
+    "choices": [
+      "Optional clause is the clause in the ICJ Statute, which provides for the applicable law, according to the intention of the parties",
+      "Optional clause determines the intention of the parties to accept that the decision of the Court will be final and binding",
+      "Optional clause is the declaration deposited by a State, whereby it accepts the jurisdiction of the Court in respect of international legal disputes in relation to any other State accepting the same obligation.",
+      "Optional clause is the clause that the parties deposit, which sets out the procedure of the written and oral pleadings"
+    ],
+    "answer": "C",
+    "input": "Question: What is the 'optional; clause' in the ICJ Statute?\nOptions:\n(A) Optional clause is the clause in the ICJ Statute, which provides for the applicable law, according to the intention of the parties\n(B) Optional clause determines the intention of the parties to accept that the decision of the Court will be final and binding\n(C) Optional clause is the declaration deposited by a State, whereby it accepts the jurisdiction of the Court in respect of international legal disputes in relation to any other State accepting the same obligation.\n(D) Optional clause is the clause that the parties deposit, which sets out the procedure of the written and oral pleadings\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "international_law",
+    "question": "Can armed violence perpetrated by non-State actors ever amount to an armed attack under Article 51 UN Charter?",
+    "choices": [
+      "The conduct of non-State actors can never amount to an armed attack",
+      "The Caroline case serves as precedent that non-State actors can under particular circumstances commit an armed attack",
+      "There is no precedent in international law for the proposition that non-State actors can commit an armed attack",
+      "Non-State can both commit an armed attack and possess a right of self-defence under international law"
+    ],
+    "answer": "B",
+    "input": "Question: Can armed violence perpetrated by non-State actors ever amount to an armed attack under Article 51 UN Charter?\nOptions:\n(A) The conduct of non-State actors can never amount to an armed attack\n(B) The Caroline case serves as precedent that non-State actors can under particular circumstances commit an armed attack\n(C) There is no precedent in international law for the proposition that non-State actors can commit an armed attack\n(D) Non-State can both commit an armed attack and possess a right of self-defence under international law\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "Which of the following statements is inaccurate?",
+    "choices": [
+      "Proportionality is a means of balancing the rights of an individual against the protection of the community as a whole",
+      "For an act to be proportionate, it should be linked to the legitimate aim of the state measure complained of",
+      "Proportionality is the same as reasonableness",
+      "Proportionality should mean the state takes the least intrusive action that is necessary"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements is inaccurate?\nOptions:\n(A) Proportionality is a means of balancing the rights of an individual against the protection of the community as a whole\n(B) For an act to be proportionate, it should be linked to the legitimate aim of the state measure complained of\n(C) Proportionality is the same as reasonableness\n(D) Proportionality should mean the state takes the least intrusive action that is necessary\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "international_law",
+    "question": "In the Grootboom case in South Africa the Supreme Court",
+    "choices": [
+      "Found the state was responsible for the homelessness of the appellants and that they had to provide the appellants with a certain type of housing as soon as possible",
+      "Found the state was responsible for the homelessness of the appellants but that the right to housing was not enforceable by the Court",
+      "Found that the state had to take reasonable steps to fulfil its obligation to the appellants under the right to housing in the Constitution",
+      "Found the state was not responsible for the appellants' homelessness"
+    ],
+    "answer": "C",
+    "input": "Question: In the Grootboom case in South Africa the Supreme Court\nOptions:\n(A) Found the state was responsible for the homelessness of the appellants and that they had to provide the appellants with a certain type of housing as soon as possible\n(B) Found the state was responsible for the homelessness of the appellants but that the right to housing was not enforceable by the Court\n(C) Found that the state had to take reasonable steps to fulfil its obligation to the appellants under the right to housing in the Constitution\n(D) Found the state was not responsible for the appellants' homelessness\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "international_law",
+    "question": "Which rule of jus cogens was the first to be accepted explicitly as such by the ICJ?",
+    "choices": [
+      "The prohibition of the use of force",
+      "The prohibition of torture",
+      "The prohibition of genocide",
+      "The principle of self-determination"
+    ],
+    "answer": "C",
+    "input": "Question: Which rule of jus cogens was the first to be accepted explicitly as such by the ICJ?\nOptions:\n(A) The prohibition of the use of force\n(B) The prohibition of torture\n(C) The prohibition of genocide\n(D) The principle of self-determination\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "international_law",
+    "question": "In which cases may a non-injured State invoke the responsibility of the culprit State?",
+    "choices": [
+      "Only in cases that the injured State has authorized a non-injured one to invoke the responsibility on its behalf",
+      "In cases of breaches of specific obligations protecting the collective interests of a group of States (obligations erga omnes partes) or the interests of the international community as a whole (obligations erga omnes)",
+      "In cases of violation of acts of international organizations, such as General Assembly Resolutions",
+      "In cases of non-compliance with a decision of an international court or tribunal"
+    ],
+    "answer": "B",
+    "input": "Question: In which cases may a non-injured State invoke the responsibility of the culprit State?\nOptions:\n(A) Only in cases that the injured State has authorized a non-injured one to invoke the responsibility on its behalf\n(B) In cases of breaches of specific obligations protecting the collective interests of a group of States (obligations erga omnes partes) or the interests of the international community as a whole (obligations erga omnes)\n(C) In cases of violation of acts of international organizations, such as General Assembly Resolutions\n(D) In cases of non-compliance with a decision of an international court or tribunal\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "May States incur liability for the debts and wrongdoings attributable to an international organisation to which they are parties?",
+    "choices": [
+      "Member States cannot hide behind an organisation's corporate veil",
+      "The legal person of the organisation is distinct from that of its member States",
+      "Organisations and their member States are equally liable for any wrongdoings attributable to the organisation",
+      "Member States are alone liable for debts and wrongdoings attributable to the organisation"
+    ],
+    "answer": "B",
+    "input": "Question: May States incur liability for the debts and wrongdoings attributable to an international organisation to which they are parties?\nOptions:\n(A) Member States cannot hide behind an organisation's corporate veil\n(B) The legal person of the organisation is distinct from that of its member States\n(C) Organisations and their member States are equally liable for any wrongdoings attributable to the organisation\n(D) Member States are alone liable for debts and wrongdoings attributable to the organisation\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What is required for a general rule of customary law to be formed?",
+    "choices": [
+      "Only general, widespread and consistent practice on the part of States is required",
+      "The consistent practice of few States is sufficient",
+      "The legal conviction that a certain practice of a State is in accordance with international law is the most significant requirement",
+      "Both the elements of widespread and consistent State practice and of the opinio juris are required"
+    ],
+    "answer": "D",
+    "input": "Question: What is required for a general rule of customary law to be formed?\nOptions:\n(A) Only general, widespread and consistent practice on the part of States is required\n(B) The consistent practice of few States is sufficient\n(C) The legal conviction that a certain practice of a State is in accordance with international law is the most significant requirement\n(D) Both the elements of widespread and consistent State practice and of the opinio juris are required\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What is 'material breach' of the treaty?",
+    "choices": [
+      "'Material breach' is a ground for the invalidation of a treaty",
+      "'Material breach' is the repudiation or a significant violation of the treaty and serves as a ground for the unilateral termination of the treaty",
+      "'Material breach' is an insignificant violation of a treaty",
+      "Material breach' is a significant violation of the treaty which can never lead to the termination of the treaty"
+    ],
+    "answer": "B",
+    "input": "Question: What is 'material breach' of the treaty?\nOptions:\n(A) 'Material breach' is a ground for the invalidation of a treaty\n(B) 'Material breach' is the repudiation or a significant violation of the treaty and serves as a ground for the unilateral termination of the treaty\n(C) 'Material breach' is an insignificant violation of a treaty\n(D) Material breach' is a significant violation of the treaty which can never lead to the termination of the treaty\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What does the 'fundamental change of circumstances' entail for the treaty?",
+    "choices": [
+      "A fundamental change of circumstances concerns the object and purpose of the treaty and it leads to its amendment",
+      "A fundamental change of circumstances has no bearing on the life of treaties",
+      "A fundamental change of the circumstances which constituted an essential basis of the consent of the parties to be bound by the treaty and which was not foreseen by the parties, may be invoked as a ground for terminating or withdrawing from the treaty",
+      "A fundamental change of circumstances leads to the automatic termination of the treaty"
+    ],
+    "answer": "C",
+    "input": "Question: What does the 'fundamental change of circumstances' entail for the treaty?\nOptions:\n(A) A fundamental change of circumstances concerns the object and purpose of the treaty and it leads to its amendment\n(B) A fundamental change of circumstances has no bearing on the life of treaties\n(C) A fundamental change of the circumstances which constituted an essential basis of the consent of the parties to be bound by the treaty and which was not foreseen by the parties, may be invoked as a ground for terminating or withdrawing from the treaty\n(D) A fundamental change of circumstances leads to the automatic termination of the treaty\nAnswer:",
+    "target": "(C)"
+  }
+]

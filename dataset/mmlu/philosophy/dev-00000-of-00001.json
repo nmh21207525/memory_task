@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "philosophy",
+    "question": "Psychological egoism is:",
+    "choices": [
+      "an ethical theory about how we ought to behave.",
+      "a generalization concerning the way people tend to behave.",
+      "a claim about human nature and the ways people are capable of behaving.",
+      "none of the above."
+    ],
+    "answer": "C",
+    "input": "Question: Psychological egoism is:\nOptions:\n(A) an ethical theory about how we ought to behave.\n(B) a generalization concerning the way people tend to behave.\n(C) a claim about human nature and the ways people are capable of behaving.\n(D) none of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "philosophy",
+    "question": "According to Moore’s “ideal utilitarianism,” the right action is the one that brings about the greatest amount of:",
+    "choices": [
+      "pleasure.",
+      "happiness.",
+      "good.",
+      "virtue."
+    ],
+    "answer": "C",
+    "input": "Question: According to Moore’s “ideal utilitarianism,” the right action is the one that brings about the greatest amount of:\nOptions:\n(A) pleasure.\n(B) happiness.\n(C) good.\n(D) virtue.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "philosophy",
+    "question": "According to d'Holbach, people always act according to _____.",
+    "choices": [
+      "free choices",
+      "dictates of the soul",
+      "necessary natural laws",
+      "undetermined will"
+    ],
+    "answer": "C",
+    "input": "Question: According to d'Holbach, people always act according to _____.\nOptions:\n(A) free choices\n(B) dictates of the soul\n(C) necessary natural laws\n(D) undetermined will\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "philosophy",
+    "question": "Before Tolstoy's Christian conversion, what was his perspective on the meaning of life?",
+    "choices": [
+      "optimist",
+      "satisfied",
+      "nominally religious",
+      "pessimist"
+    ],
+    "answer": "D",
+    "input": "Question: Before Tolstoy's Christian conversion, what was his perspective on the meaning of life?\nOptions:\n(A) optimist\n(B) satisfied\n(C) nominally religious\n(D) pessimist\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "philosophy",
+    "question": "The study of reality in the broadest sense, an inquiry into the elemental nature of the universe and the things in it, is known as _____.",
+    "choices": [
+      "metaphysics",
+      "epistemology",
+      "quantum physics",
+      "axiology"
+    ],
+    "answer": "A",
+    "input": "Question: The study of reality in the broadest sense, an inquiry into the elemental nature of the universe and the things in it, is known as _____.\nOptions:\n(A) metaphysics\n(B) epistemology\n(C) quantum physics\n(D) axiology\nAnswer:",
+    "target": "(A)"
+  }
+]

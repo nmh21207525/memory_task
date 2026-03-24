@@ -1,0 +1,1302 @@
+[
+  {
+    "subject": "business_ethics",
+    "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.",
+    "choices": [
+      "Cryptocurrencies, Expensive, Secure, Financial Crime",
+      "Traditional currency, Cheap, Unsecure, Charitable giving",
+      "Cryptocurrencies, Cheap, Secure, Financial crime",
+      "Traditional currency, Expensive, Unsecure, Charitable giving"
+    ],
+    "answer": "C",
+    "input": "Question: _______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\nOptions:\n(A) Cryptocurrencies, Expensive, Secure, Financial Crime\n(B) Traditional currency, Cheap, Unsecure, Charitable giving\n(C) Cryptocurrencies, Cheap, Secure, Financial crime\n(D) Traditional currency, Expensive, Unsecure, Charitable giving\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.",
+    "choices": [
+      "Unsafe practices, Wants, Fear, Trivial",
+      "Unsafe practices, Distress, Fear, Serious",
+      "Safe practices, Wants, Jealousy, Trivial",
+      "Safe practices, Distress, Jealousy, Serious"
+    ],
+    "answer": "B",
+    "input": "Question: Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.\nOptions:\n(A) Unsafe practices, Wants, Fear, Trivial\n(B) Unsafe practices, Distress, Fear, Serious\n(C) Safe practices, Wants, Jealousy, Trivial\n(D) Safe practices, Distress, Jealousy, Serious\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.",
+    "choices": [
+      "Employee rights",
+      "Employee rights",
+      "Employer duties",
+      "Employee duties"
+    ],
+    "answer": "D",
+    "input": "Question: ______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.\nOptions:\n(A) Employee rights\n(B) Employee rights\n(C) Employer duties\n(D) Employee duties\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.",
+    "choices": [
+      "Presenteeism",
+      "Absenteeism",
+      "Work-play balance",
+      "Work-life balance"
+    ],
+    "answer": "D",
+    "input": "Question: ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.\nOptions:\n(A) Presenteeism\n(B) Absenteeism\n(C) Work-play balance\n(D) Work-life balance\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.",
+    "choices": [
+      "Industrial supply loops",
+      "Industrial ecosystems",
+      "Ecological ecosystems",
+      "Corporate ecosystems"
+    ],
+    "answer": "B",
+    "input": "Question: _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.\nOptions:\n(A) Industrial supply loops\n(B) Industrial ecosystems\n(C) Ecological ecosystems\n(D) Corporate ecosystems\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.",
+    "choices": [
+      "Power imbalance, Benefits, Hoodwinked",
+      "Power imbalance, Resources, Co-opted",
+      "Informational asymmetries, Benefits, Hoodwinked",
+      "Informational asymmetries, Resources, Co-opted"
+    ],
+    "answer": "B",
+    "input": "Question: ________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.\nOptions:\n(A) Power imbalance, Benefits, Hoodwinked\n(B) Power imbalance, Resources, Co-opted\n(C) Informational asymmetries, Benefits, Hoodwinked\n(D) Informational asymmetries, Resources, Co-opted\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?",
+    "choices": [
+      "hedonistic utilitarianism",
+      "preference utilitarianism",
+      "The Categorical Imperative",
+      "ethics of care"
+    ],
+    "answer": "B",
+    "input": "Question: Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?\nOptions:\n(A) hedonistic utilitarianism\n(B) preference utilitarianism\n(C) The Categorical Imperative\n(D) ethics of care\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What does Milton Friedman believe to be the sole responsibility of business?",
+    "choices": [
+      "The only social responsibility of business is to its shareholders",
+      "Managers should act in ways that balance the interest of society and shareholders",
+      "The primary responsibility organizations have is to its employees",
+      "The primary responsibility organizations have is to its stakeholders"
+    ],
+    "answer": "A",
+    "input": "Question: What does Milton Friedman believe to be the sole responsibility of business?\nOptions:\n(A) The only social responsibility of business is to its shareholders\n(B) Managers should act in ways that balance the interest of society and shareholders\n(C) The primary responsibility organizations have is to its employees\n(D) The primary responsibility organizations have is to its stakeholders\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.",
+    "choices": [
+      "Legal, Interactions, Mechanics",
+      "Civil, Relations, Outcomes",
+      "Political, Interactions, Outcomes",
+      "Environmental, Relations, Mechanics"
+    ],
+    "answer": "B",
+    "input": "Question: ______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.\nOptions:\n(A) Legal, Interactions, Mechanics\n(B) Civil, Relations, Outcomes\n(C) Political, Interactions, Outcomes\n(D) Environmental, Relations, Mechanics\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.",
+    "choices": [
+      "Dynamic",
+      "Fluid",
+      "Flexible",
+      "Modern"
+    ],
+    "answer": "C",
+    "input": "Question: _______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\nOptions:\n(A) Dynamic\n(B) Fluid\n(C) Flexible\n(D) Modern\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?",
+    "choices": [
+      "Breadth, Clarity, Accuracy",
+      "Disclosure, Detail, Accuracy",
+      "Disclosure, Clarity, Accuracy",
+      "Disclosure, Clarity, Efficiency"
+    ],
+    "answer": "C",
+    "input": "Question: What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?\nOptions:\n(A) Breadth, Clarity, Accuracy\n(B) Disclosure, Detail, Accuracy\n(C) Disclosure, Clarity, Accuracy\n(D) Disclosure, Clarity, Efficiency\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "A corporation is ________ from its managers, employees, investors and customers. It therefore has _______ succession and also ________.",
+    "choices": [
+      "Indistinguishable, Perpetual, Does not own its own assets",
+      "Independent, Limited, Owns its own assets",
+      "Independent, Perpetual, Owns its own assets",
+      "Indistinguishable, Perpetual, Owns its own assets"
+    ],
+    "answer": "C",
+    "input": "Question: A corporation is ________ from its managers, employees, investors and customers. It therefore has _______ succession and also ________.\nOptions:\n(A) Indistinguishable, Perpetual, Does not own its own assets\n(B) Independent, Limited, Owns its own assets\n(C) Independent, Perpetual, Owns its own assets\n(D) Indistinguishable, Perpetual, Owns its own assets\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The UK Public Services (Social Value) Act 2013 requires those procuring ______ to consider how they can secure wider _____, _____and _____ benefits.",
+    "choices": [
+      "Private services, social, economic and environmental",
+      "Public services, social, cultural and environmental",
+      "Private services, cultural, economic and environmental",
+      "Public services, social, economic and environmental"
+    ],
+    "answer": "D",
+    "input": "Question: The UK Public Services (Social Value) Act 2013 requires those procuring ______ to consider how they can secure wider _____, _____and _____ benefits.\nOptions:\n(A) Private services, social, economic and environmental\n(B) Public services, social, cultural and environmental\n(C) Private services, cultural, economic and environmental\n(D) Public services, social, economic and environmental\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "When the true cost an item is deliberately obscured by a company this is known as?",
+    "choices": [
+      "Predatory pricing",
+      "Deceptive pricing",
+      "Price fixing",
+      "Skimming"
+    ],
+    "answer": "B",
+    "input": "Question: When the true cost an item is deliberately obscured by a company this is known as?\nOptions:\n(A) Predatory pricing\n(B) Deceptive pricing\n(C) Price fixing\n(D) Skimming\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What are the three differing types of stakeholder theory according to Donaldson and Preston (1995)?",
+    "choices": [
+      "Normative, Descriptive and Economic",
+      "Normative, Moral and Instrumental",
+      "Political, Descriptive and Instrumental",
+      "Normative, Descriptive and Instrumental"
+    ],
+    "answer": "D",
+    "input": "Question: What are the three differing types of stakeholder theory according to Donaldson and Preston (1995)?\nOptions:\n(A) Normative, Descriptive and Economic\n(B) Normative, Moral and Instrumental\n(C) Political, Descriptive and Instrumental\n(D) Normative, Descriptive and Instrumental\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The Right to _______ has been a long-standing ethical concern for employees which today are addressed in most developed countries through a dense network of occupational health, safety and environmental regulations companies must abide by.",
+    "choices": [
+      "Work-life balance",
+      "Healthy and safe working conditions",
+      "Employee privacy",
+      "Free Speech"
+    ],
+    "answer": "B",
+    "input": "Question: The Right to _______ has been a long-standing ethical concern for employees which today are addressed in most developed countries through a dense network of occupational health, safety and environmental regulations companies must abide by.\nOptions:\n(A) Work-life balance\n(B) Healthy and safe working conditions\n(C) Employee privacy\n(D) Free Speech\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Which of the following would most effectively act as the primary objective of a business organisation?",
+    "choices": [
+      "To make a profit",
+      "To procure resources",
+      "To communicate with shareholders",
+      "To mediate between the organisation and the environment"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following would most effectively act as the primary objective of a business organisation?\nOptions:\n(A) To make a profit\n(B) To procure resources\n(C) To communicate with shareholders\n(D) To mediate between the organisation and the environment\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What is the enlightened self-interest model of CSR?",
+    "choices": [
+      "That it is in an organization's own best interest to put itself first rather than its ethics",
+      "That it is in an organization's best interest to consider what a shareholder would want",
+      "That it is in an organization's own best interest to act in an ethical way",
+      "That it is in an organization's own best interest to follow the legislation and abide by the law"
+    ],
+    "answer": "C",
+    "input": "Question: What is the enlightened self-interest model of CSR?\nOptions:\n(A) That it is in an organization's own best interest to put itself first rather than its ethics\n(B) That it is in an organization's best interest to consider what a shareholder would want\n(C) That it is in an organization's own best interest to act in an ethical way\n(D) That it is in an organization's own best interest to follow the legislation and abide by the law\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________ is the right of a consumer to control what information companies can collect about them and how it is stored, used and shared.",
+    "choices": [
+      "Consumer inclusion",
+      "Consumer control",
+      "Consumer privacy",
+      "Consumer exclusion"
+    ],
+    "answer": "C",
+    "input": "Question: ________ is the right of a consumer to control what information companies can collect about them and how it is stored, used and shared.\nOptions:\n(A) Consumer inclusion\n(B) Consumer control\n(C) Consumer privacy\n(D) Consumer exclusion\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The Anglo-American model being considered the best model in light of the recession in the late 2000s.",
+    "choices": [
+      "1,2,3",
+      "1,3,4",
+      "2,3,4",
+      "1,2,3,4"
+    ],
+    "answer": "A",
+    "input": "Question: The Anglo-American model being considered the best model in light of the recession in the late 2000s.\nOptions:\n(A) 1,2,3\n(B) 1,3,4\n(C) 2,3,4\n(D) 1,2,3,4\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ economy is the term used to describe individuals being hired for a specific task rather than on a long-term basis. While this results in _________ which is beneficial for businesses, issues for those employed in such a manner relate to increased ________, uncertainty and a lack of _______.",
+    "choices": [
+      "Gig, Flexibility, Risk, Social welfare structures",
+      "Sharing, Risk, Flexibility, Autonomy",
+      "Gig, Risk, Flexibility, Autonomy",
+      "Sharing, Flexibility, Risk, Social welfare structures"
+    ],
+    "answer": "A",
+    "input": "Question: _______ economy is the term used to describe individuals being hired for a specific task rather than on a long-term basis. While this results in _________ which is beneficial for businesses, issues for those employed in such a manner relate to increased ________, uncertainty and a lack of _______.\nOptions:\n(A) Gig, Flexibility, Risk, Social welfare structures\n(B) Sharing, Risk, Flexibility, Autonomy\n(C) Gig, Risk, Flexibility, Autonomy\n(D) Sharing, Flexibility, Risk, Social welfare structures\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The Theory of _________ posits that 3 three levels of moral reasoning exist which an individual can engage in to assess ethical issues, dependant on their cognitive capacity.",
+    "choices": [
+      "Egoism",
+      "Cognitive moral development",
+      "Power distance",
+      "Uncertainty avoidance"
+    ],
+    "answer": "B",
+    "input": "Question: The Theory of _________ posits that 3 three levels of moral reasoning exist which an individual can engage in to assess ethical issues, dependant on their cognitive capacity.\nOptions:\n(A) Egoism\n(B) Cognitive moral development\n(C) Power distance\n(D) Uncertainty avoidance\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ theory can be described as a code of conduct to which all rational beings should adhere. This contrasts with ________ morality which is the code of conduct adopted by a particular group or society.",
+    "choices": [
+      "Descriptive, Normative",
+      "Normative, Instrumental",
+      "Normative, Descriptive",
+      "Ethical, Descriptive"
+    ],
+    "answer": "C",
+    "input": "Question: _______ theory can be described as a code of conduct to which all rational beings should adhere. This contrasts with ________ morality which is the code of conduct adopted by a particular group or society.\nOptions:\n(A) Descriptive, Normative\n(B) Normative, Instrumental\n(C) Normative, Descriptive\n(D) Ethical, Descriptive\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "___________, ___________ and __________ are all factors which can impact the moral intensity",
+    "choices": [
+      "Social consensus, Temporal immediacy, Proximity",
+      "Proximity, Social dissensus, Futility of effect",
+      "Proximity, Temporal immediacy, Social dissensus",
+      "Social dissensus, Cultural immediacy, Proximity"
+    ],
+    "answer": "A",
+    "input": "Question: ___________, ___________ and __________ are all factors which can impact the moral intensity\nOptions:\n(A) Social consensus, Temporal immediacy, Proximity\n(B) Proximity, Social dissensus, Futility of effect\n(C) Proximity, Temporal immediacy, Social dissensus\n(D) Social dissensus, Cultural immediacy, Proximity\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Better access to certain markets, differentiation of products, and the sale of pollution-control technology are ways in which better environmental performance can:",
+    "choices": [
+      "Increase Revenue",
+      "Increase Costs",
+      "Decrease Revenue",
+      "Decrease Costs"
+    ],
+    "answer": "A",
+    "input": "Question: Better access to certain markets, differentiation of products, and the sale of pollution-control technology are ways in which better environmental performance can:\nOptions:\n(A) Increase Revenue\n(B) Increase Costs\n(C) Decrease Revenue\n(D) Decrease Costs\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ is the term used to describe the ongoing approval and acceptance of a company's activities by society, especially among local communities and civil societies.",
+    "choices": [
+      "Enlightened self interest",
+      "Social licence to operate",
+      "Community approval",
+      "Supply chain responsibility"
+    ],
+    "answer": "B",
+    "input": "Question: _______ is the term used to describe the ongoing approval and acceptance of a company's activities by society, especially among local communities and civil societies.\nOptions:\n(A) Enlightened self interest\n(B) Social licence to operate\n(C) Community approval\n(D) Supply chain responsibility\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The degree to which corporate decisions, policies, activities and impacts are acknowledged and made visible to relevant stakeholders is known as ________",
+    "choices": [
+      "Corporate Opaqueness",
+      "Corporate Transparency",
+      "Corporate Openness",
+      "Corporate Visibility"
+    ],
+    "answer": "B",
+    "input": "Question: The degree to which corporate decisions, policies, activities and impacts are acknowledged and made visible to relevant stakeholders is known as ________\nOptions:\n(A) Corporate Opaqueness\n(B) Corporate Transparency\n(C) Corporate Openness\n(D) Corporate Visibility\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_________, such as _______ and _______ are processes by which organisations implement environmental goals, policies and responsibilities and ensure regular auditing and reporting, which go beyond legal compliance.",
+    "choices": [
+      "Environmental management systems, SA8000, EMAS",
+      "Social accountability standards, ISO14001, SA8000",
+      "Environmental management systems, ISO14001, EMAS",
+      "Social accountability standards, EMAS, SA8000"
+    ],
+    "answer": "C",
+    "input": "Question: _________, such as _______ and _______ are processes by which organisations implement environmental goals, policies and responsibilities and ensure regular auditing and reporting, which go beyond legal compliance.\nOptions:\n(A) Environmental management systems, SA8000, EMAS\n(B) Social accountability standards, ISO14001, SA8000\n(C) Environmental management systems, ISO14001, EMAS\n(D) Social accountability standards, EMAS, SA8000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The so-called BRIC countries (Brazil, Russia, India and _______) tend to follow a __________ approach to corporate governance. However, recently this has tended to move towards more _______-based mechanisms.",
+    "choices": [
+      "Canada, Market, Relationship",
+      "China, Market, Relationship",
+      "Canada, Relationship, Market",
+      "China, Relationship, Market"
+    ],
+    "answer": "D",
+    "input": "Question: The so-called BRIC countries (Brazil, Russia, India and _______) tend to follow a __________ approach to corporate governance. However, recently this has tended to move towards more _______-based mechanisms.\nOptions:\n(A) Canada, Market, Relationship\n(B) China, Market, Relationship\n(C) Canada, Relationship, Market\n(D) China, Relationship, Market\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "A stakeholder orientation includes all of the following activities except:",
+    "choices": [
+      "Generating Data About Stakeholder Groups",
+      "Assessing The Firm's Effects On Stakeholder Groups",
+      "Distributing Stakeholder Information Throughout The Firm",
+      "Minimizing The Influence Of Stakeholder Information On The Firm"
+    ],
+    "answer": "D",
+    "input": "Question: A stakeholder orientation includes all of the following activities except:\nOptions:\n(A) Generating Data About Stakeholder Groups\n(B) Assessing The Firm's Effects On Stakeholder Groups\n(C) Distributing Stakeholder Information Throughout The Firm\n(D) Minimizing The Influence Of Stakeholder Information On The Firm\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Ethical issues related to marketing communications include the fact that they are _________ and unavoidable, they create ________ needs, reinforce _________ and perpetuate _________ and ______.",
+    "choices": [
+      "Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes",
+      "Intrusive, Artificial, De-materialism, Security, Happiness",
+      "Intrusive, Real, Consumerism, Insecurity, Happiness",
+      "Intrusive, Real, De-materialism, Security, Social stereotypes"
+    ],
+    "answer": "A",
+    "input": "Question: Ethical issues related to marketing communications include the fact that they are _________ and unavoidable, they create ________ needs, reinforce _________ and perpetuate _________ and ______.\nOptions:\n(A) Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes\n(B) Intrusive, Artificial, De-materialism, Security, Happiness\n(C) Intrusive, Real, Consumerism, Insecurity, Happiness\n(D) Intrusive, Real, De-materialism, Security, Social stereotypes\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "In order to try and align the interest of shareholders and senior management of a company, _________ are often made available to _______ of a company, to ensure that it is in their interests to increase _______ and dividend performance.",
+    "choices": [
+      "Share options, Senior managers, Share Price",
+      "Share options, All employees, Share Price",
+      "Non-financial remunerations, Senior managers, Employee Satisfaction",
+      "Non-financial remunerations, All employees, Employee Satisfaction"
+    ],
+    "answer": "A",
+    "input": "Question: In order to try and align the interest of shareholders and senior management of a company, _________ are often made available to _______ of a company, to ensure that it is in their interests to increase _______ and dividend performance.\nOptions:\n(A) Share options, Senior managers, Share Price\n(B) Share options, All employees, Share Price\n(C) Non-financial remunerations, Senior managers, Employee Satisfaction\n(D) Non-financial remunerations, All employees, Employee Satisfaction\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Predatory pricing.",
+    "choices": [
+      "1,2,4",
+      "1,2,3,4",
+      "1,2",
+      "1,4"
+    ],
+    "answer": "D",
+    "input": "Question: Predatory pricing.\nOptions:\n(A) 1,2,4\n(B) 1,2,3,4\n(C) 1,2\n(D) 1,4\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "There are a number of means by which can influence _______. These include _________to decision maker, varying from very direct modes to indirect modes, _________, being either public or private and ________ of communication.",
+    "choices": [
+      "Government, Avenue of approach, Breadth of transmission, Content",
+      "Consumers, Avenue of approach, Height of transmission, Content",
+      "Government, Breath of transmission, Avenue of approach, Content",
+      "Employees, Breadth of transmission, Content, Avenue of approach"
+    ],
+    "answer": "A",
+    "input": "Question: There are a number of means by which can influence _______. These include _________to decision maker, varying from very direct modes to indirect modes, _________, being either public or private and ________ of communication.\nOptions:\n(A) Government, Avenue of approach, Breadth of transmission, Content\n(B) Consumers, Avenue of approach, Height of transmission, Content\n(C) Government, Breath of transmission, Avenue of approach, Content\n(D) Employees, Breadth of transmission, Content, Avenue of approach\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Pick the correct description of the following term: Utilitarianism is…",
+    "choices": [
+      "A theory which states that an action is morally incorrect if it promotes the greatest good for the greatest number",
+      "A theory which states that an action is morally right if it promotes the greatest good for the decision maker",
+      "A theory which states that an action is morally right if it promotes the greatest good for the smallest number",
+      "A theory which states that an action is morally right if it promotes the greatest good for the greatest number"
+    ],
+    "answer": "D",
+    "input": "Question: Pick the correct description of the following term: Utilitarianism is…\nOptions:\n(A) A theory which states that an action is morally incorrect if it promotes the greatest good for the greatest number\n(B) A theory which states that an action is morally right if it promotes the greatest good for the decision maker\n(C) A theory which states that an action is morally right if it promotes the greatest good for the smallest number\n(D) A theory which states that an action is morally right if it promotes the greatest good for the greatest number\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Cognitive ______ models such as the Theory of _________ serve to try and explain consumer behaviour, but arguably somewhat oversimplify and overestimate individual ________.",
+    "choices": [
+      "Decision, Market equilibrium, Rationality",
+      "Attitudinal, Planned Behaviour, Social pressures",
+      "Decision, Planned behaviour, Rationality",
+      "Attitudinal, Market equilibrium, Social pressures"
+    ],
+    "answer": "C",
+    "input": "Question: Cognitive ______ models such as the Theory of _________ serve to try and explain consumer behaviour, but arguably somewhat oversimplify and overestimate individual ________.\nOptions:\n(A) Decision, Market equilibrium, Rationality\n(B) Attitudinal, Planned Behaviour, Social pressures\n(C) Decision, Planned behaviour, Rationality\n(D) Attitudinal, Market equilibrium, Social pressures\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "____________ refers to a strategic process involving stakeholder assessment to create long-term relationships with customers, while maintaining, supporting, and enhancing the natural environment.",
+    "choices": [
+      "Eco-strategy",
+      "Green Marketing",
+      "Superfund reauthorization",
+      "Recycle and reprocess management"
+    ],
+    "answer": "B",
+    "input": "Question: ____________ refers to a strategic process involving stakeholder assessment to create long-term relationships with customers, while maintaining, supporting, and enhancing the natural environment.\nOptions:\n(A) Eco-strategy\n(B) Green Marketing\n(C) Superfund reauthorization\n(D) Recycle and reprocess management\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Sustainability can broadly be defined as",
+    "choices": [
+      "The short-term maintenance of systems according to environmental, economic and social considerations",
+      "The long-term maintenance of processes according to environmental, economic and cultural considerations.",
+      "The short-term maintenance of systems according to environmental, political and social considerations.",
+      "The long-term maintenance of systems according to environmental, economic and social considerations."
+    ],
+    "answer": "D",
+    "input": "Question: Sustainability can broadly be defined as\nOptions:\n(A) The short-term maintenance of systems according to environmental, economic and social considerations\n(B) The long-term maintenance of processes according to environmental, economic and cultural considerations.\n(C) The short-term maintenance of systems according to environmental, political and social considerations.\n(D) The long-term maintenance of systems according to environmental, economic and social considerations.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Which of the three following organisational characteristics of small businesses tend to characterise their engagement with business related issues?",
+    "choices": [
+      "Size and complexity, owner and family member influence on the organisation, shareholder and stakeholder power",
+      "Lack of organisational resources, size and complexity, owner and family member influence",
+      "Informal relationships, owner and family member influence on the organisation, lack of organisational resources",
+      "Bureaucratic and formal organisational structure, lack of organisational resources, conflicts of interest"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the three following organisational characteristics of small businesses tend to characterise their engagement with business related issues?\nOptions:\n(A) Size and complexity, owner and family member influence on the organisation, shareholder and stakeholder power\n(B) Lack of organisational resources, size and complexity, owner and family member influence\n(C) Informal relationships, owner and family member influence on the organisation, lack of organisational resources\n(D) Bureaucratic and formal organisational structure, lack of organisational resources, conflicts of interest\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "A(n) __________ is a ________, __________ framework which goes beyond linear functions, operations and transactions to produce a certain commodity or product",
+    "choices": [
+      "International supply chain, Static, Disconnected",
+      "Global production network, Dynamic, Relational",
+      "International supply chain, Dynamic, Disconnected",
+      "Global production network, Static, Relational"
+    ],
+    "answer": "B",
+    "input": "Question: A(n) __________ is a ________, __________ framework which goes beyond linear functions, operations and transactions to produce a certain commodity or product\nOptions:\n(A) International supply chain, Static, Disconnected\n(B) Global production network, Dynamic, Relational\n(C) International supply chain, Dynamic, Disconnected\n(D) Global production network, Static, Relational\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Demand reduction.",
+    "choices": [
+      "1,3,4",
+      "2,3,4",
+      "1,2,3",
+      "1,2,4"
+    ],
+    "answer": "D",
+    "input": "Question: Demand reduction.\nOptions:\n(A) 1,3,4\n(B) 2,3,4\n(C) 1,2,3\n(D) 1,2,4\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Although the benefit and contribution of civil society in encouraging sustainability, lobbying on important issues and helping the needy are taken for granted in many places, in many other countries, such as _____ and ______ civil society is far less developed than in, for instance, _______.",
+    "choices": [
+      "Russia, China, Britain",
+      "Norway, China, Russia",
+      "Britain, United States, Australia",
+      "Canada, Russia, United States"
+    ],
+    "answer": "A",
+    "input": "Question: Although the benefit and contribution of civil society in encouraging sustainability, lobbying on important issues and helping the needy are taken for granted in many places, in many other countries, such as _____ and ______ civil society is far less developed than in, for instance, _______.\nOptions:\n(A) Russia, China, Britain\n(B) Norway, China, Russia\n(C) Britain, United States, Australia\n(D) Canada, Russia, United States\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The extent to which an individual is able to creatively consider the consequences of, resolutions to, and issues associated with moral decision making is known as _________.",
+    "choices": [
+      "Moral imagination",
+      "Ethical reflexivity",
+      "Moral originality",
+      "Moral reflexivity"
+    ],
+    "answer": "A",
+    "input": "Question: The extent to which an individual is able to creatively consider the consequences of, resolutions to, and issues associated with moral decision making is known as _________.\nOptions:\n(A) Moral imagination\n(B) Ethical reflexivity\n(C) Moral originality\n(D) Moral reflexivity\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "When negotiating using unethical practices, businesses can risk _______, if the negotiations are part of a longer-term business association, as well as a ___________ and __________, as negotiations can impact company image and stymy progress.",
+    "choices": [
+      "Rigid negotiations, Enhanced reputation, Greater opportunities",
+      "Damaged relationships, Sullied reputation, Lost opportunities",
+      "Rigid negotiations, Sullied Reputation, Lost opportunities",
+      "Damaged relationships, Rigid negotiations, Lost opportunities"
+    ],
+    "answer": "B",
+    "input": "Question: When negotiating using unethical practices, businesses can risk _______, if the negotiations are part of a longer-term business association, as well as a ___________ and __________, as negotiations can impact company image and stymy progress.\nOptions:\n(A) Rigid negotiations, Enhanced reputation, Greater opportunities\n(B) Damaged relationships, Sullied reputation, Lost opportunities\n(C) Rigid negotiations, Sullied Reputation, Lost opportunities\n(D) Damaged relationships, Rigid negotiations, Lost opportunities\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________ is the use of language of to mask or expose the ethical nature of decisions, actions and behaviours.",
+    "choices": [
+      "Ethical splicing",
+      "Moral framing",
+      "Ethical window dressing",
+      "Moral splicing"
+    ],
+    "answer": "B",
+    "input": "Question: ________ is the use of language of to mask or expose the ethical nature of decisions, actions and behaviours.\nOptions:\n(A) Ethical splicing\n(B) Moral framing\n(C) Ethical window dressing\n(D) Moral splicing\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The extent to which an individual believes they can control their life is determined by their __________.",
+    "choices": [
+      "Moral imagination",
+      "Personal integrity",
+      "Cognitive moral development",
+      "Locus of control"
+    ],
+    "answer": "D",
+    "input": "Question: The extent to which an individual believes they can control their life is determined by their __________.\nOptions:\n(A) Moral imagination\n(B) Personal integrity\n(C) Cognitive moral development\n(D) Locus of control\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The enforcement of company privacy is complex as corporations are somewhat __________, as there are few clear barriers to define their limits, it is difficult to _________ due to the number of individuals involved and much corporate activity takes place in ________.",
+    "choices": [
+      "Boundaryless, Control information, Private spaces",
+      "Public spaces, Maintain individual privacy, Private spaces",
+      "Boundaryless, Control information, Public spaces",
+      "Private spaces, Maintain individual privacy, Public spaces"
+    ],
+    "answer": "C",
+    "input": "Question: The enforcement of company privacy is complex as corporations are somewhat __________, as there are few clear barriers to define their limits, it is difficult to _________ due to the number of individuals involved and much corporate activity takes place in ________.\nOptions:\n(A) Boundaryless, Control information, Private spaces\n(B) Public spaces, Maintain individual privacy, Private spaces\n(C) Boundaryless, Control information, Public spaces\n(D) Private spaces, Maintain individual privacy, Public spaces\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What term can be used to describe 'the hypothetical agreement between member of society and those who govern it which establishes the inter-relationships, rights and responsibilities on a fair basis'?",
+    "choices": [
+      "Social Contract",
+      "Duty Ethics",
+      "Consequentialism",
+      "Virtue Ethics"
+    ],
+    "answer": "A",
+    "input": "Question: What term can be used to describe 'the hypothetical agreement between member of society and those who govern it which establishes the inter-relationships, rights and responsibilities on a fair basis'?\nOptions:\n(A) Social Contract\n(B) Duty Ethics\n(C) Consequentialism\n(D) Virtue Ethics\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Businesses have _____ within society and have the potential to provide a ____ to society while ____ has the potential to inflict enormous harm on individuals, communities and the environment.",
+    "choices": [
+      "Little power, Small contribution, Business malpractice",
+      "Little power, Major contribution, Corporate social responsibility",
+      "Huge power, Small contribution, Corporate social responsibility",
+      "Huge power, Major contribution, Business malpractice"
+    ],
+    "answer": "D",
+    "input": "Question: Businesses have _____ within society and have the potential to provide a ____ to society while ____ has the potential to inflict enormous harm on individuals, communities and the environment.\nOptions:\n(A) Little power, Small contribution, Business malpractice\n(B) Little power, Major contribution, Corporate social responsibility\n(C) Huge power, Small contribution, Corporate social responsibility\n(D) Huge power, Major contribution, Business malpractice\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "According Carroll what four categories or aspects can corporate social responsibility be broken down into?",
+    "choices": [
+      "Political, Legal, Ethical and Philanthropic",
+      "Economic, Legal, Ethical and Philanthropic",
+      "Economic, Legal, Cultural and Philanthropic",
+      "Economic, Legal, Ethical and Environmental"
+    ],
+    "answer": "B",
+    "input": "Question: According Carroll what four categories or aspects can corporate social responsibility be broken down into?\nOptions:\n(A) Political, Legal, Ethical and Philanthropic\n(B) Economic, Legal, Ethical and Philanthropic\n(C) Economic, Legal, Cultural and Philanthropic\n(D) Economic, Legal, Ethical and Environmental\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Affirmative action involves ________ attempts to target ______ who are _________ within an organisation's workforce, for instance by trying to ______ the proportion of women, disabled or racial minorities in senior management positions.",
+    "choices": [
+      "Proactive, Groups, Under-represented, Increase",
+      "Passive, Groups, Under-represented, Retain",
+      "Proactive, Individuals, Represented, Increase",
+      "Passive, Individuals, Represented, Retain"
+    ],
+    "answer": "A",
+    "input": "Question: Affirmative action involves ________ attempts to target ______ who are _________ within an organisation's workforce, for instance by trying to ______ the proportion of women, disabled or racial minorities in senior management positions.\nOptions:\n(A) Proactive, Groups, Under-represented, Increase\n(B) Passive, Groups, Under-represented, Retain\n(C) Proactive, Individuals, Represented, Increase\n(D) Passive, Individuals, Represented, Retain\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Traditionally consumer rights were based on the notion of _______ or _______ where the responsibility lay with consumer to avoid subpar products. However, this has gradually eroded due to increased ________ at a ________, EU and UN level.",
+    "choices": [
+      "Caveat emptor, Company Responsibility, Informal codes, International",
+      "Caveat emptor, Buyer beware, Regulation, National",
+      "Cemptor Eaveat, Buyer beware, Regulation, National",
+      "Cemptor Eaveat, Company Responsibility, Informal Codes, International"
+    ],
+    "answer": "B",
+    "input": "Question: Traditionally consumer rights were based on the notion of _______ or _______ where the responsibility lay with consumer to avoid subpar products. However, this has gradually eroded due to increased ________ at a ________, EU and UN level.\nOptions:\n(A) Caveat emptor, Company Responsibility, Informal codes, International\n(B) Caveat emptor, Buyer beware, Regulation, National\n(C) Cemptor Eaveat, Buyer beware, Regulation, National\n(D) Cemptor Eaveat, Company Responsibility, Informal Codes, International\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The state of being unable to make an informed, reasoned decision about a product purchase is known as?",
+    "choices": [
+      "Consumer inclusion",
+      "Consumer competence",
+      "Consumer exclusion",
+      "Consumer vulnerability"
+    ],
+    "answer": "D",
+    "input": "Question: The state of being unable to make an informed, reasoned decision about a product purchase is known as?\nOptions:\n(A) Consumer inclusion\n(B) Consumer competence\n(C) Consumer exclusion\n(D) Consumer vulnerability\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "According to Mitchell et al (1997) ______, the perceived ability of a stakeholder to influence organisational action, ________ whether the organisation perceives the stakeholder's actions as desirable, proper and appropriate and ________, the immediacy of attention the stakeholder claims require, determine stakeholder ________.",
+    "choices": [
+      "Power, Legitimacy, Salience Urgency",
+      "Legitimacy, Urgency, Salience, Power",
+      "Power, Legitimacy, Urgency, Salience",
+      "Salience, Power, Urgency, Legitimacy"
+    ],
+    "answer": "C",
+    "input": "Question: According to Mitchell et al (1997) ______, the perceived ability of a stakeholder to influence organisational action, ________ whether the organisation perceives the stakeholder's actions as desirable, proper and appropriate and ________, the immediacy of attention the stakeholder claims require, determine stakeholder ________.\nOptions:\n(A) Power, Legitimacy, Salience Urgency\n(B) Legitimacy, Urgency, Salience, Power\n(C) Power, Legitimacy, Urgency, Salience\n(D) Salience, Power, Urgency, Legitimacy\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ and _______ are both examples of _______ -based theories which are based on basic universal principles of right and wrong.",
+    "choices": [
+      "Ethics of duty, Ethics of rights and justice, Principle",
+      "Utilitarianism, Egoism, Principle",
+      "Ethics of duty, Utilitarianism, Consequentialist",
+      "Egoism, Ethics of rights and justice, Consequentialist"
+    ],
+    "answer": "A",
+    "input": "Question: _______ and _______ are both examples of _______ -based theories which are based on basic universal principles of right and wrong.\nOptions:\n(A) Ethics of duty, Ethics of rights and justice, Principle\n(B) Utilitarianism, Egoism, Principle\n(C) Ethics of duty, Utilitarianism, Consequentialist\n(D) Egoism, Ethics of rights and justice, Consequentialist\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The complexity of the theory.",
+    "choices": [
+      "1,2,3,4",
+      "1,3,4",
+      "1,2,3",
+      "1,2,4"
+    ],
+    "answer": "C",
+    "input": "Question: The complexity of the theory.\nOptions:\n(A) 1,2,3,4\n(B) 1,3,4\n(C) 1,2,3\n(D) 1,2,4\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________ is any business effort to influence government or public policy. It includes activities such as __________, political advertising, financial contributions, ________ action and political ________.",
+    "choices": [
+      "Private regulation, Lobbying, Environmental, Fundraising",
+      "Private regulation, Consumer Marketing, Legal, Fundraising",
+      "Corporate political activity, Lobbying, Legal, Campaigning",
+      "Corporate political activity, Consumer marketing, Environmental, Campaigning"
+    ],
+    "answer": "C",
+    "input": "Question: ________ is any business effort to influence government or public policy. It includes activities such as __________, political advertising, financial contributions, ________ action and political ________.\nOptions:\n(A) Private regulation, Lobbying, Environmental, Fundraising\n(B) Private regulation, Consumer Marketing, Legal, Fundraising\n(C) Corporate political activity, Lobbying, Legal, Campaigning\n(D) Corporate political activity, Consumer marketing, Environmental, Campaigning\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_________ such as the ________ in the United States is a key factor in driving ethical business practices.",
+    "choices": [
+      "Legislation, Sarbanes-Oxley Act",
+      "Internal company policy, Unethical corporate practices act",
+      "Internal company policy, Sarbanes-Oxley Act",
+      "Legislation, Unethical corporate practices act"
+    ],
+    "answer": "A",
+    "input": "Question: _________ such as the ________ in the United States is a key factor in driving ethical business practices.\nOptions:\n(A) Legislation, Sarbanes-Oxley Act\n(B) Internal company policy, Unethical corporate practices act\n(C) Internal company policy, Sarbanes-Oxley Act\n(D) Legislation, Unethical corporate practices act\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______, where actors are convinced that their actions harms nobody, _______ where actors argue that their norm violation is an attempt to realize higher-order values and ________ , where actors argue they are owed something, are all strategies for justifying or denying unethical behaviour.",
+    "choices": [
+      "Appeal to higher loyalties, Denial of injury, Metaphor of the ledger",
+      "Appeal to higher loyalties, Metaphor of the ledger, Denial of injury",
+      "Denial of injury, Appeal to higher loyalties, Metaphor of the ledger",
+      "Denial of injury, Metaphor of the ledger, Appeal to higher loyalties,"
+    ],
+    "answer": "C",
+    "input": "Question: _______, where actors are convinced that their actions harms nobody, _______ where actors argue that their norm violation is an attempt to realize higher-order values and ________ , where actors argue they are owed something, are all strategies for justifying or denying unethical behaviour.\nOptions:\n(A) Appeal to higher loyalties, Denial of injury, Metaphor of the ledger\n(B) Appeal to higher loyalties, Metaphor of the ledger, Denial of injury\n(C) Denial of injury, Appeal to higher loyalties, Metaphor of the ledger\n(D) Denial of injury, Metaphor of the ledger, Appeal to higher loyalties,\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Which of the following is not one the underlying principles of the corporate governance Combined Code of Practice?",
+    "choices": [
+      "Openness",
+      "Integrity",
+      "Availability",
+      "Acceptability"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not one the underlying principles of the corporate governance Combined Code of Practice?\nOptions:\n(A) Openness\n(B) Integrity\n(C) Availability\n(D) Acceptability\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Factors that impact ethical decision making can be broadly broken down into ________ factors, related to the unique characteristics of a person, and _________ factors, which are features of the person's environment or the particular issue.",
+    "choices": [
+      "Tailored, Individual",
+      "Situational, Individual",
+      "Situational, Tailored",
+      "Individual, Situational"
+    ],
+    "answer": "D",
+    "input": "Question: Factors that impact ethical decision making can be broadly broken down into ________ factors, related to the unique characteristics of a person, and _________ factors, which are features of the person's environment or the particular issue.\nOptions:\n(A) Tailored, Individual\n(B) Situational, Individual\n(C) Situational, Tailored\n(D) Individual, Situational\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_____ is a key driving force shaping the current and future state of business ethics, in particular regarding _____, ______ and _____ related issues.",
+    "choices": [
+      "Globalisation, Cultural, Legal, Accountability",
+      "Nationalisation, Cultural, Environmental, Accountability",
+      "Privatisation, Cultural, Legal, Accountability",
+      "Globalisation, Technological, Financial, Accountability"
+    ],
+    "answer": "A",
+    "input": "Question: _____ is a key driving force shaping the current and future state of business ethics, in particular regarding _____, ______ and _____ related issues.\nOptions:\n(A) Globalisation, Cultural, Legal, Accountability\n(B) Nationalisation, Cultural, Environmental, Accountability\n(C) Privatisation, Cultural, Legal, Accountability\n(D) Globalisation, Technological, Financial, Accountability\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "CSO's frequently spend too much time communicating their performance measures and too much time devising them with input from beneficiaries.",
+    "choices": [
+      "2,3",
+      "1,3",
+      "3,4",
+      "1,2,3,4"
+    ],
+    "answer": "B",
+    "input": "Question: CSO's frequently spend too much time communicating their performance measures and too much time devising them with input from beneficiaries.\nOptions:\n(A) 2,3\n(B) 1,3\n(C) 3,4\n(D) 1,2,3,4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The race to the ______ is when, due to increased ________, countries compete for foreign investment through companies' relocation decisions by weakening their ______ and _____ standards.",
+    "choices": [
+      "Bottom, Globalisation, Social, Environmental",
+      "Top, Globalisation, Political, Environmental",
+      "Bottom, Standardisation, Social, Economic",
+      "Top, Standardisation, Political, Economic"
+    ],
+    "answer": "A",
+    "input": "Question: The race to the ______ is when, due to increased ________, countries compete for foreign investment through companies' relocation decisions by weakening their ______ and _____ standards.\nOptions:\n(A) Bottom, Globalisation, Social, Environmental\n(B) Top, Globalisation, Political, Environmental\n(C) Bottom, Standardisation, Social, Economic\n(D) Top, Standardisation, Political, Economic\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Managers are entrusted to run the company in the best interest of ________. Specifically, they have a duty to act for the benefit of the company, as well as a duty of ________ and of _______.",
+    "choices": [
+      "Shareholders, Care and Skill, Diligence",
+      "Stakeholder, Care and Skill, Diligence",
+      "Shareholders, Self-interest, Diligence",
+      "Stakeholders, Care and skill, Self-interest"
+    ],
+    "answer": "A",
+    "input": "Question: Managers are entrusted to run the company in the best interest of ________. Specifically, they have a duty to act for the benefit of the company, as well as a duty of ________ and of _______.\nOptions:\n(A) Shareholders, Care and Skill, Diligence\n(B) Stakeholder, Care and Skill, Diligence\n(C) Shareholders, Self-interest, Diligence\n(D) Stakeholders, Care and skill, Self-interest\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Replacing supply chains with _______ enhances the importance of product _______as well as a fundamental redesign of every activity a firm engages in that produces _______.",
+    "choices": [
+      "Supply loops, Recapture, Waste",
+      "Supply loops, Redesign, Profit",
+      "Global production networks, Recapture, Waste",
+      "Global production networks, Redesign, Profit"
+    ],
+    "answer": "A",
+    "input": "Question: Replacing supply chains with _______ enhances the importance of product _______as well as a fundamental redesign of every activity a firm engages in that produces _______.\nOptions:\n(A) Supply loops, Recapture, Waste\n(B) Supply loops, Redesign, Profit\n(C) Global production networks, Recapture, Waste\n(D) Global production networks, Redesign, Profit\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "A company may become insolvent if it",
+    "choices": [
+      "has negative working capital",
+      "cannot meet its budgeted level of profit",
+      "makes a loss",
+      "cannot pay creditors in full after realisation of its assets"
+    ],
+    "answer": "D",
+    "input": "Question: A company may become insolvent if it\nOptions:\n(A) has negative working capital\n(B) cannot meet its budgeted level of profit\n(C) makes a loss\n(D) cannot pay creditors in full after realisation of its assets\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The ISO 26000 standard on ________ is emblematic of a number of trends emerging within the shared global governance space. Specifically, these trends concern, more deliberation and ________, greater focus on the _______ rather than outcomes and more _______ rather than specific norms.",
+    "choices": [
+      "Social responsibility, Collaboration, Process, Frameworks",
+      "Social responsibility, Individualism, Process, Legislation",
+      "Environmental responsibility, Individualism, Inputs, Frameworks",
+      "Environmental responsibility, Collaboration, Inputs, Legislation"
+    ],
+    "answer": "A",
+    "input": "Question: The ISO 26000 standard on ________ is emblematic of a number of trends emerging within the shared global governance space. Specifically, these trends concern, more deliberation and ________, greater focus on the _______ rather than outcomes and more _______ rather than specific norms.\nOptions:\n(A) Social responsibility, Collaboration, Process, Frameworks\n(B) Social responsibility, Individualism, Process, Legislation\n(C) Environmental responsibility, Individualism, Inputs, Frameworks\n(D) Environmental responsibility, Collaboration, Inputs, Legislation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.",
+    "choices": [
+      "Social accountability standard, SA 8000",
+      "Social accountability standard, SA 9000",
+      "Sarbanes-Oxley Act, SA 8000",
+      "Sarbanes-Oxley Act, SA 9000"
+    ],
+    "answer": "A",
+    "input": "Question: The ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.\nOptions:\n(A) Social accountability standard, SA 8000\n(B) Social accountability standard, SA 9000\n(C) Sarbanes-Oxley Act, SA 8000\n(D) Sarbanes-Oxley Act, SA 9000\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Managers and directors have a fiduciary responsibility to protect the investment of shareholders.",
+    "choices": [
+      "1,3,4",
+      "1,2,3,",
+      "1,2,4",
+      "2,3,4"
+    ],
+    "answer": "A",
+    "input": "Question: Managers and directors have a fiduciary responsibility to protect the investment of shareholders.\nOptions:\n(A) 1,3,4\n(B) 1,2,3,\n(C) 1,2,4\n(D) 2,3,4\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Cultural homogenization.",
+    "choices": [
+      "1,3,4",
+      "1,2,3",
+      "1,2,3,4",
+      "2,3,4"
+    ],
+    "answer": "B",
+    "input": "Question: Cultural homogenization.\nOptions:\n(A) 1,3,4\n(B) 1,2,3\n(C) 1,2,3,4\n(D) 2,3,4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Insider trading undermines the fiduciary relationship.",
+    "choices": [
+      "1,2,3",
+      "1,2,4",
+      "2,3,4",
+      "1,2,3,4"
+    ],
+    "answer": "B",
+    "input": "Question: Insider trading undermines the fiduciary relationship.\nOptions:\n(A) 1,2,3\n(B) 1,2,4\n(C) 2,3,4\n(D) 1,2,3,4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "There are two main issues associated with _____ sizing. _______ is a key issue as due to the information policy of the corporation it can be argued that employees have a right to know if they are being made redundant. _______ is a second issue, particularly the ________ package that employees receive when laid off.",
+    "choices": [
+      "Down, Involvement, Remuneration, Compensation",
+      "Up, Involvement, Autonomy, Compensation",
+      "Down, Autonomy, Remuneration, Benefit",
+      "Up, Independence, Involvement, Benefit"
+    ],
+    "answer": "A",
+    "input": "Question: There are two main issues associated with _____ sizing. _______ is a key issue as due to the information policy of the corporation it can be argued that employees have a right to know if they are being made redundant. _______ is a second issue, particularly the ________ package that employees receive when laid off.\nOptions:\n(A) Down, Involvement, Remuneration, Compensation\n(B) Up, Involvement, Autonomy, Compensation\n(C) Down, Autonomy, Remuneration, Benefit\n(D) Up, Independence, Involvement, Benefit\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.",
+    "choices": [
+      "Virtue ethics",
+      "Ethical egoism",
+      "Postmodern ethics",
+      "Ethics of duty"
+    ],
+    "answer": "C",
+    "input": "Question: _______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.\nOptions:\n(A) Virtue ethics\n(B) Ethical egoism\n(C) Postmodern ethics\n(D) Ethics of duty\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Under ethical ________ objective moral principles can be rationally determined, while ethical under ________ morality is both context dependant and subjective.",
+    "choices": [
+      "Normativity, Relativism",
+      "Absolutism, Relativism",
+      "Relativism, Absolutism",
+      "Absolutism, Normativity"
+    ],
+    "answer": "B",
+    "input": "Question: Under ethical ________ objective moral principles can be rationally determined, while ethical under ________ morality is both context dependant and subjective.\nOptions:\n(A) Normativity, Relativism\n(B) Absolutism, Relativism\n(C) Relativism, Absolutism\n(D) Absolutism, Normativity\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Some of key differences between Islamic finance and conventional finance include - prohibition of charging and paying _______, prohibition on ______ and ______ transactions, prohibition of sinful investment and requirement for all financial products to be backed by __________.",
+    "choices": [
+      "Interest, Certain, Speculative, Intangible assets",
+      "Interest, Uncertain, Assured, Intangible assets",
+      "Interest, Uncertain, Speculative, Tangible assets",
+      "Interest, Certain, Assured, Tangible assets"
+    ],
+    "answer": "C",
+    "input": "Question: Some of key differences between Islamic finance and conventional finance include - prohibition of charging and paying _______, prohibition on ______ and ______ transactions, prohibition of sinful investment and requirement for all financial products to be backed by __________.\nOptions:\n(A) Interest, Certain, Speculative, Intangible assets\n(B) Interest, Uncertain, Assured, Intangible assets\n(C) Interest, Uncertain, Speculative, Tangible assets\n(D) Interest, Certain, Assured, Tangible assets\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________ reasoning is considered by many to be prevalent within society and particularly within businesses, where it is often referred to in the form of a ___________.",
+    "choices": [
+      "Consequentialist, Cost-benefit analysis",
+      "Rationalised, Annual audit",
+      "Consequentialist, Annual audit",
+      "Rationalised, Cost-benefit analysis"
+    ],
+    "answer": "A",
+    "input": "Question: ________ reasoning is considered by many to be prevalent within society and particularly within businesses, where it is often referred to in the form of a ___________.\nOptions:\n(A) Consequentialist, Cost-benefit analysis\n(B) Rationalised, Annual audit\n(C) Consequentialist, Annual audit\n(D) Rationalised, Cost-benefit analysis\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Which of the following areas is not covered by the principles enshrined in the UN Global Compact?",
+    "choices": [
+      "Human rights",
+      "Labour",
+      "Commercial performance",
+      "Anti-corruption"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following areas is not covered by the principles enshrined in the UN Global Compact?\nOptions:\n(A) Human rights\n(B) Labour\n(C) Commercial performance\n(D) Anti-corruption\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "What are, according to Wood (1991), the three outcomes of CSR?",
+    "choices": [
+      "Social policies, Social programmes and Social impacts",
+      "Social evaluations, Social programmes and Social impacts",
+      "Social policies, Social evidencing and Social impacts",
+      "Social policies, Social programmes and Social analysis"
+    ],
+    "answer": "A",
+    "input": "Question: What are, according to Wood (1991), the three outcomes of CSR?\nOptions:\n(A) Social policies, Social programmes and Social impacts\n(B) Social evaluations, Social programmes and Social impacts\n(C) Social policies, Social evidencing and Social impacts\n(D) Social policies, Social programmes and Social analysis\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Businesses engage in social accounting due to demands from _________, in order to identify ________, to improve ___________ and to encourage _________ and ___________",
+    "choices": [
+      "Stakeholders, Risks, Stakeholder management, Accountability, Transparency",
+      "Stakeholders, Accountability, Transparency, Risks, Stakeholder Management",
+      "Stakeholders, Accountability, Risks, Stakeholders, Stakeholder Management",
+      "Stakeholders, Stakeholder Management, Transparency, Risks, Accountability"
+    ],
+    "answer": "A",
+    "input": "Question: Businesses engage in social accounting due to demands from _________, in order to identify ________, to improve ___________ and to encourage _________ and ___________\nOptions:\n(A) Stakeholders, Risks, Stakeholder management, Accountability, Transparency\n(B) Stakeholders, Accountability, Transparency, Risks, Stakeholder Management\n(C) Stakeholders, Accountability, Risks, Stakeholders, Stakeholder Management\n(D) Stakeholders, Stakeholder Management, Transparency, Risks, Accountability\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Post-modern ethics assert that ethics are context and individual specific and as such have an internal guide to ethics.",
+    "choices": [
+      "2,3",
+      "1,3",
+      "1,2,3",
+      "1,2"
+    ],
+    "answer": "B",
+    "input": "Question: Post-modern ethics assert that ethics are context and individual specific and as such have an internal guide to ethics.\nOptions:\n(A) 2,3\n(B) 1,3\n(C) 1,2,3\n(D) 1,2\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The focus on issues, the intended audience extending beyond shareholders and the voluntary nature of ___________ distinguish it from _________.",
+    "choices": [
+      "Financial accounting, Environmental management initiatives",
+      "Financial accounting, Social accounting.",
+      "Social accounting, Financial accounting.",
+      "Annual report publication, Social accounting"
+    ],
+    "answer": "C",
+    "input": "Question: The focus on issues, the intended audience extending beyond shareholders and the voluntary nature of ___________ distinguish it from _________.\nOptions:\n(A) Financial accounting, Environmental management initiatives\n(B) Financial accounting, Social accounting.\n(C) Social accounting, Financial accounting.\n(D) Annual report publication, Social accounting\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Negative advertising, stealing or poaching customers and predatory pricing are all strategies employed by businesses described using the umbrella term ________.",
+    "choices": [
+      "Reasonable competitive behaviour",
+      "Swindles",
+      "Competitive tricks",
+      "Dirty tricks"
+    ],
+    "answer": "D",
+    "input": "Question: Negative advertising, stealing or poaching customers and predatory pricing are all strategies employed by businesses described using the umbrella term ________.\nOptions:\n(A) Reasonable competitive behaviour\n(B) Swindles\n(C) Competitive tricks\n(D) Dirty tricks\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______ the workplace involves empowering employees through, for example, 'job enrichment' where employees are given a larger scope for deciding how to organize their work or 'job enlargement' where employees are given a wider range of tasks to do.",
+    "choices": [
+      "Re-invigorating",
+      "Re-flourishing",
+      "Revitalizing",
+      "Rehumanizing"
+    ],
+    "answer": "D",
+    "input": "Question: ______ the workplace involves empowering employees through, for example, 'job enrichment' where employees are given a larger scope for deciding how to organize their work or 'job enlargement' where employees are given a wider range of tasks to do.\nOptions:\n(A) Re-invigorating\n(B) Re-flourishing\n(C) Revitalizing\n(D) Rehumanizing\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The need to head off negative publicity.",
+    "choices": [
+      "1,3,4",
+      "2,3,4",
+      "1,2,3",
+      "1,2,3,4"
+    ],
+    "answer": "C",
+    "input": "Question: The need to head off negative publicity.\nOptions:\n(A) 1,3,4\n(B) 2,3,4\n(C) 1,2,3\n(D) 1,2,3,4\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.",
+    "choices": [
+      "Faster, Cost effectiveness, Slower",
+      "Faster, Heightened costs, Slower",
+      "Proactive, Cost effectiveness, Faster",
+      "Proactive, Heightened costs, Faster"
+    ],
+    "answer": "C",
+    "input": "Question: The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.\nOptions:\n(A) Faster, Cost effectiveness, Slower\n(B) Faster, Heightened costs, Slower\n(C) Proactive, Cost effectiveness, Faster\n(D) Proactive, Heightened costs, Faster\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The ________ perspective on sustainability resulted from growth models that analysed the carrying capacity of the planet, overall concluding that the finite capacity of the earth and_______, ________ and _______ by current and past generations could reduce quality of life for future generations. This contrasts with the environmental perspective with focuses on the need to maintain and preserve the natural environment.",
+    "choices": [
+      "Economic, Overuse of resources, Overpopulation, Over pollution,",
+      "Economic, Underuse of resources, Underpopulation, Unsustainability",
+      "Environmental, Underuse of resources, Overpopulation, Over pollution",
+      "Environmental, Overuse of resources, Underpopulation, Unsustainability"
+    ],
+    "answer": "C",
+    "input": "Question: The ________ perspective on sustainability resulted from growth models that analysed the carrying capacity of the planet, overall concluding that the finite capacity of the earth and_______, ________ and _______ by current and past generations could reduce quality of life for future generations. This contrasts with the environmental perspective with focuses on the need to maintain and preserve the natural environment.\nOptions:\n(A) Economic, Overuse of resources, Overpopulation, Over pollution,\n(B) Economic, Underuse of resources, Underpopulation, Unsustainability\n(C) Environmental, Underuse of resources, Overpopulation, Over pollution\n(D) Environmental, Overuse of resources, Underpopulation, Unsustainability\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Healthy eating, particularly relating to sugar and salt consumption, food and packaging waste and supply chain CO2 emissions are all business ethics issues facing the ________.",
+    "choices": [
+      "Supermarket industry",
+      "Chemicals industry",
+      "Construction industry",
+      "Information and mobile technology industry"
+    ],
+    "answer": "A",
+    "input": "Question: Healthy eating, particularly relating to sugar and salt consumption, food and packaging waste and supply chain CO2 emissions are all business ethics issues facing the ________.\nOptions:\n(A) Supermarket industry\n(B) Chemicals industry\n(C) Construction industry\n(D) Information and mobile technology industry\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_______ is a system of exchange based on guaranteeing producers in developing countries a living wage, decent working conditions and opportunities for community development.",
+    "choices": [
+      "Sustainable sourcing",
+      "Fair trade",
+      "Ethical sourcing",
+      "Supply chain responsibility"
+    ],
+    "answer": "B",
+    "input": "Question: _______ is a system of exchange based on guaranteeing producers in developing countries a living wage, decent working conditions and opportunities for community development.\nOptions:\n(A) Sustainable sourcing\n(B) Fair trade\n(C) Ethical sourcing\n(D) Supply chain responsibility\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "_________ are individual beliefs about desirable behaviours and goals that are stable over time and which influence decision making.",
+    "choices": [
+      "Character traits",
+      "Personal values",
+      "Personal attitudes",
+      "Personal traits"
+    ],
+    "answer": "B",
+    "input": "Question: _________ are individual beliefs about desirable behaviours and goals that are stable over time and which influence decision making.\nOptions:\n(A) Character traits\n(B) Personal values\n(C) Personal attitudes\n(D) Personal traits\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "They are too irrational and uncodified.",
+    "choices": [
+      "3,4",
+      "1,3",
+      "2,3",
+      "4,1"
+    ],
+    "answer": "B",
+    "input": "Question: They are too irrational and uncodified.\nOptions:\n(A) 3,4\n(B) 1,3\n(C) 2,3\n(D) 4,1\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The purposes for which the information is used is in the public's interest.",
+    "choices": [
+      "1,2",
+      "1,3",
+      "2,3",
+      "1,2,3"
+    ],
+    "answer": "A",
+    "input": "Question: The purposes for which the information is used is in the public's interest.\nOptions:\n(A) 1,2\n(B) 1,3\n(C) 2,3\n(D) 1,2,3\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The Private Sector Social Enterprise Model.",
+    "choices": [
+      "1,2,4",
+      "2,3,4",
+      "1,2,3,4",
+      "1,2,3"
+    ],
+    "answer": "D",
+    "input": "Question: The Private Sector Social Enterprise Model.\nOptions:\n(A) 1,2,4\n(B) 2,3,4\n(C) 1,2,3,4\n(D) 1,2,3\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "______ is the corporate role in governing citizenship rights for the individual",
+    "choices": [
+      "Political Corporate Social Responsibility",
+      "Triple Bottom Line",
+      "Sustainability",
+      "Corporate Citizenship"
+    ],
+    "answer": "D",
+    "input": "Question: ______ is the corporate role in governing citizenship rights for the individual\nOptions:\n(A) Political Corporate Social Responsibility\n(B) Triple Bottom Line\n(C) Sustainability\n(D) Corporate Citizenship\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "How the code is enforced.",
+    "choices": [
+      "1,2,3",
+      "1,2,4",
+      "1,3,4",
+      "2,3,4"
+    ],
+    "answer": "B",
+    "input": "Question: How the code is enforced.\nOptions:\n(A) 1,2,3\n(B) 1,2,4\n(C) 1,3,4\n(D) 2,3,4\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "According to Evan and Freeman (1993), the Principle of ________ and the Principle of _______ can be used in a specific situation to determine who constitutes a _______.",
+    "choices": [
+      "Corporate rights, Corporate effect, Stakeholder",
+      "Corporate deniability, Corporate effect, Stakeholder",
+      "Corporate rights, Corporate responsibility, Stakeholder",
+      "Corporate rights, Corporate effect, Shareholder"
+    ],
+    "answer": "A",
+    "input": "Question: According to Evan and Freeman (1993), the Principle of ________ and the Principle of _______ can be used in a specific situation to determine who constitutes a _______.\nOptions:\n(A) Corporate rights, Corporate effect, Stakeholder\n(B) Corporate deniability, Corporate effect, Stakeholder\n(C) Corporate rights, Corporate responsibility, Stakeholder\n(D) Corporate rights, Corporate effect, Shareholder\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "The relationship between ethics and the law can be described as…",
+    "choices": [
+      "Incredibly close, in fact, in all instances what is ethical is also what is legal and vice versa.",
+      "Not close, ethics and the law share a small amount of overlap, but fundamentally address differing questions and themes.",
+      "Close, as there is considerable overlap between ethics and law, but the two are not equivalent.",
+      "Not at all close, ethics and the law are virtually incompatible."
+    ],
+    "answer": "C",
+    "input": "Question: The relationship between ethics and the law can be described as…\nOptions:\n(A) Incredibly close, in fact, in all instances what is ethical is also what is legal and vice versa.\n(B) Not close, ethics and the law share a small amount of overlap, but fundamentally address differing questions and themes.\n(C) Close, as there is considerable overlap between ethics and law, but the two are not equivalent.\n(D) Not at all close, ethics and the law are virtually incompatible.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "In a business to business context, conflicts of interest can arise in two main ways: conflict of _______ and _______ interests, which might arise, for example, when a firm is hired as a supplier of professional services by another firm or conflict of _________ and ________ interests, such as where an individual's interests may conflict with that of their employer.",
+    "choices": [
+      "Professional, Organizational, Personal, Organizational",
+      "Professional, Individual, Personal, Organizational",
+      "Individual, Organizational, Organizational, Professional",
+      "Individual, Professional, Organizational, Personal"
+    ],
+    "answer": "A",
+    "input": "Question: In a business to business context, conflicts of interest can arise in two main ways: conflict of _______ and _______ interests, which might arise, for example, when a firm is hired as a supplier of professional services by another firm or conflict of _________ and ________ interests, such as where an individual's interests may conflict with that of their employer.\nOptions:\n(A) Professional, Organizational, Personal, Organizational\n(B) Professional, Individual, Personal, Organizational\n(C) Individual, Organizational, Organizational, Professional\n(D) Individual, Professional, Organizational, Personal\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "________ are a business ethics management tool that have grown over the last few decades. Areas which these typically cover are compliance, corruption and environmental issues. However, they are constantly evolving, with for example, the onus on __________ having grown in recent years.",
+    "choices": [
+      "Annual reports, Company financial performance",
+      "Annual report, Internet - social media and networking",
+      "Codes of ethics, Company financial performance",
+      "Codes of ethics, Internet - social media and networking"
+    ],
+    "answer": "D",
+    "input": "Question: ________ are a business ethics management tool that have grown over the last few decades. Areas which these typically cover are compliance, corruption and environmental issues. However, they are constantly evolving, with for example, the onus on __________ having grown in recent years.\nOptions:\n(A) Annual reports, Company financial performance\n(B) Annual report, Internet - social media and networking\n(C) Codes of ethics, Company financial performance\n(D) Codes of ethics, Internet - social media and networking\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "business_ethics",
+    "question": "Which of the following statements is correct?",
+    "choices": [
+      "Business ethics is not a real concept as the rules and ethics of everyday life don't apply to the world of business.",
+      "Business Ethics is the study of business situations, activities and decisions where issues of right and wrong are addressed.",
+      "Business ethics cannot be defined as a real concept as it is an oxymoronic term.",
+      "Business ethics is concerned with the study of assessing the activities of a business based on their profitability."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following statements is correct?\nOptions:\n(A) Business ethics is not a real concept as the rules and ethics of everyday life don't apply to the world of business.\n(B) Business Ethics is the study of business situations, activities and decisions where issues of right and wrong are addressed.\n(C) Business ethics cannot be defined as a real concept as it is an oxymoronic term.\n(D) Business ethics is concerned with the study of assessing the activities of a business based on their profitability.\nAnswer:",
+    "target": "(B)"
+  }
+]

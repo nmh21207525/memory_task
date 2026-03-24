@@ -1,0 +1,3044 @@
+[
+  {
+    "subject": "marketing",
+    "question": "This is a hierarchy of effects or sequential model used to explain how advertising works:",
+    "choices": [
+      "ADD.",
+      "AIDA.",
+      "PESTLE.",
+      "SWOT."
+    ],
+    "answer": "B",
+    "input": "Question: This is a hierarchy of effects or sequential model used to explain how advertising works:\nOptions:\n(A) ADD.\n(B) AIDA.\n(C) PESTLE.\n(D) SWOT.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.",
+    "choices": [
+      "The realm of understanding.",
+      "Personal selling.",
+      "Noise.",
+      "Feedback."
+    ],
+    "answer": "A",
+    "input": "Question: _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.\nOptions:\n(A) The realm of understanding.\n(B) Personal selling.\n(C) Noise.\n(D) Feedback.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In the history of marketing, when did the production period end?",
+    "choices": [
+      "In the late 1800s.",
+      "In the early 1900s.",
+      "In the 1920s.",
+      "After the end of the Second World War."
+    ],
+    "answer": "C",
+    "input": "Question: In the history of marketing, when did the production period end?\nOptions:\n(A) In the late 1800s.\n(B) In the early 1900s.\n(C) In the 1920s.\n(D) After the end of the Second World War.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?",
+    "choices": [
+      "The level of tangibility associated with the type of product.",
+      "Performance-value.",
+      "Variations in supply and demand.",
+      "The way in which the service is delivered."
+    ],
+    "answer": "B",
+    "input": "Question: The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?\nOptions:\n(A) The level of tangibility associated with the type of product.\n(B) Performance-value.\n(C) Variations in supply and demand.\n(D) The way in which the service is delivered.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be",
+    "choices": [
+      "found guilty under the Sherman Antitrust Act and face prison time",
+      "found guilty under the Magnuson-Moss Warranty Act and face large fines",
+      "found guilty under the Adamson Act and face prison time and fines",
+      "found not guilty because retailers are allowed to set their own price levels"
+    ],
+    "answer": "A",
+    "input": "Question: The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be\nOptions:\n(A) found guilty under the Sherman Antitrust Act and face prison time\n(B) found guilty under the Magnuson-Moss Warranty Act and face large fines\n(C) found guilty under the Adamson Act and face prison time and fines\n(D) found not guilty because retailers are allowed to set their own price levels\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The term 'marketing mix' describes:",
+    "choices": [
+      "A composite analysis of all environmental factors inside and outside the firm.",
+      "A series of business decisions that aid in selling a product.",
+      "The relationship between a firm's marketing strengths and its business weaknesses.",
+      "A blending of four strategic elements to satisfy specific target markets."
+    ],
+    "answer": "D",
+    "input": "Question: The term 'marketing mix' describes:\nOptions:\n(A) A composite analysis of all environmental factors inside and outside the firm.\n(B) A series of business decisions that aid in selling a product.\n(C) The relationship between a firm's marketing strengths and its business weaknesses.\n(D) A blending of four strategic elements to satisfy specific target markets.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "__________ have the potential to control the type and flow of information to the organization and the members of the DMU.",
+    "choices": [
+      "Gatekeepers.",
+      "Buyers.",
+      "Users.",
+      "Initiators."
+    ],
+    "answer": "A",
+    "input": "Question: __________ have the potential to control the type and flow of information to the organization and the members of the DMU.\nOptions:\n(A) Gatekeepers.\n(B) Buyers.\n(C) Users.\n(D) Initiators.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:",
+    "choices": [
+      "Motive development.",
+      "An attitude.",
+      "A self-concept.",
+      "Product evaluation."
+    ],
+    "answer": "A",
+    "input": "Question: An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:\nOptions:\n(A) Motive development.\n(B) An attitude.\n(C) A self-concept.\n(D) Product evaluation.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not an element of the marketing mix?",
+    "choices": [
+      "Promotion.",
+      "Product.",
+      "Target market.",
+      "Pricing."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is not an element of the marketing mix?\nOptions:\n(A) Promotion.\n(B) Product.\n(C) Target market.\n(D) Pricing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Providing free samples of perfumes (scent) in magazines is an example of which of the following?",
+    "choices": [
+      "Classical conditioning.",
+      "Operant conditioning.",
+      "Social learning.",
+      "Behavioural learning."
+    ],
+    "answer": "A",
+    "input": "Question: Providing free samples of perfumes (scent) in magazines is an example of which of the following?\nOptions:\n(A) Classical conditioning.\n(B) Operant conditioning.\n(C) Social learning.\n(D) Behavioural learning.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Why is market segmentation carried out?",
+    "choices": [
+      "To break down large markets into smaller markets.",
+      "To provide an opportunity to surpass competitors.",
+      "By grouping together customers with similar needs, it provides a commercially viable method of serving these customers.",
+      "To allow the achievement of greater market share."
+    ],
+    "answer": "C",
+    "input": "Question: Why is market segmentation carried out?\nOptions:\n(A) To break down large markets into smaller markets.\n(B) To provide an opportunity to surpass competitors.\n(C) By grouping together customers with similar needs, it provides a commercially viable method of serving these customers.\n(D) To allow the achievement of greater market share.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.",
+    "choices": [
+      "Repeat purchases.",
+      "Buyphases.",
+      "Buyclasses.",
+      "Tenders."
+    ],
+    "answer": "C",
+    "input": "Question: There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.\nOptions:\n(A) Repeat purchases.\n(B) Buyphases.\n(C) Buyclasses.\n(D) Tenders.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:",
+    "choices": [
+      "Winner's curse.",
+      "Winner's price.",
+      "Winner's reward.",
+      "Loss-leader pricing."
+    ],
+    "answer": "A",
+    "input": "Question: Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:\nOptions:\n(A) Winner's curse.\n(B) Winner's price.\n(C) Winner's reward.\n(D) Loss-leader pricing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This allows us to determine how the quantity of an offering relates to the price at which it is offered:",
+    "choices": [
+      "Price bundling.",
+      "Price elasticity.",
+      "Price inelasticity.",
+      "Price inflation."
+    ],
+    "answer": "B",
+    "input": "Question: This allows us to determine how the quantity of an offering relates to the price at which it is offered:\nOptions:\n(A) Price bundling.\n(B) Price elasticity.\n(C) Price inelasticity.\n(D) Price inflation.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.",
+    "choices": [
+      "Relationship marketing.",
+      "Service mix.",
+      "Market exchanges.",
+      "Service failure."
+    ],
+    "answer": "C",
+    "input": "Question: ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.\nOptions:\n(A) Relationship marketing.\n(B) Service mix.\n(C) Market exchanges.\n(D) Service failure.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:",
+    "choices": [
+      "Search marketing.",
+      "Internet advertising.",
+      "Permission-based email marketing.",
+      "Social web marketing."
+    ],
+    "answer": "C",
+    "input": "Question: A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:\nOptions:\n(A) Search marketing.\n(B) Internet advertising.\n(C) Permission-based email marketing.\n(D) Social web marketing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Collectively organizations that combine to enable offerings to reach end users quickly and efficiently constitute a marketing channel, are sometimes referred to as a:",
+    "choices": [
+      "Vehicle.",
+      "Courier.",
+      "Transportation.",
+      "Distribution channel."
+    ],
+    "answer": "D",
+    "input": "Question: Collectively organizations that combine to enable offerings to reach end users quickly and efficiently constitute a marketing channel, are sometimes referred to as a:\nOptions:\n(A) Vehicle.\n(B) Courier.\n(C) Transportation.\n(D) Distribution channel.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following are the three broad groups of organizational characteristics segmentation criteria?",
+    "choices": [
+      "Organizational size, industry type, and gender.",
+      "Psychographics, purchaser, and behavioural criteria.",
+      "Organizational size, industry type, and geographical location.",
+      "None of the above."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following are the three broad groups of organizational characteristics segmentation criteria?\nOptions:\n(A) Organizational size, industry type, and gender.\n(B) Psychographics, purchaser, and behavioural criteria.\n(C) Organizational size, industry type, and geographical location.\n(D) None of the above.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the name for a coupon that is included in a package for later purchase?",
+    "choices": [
+      "a free-standing coupon",
+      "an instant-redemption coupon",
+      "a bounce-back coupon",
+      "a rebate coupon"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is the name for a coupon that is included in a package for later purchase?\nOptions:\n(A) a free-standing coupon\n(B) an instant-redemption coupon\n(C) a bounce-back coupon\n(D) a rebate coupon\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Advertising is employed as a defence, to retain customers, and to increase brand usage. Advertising is used to reinforce existing attitudes, not necessarily to drastically change them. This idea is based on:",
+    "choices": [
+      "Strong theory.",
+      "Weak theory.",
+      "ATR framework.",
+      "DRIP model."
+    ],
+    "answer": "B",
+    "input": "Question: Advertising is employed as a defence, to retain customers, and to increase brand usage. Advertising is used to reinforce existing attitudes, not necessarily to drastically change them. This idea is based on:\nOptions:\n(A) Strong theory.\n(B) Weak theory.\n(C) ATR framework.\n(D) DRIP model.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.",
+    "choices": [
+      "SWOT analysis.",
+      "Political analysis.",
+      "Portfolio analysis.",
+      "Competitive analysis."
+    ],
+    "answer": "C",
+    "input": "Question: _____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.\nOptions:\n(A) SWOT analysis.\n(B) Political analysis.\n(C) Portfolio analysis.\n(D) Competitive analysis.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:",
+    "choices": [
+      "Non-durable.",
+      "Durable.",
+      "Generic.",
+      "Luxury."
+    ],
+    "answer": "A",
+    "input": "Question: These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:\nOptions:\n(A) Non-durable.\n(B) Durable.\n(C) Generic.\n(D) Luxury.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following processes is not fundamental in explaining how consumers think and learn about products and brands?",
+    "choices": [
+      "Cognition.",
+      "Perception.",
+      "Learning.",
+      "Personality."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following processes is not fundamental in explaining how consumers think and learn about products and brands?\nOptions:\n(A) Cognition.\n(B) Perception.\n(C) Learning.\n(D) Personality.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "________________is used to influence the way an organization is perceived by various groups of stakeholders.",
+    "choices": [
+      "Direct marketing.",
+      "Public relations.",
+      "Sale promotion.",
+      "Advertising"
+    ],
+    "answer": "B",
+    "input": "Question: ________________is used to influence the way an organization is perceived by various groups of stakeholders.\nOptions:\n(A) Direct marketing.\n(B) Public relations.\n(C) Sale promotion.\n(D) Advertising\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as:",
+    "choices": [
+      "Digital marketing.",
+      "Interactive marketing.",
+      "Direct marketing.",
+      "Electronic marketing."
+    ],
+    "answer": "B",
+    "input": "Question: Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as:\nOptions:\n(A) Digital marketing.\n(B) Interactive marketing.\n(C) Direct marketing.\n(D) Electronic marketing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The differentiation of a firm's products or services to promote environmental responsibility is referred to as:",
+    "choices": [
+      "Social branding.",
+      "Eco-branding.",
+      "Me-too branding.",
+      "Brand personality."
+    ],
+    "answer": "B",
+    "input": "Question: The differentiation of a firm's products or services to promote environmental responsibility is referred to as:\nOptions:\n(A) Social branding.\n(B) Eco-branding.\n(C) Me-too branding.\n(D) Brand personality.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the rate at which a market adopts an innovation?",
+    "choices": [
+      "Process of diffusion.",
+      "Process of differentiation.",
+      "Adoption process.",
+      "Adoption lifecycle."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is the rate at which a market adopts an innovation?\nOptions:\n(A) Process of diffusion.\n(B) Process of differentiation.\n(C) Adoption process.\n(D) Adoption lifecycle.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Micromarketing is directed at potential buyers who",
+    "choices": [
+      "have excess disposable income",
+      "are between the ages of 8 and 14",
+      "share similar attitudes and behaviors",
+      "have opted out of customized marketing"
+    ],
+    "answer": "C",
+    "input": "Question: Micromarketing is directed at potential buyers who\nOptions:\n(A) have excess disposable income\n(B) are between the ages of 8 and 14\n(C) share similar attitudes and behaviors\n(D) have opted out of customized marketing\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:",
+    "choices": [
+      "Late majority.",
+      "Early adopter.",
+      "Early majority.",
+      "Laggards."
+    ],
+    "answer": "B",
+    "input": "Question: This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:\nOptions:\n(A) Late majority.\n(B) Early adopter.\n(C) Early majority.\n(D) Laggards.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "What channel structure is it where the product goes directly from the producer to the final customer?",
+    "choices": [
+      "Direct.",
+      "Indirect.",
+      "Hybrid.",
+      "None of the above."
+    ],
+    "answer": "A",
+    "input": "Question: What channel structure is it where the product goes directly from the producer to the final customer?\nOptions:\n(A) Direct.\n(B) Indirect.\n(C) Hybrid.\n(D) None of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:",
+    "choices": [
+      "Interactive marketing.",
+      "Co-creation experience.",
+      "Relationship marketing.",
+      "Organization marketing."
+    ],
+    "answer": "B",
+    "input": "Question: Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:\nOptions:\n(A) Interactive marketing.\n(B) Co-creation experience.\n(C) Relationship marketing.\n(D) Organization marketing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:",
+    "choices": [
+      "Advertising.",
+      "Personal selling.",
+      "Public relations.",
+      "Publicity."
+    ],
+    "answer": "A",
+    "input": "Question: This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:\nOptions:\n(A) Advertising.\n(B) Personal selling.\n(C) Public relations.\n(D) Publicity.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The ____________ delivers to us a wide array of offerings, either directly or indirectly, through business markets, to serve our wants and needs.",
+    "choices": [
+      "Aggregate marketing system.",
+      "Planning excellence.",
+      "A quality rift.",
+      "A value line."
+    ],
+    "answer": "A",
+    "input": "Question: The ____________ delivers to us a wide array of offerings, either directly or indirectly, through business markets, to serve our wants and needs.\nOptions:\n(A) Aggregate marketing system.\n(B) Planning excellence.\n(C) A quality rift.\n(D) A value line.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.",
+    "choices": [
+      "Brand repositioning.",
+      "Brand stretching.",
+      "Brand equity.",
+      "Brand imagery."
+    ],
+    "answer": "D",
+    "input": "Question: ____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.\nOptions:\n(A) Brand repositioning.\n(B) Brand stretching.\n(C) Brand equity.\n(D) Brand imagery.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "AIDA stands for awareness, ________, desire and _________.",
+    "choices": [
+      "Interest; action.",
+      "Intensity; appeal.",
+      "Involvement; action.",
+      "Involvement; appeal."
+    ],
+    "answer": "A",
+    "input": "Question: AIDA stands for awareness, ________, desire and _________.\nOptions:\n(A) Interest; action.\n(B) Intensity; appeal.\n(C) Involvement; action.\n(D) Involvement; appeal.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:",
+    "choices": [
+      "Exclusive.",
+      "Intensive.",
+      "Selective.",
+      "Direct."
+    ],
+    "answer": "A",
+    "input": "Question: This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:\nOptions:\n(A) Exclusive.\n(B) Intensive.\n(C) Selective.\n(D) Direct.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Once the agency has discussed the brief with the client, the agency provides a detailed outline of how they intend to investigate the problem. This document is called the ____________:",
+    "choices": [
+      "Research brief.",
+      "Research proposal.",
+      "Research question.",
+      "Research programme."
+    ],
+    "answer": "B",
+    "input": "Question: Once the agency has discussed the brief with the client, the agency provides a detailed outline of how they intend to investigate the problem. This document is called the ____________:\nOptions:\n(A) Research brief.\n(B) Research proposal.\n(C) Research question.\n(D) Research programme.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.",
+    "choices": [
+      "DMU.",
+      "Firmographics.",
+      "ACORN",
+      "Product usage."
+    ],
+    "answer": "B",
+    "input": "Question: Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.\nOptions:\n(A) DMU.\n(B) Firmographics.\n(C) ACORN\n(D) Product usage.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?",
+    "choices": [
+      "Differentiate.",
+      "Participate.",
+      "Reinforce.",
+      "Inform."
+    ],
+    "answer": "B",
+    "input": "Question: The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?\nOptions:\n(A) Differentiate.\n(B) Participate.\n(C) Reinforce.\n(D) Inform.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The process of making large numbers of unsolicited sales calls to potential customers whom the salesperson does not know is referred to as",
+    "choices": [
+      "multilevel marketing",
+      "cold canvassing",
+      "the center-of-influence method",
+      "the sales-associate method"
+    ],
+    "answer": "B",
+    "input": "Question: The process of making large numbers of unsolicited sales calls to potential customers whom the salesperson does not know is referred to as\nOptions:\n(A) multilevel marketing\n(B) cold canvassing\n(C) the center-of-influence method\n(D) the sales-associate method\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The process by which individuals accept and use new propositions is referred to as:",
+    "choices": [
+      "Decision.",
+      "Adoption.",
+      "Acquisition.",
+      "Awareness."
+    ],
+    "answer": "B",
+    "input": "Question: The process by which individuals accept and use new propositions is referred to as:\nOptions:\n(A) Decision.\n(B) Adoption.\n(C) Acquisition.\n(D) Awareness.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following occurs when competitors' pricing policies are almost exclusively focused on competitors rather than customers?",
+    "choices": [
+      "Price differentiation.",
+      "Price fixing.",
+      "Price wars.",
+      "Price guarantees."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following occurs when competitors' pricing policies are almost exclusively focused on competitors rather than customers?\nOptions:\n(A) Price differentiation.\n(B) Price fixing.\n(C) Price wars.\n(D) Price guarantees.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A commonly used basis for segmenting consumer markets is:",
+    "choices": [
+      "Organizational size.",
+      "Demographics.",
+      "Product type.",
+      "Price."
+    ],
+    "answer": "B",
+    "input": "Question: A commonly used basis for segmenting consumer markets is:\nOptions:\n(A) Organizational size.\n(B) Demographics.\n(C) Product type.\n(D) Price.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:",
+    "choices": [
+      "Negotiated price",
+      "Internal pricing.",
+      "Listed pricing.",
+      "Cost pricing."
+    ],
+    "answer": "A",
+    "input": "Question: In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:\nOptions:\n(A) Negotiated price\n(B) Internal pricing.\n(C) Listed pricing.\n(D) Cost pricing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:",
+    "choices": [
+      "Individual branding.",
+      "Corporate brands.",
+      "Family branding.",
+      "Co-branding."
+    ],
+    "answer": "A",
+    "input": "Question: Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:\nOptions:\n(A) Individual branding.\n(B) Corporate brands.\n(C) Family branding.\n(D) Co-branding.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is the use of inter-personal communications with the aim of developing positive feelings and stimulating behaviour.",
+    "choices": [
+      "Direct marketing.",
+      "Personal selling.",
+      "Sale promotions.",
+      "Advertising."
+    ],
+    "answer": "B",
+    "input": "Question: This is the use of inter-personal communications with the aim of developing positive feelings and stimulating behaviour.\nOptions:\n(A) Direct marketing.\n(B) Personal selling.\n(C) Sale promotions.\n(D) Advertising.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An approach that encompasses a wide range of relationships, not just with customers, but also those that organizations develop with suppliers, regulators, government, competitors, employees, and others, is referred to as:",
+    "choices": [
+      "Market exchanges.",
+      "Service failure.",
+      "Relationship marketing.",
+      "Shared responsibility."
+    ],
+    "answer": "C",
+    "input": "Question: An approach that encompasses a wide range of relationships, not just with customers, but also those that organizations develop with suppliers, regulators, government, competitors, employees, and others, is referred to as:\nOptions:\n(A) Market exchanges.\n(B) Service failure.\n(C) Relationship marketing.\n(D) Shared responsibility.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In marketing terms, ___________ refers to what we get for what we pay:",
+    "choices": [
+      "Revenue.",
+      "Cost.",
+      "Value.",
+      "Product."
+    ],
+    "answer": "C",
+    "input": "Question: In marketing terms, ___________ refers to what we get for what we pay:\nOptions:\n(A) Revenue.\n(B) Cost.\n(C) Value.\n(D) Product.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.",
+    "choices": [
+      "Dialogue.",
+      "Personal influencer.",
+      "Feedback.",
+      "Message."
+    ],
+    "answer": "A",
+    "input": "Question: _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.\nOptions:\n(A) Dialogue.\n(B) Personal influencer.\n(C) Feedback.\n(D) Message.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The process that creates changes in behaviour is called:",
+    "choices": [
+      "Selective adaptation.",
+      "Learning.",
+      "Involvement manipulation.",
+      "Attitude adjustment."
+    ],
+    "answer": "B",
+    "input": "Question: The process that creates changes in behaviour is called:\nOptions:\n(A) Selective adaptation.\n(B) Learning.\n(C) Involvement manipulation.\n(D) Attitude adjustment.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market?",
+    "choices": [
+      "Price skimming",
+      "Promotional pricing",
+      "Psychological pricing",
+      "Penetration pricing"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market?\nOptions:\n(A) Price skimming\n(B) Promotional pricing\n(C) Psychological pricing\n(D) Penetration pricing\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?",
+    "choices": [
+      "Supermarkets.",
+      "Convenience stores.",
+      "Category-killer stores.",
+      "Limited line retailers."
+    ],
+    "answer": "B",
+    "input": "Question: Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?\nOptions:\n(A) Supermarkets.\n(B) Convenience stores.\n(C) Category-killer stores.\n(D) Limited line retailers.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:",
+    "choices": [
+      "Selling success experienced by the vendor.",
+      "Consumer satisfaction with the purchase.",
+      "Follow-up effectiveness of the firm.",
+      "Advertising influence on the purchase."
+    ],
+    "answer": "B",
+    "input": "Question: Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:\nOptions:\n(A) Selling success experienced by the vendor.\n(B) Consumer satisfaction with the purchase.\n(C) Follow-up effectiveness of the firm.\n(D) Advertising influence on the purchase.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:",
+    "choices": [
+      "Branding pyramid.",
+      "Brand value.",
+      "Brand names.",
+      "Brand personalities."
+    ],
+    "answer": "D",
+    "input": "Question: Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:\nOptions:\n(A) Branding pyramid.\n(B) Brand value.\n(C) Brand names.\n(D) Brand personalities.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Marketing research:",
+    "choices": [
+      "Is work undertaken to understand how to make specific marketing strategy decisions.",
+      "Is the collection and analysis of data from a sample or census of individuals or organizations.",
+      "Includes all forms of market, opinion, and social research such as consumer and industrial surveys.",
+      "Is work undertaken to determine either structural characteristics of the industry of concern."
+    ],
+    "answer": "A",
+    "input": "Question: Marketing research:\nOptions:\n(A) Is work undertaken to understand how to make specific marketing strategy decisions.\n(B) Is the collection and analysis of data from a sample or census of individuals or organizations.\n(C) Includes all forms of market, opinion, and social research such as consumer and industrial surveys.\n(D) Is work undertaken to determine either structural characteristics of the industry of concern.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot.",
+    "choices": [
+      "Digital.",
+      "Print.",
+      "Broadcast.",
+      "Outdoor."
+    ],
+    "answer": "B",
+    "input": "Question: ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot.\nOptions:\n(A) Digital.\n(B) Print.\n(C) Broadcast.\n(D) Outdoor.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:",
+    "choices": [
+      "Store marketing.",
+      "Field marketing.",
+      "Sales promotions.",
+      "Personal selling."
+    ],
+    "answer": "B",
+    "input": "Question: This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:\nOptions:\n(A) Store marketing.\n(B) Field marketing.\n(C) Sales promotions.\n(D) Personal selling.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?",
+    "choices": [
+      "Intangibility.",
+      "Variability.",
+      "Inseparability.",
+      "Perishability."
+    ],
+    "answer": "C",
+    "input": "Question: Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?\nOptions:\n(A) Intangibility.\n(B) Variability.\n(C) Inseparability.\n(D) Perishability.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These are costs which do not vary according to the number of units of product made or service sold:",
+    "choices": [
+      "Fixed costs.",
+      "Moving assets.",
+      "Working capital.",
+      "Fixed capital."
+    ],
+    "answer": "A",
+    "input": "Question: These are costs which do not vary according to the number of units of product made or service sold:\nOptions:\n(A) Fixed costs.\n(B) Moving assets.\n(C) Working capital.\n(D) Fixed capital.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "SWOT is an acronym for:",
+    "choices": [
+      "Strengths, weaknesses, opportunities, threats.",
+      "Strategy, work, openness, toughness.",
+      "Strategy, weakness, opinions, tactics.",
+      "Strategy, working, opinion, tactical."
+    ],
+    "answer": "A",
+    "input": "Question: SWOT is an acronym for:\nOptions:\n(A) Strengths, weaknesses, opportunities, threats.\n(B) Strategy, work, openness, toughness.\n(C) Strategy, weakness, opinions, tactics.\n(D) Strategy, working, opinion, tactical.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:",
+    "choices": [
+      "Behaviour.",
+      "Conative.",
+      "Cognitive.",
+      "Emotional."
+    ],
+    "answer": "C",
+    "input": "Question: The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:\nOptions:\n(A) Behaviour.\n(B) Conative.\n(C) Cognitive.\n(D) Emotional.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.",
+    "choices": [
+      "Test markets.",
+      "Data mining.",
+      "Analytical information.",
+      "Storyboards."
+    ],
+    "answer": "A",
+    "input": "Question: Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.\nOptions:\n(A) Test markets.\n(B) Data mining.\n(C) Analytical information.\n(D) Storyboards.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When there is little or no personal contact between customer and service provider, this is classified as:",
+    "choices": [
+      "Low-contact service.",
+      "Medium-contact service.",
+      "High-contact service.",
+      "Intense-contact service."
+    ],
+    "answer": "A",
+    "input": "Question: When there is little or no personal contact between customer and service provider, this is classified as:\nOptions:\n(A) Low-contact service.\n(B) Medium-contact service.\n(C) High-contact service.\n(D) Intense-contact service.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not an example of a behavioural variable?",
+    "choices": [
+      "Product usage.",
+      "Media usage.",
+      "Purchase occasion.",
+      "Personality."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not an example of a behavioural variable?\nOptions:\n(A) Product usage.\n(B) Media usage.\n(C) Purchase occasion.\n(D) Personality.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "__________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.",
+    "choices": [
+      "Environmental scanning",
+      "Stakeholder analysis",
+      "Market sampling",
+      "Opportunity analysis"
+    ],
+    "answer": "A",
+    "input": "Question: __________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.\nOptions:\n(A) Environmental scanning\n(B) Stakeholder analysis\n(C) Market sampling\n(D) Opportunity analysis\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "ACORN, a segmentation analysis technique, stands for which of the following?",
+    "choices": [
+      "A corresponding official residential notation.",
+      "A classification of reported nationals.",
+      "A classification of residential neighbourhoods.",
+      "A countrywide official resources navigation."
+    ],
+    "answer": "C",
+    "input": "Question: ACORN, a segmentation analysis technique, stands for which of the following?\nOptions:\n(A) A corresponding official residential notation.\n(B) A classification of reported nationals.\n(C) A classification of residential neighbourhoods.\n(D) A countrywide official resources navigation.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:",
+    "choices": [
+      "Stratified sample.",
+      "Convenience sample.",
+      "Quota sample.",
+      "Cluster sample."
+    ],
+    "answer": "A",
+    "input": "Question: A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:\nOptions:\n(A) Stratified sample.\n(B) Convenience sample.\n(C) Quota sample.\n(D) Cluster sample.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following terms refers to the paid mention of a company, a product, or a service by a form of media?",
+    "choices": [
+      "Advertising",
+      "Public relations",
+      "Third-party endorsement",
+      "Puffing"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following terms refers to the paid mention of a company, a product, or a service by a form of media?\nOptions:\n(A) Advertising\n(B) Public relations\n(C) Third-party endorsement\n(D) Puffing\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________.",
+    "choices": [
+      "Society and ethics.",
+      "Personal selling.",
+      "Physical production.",
+      "Customer's needs."
+    ],
+    "answer": "D",
+    "input": "Question: Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________.\nOptions:\n(A) Society and ethics.\n(B) Personal selling.\n(C) Physical production.\n(D) Customer's needs.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following statements is correct?",
+    "choices": [
+      "Marketing is the term used to refer only to the sales function within a firm.",
+      "Marketing managers don't usually get involved in production or distribution decisions.",
+      "Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole.",
+      "Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is correct?\nOptions:\n(A) Marketing is the term used to refer only to the sales function within a firm.\n(B) Marketing managers don't usually get involved in production or distribution decisions.\n(C) Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole.\n(D) Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?",
+    "choices": [
+      "Test marketing.",
+      "Focused marketing.",
+      "Live marketing.",
+      "Generic marketing."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?\nOptions:\n(A) Test marketing.\n(B) Focused marketing.\n(C) Live marketing.\n(D) Generic marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The term marketing refers to:",
+    "choices": [
+      "new product concepts and improvements.",
+      "advertising and promotion activities.",
+      "a philosophy that stresses customer value and satisfaction.",
+      "planning sales campaigns."
+    ],
+    "answer": "C",
+    "input": "Question: The term marketing refers to:\nOptions:\n(A) new product concepts and improvements.\n(B) advertising and promotion activities.\n(C) a philosophy that stresses customer value and satisfaction.\n(D) planning sales campaigns.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.",
+    "choices": [
+      "Mobile marketing",
+      "Social web marketing.",
+      "Internet marketing",
+      "Social media marketing"
+    ],
+    "answer": "A",
+    "input": "Question: ____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.\nOptions:\n(A) Mobile marketing\n(B) Social web marketing.\n(C) Internet marketing\n(D) Social media marketing\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "According to the British Government, which of the following is not a marketing function?",
+    "choices": [
+      "Promote marketing intelligence.",
+      "Develop sales tactics.",
+      "Develop the customer proposition.",
+      "Work with other business functions and third parties."
+    ],
+    "answer": "B",
+    "input": "Question: According to the British Government, which of the following is not a marketing function?\nOptions:\n(A) Promote marketing intelligence.\n(B) Develop sales tactics.\n(C) Develop the customer proposition.\n(D) Work with other business functions and third parties.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:",
+    "choices": [
+      "Sponsorships.",
+      "Exhibitions.",
+      "Branded content.",
+      "Advertisement."
+    ],
+    "answer": "C",
+    "input": "Question: The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:\nOptions:\n(A) Sponsorships.\n(B) Exhibitions.\n(C) Branded content.\n(D) Advertisement.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Second-hand data, collected for someone else's purposes, is known as____________:",
+    "choices": [
+      "Primary research.",
+      "Descriptive research.",
+      "Causal research.",
+      "Secondary research."
+    ],
+    "answer": "D",
+    "input": "Question: Second-hand data, collected for someone else's purposes, is known as____________:\nOptions:\n(A) Primary research.\n(B) Descriptive research.\n(C) Causal research.\n(D) Secondary research.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following refers to unsolicited electronic messages?",
+    "choices": [
+      "Opt-in email.",
+      "Consent marketing.",
+      "Spam.",
+      "Opt-out email."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following refers to unsolicited electronic messages?\nOptions:\n(A) Opt-in email.\n(B) Consent marketing.\n(C) Spam.\n(D) Opt-out email.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:",
+    "choices": [
+      "Identify the specific members of each segment to be able to contact each of them directly.",
+      "Determine the level of resources that must be committed to each segment.",
+      "Evaluate the market potential within each segment.",
+      "Design marketing strategy and tactics to reinforce the firm's image."
+    ],
+    "answer": "C",
+    "input": "Question: The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:\nOptions:\n(A) Identify the specific members of each segment to be able to contact each of them directly.\n(B) Determine the level of resources that must be committed to each segment.\n(C) Evaluate the market potential within each segment.\n(D) Design marketing strategy and tactics to reinforce the firm's image.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following types of advertising is being used when a retail store agrees to share advertising costs for a consumer product with the national distributor of the product?",
+    "choices": [
+      "Trade advertising",
+      "Industrial advertising",
+      "National advertising",
+      "Cooperative advertising"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following types of advertising is being used when a retail store agrees to share advertising costs for a consumer product with the national distributor of the product?\nOptions:\n(A) Trade advertising\n(B) Industrial advertising\n(C) National advertising\n(D) Cooperative advertising\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This pricing approach is used when the firm sets prices according to how much customers are prepared to pay:",
+    "choices": [
+      "Cost-oriented approach.",
+      "Value-oriented approach.",
+      "Competitor-oriented approach.",
+      "Demand-oriented approach."
+    ],
+    "answer": "D",
+    "input": "Question: This pricing approach is used when the firm sets prices according to how much customers are prepared to pay:\nOptions:\n(A) Cost-oriented approach.\n(B) Value-oriented approach.\n(C) Competitor-oriented approach.\n(D) Demand-oriented approach.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:",
+    "choices": [
+      "Impulse goods.",
+      "Luxury goods.",
+      "Non-durable goods.",
+      "Durable goods."
+    ],
+    "answer": "D",
+    "input": "Question: These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:\nOptions:\n(A) Impulse goods.\n(B) Luxury goods.\n(C) Non-durable goods.\n(D) Durable goods.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).",
+    "choices": [
+      "Production marketing",
+      "Sustainable marketing",
+      "Relationship marketing",
+      "Critical marketing analysis"
+    ],
+    "answer": "D",
+    "input": "Question: _____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).\nOptions:\n(A) Production marketing\n(B) Sustainable marketing\n(C) Relationship marketing\n(D) Critical marketing analysis\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to?",
+    "choices": [
+      "Intangibility.",
+      "Inseparability.",
+      "Variability.",
+      "Perishability."
+    ],
+    "answer": "C",
+    "input": "Question: An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to?\nOptions:\n(A) Intangibility.\n(B) Inseparability.\n(C) Variability.\n(D) Perishability.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?",
+    "choices": [
+      "Discount retailers.",
+      "Convenience stores.",
+      "Category killer stores.",
+      "Limited line retailers."
+    ],
+    "answer": "A",
+    "input": "Question: Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?\nOptions:\n(A) Discount retailers.\n(B) Convenience stores.\n(C) Category killer stores.\n(D) Limited line retailers.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.",
+    "choices": [
+      "Production.",
+      "Sales.",
+      "Marketing.",
+      "societal marketing."
+    ],
+    "answer": "D",
+    "input": "Question: A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.\nOptions:\n(A) Production.\n(B) Sales.\n(C) Marketing.\n(D) societal marketing.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The development of social media has enabled individuals to communicate with organizations, communities, friends, and family. The content of the message can be about brands, experiences, or events, and is developed and shared by individuals. This is referred to as:",
+    "choices": [
+      "Broadcast.",
+      "User-generated content.",
+      "Viral marketing.",
+      "Telemarketing."
+    ],
+    "answer": "B",
+    "input": "Question: The development of social media has enabled individuals to communicate with organizations, communities, friends, and family. The content of the message can be about brands, experiences, or events, and is developed and shared by individuals. This is referred to as:\nOptions:\n(A) Broadcast.\n(B) User-generated content.\n(C) Viral marketing.\n(D) Telemarketing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers.",
+    "choices": [
+      "'Bargainer' purchasing.",
+      "The 'adaptator' purchasing.",
+      "Price minimizer' purchasing.",
+      "The 'projector' purchasing."
+    ],
+    "answer": "C",
+    "input": "Question: To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers.\nOptions:\n(A) 'Bargainer' purchasing.\n(B) The 'adaptator' purchasing.\n(C) Price minimizer' purchasing.\n(D) The 'projector' purchasing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences?",
+    "choices": [
+      "Conceptual equivalence.",
+      "Market equivalence.",
+      "Functional equivalence.",
+      "Translation equivalence."
+    ],
+    "answer": "B",
+    "input": "Question: In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences?\nOptions:\n(A) Conceptual equivalence.\n(B) Market equivalence.\n(C) Functional equivalence.\n(D) Translation equivalence.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following gives the owner exclusive rights by law to use a brand?",
+    "choices": [
+      "Brand loyalty",
+      "Brand mark",
+      "Trade name",
+      "Trademark"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following gives the owner exclusive rights by law to use a brand?\nOptions:\n(A) Brand loyalty\n(B) Brand mark\n(C) Trade name\n(D) Trademark\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not a useful base for segmenting organizational characteristics?",
+    "choices": [
+      "By turnover.",
+      "By geographical location.",
+      "By organizational size.",
+      "By industry type."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is not a useful base for segmenting organizational characteristics?\nOptions:\n(A) By turnover.\n(B) By geographical location.\n(C) By organizational size.\n(D) By industry type.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.).",
+    "choices": [
+      "Internet marketing.",
+      "Search marketing.",
+      "E-marketing.",
+      "Mobile marketing."
+    ],
+    "answer": "A",
+    "input": "Question: ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.).\nOptions:\n(A) Internet marketing.\n(B) Search marketing.\n(C) E-marketing.\n(D) Mobile marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Firms that view themselves as market leaders in product quality frequently adopt a",
+    "choices": [
+      "market share strategy",
+      "penetration pricing strategy",
+      "strategy that focuses on non-price benefits",
+      "strategy to expand the overall market"
+    ],
+    "answer": "C",
+    "input": "Question: Firms that view themselves as market leaders in product quality frequently adopt a\nOptions:\n(A) market share strategy\n(B) penetration pricing strategy\n(C) strategy that focuses on non-price benefits\n(D) strategy to expand the overall market\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:",
+    "choices": [
+      "Purchase context.",
+      "Price bonding.",
+      "Odd number pricing.",
+      "Mark-up price."
+    ],
+    "answer": "A",
+    "input": "Question: Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:\nOptions:\n(A) Purchase context.\n(B) Price bonding.\n(C) Odd number pricing.\n(D) Mark-up price.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Fees paid by advertisers to online companies that refer qualified potential customers or provide consumer information where the consumer opts in to being contacted by a marketer. This is referred to as:",
+    "choices": [
+      "Lead generation.",
+      "Search.",
+      "Rich media.",
+      "Social media marketing."
+    ],
+    "answer": "A",
+    "input": "Question: Fees paid by advertisers to online companies that refer qualified potential customers or provide consumer information where the consumer opts in to being contacted by a marketer. This is referred to as:\nOptions:\n(A) Lead generation.\n(B) Search.\n(C) Rich media.\n(D) Social media marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image?",
+    "choices": [
+      "Personal selling",
+      "Sales promotion",
+      "Direct marketing",
+      "Public relations"
+    ],
+    "answer": "D",
+    "input": "Question: Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image?\nOptions:\n(A) Personal selling\n(B) Sales promotion\n(C) Direct marketing\n(D) Public relations\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This operates algorithmically or using a mixture of algorithmic and human input to collect, index, store, and retrieve information on the web (e.g. web pages, images, information, and other types of files). It makes the information available to users in a manageable and meaningful way in response to a search query. This is referred to as:",
+    "choices": [
+      "Banner ads.",
+      "Pop-up ads.",
+      "A search engine.",
+      "Apps."
+    ],
+    "answer": "C",
+    "input": "Question: This operates algorithmically or using a mixture of algorithmic and human input to collect, index, store, and retrieve information on the web (e.g. web pages, images, information, and other types of files). It makes the information available to users in a manageable and meaningful way in response to a search query. This is referred to as:\nOptions:\n(A) Banner ads.\n(B) Pop-up ads.\n(C) A search engine.\n(D) Apps.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation?",
+    "choices": [
+      "Customer orientation.",
+      "Profitability orientation.",
+      "Interfunctional coordination.",
+      "Competitor orientation."
+    ],
+    "answer": "B",
+    "input": "Question: Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation?\nOptions:\n(A) Customer orientation.\n(B) Profitability orientation.\n(C) Interfunctional coordination.\n(D) Competitor orientation.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "To evaluate an organization's Strategic Business Units (SBU), the Boston Consulting Group developed a portfolio performance framework that characterizes some of the SBUs as:",
+    "choices": [
+      "Question marks.",
+      "Quick winners.",
+      "Charging bulls.",
+      "Cash outs."
+    ],
+    "answer": "A",
+    "input": "Question: To evaluate an organization's Strategic Business Units (SBU), the Boston Consulting Group developed a portfolio performance framework that characterizes some of the SBUs as:\nOptions:\n(A) Question marks.\n(B) Quick winners.\n(C) Charging bulls.\n(D) Cash outs.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Tobacco advertising is now banned in virtually all marketing communication forms in many countries around the world. This can be explained as an influence of:",
+    "choices": [
+      "Technological environment.",
+      "Legal environment.",
+      "Economic environment.",
+      "Ecological environment."
+    ],
+    "answer": "B",
+    "input": "Question: Tobacco advertising is now banned in virtually all marketing communication forms in many countries around the world. This can be explained as an influence of:\nOptions:\n(A) Technological environment.\n(B) Legal environment.\n(C) Economic environment.\n(D) Ecological environment.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?",
+    "choices": [
+      "Customer participation and environmental relationship.",
+      "Customer acquisition and environmental relationship.",
+      "Customer participation and customer relationship.",
+      "Customer retention and customer relationship."
+    ],
+    "answer": "A",
+    "input": "Question: Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?\nOptions:\n(A) Customer participation and environmental relationship.\n(B) Customer acquisition and environmental relationship.\n(C) Customer participation and customer relationship.\n(D) Customer retention and customer relationship.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:",
+    "choices": [
+      "Search engine optimization (SEO).",
+      "Contextual advertising.",
+      "Digital asset optimization (DAO).",
+      "Pay per click (PPC)."
+    ],
+    "answer": "D",
+    "input": "Question: An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:\nOptions:\n(A) Search engine optimization (SEO).\n(B) Contextual advertising.\n(C) Digital asset optimization (DAO).\n(D) Pay per click (PPC).\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:",
+    "choices": [
+      "Distribution.",
+      "Vendor.",
+      "Communication.",
+      "Selling."
+    ],
+    "answer": "A",
+    "input": "Question: These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:\nOptions:\n(A) Distribution.\n(B) Vendor.\n(C) Communication.\n(D) Selling.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_______________ are used in the positioning process to illustrate differing attributes of a selection of brands.",
+    "choices": [
+      "Product features.",
+      "SIC code.",
+      "Perceptual maps.",
+      "Organizational characteristics."
+    ],
+    "answer": "C",
+    "input": "Question: _______________ are used in the positioning process to illustrate differing attributes of a selection of brands.\nOptions:\n(A) Product features.\n(B) SIC code.\n(C) Perceptual maps.\n(D) Organizational characteristics.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "On August 4, a store purchased five sofas invoiced at $7,000, terms 2/10 , n/30 . The invoice was paid August 13. The store paid",
+    "choices": [
+      "$7,140",
+      "$7,000",
+      "$6,860",
+      "$6,300"
+    ],
+    "answer": "C",
+    "input": "Question: On August 4, a store purchased five sofas invoiced at $7,000, terms 2/10 , n/30 . The invoice was paid August 13. The store paid\nOptions:\n(A) $7,140\n(B) $7,000\n(C) $6,860\n(D) $6,300\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following are aimed at providing customers with the peace of mind of knowing that the company they are purchasing from is competitive in price?",
+    "choices": [
+      "Price competitiveness.",
+      "Price assurance.",
+      "Reference prices.",
+      "Price guarantee schemes."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following are aimed at providing customers with the peace of mind of knowing that the company they are purchasing from is competitive in price?\nOptions:\n(A) Price competitiveness.\n(B) Price assurance.\n(C) Reference prices.\n(D) Price guarantee schemes.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.",
+    "choices": [
+      "Increased consumer demand.",
+      "Advertising.",
+      "increase in urbanization.",
+      "Elasticity."
+    ],
+    "answer": "B",
+    "input": "Question: According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.\nOptions:\n(A) Increased consumer demand.\n(B) Advertising.\n(C) increase in urbanization.\n(D) Elasticity.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning:",
+    "choices": [
+      "Encoding.",
+      "Decoding.",
+      "Transfer.",
+      "Noise."
+    ],
+    "answer": "B",
+    "input": "Question: This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning:\nOptions:\n(A) Encoding.\n(B) Decoding.\n(C) Transfer.\n(D) Noise.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An example of a segmented market would be:",
+    "choices": [
+      "Phillips marketing its product to all residents of the European Union with one marketing mix based on the concept 'Sense and Sensibility'.",
+      "High-income and low-income consumers being treated the same at Marks and Spencer (M&S).",
+      "A garden nursery seeing residents of urban areas and rural areas as one market needing trees.",
+      "Honda separating its potential customers into economy car buyers and luxury car buyers."
+    ],
+    "answer": "D",
+    "input": "Question: An example of a segmented market would be:\nOptions:\n(A) Phillips marketing its product to all residents of the European Union with one marketing mix based on the concept 'Sense and Sensibility'.\n(B) High-income and low-income consumers being treated the same at Marks and Spencer (M&S).\n(C) A garden nursery seeing residents of urban areas and rural areas as one market needing trees.\n(D) Honda separating its potential customers into economy car buyers and luxury car buyers.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Psychographic segmentation is based on:",
+    "choices": [
+      "The quantitative side of consumer demographic analysis.",
+      "The quantitative side of consumer geographic analysis.",
+      "Individuals' residential patterns and life-cycle preferences.",
+      "Grouping people according to their psychological characteristics, values, and lifestyles."
+    ],
+    "answer": "D",
+    "input": "Question: Psychographic segmentation is based on:\nOptions:\n(A) The quantitative side of consumer demographic analysis.\n(B) The quantitative side of consumer geographic analysis.\n(C) Individuals' residential patterns and life-cycle preferences.\n(D) Grouping people according to their psychological characteristics, values, and lifestyles.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A framework categorizes different services, which, in turn, influence the degree to which market offerings can be evaluated, and three main properties are identified:",
+    "choices": [
+      "Search, experiment, and credence properties.",
+      "Search, experience, and credence properties.",
+      "Sell, trust, and credence properties.",
+      "Search, belief, and confidence properties."
+    ],
+    "answer": "B",
+    "input": "Question: A framework categorizes different services, which, in turn, influence the degree to which market offerings can be evaluated, and three main properties are identified:\nOptions:\n(A) Search, experiment, and credence properties.\n(B) Search, experience, and credence properties.\n(C) Sell, trust, and credence properties.\n(D) Search, belief, and confidence properties.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service.",
+    "choices": [
+      "Distributors.",
+      "Agents.",
+      "Merchants.",
+      "Franchises."
+    ],
+    "answer": "A",
+    "input": "Question: ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service.\nOptions:\n(A) Distributors.\n(B) Agents.\n(C) Merchants.\n(D) Franchises.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:",
+    "choices": [
+      "Diffusion process.",
+      "Product lifecycle.",
+      "Adoption process.",
+      "Service development."
+    ],
+    "answer": "B",
+    "input": "Question: This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:\nOptions:\n(A) Diffusion process.\n(B) Product lifecycle.\n(C) Adoption process.\n(D) Service development.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A 10% increase (decrease) in price produces a 10% decrease (increase) in quantity demanded. This is referred to as:",
+    "choices": [
+      "Zero price elasticity of demand.",
+      "Infinite price elasticity of demand.",
+      "Unit price elasticity of demand.",
+      "Indefinite price elasticity of demand."
+    ],
+    "answer": "C",
+    "input": "Question: A 10% increase (decrease) in price produces a 10% decrease (increase) in quantity demanded. This is referred to as:\nOptions:\n(A) Zero price elasticity of demand.\n(B) Infinite price elasticity of demand.\n(C) Unit price elasticity of demand.\n(D) Indefinite price elasticity of demand.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?",
+    "choices": [
+      "Quantitative.",
+      "Qualitative.",
+      "Non-probability.",
+      "Probability."
+    ],
+    "answer": "A",
+    "input": "Question: Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?\nOptions:\n(A) Quantitative.\n(B) Qualitative.\n(C) Non-probability.\n(D) Probability.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.",
+    "choices": [
+      "Persuasion",
+      "Confirmation",
+      "Knowledge",
+      "Implementation"
+    ],
+    "answer": "C",
+    "input": "Question: In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.\nOptions:\n(A) Persuasion\n(B) Confirmation\n(C) Knowledge\n(D) Implementation\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?",
+    "choices": [
+      "Luxury product.",
+      "Shopping product.",
+      "Generic products.",
+      "Branded products."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?\nOptions:\n(A) Luxury product.\n(B) Shopping product.\n(C) Generic products.\n(D) Branded products.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:",
+    "choices": [
+      "Channel communication.",
+      "Channel conflict.",
+      "Channel relationships.",
+      "Customer conflict."
+    ],
+    "answer": "B",
+    "input": "Question: This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:\nOptions:\n(A) Channel communication.\n(B) Channel conflict.\n(C) Channel relationships.\n(D) Customer conflict.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These are events when groups of sellers meet collectively with the key purpose of attracting buyers:",
+    "choices": [
+      "Exhibitions.",
+      "Sales promotions.",
+      "Mass media advertising.",
+      "Press conference."
+    ],
+    "answer": "A",
+    "input": "Question: These are events when groups of sellers meet collectively with the key purpose of attracting buyers:\nOptions:\n(A) Exhibitions.\n(B) Sales promotions.\n(C) Mass media advertising.\n(D) Press conference.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited.",
+    "choices": [
+      "Divest objectives.",
+      "Harvest objectives.",
+      "Hold objectives.",
+      "Niche objectives"
+    ],
+    "answer": "D",
+    "input": "Question: These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited.\nOptions:\n(A) Divest objectives.\n(B) Harvest objectives.\n(C) Hold objectives.\n(D) Niche objectives\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The process of outsourcing a task or group of tasks to a generally large group of people is known as:",
+    "choices": [
+      "Social media marketing.",
+      "Internet advertising.",
+      "Crowdsourcing.",
+      "E-marketing."
+    ],
+    "answer": "C",
+    "input": "Question: The process of outsourcing a task or group of tasks to a generally large group of people is known as:\nOptions:\n(A) Social media marketing.\n(B) Internet advertising.\n(C) Crowdsourcing.\n(D) E-marketing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not one of the categories of research design?",
+    "choices": [
+      "Exploratory research.",
+      "Descriptive research.",
+      "Causal research.",
+      "Desk research."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not one of the categories of research design?\nOptions:\n(A) Exploratory research.\n(B) Descriptive research.\n(C) Causal research.\n(D) Desk research.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:",
+    "choices": [
+      "Advertising.",
+      "Public relations.",
+      "Sales promotion.",
+      "Direct marketing."
+    ],
+    "answer": "C",
+    "input": "Question: This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:\nOptions:\n(A) Advertising.\n(B) Public relations.\n(C) Sales promotion.\n(D) Direct marketing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.",
+    "choices": [
+      "Divest objectives.",
+      "Hold objectives.",
+      "Growth objectives.",
+      "Harvesting objectives."
+    ],
+    "answer": "D",
+    "input": "Question: These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.\nOptions:\n(A) Divest objectives.\n(B) Hold objectives.\n(C) Growth objectives.\n(D) Harvesting objectives.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?",
+    "choices": [
+      "Word of Mouth (WOM).",
+      "Personal Selling (PS).",
+      "Direct Marketing (DM).",
+      "Customer Service (CS)."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?\nOptions:\n(A) Word of Mouth (WOM).\n(B) Personal Selling (PS).\n(C) Direct Marketing (DM).\n(D) Customer Service (CS).\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "McDonald's and KFC are good examples of:",
+    "choices": [
+      "Distributors.",
+      "Franchising.",
+      "Merchant.",
+      "Retailers."
+    ],
+    "answer": "B",
+    "input": "Question: McDonald's and KFC are good examples of:\nOptions:\n(A) Distributors.\n(B) Franchising.\n(C) Merchant.\n(D) Retailers.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The way in which the product is delivered to meet the customers' needs refers to:",
+    "choices": [
+      "New product concepts and improvements.",
+      "Selling.",
+      "Advertising and promotion activities.",
+      "Place or distribution activities."
+    ],
+    "answer": "D",
+    "input": "Question: The way in which the product is delivered to meet the customers' needs refers to:\nOptions:\n(A) New product concepts and improvements.\n(B) Selling.\n(C) Advertising and promotion activities.\n(D) Place or distribution activities.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the investigation of the hedonic consumption of products?",
+    "choices": [
+      "Social interaction perspective.",
+      "Functional utilization perspective.",
+      "Experiential consumption.",
+      "Brand management perspective."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is the investigation of the hedonic consumption of products?\nOptions:\n(A) Social interaction perspective.\n(B) Functional utilization perspective.\n(C) Experiential consumption.\n(D) Brand management perspective.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:",
+    "choices": [
+      "Speciality stores.",
+      "Limited line retailers.",
+      "Category-killer stores.",
+      "Superstores."
+    ],
+    "answer": "C",
+    "input": "Question: These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:\nOptions:\n(A) Speciality stores.\n(B) Limited line retailers.\n(C) Category-killer stores.\n(D) Superstores.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance?",
+    "choices": [
+      "Two-step.",
+      "Three-step.",
+      "Multi-step.",
+      "One-step."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance?\nOptions:\n(A) Two-step.\n(B) Three-step.\n(C) Multi-step.\n(D) One-step.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of:",
+    "choices": [
+      "GAP 4-the gap between service delivery and external communications.",
+      "GAP 2-the gap between management perception and service-quality specification",
+      "GAP1-the gap between the customer's expectations and management perception.",
+      "GAP 3-the gap between service-quality specifications and service delivery."
+    ],
+    "answer": "A",
+    "input": "Question: If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of:\nOptions:\n(A) GAP 4-the gap between service delivery and external communications.\n(B) GAP 2-the gap between management perception and service-quality specification\n(C) GAP1-the gap between the customer's expectations and management perception.\n(D) GAP 3-the gap between service-quality specifications and service delivery.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "To make sense of the external environment, the well-known acronym, PESTLE is used. PESTLE stands for _____________",
+    "choices": [
+      "The political, economics, substitute, technological, legal, and ecological environments.",
+      "The political, economic, social, technological, legal, and ecological environments.",
+      "The political, economic, social, treat, legal, and ecological environments.",
+      "The purchasing, economics, social, technological, legal, and ecological environments."
+    ],
+    "answer": "B",
+    "input": "Question: To make sense of the external environment, the well-known acronym, PESTLE is used. PESTLE stands for _____________\nOptions:\n(A) The political, economics, substitute, technological, legal, and ecological environments.\n(B) The political, economic, social, technological, legal, and ecological environments.\n(C) The political, economic, social, treat, legal, and ecological environments.\n(D) The purchasing, economics, social, technological, legal, and ecological environments.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "To be effective, the process of market segmentation must meet which of the following basic requirements?",
+    "choices": [
+      "The firm must avoid focusing on non-variables such as profitability and volume.",
+      "The market segment must have measurable purchasing power and size.",
+      "The company must expand beyond its marketing capabilities to capture growing markets.",
+      "The market segment must reflect the population's changing attitudes and lifestyles."
+    ],
+    "answer": "B",
+    "input": "Question: To be effective, the process of market segmentation must meet which of the following basic requirements?\nOptions:\n(A) The firm must avoid focusing on non-variables such as profitability and volume.\n(B) The market segment must have measurable purchasing power and size.\n(C) The company must expand beyond its marketing capabilities to capture growing markets.\n(D) The market segment must reflect the population's changing attitudes and lifestyles.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:",
+    "choices": [
+      "Pricing.",
+      "Distribution.",
+      "Product development.",
+      "Promotion."
+    ],
+    "answer": "D",
+    "input": "Question: Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:\nOptions:\n(A) Pricing.\n(B) Distribution.\n(C) Product development.\n(D) Promotion.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?",
+    "choices": [
+      "Whether the study offers value for money.",
+      "The agency's reputation.",
+      "The likelihood that the research design will provide insights into the management problem.",
+      "The size of the agency."
+    ],
+    "answer": "D",
+    "input": "Question: Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?\nOptions:\n(A) Whether the study offers value for money.\n(B) The agency's reputation.\n(C) The likelihood that the research design will provide insights into the management problem.\n(D) The size of the agency.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?",
+    "choices": [
+      "Threat of substitutes.",
+      "Threat of suppliers.",
+      "Power of buyers.",
+      "Threat from government."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?\nOptions:\n(A) Threat of substitutes.\n(B) Threat of suppliers.\n(C) Power of buyers.\n(D) Threat from government.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:",
+    "choices": [
+      "Distributors.",
+      "Franchising.",
+      "Merchant.",
+      "Retailers."
+    ],
+    "answer": "D",
+    "input": "Question: These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:\nOptions:\n(A) Distributors.\n(B) Franchising.\n(C) Merchant.\n(D) Retailers.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Before beginning the market segmentation process, a firm should:",
+    "choices": [
+      "Identify bases for segmenting markets.",
+      "Forecast total market potential.",
+      "Forecast market share.",
+      "Select target market segments."
+    ],
+    "answer": "A",
+    "input": "Question: Before beginning the market segmentation process, a firm should:\nOptions:\n(A) Identify bases for segmenting markets.\n(B) Forecast total market potential.\n(C) Forecast market share.\n(D) Select target market segments.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The primary objective of team-based selling is to",
+    "choices": [
+      "match various functional areas of the company with customer needs",
+      "distribute the work involved in managing an account",
+      "equitably manage the sales bonus pool",
+      "create multiple points of contact between the customer and the company"
+    ],
+    "answer": "A",
+    "input": "Question: The primary objective of team-based selling is to\nOptions:\n(A) match various functional areas of the company with customer needs\n(B) distribute the work involved in managing an account\n(C) equitably manage the sales bonus pool\n(D) create multiple points of contact between the customer and the company\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:",
+    "choices": [
+      "Corporate brand.",
+      "Family branding.",
+      "Customer branding.",
+      "International brand."
+    ],
+    "answer": "C",
+    "input": "Question: This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:\nOptions:\n(A) Corporate brand.\n(B) Family branding.\n(C) Customer branding.\n(D) International brand.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.",
+    "choices": [
+      "Contextual advertising.",
+      "Interactive marketing.",
+      "Internet advertising.",
+      "Direct marketing."
+    ],
+    "answer": "A",
+    "input": "Question: This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.\nOptions:\n(A) Contextual advertising.\n(B) Interactive marketing.\n(C) Internet advertising.\n(D) Direct marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Primary data are:",
+    "choices": [
+      "Data collected for the first time specifically for a marketing research study.",
+      "Less time-consuming to acquire and less costly than secondary data.",
+      "Newly-published results of government investigations.",
+      "Part of a strategic planning activity to ensure proper resource allocation."
+    ],
+    "answer": "A",
+    "input": "Question: Primary data are:\nOptions:\n(A) Data collected for the first time specifically for a marketing research study.\n(B) Less time-consuming to acquire and less costly than secondary data.\n(C) Newly-published results of government investigations.\n(D) Part of a strategic planning activity to ensure proper resource allocation.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Salespeople who view a situation as a customer sees it are exhibiting",
+    "choices": [
+      "cooperation",
+      "empathy",
+      "responsibility",
+      "tolerance"
+    ],
+    "answer": "B",
+    "input": "Question: Salespeople who view a situation as a customer sees it are exhibiting\nOptions:\n(A) cooperation\n(B) empathy\n(C) responsibility\n(D) tolerance\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is a part of the communication process where the sender selects a combination of appropriate words, pictures, symbols, and music to represent a message to be transmitted:",
+    "choices": [
+      "Encoding.",
+      "Decoding.",
+      "Transfer.",
+      "Feedback."
+    ],
+    "answer": "A",
+    "input": "Question: This is a part of the communication process where the sender selects a combination of appropriate words, pictures, symbols, and music to represent a message to be transmitted:\nOptions:\n(A) Encoding.\n(B) Decoding.\n(C) Transfer.\n(D) Feedback.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Toyota's Prius and Honda's hybrid Civic are examples of technological products inspired by:",
+    "choices": [
+      "Style considerations in the Japanese automobile industry.",
+      "Social pressure to develop more fuel-efficient vehicles with fewer dangerous emissions.",
+      "The desire of many engineers to simply make interesting products.",
+      "The realization that Japanese people didn't need large, high-speed cars."
+    ],
+    "answer": "B",
+    "input": "Question: Toyota's Prius and Honda's hybrid Civic are examples of technological products inspired by:\nOptions:\n(A) Style considerations in the Japanese automobile industry.\n(B) Social pressure to develop more fuel-efficient vehicles with fewer dangerous emissions.\n(C) The desire of many engineers to simply make interesting products.\n(D) The realization that Japanese people didn't need large, high-speed cars.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as:",
+    "choices": [
+      "Opinion followers.",
+      "Opinion formers.",
+      "Public relations.",
+      "Opinion leaders."
+    ],
+    "answer": "D",
+    "input": "Question: This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as:\nOptions:\n(A) Opinion followers.\n(B) Opinion formers.\n(C) Public relations.\n(D) Opinion leaders.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:",
+    "choices": [
+      "Entertainment realm.",
+      "Educational realm.",
+      "Aesthetic realm.",
+      "Escapist realm"
+    ],
+    "answer": "C",
+    "input": "Question: When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:\nOptions:\n(A) Entertainment realm.\n(B) Educational realm.\n(C) Aesthetic realm.\n(D) Escapist realm\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is best understood as a period of time during which a customer interacts directly with a service?",
+    "choices": [
+      "Good usage.",
+      "Servicescape.",
+      "Service mix.",
+      "Service encounters."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is best understood as a period of time during which a customer interacts directly with a service?\nOptions:\n(A) Good usage.\n(B) Servicescape.\n(C) Service mix.\n(D) Service encounters.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:",
+    "choices": [
+      "Time utility.",
+      "Place utility.",
+      "Ownership utility.",
+      "Information utility."
+    ],
+    "answer": "B",
+    "input": "Question: Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:\nOptions:\n(A) Time utility.\n(B) Place utility.\n(C) Ownership utility.\n(D) Information utility.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The pricing approach where prices are set based on what competitors are charging is called the:",
+    "choices": [
+      "Cost-oriented approach.",
+      "Demand-oriented approach.",
+      "Competitor-oriented approach.",
+      "Value-oriented approach."
+    ],
+    "answer": "C",
+    "input": "Question: The pricing approach where prices are set based on what competitors are charging is called the:\nOptions:\n(A) Cost-oriented approach.\n(B) Demand-oriented approach.\n(C) Competitor-oriented approach.\n(D) Value-oriented approach.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following types of tests is designed primarily to help predict how successful a person is likely to be in learning new skills?",
+    "choices": [
+      "Achievement",
+      "Aptitude",
+      "Interest",
+      "Personality"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following types of tests is designed primarily to help predict how successful a person is likely to be in learning new skills?\nOptions:\n(A) Achievement\n(B) Aptitude\n(C) Interest\n(D) Personality\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ occurs when a search engine company charges fees related to inclusion of websites in their search index.",
+    "choices": [
+      "Contextual search.",
+      "Site optimization.",
+      "Paid inclusion.",
+      "Paid listing"
+    ],
+    "answer": "C",
+    "input": "Question: ____________ occurs when a search engine company charges fees related to inclusion of websites in their search index.\nOptions:\n(A) Contextual search.\n(B) Site optimization.\n(C) Paid inclusion.\n(D) Paid listing\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is where the manufacturing, purchasing, and consumption can occur at differing points in time.",
+    "choices": [
+      "Time utility.",
+      "Ownership utility.",
+      "Accessibility.",
+      "Information utility."
+    ],
+    "answer": "A",
+    "input": "Question: This is where the manufacturing, purchasing, and consumption can occur at differing points in time.\nOptions:\n(A) Time utility.\n(B) Ownership utility.\n(C) Accessibility.\n(D) Information utility.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs.",
+    "choices": [
+      "Self-actualization.",
+      "Physiological.",
+      "Social.",
+      "Esteem."
+    ],
+    "answer": "A",
+    "input": "Question: According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs.\nOptions:\n(A) Self-actualization.\n(B) Physiological.\n(C) Social.\n(D) Esteem.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not part of the consumer proposition acquisition process?",
+    "choices": [
+      "Motive development.",
+      "Information gathering.",
+      "Proposition evaluation.",
+      "Perception."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not part of the consumer proposition acquisition process?\nOptions:\n(A) Motive development.\n(B) Information gathering.\n(C) Proposition evaluation.\n(D) Perception.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When analysing consumer lifecycles, marketers look at consumers in differing stages of their life. Many models upon which these are based were developed in the 1960s. Since then a lot has changed in 'consumer lifecycles'. Which emerging trends should marketers take into consideration?",
+    "choices": [
+      "Fewer people are getting married.",
+      "People getting married at a later age.",
+      "More couples co-habiting.",
+      "All of the above."
+    ],
+    "answer": "D",
+    "input": "Question: When analysing consumer lifecycles, marketers look at consumers in differing stages of their life. Many models upon which these are based were developed in the 1960s. Since then a lot has changed in 'consumer lifecycles'. Which emerging trends should marketers take into consideration?\nOptions:\n(A) Fewer people are getting married.\n(B) People getting married at a later age.\n(C) More couples co-habiting.\n(D) All of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The pricing approach where prices are set based on what customers believe to offer value is called the:",
+    "choices": [
+      "Cost-oriented approach.",
+      "Demand-oriented approach.",
+      "Competitor-oriented approach.",
+      "Value-oriented approach."
+    ],
+    "answer": "D",
+    "input": "Question: The pricing approach where prices are set based on what customers believe to offer value is called the:\nOptions:\n(A) Cost-oriented approach.\n(B) Demand-oriented approach.\n(C) Competitor-oriented approach.\n(D) Value-oriented approach.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:",
+    "choices": [
+      "Time utility.",
+      "Information utility.",
+      "Ownership utility.",
+      "Place utility."
+    ],
+    "answer": "B",
+    "input": "Question: The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:\nOptions:\n(A) Time utility.\n(B) Information utility.\n(C) Ownership utility.\n(D) Place utility.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is the best example of a trade discount?",
+    "choices": [
+      "A lumberyard offers a discount to a homeowner for buying lumber.",
+      "A retailer offers a discount to a consumer for buying out of-season merchandise.",
+      "A producer offers a discount to retailers for promoting its product during the month of June.",
+      "A car dealer offers a discount to a customer in exchange for a used car."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is the best example of a trade discount?\nOptions:\n(A) A lumberyard offers a discount to a homeowner for buying lumber.\n(B) A retailer offers a discount to a consumer for buying out of-season merchandise.\n(C) A producer offers a discount to retailers for promoting its product during the month of June.\n(D) A car dealer offers a discount to a customer in exchange for a used car.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The rise of ___________ has led marketing to evolve away from a hierarchical one-sided mass communication model towards more participatory technologies (e.g. social channels and online communities).",
+    "choices": [
+      "Website.",
+      "Social media.",
+      "Web 1.0.",
+      "Web platform."
+    ],
+    "answer": "B",
+    "input": "Question: The rise of ___________ has led marketing to evolve away from a hierarchical one-sided mass communication model towards more participatory technologies (e.g. social channels and online communities).\nOptions:\n(A) Website.\n(B) Social media.\n(C) Web 1.0.\n(D) Web platform.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.",
+    "choices": [
+      "Affective dimension.",
+      "Intellectual dimension.",
+      "Behavioural dimension.",
+      "Sensory dimension."
+    ],
+    "answer": "C",
+    "input": "Question: Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.\nOptions:\n(A) Affective dimension.\n(B) Intellectual dimension.\n(C) Behavioural dimension.\n(D) Sensory dimension.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "New technology results in new goods and services, and it can also:",
+    "choices": [
+      "Lower the quality of existing products.",
+      "Lower the available level of customer service.",
+      "Reduce prices through new production and distribution methods.",
+      "Bring back products that were considered obsolete."
+    ],
+    "answer": "C",
+    "input": "Question: New technology results in new goods and services, and it can also:\nOptions:\n(A) Lower the quality of existing products.\n(B) Lower the available level of customer service.\n(C) Reduce prices through new production and distribution methods.\n(D) Bring back products that were considered obsolete.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These are non-durable goods or services, often bought with little pre-purchase thought or consideration:",
+    "choices": [
+      "Impulse products.",
+      "Manufacturer products.",
+      "Convenience products.",
+      "Luxury products."
+    ],
+    "answer": "C",
+    "input": "Question: These are non-durable goods or services, often bought with little pre-purchase thought or consideration:\nOptions:\n(A) Impulse products.\n(B) Manufacturer products.\n(C) Convenience products.\n(D) Luxury products.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In marketing, the term proposition:",
+    "choices": [
+      "Refers only to tangible items that can be seen, tasted, or touched.",
+      "Is a broad concept that encompasses the satisfaction of consumer needs.",
+      "Is limited in meaning to goods, services, and ideas only.",
+      "Never refers to such things as package design, brand name, or warranty."
+    ],
+    "answer": "B",
+    "input": "Question: In marketing, the term proposition:\nOptions:\n(A) Refers only to tangible items that can be seen, tasted, or touched.\n(B) Is a broad concept that encompasses the satisfaction of consumer needs.\n(C) Is limited in meaning to goods, services, and ideas only.\n(D) Never refers to such things as package design, brand name, or warranty.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When the analyst reads the data from a critical perspective to determine whether or not this fits with their expectations, this constitutes what is termed a:",
+    "choices": [
+      "Face validity.",
+      "Reliability.",
+      "Control group.",
+      "Focus group."
+    ],
+    "answer": "A",
+    "input": "Question: When the analyst reads the data from a critical perspective to determine whether or not this fits with their expectations, this constitutes what is termed a:\nOptions:\n(A) Face validity.\n(B) Reliability.\n(C) Control group.\n(D) Focus group.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "What is the term used to describe how consistent or stable the ratings generated by a scale are?",
+    "choices": [
+      "Replication.",
+      "Pre-code.",
+      "Reliability.",
+      "Convenience."
+    ],
+    "answer": "C",
+    "input": "Question: What is the term used to describe how consistent or stable the ratings generated by a scale are?\nOptions:\n(A) Replication.\n(B) Pre-code.\n(C) Reliability.\n(D) Convenience.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.",
+    "choices": [
+      "Warehouse.",
+      "Distribution.",
+      "Supply chain.",
+      "Marketing channels."
+    ],
+    "answer": "D",
+    "input": "Question: _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.\nOptions:\n(A) Warehouse.\n(B) Distribution.\n(C) Supply chain.\n(D) Marketing channels.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When little is known about the problem, research seeking to discover the cause of a problem by discussing the problem with informed sources and examining pre-existing data is undertaken. This type of research is:",
+    "choices": [
+      "Situation analysis.",
+      "Information investigation.",
+      "Exploratory research.",
+      "Bottom-line analysis."
+    ],
+    "answer": "C",
+    "input": "Question: When little is known about the problem, research seeking to discover the cause of a problem by discussing the problem with informed sources and examining pre-existing data is undertaken. This type of research is:\nOptions:\n(A) Situation analysis.\n(B) Information investigation.\n(C) Exploratory research.\n(D) Bottom-line analysis.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:",
+    "choices": [
+      "Integrated marketing communications (IMC).",
+      "Personal selling (PS).",
+      "Direct marketing (DM).",
+      "Customer service (CS)."
+    ],
+    "answer": "A",
+    "input": "Question: A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:\nOptions:\n(A) Integrated marketing communications (IMC).\n(B) Personal selling (PS).\n(C) Direct marketing (DM).\n(D) Customer service (CS).\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following consumer buying behaviours requires the least effort?",
+    "choices": [
+      "High involvement buying situation.",
+      "New buying situation.",
+      "Routine buying.",
+      "Impulsive buying."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following consumer buying behaviours requires the least effort?\nOptions:\n(A) High involvement buying situation.\n(B) New buying situation.\n(C) Routine buying.\n(D) Impulsive buying.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "________________ is a process that leads to specific decisions on how to compete in the marketplace and how the company should best serve its customers.",
+    "choices": [
+      "Portfolio analysis.",
+      "Environmental scanning.",
+      "Strategic marketing.",
+      "Marketing research."
+    ],
+    "answer": "C",
+    "input": "Question: ________________ is a process that leads to specific decisions on how to compete in the marketplace and how the company should best serve its customers.\nOptions:\n(A) Portfolio analysis.\n(B) Environmental scanning.\n(C) Strategic marketing.\n(D) Marketing research.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.)",
+    "choices": [
+      "Broadcast media.",
+      "Interactive media.",
+      "In-store media.",
+      "Support media."
+    ],
+    "answer": "C",
+    "input": "Question: What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.)\nOptions:\n(A) Broadcast media.\n(B) Interactive media.\n(C) In-store media.\n(D) Support media.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:",
+    "choices": [
+      "Advertising.",
+      "Exchange.",
+      "Sponsorship.",
+      "Public relations."
+    ],
+    "answer": "C",
+    "input": "Question: A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:\nOptions:\n(A) Advertising.\n(B) Exchange.\n(C) Sponsorship.\n(D) Public relations.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Types of non-random samples include:",
+    "choices": [
+      "Convenience and quota samples.",
+      "Cluster and convenience samples.",
+      "Stratified and convenience samples.",
+      "Random and cluster samples."
+    ],
+    "answer": "A",
+    "input": "Question: Types of non-random samples include:\nOptions:\n(A) Convenience and quota samples.\n(B) Cluster and convenience samples.\n(C) Stratified and convenience samples.\n(D) Random and cluster samples.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "These store goods for moderate to long periods:",
+    "choices": [
+      "Storage warehouses.",
+      "Distribution centres.",
+      "Haulage transport.",
+      "Electronic data interchange."
+    ],
+    "answer": "A",
+    "input": "Question: These store goods for moderate to long periods:\nOptions:\n(A) Storage warehouses.\n(B) Distribution centres.\n(C) Haulage transport.\n(D) Electronic data interchange.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Robert is a marketer for a global consumer products company. He is working on the promotional campaign designed to reach a target audience in a new international market. Robert is working hard to make sure that the promotional campaign is clearly understood by the nation's consumers and doesn't offend anyone. By which of the factors in the external environment is he being influenced",
+    "choices": [
+      "Socio-cultural environment.",
+      "Competitive environment.",
+      "Economic environment.",
+      "Legal environment."
+    ],
+    "answer": "A",
+    "input": "Question: Robert is a marketer for a global consumer products company. He is working on the promotional campaign designed to reach a target audience in a new international market. Robert is working hard to make sure that the promotional campaign is clearly understood by the nation's consumers and doesn't offend anyone. By which of the factors in the external environment is he being influenced\nOptions:\n(A) Socio-cultural environment.\n(B) Competitive environment.\n(C) Economic environment.\n(D) Legal environment.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod.",
+    "choices": [
+      "Direct competitions.",
+      "Direct suppliers.",
+      "Indirect distributors.",
+      "Indirect competitions."
+    ],
+    "answer": "D",
+    "input": "Question: ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod.\nOptions:\n(A) Direct competitions.\n(B) Direct suppliers.\n(C) Indirect distributors.\n(D) Indirect competitions.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A key benefit of the STP process is:",
+    "choices": [
+      "More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI.",
+      "Enhancing a company's competitive position by providing direction and focus for marketing strategies.",
+      "Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses.",
+      "All of the above."
+    ],
+    "answer": "D",
+    "input": "Question: A key benefit of the STP process is:\nOptions:\n(A) More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI.\n(B) Enhancing a company's competitive position by providing direction and focus for marketing strategies.\n(C) Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses.\n(D) All of the above.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.",
+    "choices": [
+      "Brand placement.",
+      "Field marketing.",
+      "Exhibition.",
+      "Viral marketing."
+    ],
+    "answer": "A",
+    "input": "Question: ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.\nOptions:\n(A) Brand placement.\n(B) Field marketing.\n(C) Exhibition.\n(D) Viral marketing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:",
+    "choices": [
+      "E-marketing.",
+      "Social marketing.",
+      "Digital marketing",
+      "Internet marketing."
+    ],
+    "answer": "C",
+    "input": "Question: The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:\nOptions:\n(A) E-marketing.\n(B) Social marketing.\n(C) Digital marketing\n(D) Internet marketing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.",
+    "choices": [
+      "Paid inclusion.",
+      "Search engine optimization.",
+      "Contextual search.",
+      "Pay per click."
+    ],
+    "answer": "B",
+    "input": "Question: ___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.\nOptions:\n(A) Paid inclusion.\n(B) Search engine optimization.\n(C) Contextual search.\n(D) Pay per click.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called:",
+    "choices": [
+      "Search marketing.",
+      "E-mail marketing.",
+      "Internet advertising.",
+      "Social web marketing."
+    ],
+    "answer": "C",
+    "input": "Question: A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called:\nOptions:\n(A) Search marketing.\n(B) E-mail marketing.\n(C) Internet advertising.\n(D) Social web marketing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's",
+    "choices": [
+      "Individual branding.",
+      "Family branding.",
+      "Corporate brands.",
+      "Manufacturer brand."
+    ],
+    "answer": "B",
+    "input": "Question: This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's\nOptions:\n(A) Individual branding.\n(B) Family branding.\n(C) Corporate brands.\n(D) Manufacturer brand.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as:",
+    "choices": [
+      "Needs identifying.",
+      "Innovating.",
+      "Advertising.",
+      "Framing."
+    ],
+    "answer": "D",
+    "input": "Question: The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as:\nOptions:\n(A) Needs identifying.\n(B) Innovating.\n(C) Advertising.\n(D) Framing.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "An organization can offer standard products at acceptable levels of quality, yet still generate above-average profit margin by adopting _____________",
+    "choices": [
+      "Cost leadership.",
+      "Differentiation.",
+      "Focus strategy.",
+      "Market follower strategy."
+    ],
+    "answer": "A",
+    "input": "Question: An organization can offer standard products at acceptable levels of quality, yet still generate above-average profit margin by adopting _____________\nOptions:\n(A) Cost leadership.\n(B) Differentiation.\n(C) Focus strategy.\n(D) Market follower strategy.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not an issue that marketers need to consider when using digital resources for marketing activities?",
+    "choices": [
+      "Jurisdiction.",
+      "Disclosure.",
+      "Ownership.",
+      "Permissions."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is not an issue that marketers need to consider when using digital resources for marketing activities?\nOptions:\n(A) Jurisdiction.\n(B) Disclosure.\n(C) Ownership.\n(D) Permissions.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?",
+    "choices": [
+      "Broadcast media.",
+      "Interactive media.",
+      "Print media.",
+      "Support media."
+    ],
+    "answer": "A",
+    "input": "Question: What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?\nOptions:\n(A) Broadcast media.\n(B) Interactive media.\n(C) Print media.\n(D) Support media.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The process of keeping a running account of merchandise on hand is referred to as",
+    "choices": [
+      "perpetual inventory",
+      "economic order quantity",
+      "book inventory",
+      "physical inventory"
+    ],
+    "answer": "A",
+    "input": "Question: The process of keeping a running account of merchandise on hand is referred to as\nOptions:\n(A) perpetual inventory\n(B) economic order quantity\n(C) book inventory\n(D) physical inventory\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is the sharing of meaning created through the transmission of information:",
+    "choices": [
+      "Communication.",
+      "Noise.",
+      "Transfer.",
+      "Understanding."
+    ],
+    "answer": "A",
+    "input": "Question: This is the sharing of meaning created through the transmission of information:\nOptions:\n(A) Communication.\n(B) Noise.\n(C) Transfer.\n(D) Understanding.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In relationship marketing firms focus on __________ relationships with __________.",
+    "choices": [
+      "Short-term; customers and stakeholders.",
+      "Long-term; customers and stakeholders.",
+      "Short-term; customers.",
+      "Long-term; customers."
+    ],
+    "answer": "B",
+    "input": "Question: In relationship marketing firms focus on __________ relationships with __________.\nOptions:\n(A) Short-term; customers and stakeholders.\n(B) Long-term; customers and stakeholders.\n(C) Short-term; customers.\n(D) Long-term; customers.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service?",
+    "choices": [
+      "Exclusive distribution.",
+      "Intensive distribution.",
+      "Selective distribution.",
+      "Direct distribution."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service?\nOptions:\n(A) Exclusive distribution.\n(B) Intensive distribution.\n(C) Selective distribution.\n(D) Direct distribution.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "______________ is used to determine whether one variable causes an effect in another variable. In order to determine causality experimental or longitudinal studies are needed.",
+    "choices": [
+      "Ethnographic study.",
+      "Consumer juries.",
+      "Causal research.",
+      "Focus-groups."
+    ],
+    "answer": "C",
+    "input": "Question: ______________ is used to determine whether one variable causes an effect in another variable. In order to determine causality experimental or longitudinal studies are needed.\nOptions:\n(A) Ethnographic study.\n(B) Consumer juries.\n(C) Causal research.\n(D) Focus-groups.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as:",
+    "choices": [
+      "A search directory.",
+      "Automated voice response (AVR).",
+      "Apps.",
+      "SEO."
+    ],
+    "answer": "A",
+    "input": "Question: A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as:\nOptions:\n(A) A search directory.\n(B) Automated voice response (AVR).\n(C) Apps.\n(D) SEO.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Services are characterized by five distinct characteristics. These are:",
+    "choices": [
+      "Intangibility, value, variability, inseparability, and a lack of ownership.",
+      "Intangibility, value, variability, inseparability, and profitability.",
+      "Intangibility, perishability, variability, inseparability, and a lack of ownership.",
+      "Intangibility, value, variability, inseparability, and relationship."
+    ],
+    "answer": "C",
+    "input": "Question: Services are characterized by five distinct characteristics. These are:\nOptions:\n(A) Intangibility, value, variability, inseparability, and a lack of ownership.\n(B) Intangibility, value, variability, inseparability, and profitability.\n(C) Intangibility, perishability, variability, inseparability, and a lack of ownership.\n(D) Intangibility, value, variability, inseparability, and relationship.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A company sells its product at two different prices in two different locations. Which of the following types of research will be most effective in identifying the optimal price for the product if all other marketing factors are held constant?",
+    "choices": [
+      "Descriptive",
+      "Exploratory",
+      "Ethnographic",
+      "Causal"
+    ],
+    "answer": "D",
+    "input": "Question: A company sells its product at two different prices in two different locations. Which of the following types of research will be most effective in identifying the optimal price for the product if all other marketing factors are held constant?\nOptions:\n(A) Descriptive\n(B) Exploratory\n(C) Ethnographic\n(D) Causal\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Where the price is set low relative to the competition to gain market share, this strategy is known as:",
+    "choices": [
+      "Premium pricing.",
+      "Price skimming.",
+      "Economy pricing.",
+      "Penetration pricing."
+    ],
+    "answer": "D",
+    "input": "Question: Where the price is set low relative to the competition to gain market share, this strategy is known as:\nOptions:\n(A) Premium pricing.\n(B) Price skimming.\n(C) Economy pricing.\n(D) Penetration pricing.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not the rationale for developing CSR initiatives?",
+    "choices": [
+      "Corporations have responsibilities going beyond the production of their offerings at a profit.",
+      "Corporations have a broader constituency of stakeholders than shareholders alone.",
+      "The impacts of corporations limit to only simple marketplace transactions.",
+      "Corporations serve a wider range of human values, not captured solely by a focus on economic values."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is not the rationale for developing CSR initiatives?\nOptions:\n(A) Corporations have responsibilities going beyond the production of their offerings at a profit.\n(B) Corporations have a broader constituency of stakeholders than shareholders alone.\n(C) The impacts of corporations limit to only simple marketplace transactions.\n(D) Corporations serve a wider range of human values, not captured solely by a focus on economic values.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:",
+    "choices": [
+      "Geographical pricing.",
+      "Discount pricing.",
+      "Relationship pricing.",
+      "Value-in-use pricing."
+    ],
+    "answer": "C",
+    "input": "Question: This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:\nOptions:\n(A) Geographical pricing.\n(B) Discount pricing.\n(C) Relationship pricing.\n(D) Value-in-use pricing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This form of advert delivered on social platforms and social gaming websites and apps, across all device types is known as:",
+    "choices": [
+      "Mobile marketing.",
+      "Social media advertising.",
+      "Internet advertising.",
+      "E-marketing."
+    ],
+    "answer": "B",
+    "input": "Question: This form of advert delivered on social platforms and social gaming websites and apps, across all device types is known as:\nOptions:\n(A) Mobile marketing.\n(B) Social media advertising.\n(C) Internet advertising.\n(D) E-marketing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Secondary data has two important advantages over primary data. It is:",
+    "choices": [
+      "Capable of compensating for rapid environmental changes and technical improvements.",
+      "Always available and complete.",
+      "Seldom obsolete and usually fits the dimensions of your problem.",
+      "Generally cheaper to gather than primary data and takes less time to find."
+    ],
+    "answer": "D",
+    "input": "Question: Secondary data has two important advantages over primary data. It is:\nOptions:\n(A) Capable of compensating for rapid environmental changes and technical improvements.\n(B) Always available and complete.\n(C) Seldom obsolete and usually fits the dimensions of your problem.\n(D) Generally cheaper to gather than primary data and takes less time to find.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Internet-based organizations designed to provide information to channel members, including end-users are referred to as:",
+    "choices": [
+      "Infomediaries.",
+      "Retailers.",
+      "Department stores.",
+      "Wholesalers."
+    ],
+    "answer": "A",
+    "input": "Question: Internet-based organizations designed to provide information to channel members, including end-users are referred to as:\nOptions:\n(A) Infomediaries.\n(B) Retailers.\n(C) Department stores.\n(D) Wholesalers.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.",
+    "choices": [
+      "Price gouging.",
+      "Transfer pricing.",
+      "Pay what you want pricing.",
+      "EVC pricing."
+    ],
+    "answer": "B",
+    "input": "Question: In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.\nOptions:\n(A) Price gouging.\n(B) Transfer pricing.\n(C) Pay what you want pricing.\n(D) EVC pricing.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is when a product or service is offered together with another typically complementary product or service:",
+    "choices": [
+      "Product pricing.",
+      "Price differentiation.",
+      "Pure price bundling.",
+      "Odd-Number pricing."
+    ],
+    "answer": "C",
+    "input": "Question: This is when a product or service is offered together with another typically complementary product or service:\nOptions:\n(A) Product pricing.\n(B) Price differentiation.\n(C) Pure price bundling.\n(D) Odd-Number pricing.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.",
+    "choices": [
+      "Strength.",
+      "Weakness.",
+      "Threat.",
+      "Opportunities."
+    ],
+    "answer": "C",
+    "input": "Question: This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.\nOptions:\n(A) Strength.\n(B) Weakness.\n(C) Threat.\n(D) Opportunities.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "When there are high levels of business failures and unemployment, the business cycle is said to be in which of the following phases?",
+    "choices": [
+      "Expansion",
+      "Peak",
+      "Recovery",
+      "Trough"
+    ],
+    "answer": "D",
+    "input": "Question: When there are high levels of business failures and unemployment, the business cycle is said to be in which of the following phases?\nOptions:\n(A) Expansion\n(B) Peak\n(C) Recovery\n(D) Trough\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:",
+    "choices": [
+      "Family branding.",
+      "Corporate brands.",
+      "Individual branding.",
+      "Manufacturer brand."
+    ],
+    "answer": "B",
+    "input": "Question: Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:\nOptions:\n(A) Family branding.\n(B) Corporate brands.\n(C) Individual branding.\n(D) Manufacturer brand.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The importance and significance of customer experience to both individuals and society is referred to as:",
+    "choices": [
+      "Knowledge economy.",
+      "Service economy.",
+      "Experience economy.",
+      "Customer economy."
+    ],
+    "answer": "C",
+    "input": "Question: The importance and significance of customer experience to both individuals and society is referred to as:\nOptions:\n(A) Knowledge economy.\n(B) Service economy.\n(C) Experience economy.\n(D) Customer economy.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.",
+    "choices": [
+      "Durable goods.",
+      "Non-durable goods.",
+      "Convenience products.",
+      "Services."
+    ],
+    "answer": "A",
+    "input": "Question: ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.\nOptions:\n(A) Durable goods.\n(B) Non-durable goods.\n(C) Convenience products.\n(D) Services.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.",
+    "choices": [
+      "Pay per click (PPC)",
+      "Digital asset optimization (DAO)",
+      "Social media marketing (SMM)",
+      "Search engine optimization (SEO)"
+    ],
+    "answer": "C",
+    "input": "Question: ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.\nOptions:\n(A) Pay per click (PPC)\n(B) Digital asset optimization (DAO)\n(C) Social media marketing (SMM)\n(D) Search engine optimization (SEO)\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Inelastic demand occurs when the",
+    "choices": [
+      "quantity demanded changes a great deal as prices fluctuate",
+      "quantity demanded barely changes with a change in price",
+      "change in quantity demanded is in the same proportion as the change in price",
+      "demand curve and the supply curve intersect at a given price point"
+    ],
+    "answer": "B",
+    "input": "Question: Inelastic demand occurs when the\nOptions:\n(A) quantity demanded changes a great deal as prices fluctuate\n(B) quantity demanded barely changes with a change in price\n(C) change in quantity demanded is in the same proportion as the change in price\n(D) demand curve and the supply curve intersect at a given price point\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:",
+    "choices": [
+      "Self-actualization.",
+      "Esteem.",
+      "Physiological needs.",
+      "Belongingness."
+    ],
+    "answer": "C",
+    "input": "Question: A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:\nOptions:\n(A) Self-actualization.\n(B) Esteem.\n(C) Physiological needs.\n(D) Belongingness.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "During the __________ stage of the adoption process, the innovation is tried for the first time. Sales promotions are often used as samples to allow individuals to test the product without any undue risk. Individuals accept or reject an innovation on the basis of their experience of the trial.",
+    "choices": [
+      "Knowledge.",
+      "Implementation.",
+      "Persuasion.",
+      "Decision."
+    ],
+    "answer": "B",
+    "input": "Question: During the __________ stage of the adoption process, the innovation is tried for the first time. Sales promotions are often used as samples to allow individuals to test the product without any undue risk. Individuals accept or reject an innovation on the basis of their experience of the trial.\nOptions:\n(A) Knowledge.\n(B) Implementation.\n(C) Persuasion.\n(D) Decision.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?",
+    "choices": [
+      "Primary research.",
+      "Secondary research.",
+      "Primary and secondary.",
+      "Primary and desk research."
+    ],
+    "answer": "B",
+    "input": "Question: Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?\nOptions:\n(A) Primary research.\n(B) Secondary research.\n(C) Primary and secondary.\n(D) Primary and desk research.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.",
+    "choices": [
+      "Social media.",
+      "Mobile.",
+      "Internet.",
+      "Blog."
+    ],
+    "answer": "B",
+    "input": "Question: Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.\nOptions:\n(A) Social media.\n(B) Mobile.\n(C) Internet.\n(D) Blog.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:",
+    "choices": [
+      "Inseparability.",
+      "Variability.",
+      "Intangibility.",
+      "Perishability."
+    ],
+    "answer": "D",
+    "input": "Question: Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:\nOptions:\n(A) Inseparability.\n(B) Variability.\n(C) Intangibility.\n(D) Perishability.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The train operator understands customer desire for a comfortable seat but fails to specify how many should be provided relative to the anticipated number of travellers on each route. This is an example of:",
+    "choices": [
+      "GAP 2-the gap between management perception and service-quality specification.",
+      "GAP1-the gap between the customer's expectations and management perception.",
+      "GAP 3-the gap between service-quality specifications and service delivery.",
+      "GAP 4-the gap between service delivery and external communications."
+    ],
+    "answer": "A",
+    "input": "Question: The train operator understands customer desire for a comfortable seat but fails to specify how many should be provided relative to the anticipated number of travellers on each route. This is an example of:\nOptions:\n(A) GAP 2-the gap between management perception and service-quality specification.\n(B) GAP1-the gap between the customer's expectations and management perception.\n(C) GAP 3-the gap between service-quality specifications and service delivery.\n(D) GAP 4-the gap between service delivery and external communications.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is part of the communication process and refers to the responses offered by receivers:",
+    "choices": [
+      "Encoding.",
+      "Decoding.",
+      "Transfer.",
+      "Feedback."
+    ],
+    "answer": "D",
+    "input": "Question: This is part of the communication process and refers to the responses offered by receivers:\nOptions:\n(A) Encoding.\n(B) Decoding.\n(C) Transfer.\n(D) Feedback.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Economic—marketing should encourage long-term economic development as opposed to short-term economic development.",
+    "choices": [
+      "Ecological, evolutionary, and economic",
+      "Ecological, equitable, and economic",
+      "Evolutionary, equitable, and economic.",
+      "Ecological, equitable, and emerging."
+    ],
+    "answer": "B",
+    "input": "Question: Economic—marketing should encourage long-term economic development as opposed to short-term economic development.\nOptions:\n(A) Ecological, evolutionary, and economic\n(B) Ecological, equitable, and economic\n(C) Evolutionary, equitable, and economic.\n(D) Ecological, equitable, and emerging.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Individuals become completely immersed in their environment and actively participate so that they affect actual performances or occurrences in the environment. This is referred to as:",
+    "choices": [
+      "Educational realm.",
+      "Escapist realm.",
+      "Aesthetic realm.",
+      "Entertainment realm."
+    ],
+    "answer": "B",
+    "input": "Question: Individuals become completely immersed in their environment and actively participate so that they affect actual performances or occurrences in the environment. This is referred to as:\nOptions:\n(A) Educational realm.\n(B) Escapist realm.\n(C) Aesthetic realm.\n(D) Entertainment realm.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This is a marketing communication tool that uses non-personal media to create and sustain a personal and intermediary free communication with customers, potential customers, and other significant stakeholders:",
+    "choices": [
+      "Direct marketing.",
+      "Advertising.",
+      "Public relations.",
+      "Sales promotion."
+    ],
+    "answer": "A",
+    "input": "Question: This is a marketing communication tool that uses non-personal media to create and sustain a personal and intermediary free communication with customers, potential customers, and other significant stakeholders:\nOptions:\n(A) Direct marketing.\n(B) Advertising.\n(C) Public relations.\n(D) Sales promotion.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).",
+    "choices": [
+      "Reduced perceived risk.",
+      "Service recovery.",
+      "Service processes.",
+      "Efficiency."
+    ],
+    "answer": "A",
+    "input": "Question: It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).\nOptions:\n(A) Reduced perceived risk.\n(B) Service recovery.\n(C) Service processes.\n(D) Efficiency.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The family life cycle:",
+    "choices": [
+      "Is a way to apply psychographic segmentation.",
+      "Refers to the process of family formation and dissolution.",
+      "Provides insights into the relationships among age, occupation, income, and housing.",
+      "Is composed of the 11 stages of personal growth from infancy to retirement."
+    ],
+    "answer": "B",
+    "input": "Question: The family life cycle:\nOptions:\n(A) Is a way to apply psychographic segmentation.\n(B) Refers to the process of family formation and dissolution.\n(C) Provides insights into the relationships among age, occupation, income, and housing.\n(D) Is composed of the 11 stages of personal growth from infancy to retirement.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.",
+    "choices": [
+      "Consultant.",
+      "Field agency.",
+      "Full-service agency.",
+      "Tabulation agency."
+    ],
+    "answer": "C",
+    "input": "Question: A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.\nOptions:\n(A) Consultant.\n(B) Field agency.\n(C) Full-service agency.\n(D) Tabulation agency.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in",
+    "choices": [
+      "segmentation",
+      "mass customization",
+      "concentrated targeting",
+      "positioning"
+    ],
+    "answer": "D",
+    "input": "Question: A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in\nOptions:\n(A) segmentation\n(B) mass customization\n(C) concentrated targeting\n(D) positioning\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "With this pricing approach, the pricing process begins with the customer; not the cost of the product offering:",
+    "choices": [
+      "Value-based pricing.",
+      "Cost-based pricing.",
+      "Customer-led pricing.",
+      "Sales pricing."
+    ],
+    "answer": "A",
+    "input": "Question: With this pricing approach, the pricing process begins with the customer; not the cost of the product offering:\nOptions:\n(A) Value-based pricing.\n(B) Cost-based pricing.\n(C) Customer-led pricing.\n(D) Sales pricing.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.",
+    "choices": [
+      "Service quality.",
+      "Service action.",
+      "Service recovery.",
+      "Service satisfaction."
+    ],
+    "answer": "A",
+    "input": "Question: ___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.\nOptions:\n(A) Service quality.\n(B) Service action.\n(C) Service recovery.\n(D) Service satisfaction.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Information collected for the first time specifically for a marketing research study is called:",
+    "choices": [
+      "Secondary research.",
+      "Primary research.",
+      "Soft research.",
+      "Experimental research."
+    ],
+    "answer": "B",
+    "input": "Question: Information collected for the first time specifically for a marketing research study is called:\nOptions:\n(A) Secondary research.\n(B) Primary research.\n(C) Soft research.\n(D) Experimental research.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:",
+    "choices": [
+      "Direct response advertising.",
+      "Sales promotions.",
+      "Mass media advertising.",
+      "Public relations."
+    ],
+    "answer": "A",
+    "input": "Question: This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:\nOptions:\n(A) Direct response advertising.\n(B) Sales promotions.\n(C) Mass media advertising.\n(D) Public relations.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is not part of the external marketing environment?",
+    "choices": [
+      "Political.",
+      "Legal.",
+      "Product.",
+      "Socio-cultural."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is not part of the external marketing environment?\nOptions:\n(A) Political.\n(B) Legal.\n(C) Product.\n(D) Socio-cultural.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "In order for exchange to occur:",
+    "choices": [
+      "A complex societal system must be involved.",
+      "Organized marketing activities must also occur.",
+      "A profit-oriented organization must be involved.",
+      "Each party must have something of value to the other party."
+    ],
+    "answer": "D",
+    "input": "Question: In order for exchange to occur:\nOptions:\n(A) A complex societal system must be involved.\n(B) Organized marketing activities must also occur.\n(C) A profit-oriented organization must be involved.\n(D) Each party must have something of value to the other party.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:",
+    "choices": [
+      "Channel conflict.",
+      "Horizontal conflict.",
+      "Vertical conflict.",
+      "Supply chain conflict."
+    ],
+    "answer": "C",
+    "input": "Question: Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:\nOptions:\n(A) Channel conflict.\n(B) Horizontal conflict.\n(C) Vertical conflict.\n(D) Supply chain conflict.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is an example of costbased pricing?",
+    "choices": [
+      "Basing the price on what the customer is willing to pay",
+      "Basing the price on the psychological expectations of the customer",
+      "Basing the price on the features and benefits of the product",
+      "Basing the price on the full cost of production plus the required profit"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is an example of costbased pricing?\nOptions:\n(A) Basing the price on what the customer is willing to pay\n(B) Basing the price on the psychological expectations of the customer\n(C) Basing the price on the features and benefits of the product\n(D) Basing the price on the full cost of production plus the required profit\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "marketing",
+    "question": "Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?",
+    "choices": [
+      "Use of an undifferentiated one-size-fits-all marketing strategy.",
+      "Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.",
+      "Variations in product offerings to suit the wants of a particular group.",
+      "Study of ethnic buying habits to isolate market segments."
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?\nOptions:\n(A) Use of an undifferentiated one-size-fits-all marketing strategy.\n(B) Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.\n(C) Variations in product offerings to suit the wants of a particular group.\n(D) Study of ethnic buying habits to isolate market segments.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "marketing",
+    "question": "_______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time.",
+    "choices": [
+      "Perception.",
+      "Personality.",
+      "Learning.",
+      "Memory."
+    ],
+    "answer": "B",
+    "input": "Question: _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time.\nOptions:\n(A) Perception.\n(B) Personality.\n(C) Learning.\n(D) Memory.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "marketing",
+    "question": "The six dimensions usually considered to constitute the external marketing environment include all of the following except:",
+    "choices": [
+      "Political considerations.",
+      "Global factors.",
+      "Socio-cultural aspects.",
+      "Economics issues."
+    ],
+    "answer": "B",
+    "input": "Question: The six dimensions usually considered to constitute the external marketing environment include all of the following except:\nOptions:\n(A) Political considerations.\n(B) Global factors.\n(C) Socio-cultural aspects.\n(D) Economics issues.\nAnswer:",
+    "target": "(B)"
+  }
+]

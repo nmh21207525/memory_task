@@ -1,0 +1,28 @@
+# Task-level Prompt 配置示例
+# 适用于同一数据集下不同 task 需要不同 prompt 的场景
+
+datasets:
+  classification:
+    data_dir: ./data/classification
+    # 默认 prompt（当 task 没有特定配置时使用）
+    default_prompt:
+      task_prompt: "请对输入进行分类。"
+      answer_format: "只输出类别标签。"
+      generation_length: 32
+
+    # 特定 task 的 prompt（覆盖 default）
+    task_prompts:
+      sentiment_analysis:
+        task_prompt: "判断文本情感倾向。"
+        answer_format: "输出 positive 或 negative。"
+        generation_length: 16
+
+      topic_classification:
+        task_prompt: "判断文本主题类别。"
+        answer_format: "输出 politics/tech/sports/entertainment。"
+        generation_length: 32
+
+      spam_detection:
+        task_prompt: "判断邮件是否为垃圾邮件。"
+        answer_format: "输出 spam 或 ham。"
+        generation_length: 16

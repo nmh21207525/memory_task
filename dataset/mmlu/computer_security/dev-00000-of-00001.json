@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "computer_security",
+    "question": "SHA-1 has a message digest of",
+    "choices": [
+      "160 bits",
+      "512 bits",
+      "628 bits",
+      "820 bits"
+    ],
+    "answer": "A",
+    "input": "Question: SHA-1 has a message digest of\nOptions:\n(A) 160 bits\n(B) 512 bits\n(C) 628 bits\n(D) 820 bits\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "_____________ can modify data on your system – so that your system doesn’t run correctly or you can no longer access specific data, or it may even ask for ransom in order to give your access.",
+    "choices": [
+      "IM – Trojans",
+      "Backdoor Trojans",
+      "Trojan-Downloader",
+      "Ransom Trojan"
+    ],
+    "answer": "D",
+    "input": "Question: _____________ can modify data on your system – so that your system doesn’t run correctly or you can no longer access specific data, or it may even ask for ransom in order to give your access.\nOptions:\n(A) IM – Trojans\n(B) Backdoor Trojans\n(C) Trojan-Downloader\n(D) Ransom Trojan\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "What is ethical hacking?",
+    "choices": [
+      "\"Hacking\" ethics so they justify unintended selfish behavior",
+      "Hacking systems (e.g., during penetration testing) to expose vulnerabilities so they can be fixed, rather than exploited",
+      "Hacking into systems run by those whose ethics you disagree with",
+      "A slang term for rapid software development, e.g., as part of hackathons"
+    ],
+    "answer": "B",
+    "input": "Question: What is ethical hacking?\nOptions:\n(A) \"Hacking\" ethics so they justify unintended selfish behavior\n(B) Hacking systems (e.g., during penetration testing) to expose vulnerabilities so they can be fixed, rather than exploited\n(C) Hacking into systems run by those whose ethics you disagree with\n(D) A slang term for rapid software development, e.g., as part of hackathons\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Exploitation of the Heartbleed bug permits",
+    "choices": [
+      "overwriting cryptographic keys in memory",
+      "a kind of code injection",
+      "a read outside bounds of a buffer",
+      "a format string attack"
+    ],
+    "answer": "C",
+    "input": "Question: Exploitation of the Heartbleed bug permits\nOptions:\n(A) overwriting cryptographic keys in memory\n(B) a kind of code injection\n(C) a read outside bounds of a buffer\n(D) a format string attack\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "The ____________ is anything which your search engine cannot search.",
+    "choices": [
+      "Haunted web",
+      "World Wide Web",
+      "Surface web",
+      "Deep Web"
+    ],
+    "answer": "D",
+    "input": "Question: The ____________ is anything which your search engine cannot search.\nOptions:\n(A) Haunted web\n(B) World Wide Web\n(C) Surface web\n(D) Deep Web\nAnswer:",
+    "target": "(D)"
+  }
+]

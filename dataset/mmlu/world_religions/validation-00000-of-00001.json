@@ -1,0 +1,249 @@
+[
+  {
+    "subject": "world_religions",
+    "question": "Which of the following is NOT a category of Shari'ah law?",
+    "choices": [
+      "Criminal",
+      "Neutral",
+      "Unlawful",
+      "Commendable"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is NOT a category of Shari'ah law?\nOptions:\n(A) Criminal\n(B) Neutral\n(C) Unlawful\n(D) Commendable\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which Guru ordered the building of the Darbar Sahib, also known as the Divine Court?",
+    "choices": [
+      "Guru Nanak",
+      "Guru Ram Das",
+      "Guru Arjan",
+      "Guru Amar Das"
+    ],
+    "answer": "C",
+    "input": "Question: Which Guru ordered the building of the Darbar Sahib, also known as the Divine Court?\nOptions:\n(A) Guru Nanak\n(B) Guru Ram Das\n(C) Guru Arjan\n(D) Guru Amar Das\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Yamago Soko created the \"way of the warrior,\" known as which of the following?",
+    "choices": [
+      "Bushido",
+      "Samurai",
+      "Nembutsu",
+      "Gomadaki"
+    ],
+    "answer": "A",
+    "input": "Question: Yamago Soko created the \"way of the warrior,\" known as which of the following?\nOptions:\n(A) Bushido\n(B) Samurai\n(C) Nembutsu\n(D) Gomadaki\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which of the following was part of the role of a deaconess?",
+    "choices": [
+      "Ministering to the sick",
+      "Preparing women for baptism",
+      "Praying for the suffering",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following was part of the role of a deaconess?\nOptions:\n(A) Ministering to the sick\n(B) Preparing women for baptism\n(C) Praying for the suffering\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which term refers to the five main areas into which early Christianity was divided?",
+    "choices": [
+      "Presbyteries",
+      "Sees",
+      "Churches",
+      "Synods"
+    ],
+    "answer": "B",
+    "input": "Question: Which term refers to the five main areas into which early Christianity was divided?\nOptions:\n(A) Presbyteries\n(B) Sees\n(C) Churches\n(D) Synods\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What is the name of the theologian who argued against Pelagius?",
+    "choices": [
+      "John",
+      "Anselm",
+      "Arius",
+      "Augustine"
+    ],
+    "answer": "D",
+    "input": "Question: What is the name of the theologian who argued against Pelagius?\nOptions:\n(A) John\n(B) Anselm\n(C) Arius\n(D) Augustine\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Jean Calvin is known for emphasizing which of the following doctrines?",
+    "choices": [
+      "Transubstantiation",
+      "Miaphystism",
+      "Glossolalia",
+      "Predestination"
+    ],
+    "answer": "D",
+    "input": "Question: Jean Calvin is known for emphasizing which of the following doctrines?\nOptions:\n(A) Transubstantiation\n(B) Miaphystism\n(C) Glossolalia\n(D) Predestination\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which form of Buddhism was the first to make significant inroads in North America?",
+    "choices": [
+      "Zen",
+      "Pure Land",
+      "Theravada",
+      "Tibetan"
+    ],
+    "answer": "A",
+    "input": "Question: Which form of Buddhism was the first to make significant inroads in North America?\nOptions:\n(A) Zen\n(B) Pure Land\n(C) Theravada\n(D) Tibetan\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "The Great Cloud Sutra prophesied the imminent arrival of which person?",
+    "choices": [
+      "Maitreya (Milo)",
+      "The Buddha",
+      "Zhou Dunyi",
+      "Wang Yangming"
+    ],
+    "answer": "A",
+    "input": "Question: The Great Cloud Sutra prophesied the imminent arrival of which person?\nOptions:\n(A) Maitreya (Milo)\n(B) The Buddha\n(C) Zhou Dunyi\n(D) Wang Yangming\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What is the Hebrew word is used to refer to the Nazi's catastrophic program of genocide?",
+    "choices": [
+      "Shoah",
+      "Seder",
+      "Passover",
+      "Diaspora"
+    ],
+    "answer": "A",
+    "input": "Question: What is the Hebrew word is used to refer to the Nazi's catastrophic program of genocide?\nOptions:\n(A) Shoah\n(B) Seder\n(C) Passover\n(D) Diaspora\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which modern cult believed that Japanese society needed to be cleansed through an apocalypse?",
+    "choices": [
+      "Shinnyo-en",
+      "Aum Shinrikyo",
+      "Rissho Koseikai",
+      "Honji Suijaku"
+    ],
+    "answer": "B",
+    "input": "Question: Which modern cult believed that Japanese society needed to be cleansed through an apocalypse?\nOptions:\n(A) Shinnyo-en\n(B) Aum Shinrikyo\n(C) Rissho Koseikai\n(D) Honji Suijaku\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "For how many minutes per day do Jaina devotees practise meditation or reflection?",
+    "choices": [
+      "48",
+      "60",
+      "12",
+      "36"
+    ],
+    "answer": "A",
+    "input": "Question: For how many minutes per day do Jaina devotees practise meditation or reflection?\nOptions:\n(A) 48\n(B) 60\n(C) 12\n(D) 36\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What is the English name for Hanukkah?",
+    "choices": [
+      "The Festival of Booths",
+      "The Festival of the Giving of Torah",
+      "The Festival of Lights",
+      "The Festival of Weeks"
+    ],
+    "answer": "C",
+    "input": "Question: What is the English name for Hanukkah?\nOptions:\n(A) The Festival of Booths\n(B) The Festival of the Giving of Torah\n(C) The Festival of Lights\n(D) The Festival of Weeks\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which movement rejected Confucianism and Buddhism in favor of \"true\" Japanese spiritual traditions?",
+    "choices": [
+      "Kami",
+      "Kokugaku",
+      "Samurai",
+      "Gomadaki"
+    ],
+    "answer": "B",
+    "input": "Question: Which movement rejected Confucianism and Buddhism in favor of \"true\" Japanese spiritual traditions?\nOptions:\n(A) Kami\n(B) Kokugaku\n(C) Samurai\n(D) Gomadaki\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "The Daoist concept of wuwei means which of the following?",
+    "choices": [
+      "Non-action",
+      "Contemplation",
+      "Meditation",
+      "Intentionality"
+    ],
+    "answer": "A",
+    "input": "Question: The Daoist concept of wuwei means which of the following?\nOptions:\n(A) Non-action\n(B) Contemplation\n(C) Meditation\n(D) Intentionality\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Who was the immediate successor to Guru Nanak?",
+    "choices": [
+      "Guru Angad",
+      "His son",
+      "Guru Gobind Singh",
+      "Guru Hargobind"
+    ],
+    "answer": "A",
+    "input": "Question: Who was the immediate successor to Guru Nanak?\nOptions:\n(A) Guru Angad\n(B) His son\n(C) Guru Gobind Singh\n(D) Guru Hargobind\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What does Ghandi's title \"Mahatma\" mean?",
+    "choices": [
+      "\"Enlightened leader\"",
+      "\"Great soul\"",
+      "\"Enlightened soul\"",
+      "\"Great leader\""
+    ],
+    "answer": "B",
+    "input": "Question: What does Ghandi's title \"Mahatma\" mean?\nOptions:\n(A) \"Enlightened leader\"\n(B) \"Great soul\"\n(C) \"Enlightened soul\"\n(D) \"Great leader\"\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "What is the Decalogue?",
+    "choices": [
+      "The Exodus",
+      "The Covenant",
+      "The Ten Commandments",
+      "The creation story"
+    ],
+    "answer": "C",
+    "input": "Question: What is the Decalogue?\nOptions:\n(A) The Exodus\n(B) The Covenant\n(C) The Ten Commandments\n(D) The creation story\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "world_religions",
+    "question": "Which Jewish group demanded a narrow and literal interpretation of the Torah?",
+    "choices": [
+      "Sadducees",
+      "Pharisees",
+      "Essenes",
+      "Zealots"
+    ],
+    "answer": "A",
+    "input": "Question: Which Jewish group demanded a narrow and literal interpretation of the Torah?\nOptions:\n(A) Sadducees\n(B) Pharisees\n(C) Essenes\n(D) Zealots\nAnswer:",
+    "target": "(A)"
+  }
+]

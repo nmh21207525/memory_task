@@ -1,0 +1,457 @@
+[
+  {
+    "subject": "prehistory",
+    "question": "Why did the Mogollon leave their mountain homeland?",
+    "choices": [
+      "disease",
+      "warfare",
+      "drought",
+      "all of the above"
+    ],
+    "answer": "C",
+    "input": "Question: Why did the Mogollon leave their mountain homeland?\nOptions:\n(A) disease\n(B) warfare\n(C) drought\n(D) all of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Part of the Inca political strategy included all of the following EXCEPT:",
+    "choices": [
+      "bringing the rulers of subdued provinces to live in the capital city.",
+      "building administrative centers in the capitals of the states they subdued.",
+      "building vast systems of roads.",
+      "the ritual sacrifice of captives of war to appease the sun god."
+    ],
+    "answer": "D",
+    "input": "Question: Part of the Inca political strategy included all of the following EXCEPT:\nOptions:\n(A) bringing the rulers of subdued provinces to live in the capital city.\n(B) building administrative centers in the capitals of the states they subdued.\n(C) building vast systems of roads.\n(D) the ritual sacrifice of captives of war to appease the sun god.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Mesopotamia is located between which two rivers?",
+    "choices": [
+      "Amazon and Nile",
+      "Euphrates and Nile",
+      "Tigris and Euphrates",
+      "Thames and Danube"
+    ],
+    "answer": "C",
+    "input": "Question: Mesopotamia is located between which two rivers?\nOptions:\n(A) Amazon and Nile\n(B) Euphrates and Nile\n(C) Tigris and Euphrates\n(D) Thames and Danube\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Among Inca royalty, what happened following the death of the king?",
+    "choices": [
+      "the king's body was mummified and treated as if it were alive",
+      "hundreds of the elite were sacrificed by ritual decapitation",
+      "the body was entombed with lavish burial goods within an enormous pyramid",
+      "all of the above"
+    ],
+    "answer": "A",
+    "input": "Question: Among Inca royalty, what happened following the death of the king?\nOptions:\n(A) the king's body was mummified and treated as if it were alive\n(B) hundreds of the elite were sacrificed by ritual decapitation\n(C) the body was entombed with lavish burial goods within an enormous pyramid\n(D) all of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Recent discoveries at the Cuncaicha rockshelter and Pucuncho quarry site provide evidence for which of the following?",
+    "choices": [
+      "Paleoindians inhabited a wide diversity of habitats, including some of the highest elevations in the New World.",
+      "Paleoindians were primarily adapted to coastal regions and interior grassland habitats, where they could hunt large mammals.",
+      "Paleoindians used the best quality obsidian to make microblades and fluted points for hunting large mammals.",
+      "Paleoindians followed a coastal migratory route to enter the New World and spread across South America, where they lived mostly in rockshelters and caves."
+    ],
+    "answer": "A",
+    "input": "Question: Recent discoveries at the Cuncaicha rockshelter and Pucuncho quarry site provide evidence for which of the following?\nOptions:\n(A) Paleoindians inhabited a wide diversity of habitats, including some of the highest elevations in the New World.\n(B) Paleoindians were primarily adapted to coastal regions and interior grassland habitats, where they could hunt large mammals.\n(C) Paleoindians used the best quality obsidian to make microblades and fluted points for hunting large mammals.\n(D) Paleoindians followed a coastal migratory route to enter the New World and spread across South America, where they lived mostly in rockshelters and caves.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Some argue that Homo erectus in fact comprised several related but geographically distinct species. If so, this includes which of the following?",
+    "choices": [
+      "Homo ergaster in Asia, Homo erectus in Europe, Homo antecessor in Africa",
+      "Homo ergaster in Europe, Homo erectus in Africa, Homo antecessor in Asia",
+      "Homo ergaster in Africa, Homo erectus in Asia, Homo antecessor in Europe",
+      "Homo ergaster in Europe, Homo erectus in Africa and Asia, Homo antecessor in Australia"
+    ],
+    "answer": "C",
+    "input": "Question: Some argue that Homo erectus in fact comprised several related but geographically distinct species. If so, this includes which of the following?\nOptions:\n(A) Homo ergaster in Asia, Homo erectus in Europe, Homo antecessor in Africa\n(B) Homo ergaster in Europe, Homo erectus in Africa, Homo antecessor in Asia\n(C) Homo ergaster in Africa, Homo erectus in Asia, Homo antecessor in Europe\n(D) Homo ergaster in Europe, Homo erectus in Africa and Asia, Homo antecessor in Australia\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "When did maize-based agriculture replace the traditional foraging subsistence system in the Southwest?",
+    "choices": [
+      "500 B.P.",
+      "1000 B.P.",
+      "2000 B.P.",
+      "3000 B.P."
+    ],
+    "answer": "C",
+    "input": "Question: When did maize-based agriculture replace the traditional foraging subsistence system in the Southwest?\nOptions:\n(A) 500 B.P.\n(B) 1000 B.P.\n(C) 2000 B.P.\n(D) 3000 B.P.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Genetic analysis shows that humans and chimps have been evolving separately for about how long?",
+    "choices": [
+      "2 million years",
+      "4 million years",
+      "7 million years",
+      "15 million years"
+    ],
+    "answer": "C",
+    "input": "Question: Genetic analysis shows that humans and chimps have been evolving separately for about how long?\nOptions:\n(A) 2 million years\n(B) 4 million years\n(C) 7 million years\n(D) 15 million years\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which of the following signifies that a person was very young when they died?",
+    "choices": [
+      "the fusion of the epiphyses to the diaphysis",
+      "the absence of cranial sutures",
+      "the presence of deciduous dentition",
+      "all of the above"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following signifies that a person was very young when they died?\nOptions:\n(A) the fusion of the epiphyses to the diaphysis\n(B) the absence of cranial sutures\n(C) the presence of deciduous dentition\n(D) all of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Human domination of the planet is a culmination of:",
+    "choices": [
+      "the development of sophisticated tools, controlled use of fire, working cooperatively, and reliance on intelligence.",
+      "evolution of a larger body, increased strength, hunting, and increased warfare.",
+      "bipedalism, working independently, increased violence, and survival of the fittest.",
+      "all of the above."
+    ],
+    "answer": "A",
+    "input": "Question: Human domination of the planet is a culmination of:\nOptions:\n(A) the development of sophisticated tools, controlled use of fire, working cooperatively, and reliance on intelligence.\n(B) evolution of a larger body, increased strength, hunting, and increased warfare.\n(C) bipedalism, working independently, increased violence, and survival of the fittest.\n(D) all of the above.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Agriculture allows for complexity because:",
+    "choices": [
+      "people end up consuming more protein.",
+      "children begin working and contributing at an earlier age.",
+      "it only takes a few people to feed many, therefore freeing up enormous labor potential.",
+      "vegetables contain vitamins not available in meat or fish."
+    ],
+    "answer": "C",
+    "input": "Question: Agriculture allows for complexity because:\nOptions:\n(A) people end up consuming more protein.\n(B) children begin working and contributing at an earlier age.\n(C) it only takes a few people to feed many, therefore freeing up enormous labor potential.\n(D) vegetables contain vitamins not available in meat or fish.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "What was the climate of Greater Australia 20,000 years ago?",
+    "choices": [
+      "temperate",
+      "hot and dry",
+      "frozen tundra",
+      "all the above"
+    ],
+    "answer": "D",
+    "input": "Question: What was the climate of Greater Australia 20,000 years ago?\nOptions:\n(A) temperate\n(B) hot and dry\n(C) frozen tundra\n(D) all the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The mean size of a Homo habilis brain is roughly:",
+    "choices": [
+      "300 cc.",
+      "450 cc.",
+      "700 cc.",
+      "1200 cc."
+    ],
+    "answer": "C",
+    "input": "Question: The mean size of a Homo habilis brain is roughly:\nOptions:\n(A) 300 cc.\n(B) 450 cc.\n(C) 700 cc.\n(D) 1200 cc.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which of the following best describes an archaeologist's perspective of culture?",
+    "choices": [
+      "a common language shared by one group of people for survival",
+      "a genetically-determined adaptation that allows certain kinds of artifacts and technology to be replicated",
+      "learned and invented adaptations or strategies for survival which are not genetically determined",
+      "artifacts and artwork that inspire people and improve the average person's quality of life"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following best describes an archaeologist's perspective of culture?\nOptions:\n(A) a common language shared by one group of people for survival\n(B) a genetically-determined adaptation that allows certain kinds of artifacts and technology to be replicated\n(C) learned and invented adaptations or strategies for survival which are not genetically determined\n(D) artifacts and artwork that inspire people and improve the average person's quality of life\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which structures housed religious ceremonies?",
+    "choices": [
+      "pit-houses",
+      "pueblos",
+      "kivas",
+      "courtyard groups"
+    ],
+    "answer": "C",
+    "input": "Question: Which structures housed religious ceremonies?\nOptions:\n(A) pit-houses\n(B) pueblos\n(C) kivas\n(D) courtyard groups\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which of the following appears to be a hybridization of Neandertal and modern human stone tool technologies?",
+    "choices": [
+      "Châtelperronian",
+      "Levallois",
+      "Aurignacian",
+      "Mousterian"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following appears to be a hybridization of Neandertal and modern human stone tool technologies?\nOptions:\n(A) Châtelperronian\n(B) Levallois\n(C) Aurignacian\n(D) Mousterian\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The ridge of bone that runs along the top of the skull in Australopithecus robustus is called a:",
+    "choices": [
+      "diastema.",
+      "cranium.",
+      "maxilla.",
+      "sagittal crest."
+    ],
+    "answer": "D",
+    "input": "Question: The ridge of bone that runs along the top of the skull in Australopithecus robustus is called a:\nOptions:\n(A) diastema.\n(B) cranium.\n(C) maxilla.\n(D) sagittal crest.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "When Hernan Cortes entered the Aztec city of Tenochtitlán in A.D. __________, its population was estimated to be _____________.",
+    "choices": [
+      "1319; 50,000",
+      "1419; 100,000",
+      "1519; 200,000",
+      "1619; 400,000"
+    ],
+    "answer": "C",
+    "input": "Question: When Hernan Cortes entered the Aztec city of Tenochtitlán in A.D. __________, its population was estimated to be _____________.\nOptions:\n(A) 1319; 50,000\n(B) 1419; 100,000\n(C) 1519; 200,000\n(D) 1619; 400,000\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "What were the mastaba?",
+    "choices": [
+      "clay tablets that represent the earliest known form of writing in the world",
+      "mud-brick structures built over elite tombs that were subsequently developed into pyramids",
+      "irrigation canals that allowed for the production of agricultural surpluses in Egypt",
+      "the ritual headdress of the religious-political leaders of Mesopotamia"
+    ],
+    "answer": "B",
+    "input": "Question: What were the mastaba?\nOptions:\n(A) clay tablets that represent the earliest known form of writing in the world\n(B) mud-brick structures built over elite tombs that were subsequently developed into pyramids\n(C) irrigation canals that allowed for the production of agricultural surpluses in Egypt\n(D) the ritual headdress of the religious-political leaders of Mesopotamia\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Lewis Henry Morgan's stages of human culture are known as:",
+    "choices": [
+      "Three-Age system.",
+      "Natural selection.",
+      "Multilineal evolution.",
+      "Unilineal evolution."
+    ],
+    "answer": "D",
+    "input": "Question: Lewis Henry Morgan's stages of human culture are known as:\nOptions:\n(A) Three-Age system.\n(B) Natural selection.\n(C) Multilineal evolution.\n(D) Unilineal evolution.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "A state society is:",
+    "choices": [
+      "characterized by social inequality and the absence of hunting.",
+      "a stratified society whose rulers have the powers to tax, make laws, and conscript labor.",
+      "a system in which all members of the same age and sex category possess equal wealth and standing.",
+      "a political organization with no central leader whose subunits make collective decisions."
+    ],
+    "answer": "B",
+    "input": "Question: A state society is:\nOptions:\n(A) characterized by social inequality and the absence of hunting.\n(B) a stratified society whose rulers have the powers to tax, make laws, and conscript labor.\n(C) a system in which all members of the same age and sex category possess equal wealth and standing.\n(D) a political organization with no central leader whose subunits make collective decisions.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The village of Snaketown covers more than one square mile and had a well-developed irrigation network and evidence of a ceremonial ballgame. It was the largest village of which complex society?",
+    "choices": [
+      "Ancestral Puebloan",
+      "Hohokam",
+      "Mississippian",
+      "Adena"
+    ],
+    "answer": "C",
+    "input": "Question: The village of Snaketown covers more than one square mile and had a well-developed irrigation network and evidence of a ceremonial ballgame. It was the largest village of which complex society?\nOptions:\n(A) Ancestral Puebloan\n(B) Hohokam\n(C) Mississippian\n(D) Adena\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Analysis of the Denisovan, Neanderthals, and modern human genomes suggests that:",
+    "choices": [
+      "Neandertals and Denisovans diverged from a common population of premodern humans.",
+      "Neandertals and Denisovans are more similar to one another than either is to anatomically modern humans.",
+      "Neandertals and modern humans are more similar to one another than either is to Denisovans.",
+      "both a and b."
+    ],
+    "answer": "D",
+    "input": "Question: Analysis of the Denisovan, Neanderthals, and modern human genomes suggests that:\nOptions:\n(A) Neandertals and Denisovans diverged from a common population of premodern humans.\n(B) Neandertals and Denisovans are more similar to one another than either is to anatomically modern humans.\n(C) Neandertals and modern humans are more similar to one another than either is to Denisovans.\n(D) both a and b.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Since the late 1800s, tidal gauges indicate that mean global sea level has ________; there is consensus among scientists that sea level ______.",
+    "choices": [
+      "decreased by about 5 centimeters (2 inches); will soon begin to rise.",
+      "remained constant; may begin to rise if glaciers melt.",
+      "increased by about 5 centimeters (2 inches); will continue to rise.",
+      "increased by about 20 centimeters (8 inches); will continue to rise."
+    ],
+    "answer": "D",
+    "input": "Question: Since the late 1800s, tidal gauges indicate that mean global sea level has ________; there is consensus among scientists that sea level ______.\nOptions:\n(A) decreased by about 5 centimeters (2 inches); will soon begin to rise.\n(B) remained constant; may begin to rise if glaciers melt.\n(C) increased by about 5 centimeters (2 inches); will continue to rise.\n(D) increased by about 20 centimeters (8 inches); will continue to rise.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The Bering Strait was above water, on and off, between",
+    "choices": [
+      "60,000 and 42,000 B.P.",
+      "42,000 and 35,000 B.P.",
+      "35,000 and 11,000 B.P.",
+      "11,000 and 6,000 B.P."
+    ],
+    "answer": "C",
+    "input": "Question: The Bering Strait was above water, on and off, between\nOptions:\n(A) 60,000 and 42,000 B.P.\n(B) 42,000 and 35,000 B.P.\n(C) 35,000 and 11,000 B.P.\n(D) 11,000 and 6,000 B.P.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The idea that processes like weathering and erosion are responsible for the present condition of the earth is known as:",
+    "choices": [
+      "uniformitarianism.",
+      "natural selection.",
+      "creationism.",
+      "adaptation."
+    ],
+    "answer": "A",
+    "input": "Question: The idea that processes like weathering and erosion are responsible for the present condition of the earth is known as:\nOptions:\n(A) uniformitarianism.\n(B) natural selection.\n(C) creationism.\n(D) adaptation.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Who was part of the elite class in the Olmec culture?",
+    "choices": [
+      "those who lived in the particularly rich farmlands",
+      "those who lived near resource-privileged areas",
+      "those who lived near the river where trading took place",
+      "those who lived near the volcanic rocks used in tool making"
+    ],
+    "answer": "B",
+    "input": "Question: Who was part of the elite class in the Olmec culture?\nOptions:\n(A) those who lived in the particularly rich farmlands\n(B) those who lived near resource-privileged areas\n(C) those who lived near the river where trading took place\n(D) those who lived near the volcanic rocks used in tool making\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "The earthen monument called Mound 72 contained the burials of more than 270 people, including an adult male interred on a platform with 20,000 conch-shell beads in the shape of a giant bird. Mound 72 represents the most complex ______ society at ________.",
+    "choices": [
+      "Ancestral Puebloan; Pueblo Bonito",
+      "Hohokam; Casa Grande",
+      "Mississippian; Cahokia",
+      "Adena; Snaketown."
+    ],
+    "answer": "C",
+    "input": "Question: The earthen monument called Mound 72 contained the burials of more than 270 people, including an adult male interred on a platform with 20,000 conch-shell beads in the shape of a giant bird. Mound 72 represents the most complex ______ society at ________.\nOptions:\n(A) Ancestral Puebloan; Pueblo Bonito\n(B) Hohokam; Casa Grande\n(C) Mississippian; Cahokia\n(D) Adena; Snaketown.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which sites have provided evidence used in arguing against the hypothesis that social complexity always required the production of agricultural surpluses?",
+    "choices": [
+      "Stonehenge and Caral",
+      "Catalhoyuk and Gobekli Tepe",
+      "La Venta and Catalhoyuk",
+      "Gobekli Tepe and Poverty Point"
+    ],
+    "answer": "D",
+    "input": "Question: Which sites have provided evidence used in arguing against the hypothesis that social complexity always required the production of agricultural surpluses?\nOptions:\n(A) Stonehenge and Caral\n(B) Catalhoyuk and Gobekli Tepe\n(C) La Venta and Catalhoyuk\n(D) Gobekli Tepe and Poverty Point\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "What best characterizes the subsistence strategies of the North American Archaic period?",
+    "choices": [
+      "increased reliance on farming",
+      "decreased reliance on shellfish",
+      "greater regional differentiation",
+      "active trading between the North and South"
+    ],
+    "answer": "C",
+    "input": "Question: What best characterizes the subsistence strategies of the North American Archaic period?\nOptions:\n(A) increased reliance on farming\n(B) decreased reliance on shellfish\n(C) greater regional differentiation\n(D) active trading between the North and South\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Identify the correct sequence of mean cranial capacities for premodern Homo sapiens, Neandertals, and modern Homo sapiens.",
+    "choices": [
+      "650cc, 1220cc, 1500cc",
+      "800cc, 1280cc, 2000cc",
+      "1261cc, 1480cc, 1450cc",
+      "1350cc, 1100cc, 1510cc"
+    ],
+    "answer": "C",
+    "input": "Question: Identify the correct sequence of mean cranial capacities for premodern Homo sapiens, Neandertals, and modern Homo sapiens.\nOptions:\n(A) 650cc, 1220cc, 1500cc\n(B) 800cc, 1280cc, 2000cc\n(C) 1261cc, 1480cc, 1450cc\n(D) 1350cc, 1100cc, 1510cc\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Genetic evidence from the oldest known human skeletons in the New World dating from no more than __________ years ago indicate close connections between _________.",
+    "choices": [
+      "23,000; the skeletal remains of the first Americans, Native Americans, and the ancient and modern inhabitants of western Europe.",
+      "13,000; the skeletal remains of the first Americans, Native Americans, and the ancient and modern inhabitants of Siberia.",
+      "8,000; the skeletal remains of the first Americans, Austral-Melanesians, and the ancient and modern inhabitants of Melanesia.",
+      "6,000; the skeletal remains of the first Americans, Clovis culture, and the ancient and modern inhabitants of the Arctic."
+    ],
+    "answer": "B",
+    "input": "Question: Genetic evidence from the oldest known human skeletons in the New World dating from no more than __________ years ago indicate close connections between _________.\nOptions:\n(A) 23,000; the skeletal remains of the first Americans, Native Americans, and the ancient and modern inhabitants of western Europe.\n(B) 13,000; the skeletal remains of the first Americans, Native Americans, and the ancient and modern inhabitants of Siberia.\n(C) 8,000; the skeletal remains of the first Americans, Austral-Melanesians, and the ancient and modern inhabitants of Melanesia.\n(D) 6,000; the skeletal remains of the first Americans, Clovis culture, and the ancient and modern inhabitants of the Arctic.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Capacocha was an Incan ritual that involved what?",
+    "choices": [
+      "drinking maize beer and feasting on the hearts of slain enemies",
+      "sacrificing virgins in order to appease the serpent god",
+      "sacrificing captives of war in order to propitiate the sun god",
+      "sacrificing children in order to propitiate the spirits of the mountains"
+    ],
+    "answer": "D",
+    "input": "Question: Capacocha was an Incan ritual that involved what?\nOptions:\n(A) drinking maize beer and feasting on the hearts of slain enemies\n(B) sacrificing virgins in order to appease the serpent god\n(C) sacrificing captives of war in order to propitiate the sun god\n(D) sacrificing children in order to propitiate the spirits of the mountains\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "Which of the following was NOT a factor in the extinction of the Neandertals?",
+    "choices": [
+      "They were specialized for an environment that suddenly changed.",
+      "Their tool technology was less advanced.",
+      "They were unsuited to the hotter climates of the sub-Saharan savanna.",
+      "The Neandertal body type required greater amounts of calories to sustain."
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following was NOT a factor in the extinction of the Neandertals?\nOptions:\n(A) They were specialized for an environment that suddenly changed.\n(B) Their tool technology was less advanced.\n(C) They were unsuited to the hotter climates of the sub-Saharan savanna.\n(D) The Neandertal body type required greater amounts of calories to sustain.\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "prehistory",
+    "question": "A preserved pile of trash, often containing food remains, is called a _____________. At the Danish site of Meilgaard, one of these places contained millions of ______________.",
+    "choices": [
+      "midden; mollusk shells",
+      "camelid; pottery sherds",
+      "rachis; bones of domesticated cattle.",
+      "littoral; microblades"
+    ],
+    "answer": "A",
+    "input": "Question: A preserved pile of trash, often containing food remains, is called a _____________. At the Danish site of Meilgaard, one of these places contained millions of ______________.\nOptions:\n(A) midden; mollusk shells\n(B) camelid; pottery sherds\n(C) rachis; bones of domesticated cattle.\n(D) littoral; microblades\nAnswer:",
+    "target": "(A)"
+  }
+]

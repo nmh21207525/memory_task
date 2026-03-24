@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "college_mathematics",
+    "question": "If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be",
+    "choices": [
+      "x^3 + 5x^2 + 4x + 1",
+      "x^4 - 6x^3 + 15x^2 - 18x + 10",
+      "x^3 - x^2 + 4x + 1",
+      "x^4 + 7x^2 + 10"
+    ],
+    "answer": "B",
+    "input": "Question: If a polynomial f(x) over the real numbers has the complex numbers 2 + i and 1 - i as roots, then f(x) could be\nOptions:\n(A) x^3 + 5x^2 + 4x + 1\n(B) x^4 - 6x^3 + 15x^2 - 18x + 10\n(C) x^3 - x^2 + 4x + 1\n(D) x^4 + 7x^2 + 10\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3?",
+    "choices": [
+      "8/3",
+      "16/3",
+      "32/3",
+      "104/105"
+    ],
+    "answer": "C",
+    "input": "Question: What is the volume of the solid in xyz-space bounded by the surfaces y = x^2, y = 2 - x^2, z = 0, and z = y + 3?\nOptions:\n(A) 8/3\n(B) 16/3\n(C) 32/3\n(D) 104/105\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true?",
+    "choices": [
+      "If A is true, then B is false.",
+      "If A is false, then B is false.",
+      "If A is false, then B is true.",
+      "Both A and B are true."
+    ],
+    "answer": "B",
+    "input": "Question: Suppose A, B, and C are statements such that C is true if exactly one of A and B is true. If C is false, which of the following statements must be true?\nOptions:\n(A) If A is true, then B is false.\n(B) If A is false, then B is false.\n(C) If A is false, then B is true.\n(D) Both A and B are true.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "In a survey of 100 undergraduate math majors at a certain college, the following information is\r\nobtained about the courses they are taking during the Spring semester:\r\n41 are enrolled in real analysis,\r\n44 are enrolled in differential equations, 48 are enrolled in linear algebra,\r\n11 are enrolled in both real analysis and linear algebra,\r\n14 are enrolled in both real analysis and differential equations,\r\n19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.\r\nHow many of the students surveyed are enrolled in all three of these courses?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A",
+    "input": "Question: In a survey of 100 undergraduate math majors at a certain college, the following information is\r\nobtained about the courses they are taking during the Spring semester:\r\n41 are enrolled in real analysis,\r\n44 are enrolled in differential equations, 48 are enrolled in linear algebra,\r\n11 are enrolled in both real analysis and linear algebra,\r\n14 are enrolled in both real analysis and differential equations,\r\n19 are enrolled in both differential equations and linear algebra, and 10 are not enrolled in any of these three courses.\r\nHow many of the students surveyed are enrolled in all three of these courses?\nOptions:\n(A) 1\n(B) 2\n(C) 3\n(D) 4\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen?",
+    "choices": [
+      "(9/10)^k",
+      "(1/10)^k",
+      "(k-1)/k",
+      "1/10"
+    ],
+    "answer": "A",
+    "input": "Question: k digits are to be chosen at random (with repetitions allowed) from {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. What is the probability that 0 will not be chosen?\nOptions:\n(A) (9/10)^k\n(B) (1/10)^k\n(C) (k-1)/k\n(D) 1/10\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a",
+    "choices": [
+      "pair of points",
+      "circle",
+      "half-line",
+      "line"
+    ],
+    "answer": "D",
+    "input": "Question: In the complex z-plane, the set of points satisfying the equation z^2 = |z|^2 is a\nOptions:\n(A) pair of points\n(B) circle\n(C) half-line\n(D) line\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true?",
+    "choices": [
+      "f is one-to-one.",
+      "f is onto.",
+      "g is one-to-one.",
+      "g is onto."
+    ],
+    "answer": "A",
+    "input": "Question: Let S, T, and U be nonempty sets, and let f: S -> T and g: T -> U be functions such that the function g ∘ f : S -> U is one-to-one (injective). Which of the following must be true?\nOptions:\n(A) f is one-to-one.\n(B) f is onto.\n(C) g is one-to-one.\n(D) g is onto.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is",
+    "choices": [
+      "greater than 0.50",
+      "between 0.16 and 0.50",
+      "between 0.02 and 0.16",
+      "between 0.01 and 0.02"
+    ],
+    "answer": "C",
+    "input": "Question: A fair die is tossed 360 times. The probability that a six comes up on 70 or more of the tosses is\nOptions:\n(A) greater than 0.50\n(B) between 0.16 and 0.50\n(C) between 0.02 and 0.16\n(D) between 0.01 and 0.02\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane?",
+    "choices": [
+      "10/e",
+      "10",
+      "10e",
+      "e^10"
+    ],
+    "answer": "A",
+    "input": "Question: For what value of b is the line y = 10x tangent to the curve y = e^(bx) at some point in the xy-plane?\nOptions:\n(A) 10/e\n(B) 10\n(C) 10e\n(D) e^10\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be",
+    "choices": [
+      "8",
+      "20",
+      "30",
+      "35"
+    ],
+    "answer": "D",
+    "input": "Question: If the finite group G contains a subgroup of order five but no element of G other than the identity is its own inverse, then the order of G could be\nOptions:\n(A) 8\n(B) 20\n(C) 30\n(D) 35\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "college_mathematics",
+    "question": "If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid?",
+    "choices": [
+      "π^2 / 4",
+      "π^2 / 2",
+      "2π",
+      "π^2"
+    ],
+    "answer": "B",
+    "input": "Question: If one arch of the curve y = sin x is revolved around the x-axis, what's the volume of the generated solid?\nOptions:\n(A) π^2 / 4\n(B) π^2 / 2\n(C) 2π\n(D) π^2\nAnswer:",
+    "target": "(B)"
+  }
+]

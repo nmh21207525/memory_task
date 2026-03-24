@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "machine_learning",
+    "question": "Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network.",
+    "choices": [
+      "Should not set it to zero since otherwise it will cause overfitting",
+      "Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space",
+      "Should set it to zero since otherwise it causes a bias",
+      "Should set it to zero in order to preserve symmetry across all neurons"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following guidelines is applicable to initialization of the weight vector in a fully connected neural network.\nOptions:\n(A) Should not set it to zero since otherwise it will cause overfitting\n(B) Should not set it to zero since otherwise (stochastic) gradient descent will explore a very small space\n(C) Should set it to zero since otherwise it causes a bias\n(D) Should set it to zero in order to preserve symmetry across all neurons\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "Which of the following statements about Naive Bayes is incorrect?",
+    "choices": [
+      "Attributes are equally important.",
+      "Attributes are statistically dependent of one another given the class value.",
+      "Attributes are statistically independent of one another given the class value.",
+      "Attributes can be nominal or numeric"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following statements about Naive Bayes is incorrect?\nOptions:\n(A) Attributes are equally important.\n(B) Attributes are statistically dependent of one another given the class value.\n(C) Attributes are statistically independent of one another given the class value.\n(D) Attributes can be nominal or numeric\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3.",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": "D",
+    "input": "Question: Statement 1| The L2 penalty in a ridge regression is equivalent to a Laplace prior on the weights. Statement 2| There is at least one set of 4 points in R^3 that can be shattered by the hypothesis set of all 2D planes in R^3.\nOptions:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \\sum (y_n − β_0)^2 . We have a half term in the front because,",
+    "choices": [
+      "scaling MSE by half makes gradient descent converge faster.",
+      "presence of half makes it easy to do grid search.",
+      "it does not matter whether half is there or not.",
+      "none of the above"
+    ],
+    "answer": "C",
+    "input": "Question: For the one-parameter model, mean-Square error (MSE) is defined as follows: 1/(2N) \\sum (y_n − β_0)^2 . We have a half term in the front because,\nOptions:\n(A) scaling MSE by half makes gradient descent converge faster.\n(B) presence of half makes it easy to do grid search.\n(C) it does not matter whether half is there or not.\n(D) none of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "In Yann LeCun's cake, the cherry on top is",
+    "choices": [
+      "reinforcement learning",
+      "self-supervised learning",
+      "unsupervised learning",
+      "supervised learning"
+    ],
+    "answer": "A",
+    "input": "Question: In Yann LeCun's cake, the cherry on top is\nOptions:\n(A) reinforcement learning\n(B) self-supervised learning\n(C) unsupervised learning\n(D) supervised learning\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]]",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "C",
+    "input": "Question: What is the dimensionality of the null space of the following matrix? A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]]\nOptions:\n(A) 0\n(B) 1\n(C) 2\n(D) 3\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "The number of test examples needed to get statistically significant results should be _",
+    "choices": [
+      "Larger if the error rate is larger.",
+      "Larger if the error rate is smaller.",
+      "Smaller if the error rate is smaller.",
+      "It does not matter."
+    ],
+    "answer": "B",
+    "input": "Question: The number of test examples needed to get statistically significant results should be _\nOptions:\n(A) Larger if the error rate is larger.\n(B) Larger if the error rate is smaller.\n(C) Smaller if the error rate is smaller.\n(D) It does not matter.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________",
+    "choices": [
+      "higher",
+      "same",
+      "lower",
+      "it could be any of the above"
+    ],
+    "answer": "C",
+    "input": "Question: Compared to the variance of the Maximum Likelihood Estimate (MLE), the variance of the Maximum A Posteriori (MAP) estimate is ________\nOptions:\n(A) higher\n(B) same\n(C) lower\n(D) it could be any of the above\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z?",
+    "choices": [
+      "P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y)",
+      "P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y)",
+      "P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z)",
+      "P(X, Y, Z) = P(X) * P(Y) * P(Z)"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following best describes the joint probability distribution P(X, Y, Z) for the given Bayes net. X <- Y -> Z?\nOptions:\n(A) P(X, Y, Z) = P(Y) * P(X|Y) * P(Z|Y)\n(B) P(X, Y, Z) = P(X) * P(Y|X) * P(Z|Y)\n(C) P(X, Y, Z) = P(Z) * P(X|Z) * P(Y|Z)\n(D) P(X, Y, Z) = P(X) * P(Y) * P(Z)\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option.",
+    "choices": [
+      "High variance",
+      "High model bias",
+      "High estimation bias",
+      "None of the above"
+    ],
+    "answer": "A",
+    "input": "Question: You observe the following while fitting a linear regression to the data: As you increase the amount of training data, the test error decreases and the training error increases. The train error is quite low (almost what you expect it to), while the test error is much higher than the train error. What do you think is the main reason behind this behavior. Choose the most probable option.\nOptions:\n(A) High variance\n(B) High model bias\n(C) High estimation bias\n(D) None of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "machine_learning",
+    "question": "Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2).",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": "D",
+    "input": "Question: Statement 1| If there exists a set of k instances that cannot be shattered by H, then VC(H) < k. Statement 2| If two hypothesis classes H1 and H2 satisfy H1 ⊆ H2, then VC(H1) ≤ VC(H2).\nOptions:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nAnswer:",
+    "target": "(D)"
+  }
+]

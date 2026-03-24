@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "management",
+    "question": "What are the two main dimensions of the Ohio Studies into leadership?",
+    "choices": [
+      "Starting position and end position",
+      "Initial environment and changed environment",
+      "Organisational structure and conditioning",
+      "Initiating structure and considerations"
+    ],
+    "answer": "D",
+    "input": "Question: What are the two main dimensions of the Ohio Studies into leadership?\nOptions:\n(A) Starting position and end position\n(B) Initial environment and changed environment\n(C) Organisational structure and conditioning\n(D) Initiating structure and considerations\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "management",
+    "question": "Hygiene factors are associated with which writer?",
+    "choices": [
+      "Frederick Hertzberg",
+      "D.C. McClelland",
+      "Abraham Maslow",
+      "Douglas McGregor"
+    ],
+    "answer": "A",
+    "input": "Question: Hygiene factors are associated with which writer?\nOptions:\n(A) Frederick Hertzberg\n(B) D.C. McClelland\n(C) Abraham Maslow\n(D) Douglas McGregor\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "management",
+    "question": "Which element of the cultural web forms regalia?",
+    "choices": [
+      "Symbols",
+      "Rituals and routines",
+      "Power structures",
+      "Control systems"
+    ],
+    "answer": "A",
+    "input": "Question: Which element of the cultural web forms regalia?\nOptions:\n(A) Symbols\n(B) Rituals and routines\n(C) Power structures\n(D) Control systems\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "management",
+    "question": "What characteristic is not a key feature of the 'open systems' model of management?",
+    "choices": [
+      "Morale",
+      "Innovation",
+      "Growth resource",
+      "Adaptation"
+    ],
+    "answer": "A",
+    "input": "Question: What characteristic is not a key feature of the 'open systems' model of management?\nOptions:\n(A) Morale\n(B) Innovation\n(C) Growth resource\n(D) Adaptation\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "management",
+    "question": "How can organisational structures that are characterised by democratic and inclusive styles of management be described?",
+    "choices": [
+      "Hierarchical",
+      "Bureaucratic",
+      "Flat",
+      "Functional"
+    ],
+    "answer": "C",
+    "input": "Question: How can organisational structures that are characterised by democratic and inclusive styles of management be described?\nOptions:\n(A) Hierarchical\n(B) Bureaucratic\n(C) Flat\n(D) Functional\nAnswer:",
+    "target": "(C)"
+  }
+]

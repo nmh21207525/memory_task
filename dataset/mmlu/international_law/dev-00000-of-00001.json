@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "international_law",
+    "question": "What types of force does Article 2(4) of the UN Charter prohibit?",
+    "choices": [
+      "Article 2(4) encompasses only armed force",
+      "Article 2(4) encompasses all types of force, including sanctions",
+      "Article 2(4) encompasses all interference in the domestic affairs of States",
+      "Article 2(4) encompasses force directed only against a State's territorial integrity"
+    ],
+    "answer": "A",
+    "input": "Question: What types of force does Article 2(4) of the UN Charter prohibit?\nOptions:\n(A) Article 2(4) encompasses only armed force\n(B) Article 2(4) encompasses all types of force, including sanctions\n(C) Article 2(4) encompasses all interference in the domestic affairs of States\n(D) Article 2(4) encompasses force directed only against a State's territorial integrity\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "international_law",
+    "question": "What is the judge ad hoc?",
+    "choices": [
+      "If a party to a contentious case before the ICJ does not have a national sitting as judge, it is entitled to nominate someone as a judge solely for that case, with the title of judge ad hoc",
+      "Judge ad hoc is the member of the bench of the ICJ with a casting vote",
+      "Judge ad hoc is a surrogate judge, in case a judge is disqualified or passes away",
+      "Judge ad hoc is the judge that each party will always nominate in every contentious case"
+    ],
+    "answer": "A",
+    "input": "Question: What is the judge ad hoc?\nOptions:\n(A) If a party to a contentious case before the ICJ does not have a national sitting as judge, it is entitled to nominate someone as a judge solely for that case, with the title of judge ad hoc\n(B) Judge ad hoc is the member of the bench of the ICJ with a casting vote\n(C) Judge ad hoc is a surrogate judge, in case a judge is disqualified or passes away\n(D) Judge ad hoc is the judge that each party will always nominate in every contentious case\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "international_law",
+    "question": "Would a reservation to the definition of torture in the ICCPR be acceptable in contemporary practice?",
+    "choices": [
+      "This is an acceptable reservation if the reserving country's legislation employs a different definition",
+      "This is an unacceptable reservation because it contravenes the object and purpose of the ICCPR",
+      "This is an unacceptable reservation because the definition of torture in the ICCPR is consistent with customary international law",
+      "This is an acceptable reservation because under general international law States have the right to enter reservations to treaties"
+    ],
+    "answer": "B",
+    "input": "Question: Would a reservation to the definition of torture in the ICCPR be acceptable in contemporary practice?\nOptions:\n(A) This is an acceptable reservation if the reserving country's legislation employs a different definition\n(B) This is an unacceptable reservation because it contravenes the object and purpose of the ICCPR\n(C) This is an unacceptable reservation because the definition of torture in the ICCPR is consistent with customary international law\n(D) This is an acceptable reservation because under general international law States have the right to enter reservations to treaties\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "international_law",
+    "question": "When 'consent' can serve as a circumstance precluding the wrongfulness of a State conduct?",
+    "choices": [
+      "Consent can serve as a circumstance precluding the wrongfulness whenever it is given",
+      "Consent can never serve as a circumstance precluding wrongfulness",
+      "Consent can serve as a circumstance precluding wrongfulness, provided the consent is valid and to the extent that the conduct remains within the limits of the consent given",
+      "Consent can always serve as a circumstance precluding wrongfulness, no matter which organ of the State gives it"
+    ],
+    "answer": "C",
+    "input": "Question: When 'consent' can serve as a circumstance precluding the wrongfulness of a State conduct?\nOptions:\n(A) Consent can serve as a circumstance precluding the wrongfulness whenever it is given\n(B) Consent can never serve as a circumstance precluding wrongfulness\n(C) Consent can serve as a circumstance precluding wrongfulness, provided the consent is valid and to the extent that the conduct remains within the limits of the consent given\n(D) Consent can always serve as a circumstance precluding wrongfulness, no matter which organ of the State gives it\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "international_law",
+    "question": "How the consent to be bound of a State may be expressed?",
+    "choices": [
+      "The consent of a State to be bound is expressed only by ratification",
+      "The consent of a state to be bound by a treaty may be expressed by signature, ratification, acceptance, approval or accession",
+      "The consent of a State to be bound is expressed by signature",
+      "The consent of a State to be bound is expressed by whatever means they choose"
+    ],
+    "answer": "B",
+    "input": "Question: How the consent to be bound of a State may be expressed?\nOptions:\n(A) The consent of a State to be bound is expressed only by ratification\n(B) The consent of a state to be bound by a treaty may be expressed by signature, ratification, acceptance, approval or accession\n(C) The consent of a State to be bound is expressed by signature\n(D) The consent of a State to be bound is expressed by whatever means they choose\nAnswer:",
+    "target": "(B)"
+  }
+]

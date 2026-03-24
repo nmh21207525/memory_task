@@ -1,0 +1,301 @@
+[
+  {
+    "subject": "human_aging",
+    "question": "Comparisons of gay and lesbian couples with heterosexual married couples show that gay and lesbian couples",
+    "choices": [
+      "Are far less satisfied with their relationship",
+      "Show many of the same characteristics",
+      "Always attempt to conceal their relationship",
+      "Are usually more satisfied with their relationship"
+    ],
+    "answer": "B",
+    "input": "Question: Comparisons of gay and lesbian couples with heterosexual married couples show that gay and lesbian couples\nOptions:\n(A) Are far less satisfied with their relationship\n(B) Show many of the same characteristics\n(C) Always attempt to conceal their relationship\n(D) Are usually more satisfied with their relationship\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "One difference between the friendships of older and younger adults is that older adults",
+    "choices": [
+      "Have far fewer friends",
+      "Have more cross gender friendships",
+      "Have more close friends",
+      "Have less time for friends"
+    ],
+    "answer": "B",
+    "input": "Question: One difference between the friendships of older and younger adults is that older adults\nOptions:\n(A) Have far fewer friends\n(B) Have more cross gender friendships\n(C) Have more close friends\n(D) Have less time for friends\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Over the adult years, environment seems to play a bigger role than genetics in",
+    "choices": [
+      "The stability of personality traits",
+      "Longevity",
+      "Alzheimer's dementia",
+      "Environment never plays a bigger role"
+    ],
+    "answer": "B",
+    "input": "Question: Over the adult years, environment seems to play a bigger role than genetics in\nOptions:\n(A) The stability of personality traits\n(B) Longevity\n(C) Alzheimer's dementia\n(D) Environment never plays a bigger role\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Metamemory refers to",
+    "choices": [
+      "Semantic memory",
+      "Knowledge about memory",
+      "Long-term memory for major events",
+      "All memory components together"
+    ],
+    "answer": "B",
+    "input": "Question: Metamemory refers to\nOptions:\n(A) Semantic memory\n(B) Knowledge about memory\n(C) Long-term memory for major events\n(D) All memory components together\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "The most frequently used test designed to assess a cognitive disorder is the",
+    "choices": [
+      "Draw a clock test",
+      "MRI",
+      "MMSE",
+      "Time and change test"
+    ],
+    "answer": "C",
+    "input": "Question: The most frequently used test designed to assess a cognitive disorder is the\nOptions:\n(A) Draw a clock test\n(B) MRI\n(C) MMSE\n(D) Time and change test\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "The strongest research technique for determining genetic contributions to longevity is to compare",
+    "choices": [
+      "Siblings and parents",
+      "Identical and fraternal twins",
+      "Ancestors of different families",
+      "Centenarians to younger adults"
+    ],
+    "answer": "B",
+    "input": "Question: The strongest research technique for determining genetic contributions to longevity is to compare\nOptions:\n(A) Siblings and parents\n(B) Identical and fraternal twins\n(C) Ancestors of different families\n(D) Centenarians to younger adults\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "When asked where they would like to live for the rest of their lives most older adults say that they would prefer",
+    "choices": [
+      "Moving to be close to their children",
+      "Moving to Arizona or Florida if they could",
+      "Residing in a very nice nursing home",
+      "Staying in their own home"
+    ],
+    "answer": "D",
+    "input": "Question: When asked where they would like to live for the rest of their lives most older adults say that they would prefer\nOptions:\n(A) Moving to be close to their children\n(B) Moving to Arizona or Florida if they could\n(C) Residing in a very nice nursing home\n(D) Staying in their own home\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Cells taken from a body and grown in a nutritional and protected culture will",
+    "choices": [
+      "Never stop dividing",
+      "Stop dividing when their telomere strands are gone",
+      "Never divide",
+      "Show no senescence"
+    ],
+    "answer": "B",
+    "input": "Question: Cells taken from a body and grown in a nutritional and protected culture will\nOptions:\n(A) Never stop dividing\n(B) Stop dividing when their telomere strands are gone\n(C) Never divide\n(D) Show no senescence\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "A major difference between cancer cells and normal cells is that",
+    "choices": [
+      "Cancer cells have no telomere strands",
+      "Normal cells become cancerous when their telomere strands are used up",
+      "Cancer cells have no upper limit on cell division",
+      "Normal cells are protected from cancer when they have telomerase"
+    ],
+    "answer": "C",
+    "input": "Question: A major difference between cancer cells and normal cells is that\nOptions:\n(A) Cancer cells have no telomere strands\n(B) Normal cells become cancerous when their telomere strands are used up\n(C) Cancer cells have no upper limit on cell division\n(D) Normal cells are protected from cancer when they have telomerase\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Typically the longest phase of grieving is which of the following?",
+    "choices": [
+      "Numbing",
+      "Disorganization and despair",
+      "Denial",
+      "Yearning and searching"
+    ],
+    "answer": "B",
+    "input": "Question: Typically the longest phase of grieving is which of the following?\nOptions:\n(A) Numbing\n(B) Disorganization and despair\n(C) Denial\n(D) Yearning and searching\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Which of the following changes in skin is regarded as senescent?",
+    "choices": [
+      "Thinning",
+      "Appearance of age spots",
+      "Loss of protective hair",
+      "Wrinkling"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following changes in skin is regarded as senescent?\nOptions:\n(A) Thinning\n(B) Appearance of age spots\n(C) Loss of protective hair\n(D) Wrinkling\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Those who spend time caring for a family member with advanced dementia are likely to experience",
+    "choices": [
+      "The same dementia",
+      "Depression",
+      "A different dementia",
+      "Social isolation"
+    ],
+    "answer": "B",
+    "input": "Question: Those who spend time caring for a family member with advanced dementia are likely to experience\nOptions:\n(A) The same dementia\n(B) Depression\n(C) A different dementia\n(D) Social isolation\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "When brain metabolism is disturbed by an interaction among medicines, we refer to that as",
+    "choices": [
+      "Polypharmacy",
+      "Dementia",
+      "Delirium",
+      "MCI"
+    ],
+    "answer": "A",
+    "input": "Question: When brain metabolism is disturbed by an interaction among medicines, we refer to that as\nOptions:\n(A) Polypharmacy\n(B) Dementia\n(C) Delirium\n(D) MCI\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Bibliotherapy for the bereaved refers to",
+    "choices": [
+      "Seeking comfort from the Bible after a loss",
+      "Reading about others who have had a similar loss",
+      "Doing volunteer work in a library to relieve grief",
+      "Seeking comfort by looking at old photo albums, correspondence, and diaries"
+    ],
+    "answer": "B",
+    "input": "Question: Bibliotherapy for the bereaved refers to\nOptions:\n(A) Seeking comfort from the Bible after a loss\n(B) Reading about others who have had a similar loss\n(C) Doing volunteer work in a library to relieve grief\n(D) Seeking comfort by looking at old photo albums, correspondence, and diaries\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Which of the following is an example of accumulating garbage?",
+    "choices": [
+      "Raw glucose",
+      "Lipofuscin",
+      "Collagen",
+      "SOD"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following is an example of accumulating garbage?\nOptions:\n(A) Raw glucose\n(B) Lipofuscin\n(C) Collagen\n(D) SOD\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Which of the following is an anti-oxidant?",
+    "choices": [
+      "Vitamin E",
+      "Vitamin K",
+      "Vitamin B",
+      "Vitamin X"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is an anti-oxidant?\nOptions:\n(A) Vitamin E\n(B) Vitamin K\n(C) Vitamin B\n(D) Vitamin X\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "The suicide rate is highest for which of the following groups?",
+    "choices": [
+      "African American adolescent boys",
+      "Middle-aged Hispanic women",
+      "Old white men",
+      "Young Asian American women"
+    ],
+    "answer": "C",
+    "input": "Question: The suicide rate is highest for which of the following groups?\nOptions:\n(A) African American adolescent boys\n(B) Middle-aged Hispanic women\n(C) Old white men\n(D) Young Asian American women\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "All other things being equal, which of the following men is likely to be the happiest in retirement?",
+    "choices": [
+      "Gary who is still married",
+      "Leo who never married",
+      "Josh who is divorced",
+      "Caleb who is remarried"
+    ],
+    "answer": "A",
+    "input": "Question: All other things being equal, which of the following men is likely to be the happiest in retirement?\nOptions:\n(A) Gary who is still married\n(B) Leo who never married\n(C) Josh who is divorced\n(D) Caleb who is remarried\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "The most frequent fatal accident for older adults is a",
+    "choices": [
+      "Traffic accident",
+      "Fall",
+      "Burn or smoke inhalation",
+      "Accidental poisoning"
+    ],
+    "answer": "B",
+    "input": "Question: The most frequent fatal accident for older adults is a\nOptions:\n(A) Traffic accident\n(B) Fall\n(C) Burn or smoke inhalation\n(D) Accidental poisoning\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Some recent work has found an association between obesity and",
+    "choices": [
+      "Shorter telomere strands",
+      "Tobacco use",
+      "Excess alcohol use",
+      "Skin cancers"
+    ],
+    "answer": "A",
+    "input": "Question: Some recent work has found an association between obesity and\nOptions:\n(A) Shorter telomere strands\n(B) Tobacco use\n(C) Excess alcohol use\n(D) Skin cancers\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "Over the adult years, genetics seems to play a bigger role than environment in",
+    "choices": [
+      "The development of wisdom",
+      "Longevity",
+      "Loss of hair",
+      "Marital satisfaction"
+    ],
+    "answer": "C",
+    "input": "Question: Over the adult years, genetics seems to play a bigger role than environment in\nOptions:\n(A) The development of wisdom\n(B) Longevity\n(C) Loss of hair\n(D) Marital satisfaction\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "People with a positive attitude about their own aging are more likely to",
+    "choices": [
+      "Overlook danger signs of deterioration",
+      "Adopt new anti-aging regimens",
+      "Avoid serious injury and illness",
+      "Experience stress at any sign of senescence"
+    ],
+    "answer": "C",
+    "input": "Question: People with a positive attitude about their own aging are more likely to\nOptions:\n(A) Overlook danger signs of deterioration\n(B) Adopt new anti-aging regimens\n(C) Avoid serious injury and illness\n(D) Experience stress at any sign of senescence\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "human_aging",
+    "question": "In this chapter's Senior View, Martha Steward says that theories are very wrong if they claim that",
+    "choices": [
+      "Everyone gets sick when they get old",
+      "Our fates are in the hands of powerful other",
+      "You can avoid senescence",
+      "There is no upper limit on life span"
+    ],
+    "answer": "A",
+    "input": "Question: In this chapter's Senior View, Martha Steward says that theories are very wrong if they claim that\nOptions:\n(A) Everyone gets sick when they get old\n(B) Our fates are in the hands of powerful other\n(C) You can avoid senescence\n(D) There is no upper limit on life span\nAnswer:",
+    "target": "(A)"
+  }
+]

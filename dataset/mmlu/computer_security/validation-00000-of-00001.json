@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "computer_security",
+    "question": "What is penetration testing?",
+    "choices": [
+      "A procedure for testing libraries or other program components for vulnerabilities",
+      "Whole-system testing for security flaws and bugs",
+      "A security-minded form of unit testing that applies early in the development process",
+      "All of the above"
+    ],
+    "answer": "B",
+    "input": "Question: What is penetration testing?\nOptions:\n(A) A procedure for testing libraries or other program components for vulnerabilities\n(B) Whole-system testing for security flaws and bugs\n(C) A security-minded form of unit testing that applies early in the development process\n(D) All of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Suppose a user has an iPhone (running iOS) and downloads an app called Innocent from the Apple App Store and installs it. The user unlocks the phone and runs Innocent. Innocent exploits a bug in the iOS kernel which allows Innocent to redirect execution inside the kernel to code that Innocent controls. Now Innocent can execute any instructions it likes inside the iOS kernel. Innocent is not able to exploit any bugs in the phone’s secure enclave. Can Innocent read the user’s private information stored in the phone’s flash (e.g. Contacts and messages), or will the security measures described in the paper keep the data private? If Innocent is only able to see encrypted data, then the phone has successfully kept the data private. Circle the security features of the phone (if any) that will prevent Innocent from reading information from the flash on the phone.",
+    "choices": [
+      "Secure boot chain",
+      "System software authorization",
+      "The secure enclave’s ephemeral key",
+      "None of the above"
+    ],
+    "answer": "D",
+    "input": "Question: Suppose a user has an iPhone (running iOS) and downloads an app called Innocent from the Apple App Store and installs it. The user unlocks the phone and runs Innocent. Innocent exploits a bug in the iOS kernel which allows Innocent to redirect execution inside the kernel to code that Innocent controls. Now Innocent can execute any instructions it likes inside the iOS kernel. Innocent is not able to exploit any bugs in the phone’s secure enclave. Can Innocent read the user’s private information stored in the phone’s flash (e.g. Contacts and messages), or will the security measures described in the paper keep the data private? If Innocent is only able to see encrypted data, then the phone has successfully kept the data private. Circle the security features of the phone (if any) that will prevent Innocent from reading information from the flash on the phone.\nOptions:\n(A) Secure boot chain\n(B) System software authorization\n(C) The secure enclave’s ephemeral key\n(D) None of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Why is it that anti-virus scanners would not have found an exploitation of Heartbleed?",
+    "choices": [
+      "It's a vacuous question: Heartbleed only reads outside a buffer, so there is no possible exploit",
+      "Anti-virus scanners tend to look for viruses and other malicious",
+      "Heartbleed attacks the anti-virus scanner itself",
+      "Anti-virus scanners tend to look for viruses and other malicious code, but Heartbleed exploits steal secrets without injecting any code"
+    ],
+    "answer": "D",
+    "input": "Question: Why is it that anti-virus scanners would not have found an exploitation of Heartbleed?\nOptions:\n(A) It's a vacuous question: Heartbleed only reads outside a buffer, so there is no possible exploit\n(B) Anti-virus scanners tend to look for viruses and other malicious\n(C) Heartbleed attacks the anti-virus scanner itself\n(D) Anti-virus scanners tend to look for viruses and other malicious code, but Heartbleed exploits steal secrets without injecting any code\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Suppose we define h(H, m) = E(m, H)h(H,m)=E(m,H). Then the resulting h(\\cdot,\\cdot)h(⋅,⋅) is not collision resistant: to build a collision (H,m)(H,m) and (H’,m’)(H’,m’) choose random (H,m,m’)(H,m,m’) and construct H’H’ as follows:",
+    "choices": [
+      "H’=D(m’, E(m,H))",
+      "H’=E(m’,D(m,H))",
+      "H’=E(m’,E(m,H))",
+      "H’=D(m’,D(m,H))"
+    ],
+    "answer": "A",
+    "input": "Question: Suppose we define h(H, m) = E(m, H)h(H,m)=E(m,H). Then the resulting h(\\cdot,\\cdot)h(⋅,⋅) is not collision resistant: to build a collision (H,m)(H,m) and (H’,m’)(H’,m’) choose random (H,m,m’)(H,m,m’) and construct H’H’ as follows:\nOptions:\n(A) H’=D(m’, E(m,H))\n(B) H’=E(m’,D(m,H))\n(C) H’=E(m’,E(m,H))\n(D) H’=D(m’,D(m,H))\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Which of the following does authentication aim to accomplish?",
+    "choices": [
+      "Restrict what operations/data the user can access",
+      "Determine if the user is an attacker",
+      "Flag the user if he/she misbehaves",
+      "Determine who the user is"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following does authentication aim to accomplish?\nOptions:\n(A) Restrict what operations/data the user can access\n(B) Determine if the user is an attacker\n(C) Flag the user if he/she misbehaves\n(D) Determine who the user is\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker stealing the server’s private key and reading the plaintext of recorded past connections.\n2. An attacker breaking into a certificate authority and creating a fake certificate for the server.",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": "C",
+    "input": "Question: Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker stealing the server’s private key and reading the plaintext of recorded past connections.\n2. An attacker breaking into a certificate authority and creating a fake certificate for the server.\nOptions:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Can we build a secure PRP from a secure PRG?",
+    "choices": [
+      "No, it cannot be done",
+      "Yes, just plug the GGM PRF into the Luby-Rackoff theorem",
+      "It depends on the underlying PRG",
+      "Option text"
+    ],
+    "answer": "B",
+    "input": "Question: Can we build a secure PRP from a secure PRG?\nOptions:\n(A) No, it cannot be done\n(B) Yes, just plug the GGM PRF into the Luby-Rackoff theorem\n(C) It depends on the underlying PRG\n(D) Option text\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "A hash function guarantees the integrity of a message. It guarantees that the message has not be",
+    "choices": [
+      "Replaced",
+      "Overview",
+      "Changed",
+      "Violated"
+    ],
+    "answer": "C",
+    "input": "Question: A hash function guarantees the integrity of a message. It guarantees that the message has not be\nOptions:\n(A) Replaced\n(B) Overview\n(C) Changed\n(D) Violated\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "Statement 1| U2F is a stronger second factor than sending an SMS code to a user’s smartphone. Statement 2| An attacker that knows a user’s password can easily guess the U2F key to access the user’s account.",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": "C",
+    "input": "Question: Statement 1| U2F is a stronger second factor than sending an SMS code to a user’s smartphone. Statement 2| An attacker that knows a user’s password can easily guess the U2F key to access the user’s account.\nOptions:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. CR, MR, KM, and RS.\n2. RS",
+    "choices": [
+      "True, True",
+      "False, False",
+      "True, False",
+      "False, True"
+    ],
+    "answer": "C",
+    "input": "Question: The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. CR, MR, KM, and RS.\n2. RS\nOptions:\n(A) True, True\n(B) False, False\n(C) True, False\n(D) False, True\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "computer_security",
+    "question": "___________ is a process of wireless traffic analysis that may be helpful for forensic investigations or during troubleshooting any wireless issue.",
+    "choices": [
+      "Wireless Traffic Sniffing",
+      "WiFi Traffic Sniffing",
+      "Wireless Traffic Checking",
+      "Wireless Transmission Sniffing"
+    ],
+    "answer": "A",
+    "input": "Question: ___________ is a process of wireless traffic analysis that may be helpful for forensic investigations or during troubleshooting any wireless issue.\nOptions:\n(A) Wireless Traffic Sniffing\n(B) WiFi Traffic Sniffing\n(C) Wireless Traffic Checking\n(D) Wireless Transmission Sniffing\nAnswer:",
+    "target": "(A)"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "high_school_geography",
+    "question": "The rate of natural increase of a population is found by subtracting the",
+    "choices": [
+      "crude death rate from the crude birth date.",
+      "crude birth rate from the crude death rate.",
+      "doubling time from the crude birth rate.",
+      "fertility rate from the crude death rate."
+    ],
+    "answer": "A",
+    "input": "Question: The rate of natural increase of a population is found by subtracting the\nOptions:\n(A) crude death rate from the crude birth date.\n(B) crude birth rate from the crude death rate.\n(C) doubling time from the crude birth rate.\n(D) fertility rate from the crude death rate.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "During the third stage of the demographic transition model, which of the following is true?",
+    "choices": [
+      "Birth rates increase and population growth rate is less rapid.",
+      "Birth rates decline and population growth rate is less rapid.",
+      "Birth rates increase and population growth rate increases.",
+      "Birth rates decrease and population growth rate increases."
+    ],
+    "answer": "B",
+    "input": "Question: During the third stage of the demographic transition model, which of the following is true?\nOptions:\n(A) Birth rates increase and population growth rate is less rapid.\n(B) Birth rates decline and population growth rate is less rapid.\n(C) Birth rates increase and population growth rate increases.\n(D) Birth rates decrease and population growth rate increases.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which of the following statements is NOT accurate regarding the services provided by local governments in the United States?",
+    "choices": [
+      "Duplication of efforts occurs often.",
+      "Social problems of the central city spill over into the surrounding residential suburbs.",
+      "Inefficiency in providing services occurs often.",
+      "One neighborhood's efforts to reduce pollution are always supported by neighboring communities."
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following statements is NOT accurate regarding the services provided by local governments in the United States?\nOptions:\n(A) Duplication of efforts occurs often.\n(B) Social problems of the central city spill over into the surrounding residential suburbs.\n(C) Inefficiency in providing services occurs often.\n(D) One neighborhood's efforts to reduce pollution are always supported by neighboring communities.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "The practice of hiring a foreign third-party service provider to run an operation is called",
+    "choices": [
+      "outsourcing.",
+      "offshoring.",
+      "maquiladoras.",
+      "locational interdependence."
+    ],
+    "answer": "B",
+    "input": "Question: The practice of hiring a foreign third-party service provider to run an operation is called\nOptions:\n(A) outsourcing.\n(B) offshoring.\n(C) maquiladoras.\n(D) locational interdependence.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "high_school_geography",
+    "question": "Which one of the following items is an example of nonmaterial culture?",
+    "choices": [
+      "Dove soap",
+      "Dove candy bar",
+      "Dove symbol",
+      "A dove (bird)"
+    ],
+    "answer": "C",
+    "input": "Question: Which one of the following items is an example of nonmaterial culture?\nOptions:\n(A) Dove soap\n(B) Dove candy bar\n(C) Dove symbol\n(D) A dove (bird)\nAnswer:",
+    "target": "(C)"
+  }
+]

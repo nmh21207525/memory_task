@@ -1,0 +1,12 @@
+# 极简配置示例
+# 适用于标准格式数据（examples 数组，元素含 input + target）
+# 所有 task 使用相同的 prompt
+
+datasets:
+  my_dataset:
+    data_dir: ./data/my_dataset
+    # 仅需配置 default_prompt，无需 task_prompts
+    default_prompt:
+      task_prompt: "请根据问题给出正确答案。"
+      answer_format: "只输出答案，不要解释。"
+      generation_length: 128

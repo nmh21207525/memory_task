@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "sociology",
+    "question": "Which of the following did the post-war welfare state of 1948 not aim to provide:",
+    "choices": [
+      "free health care and education for all",
+      "a minimum wage",
+      "full employment",
+      "universal welfare"
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following did the post-war welfare state of 1948 not aim to provide:\nOptions:\n(A) free health care and education for all\n(B) a minimum wage\n(C) full employment\n(D) universal welfare\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "sociology",
+    "question": "What does Berger (1963) describe as a metaphor for social reality?",
+    "choices": [
+      "a fairground ride",
+      "a circus",
+      "a puppet theatre",
+      "a ballet"
+    ],
+    "answer": "C",
+    "input": "Question: What does Berger (1963) describe as a metaphor for social reality?\nOptions:\n(A) a fairground ride\n(B) a circus\n(C) a puppet theatre\n(D) a ballet\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "sociology",
+    "question": "The shift from 'civil religion' to 'common religion' means that:",
+    "choices": [
+      "the increasing bureaucracy of the state has made religion only a marginal part of our lives",
+      "despite the weakening of traditional authority, our everyday lives and 'common sense' remain shaped by religious beliefs and values",
+      "religious participation in collective worship may have declined, but people still practise their faiths in private",
+      "people are much more likely to discuss their religious beliefs in public, informal settings"
+    ],
+    "answer": "B",
+    "input": "Question: The shift from 'civil religion' to 'common religion' means that:\nOptions:\n(A) the increasing bureaucracy of the state has made religion only a marginal part of our lives\n(B) despite the weakening of traditional authority, our everyday lives and 'common sense' remain shaped by religious beliefs and values\n(C) religious participation in collective worship may have declined, but people still practise their faiths in private\n(D) people are much more likely to discuss their religious beliefs in public, informal settings\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "sociology",
+    "question": "The term 'hegemony' refers to:",
+    "choices": [
+      "the tendency for the working class not to realize their own interests",
+      "a dominant ideology that legitimates economic, political and cultural power",
+      "a form of dual consciousness based on ideology and everyday experiences",
+      "a mode of payment given for outstanding topiary"
+    ],
+    "answer": "B",
+    "input": "Question: The term 'hegemony' refers to:\nOptions:\n(A) the tendency for the working class not to realize their own interests\n(B) a dominant ideology that legitimates economic, political and cultural power\n(C) a form of dual consciousness based on ideology and everyday experiences\n(D) a mode of payment given for outstanding topiary\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "sociology",
+    "question": "Which of the following is not a problem associated with official statistics on strike action?",
+    "choices": [
+      "most strikes go unnoticed by employers and the mass media",
+      "not all industrial disputes will be reported by the employer",
+      "the definition of strikes excludes those that involve fewer than ten workers or last less than one day",
+      "it is hard to compare strikes that were measured in different ways"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following is not a problem associated with official statistics on strike action?\nOptions:\n(A) most strikes go unnoticed by employers and the mass media\n(B) not all industrial disputes will be reported by the employer\n(C) the definition of strikes excludes those that involve fewer than ten workers or last less than one day\n(D) it is hard to compare strikes that were measured in different ways\nAnswer:",
+    "target": "(A)"
+  }
+]

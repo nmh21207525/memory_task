@@ -1,0 +1,236 @@
+datasets:
+  mmlu:
+    data_dir: ./fewshot_pipeline/dataset/mmlu
+    default_prompt:
+      task_prompt: 'The following are multiple choice questions (with options).'
+      answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+      generation_length: 3
+    task_prompts:
+      abstract_algebra:
+        task_prompt: 'The following are multiple choice questions (with options) about abstract algebra.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      anatomy:
+        task_prompt: 'The following are multiple choice questions (with options) about anatomy.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      astronomy:
+        task_prompt: 'The following are multiple choice questions (with options) about astronomy.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      business_ethics:
+        task_prompt: 'The following are multiple choice questions (with options) about business ethics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      clinical_knowledge:
+        task_prompt: 'The following are multiple choice questions (with options) about clinical knowledge.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_biology:
+        task_prompt: 'The following are multiple choice questions (with options) about college biology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_chemistry:
+        task_prompt: 'The following are multiple choice questions (with options) about college chemistry.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_computer_science:
+        task_prompt: 'The following are multiple choice questions (with options) about college computer science.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_mathematics:
+        task_prompt: 'The following are multiple choice questions (with options) about college mathematics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_medicine:
+        task_prompt: 'The following are multiple choice questions (with options) about college medicine.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      college_physics:
+        task_prompt: 'The following are multiple choice questions (with options) about college physics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      computer_security:
+        task_prompt: 'The following are multiple choice questions (with options) about computer security.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      conceptual_physics:
+        task_prompt: 'The following are multiple choice questions (with options) about conceptual physics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      econometrics:
+        task_prompt: 'The following are multiple choice questions (with options) about econometrics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      electrical_engineering:
+        task_prompt: 'The following are multiple choice questions (with options) about electrical engineering.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      elementary_mathematics:
+        task_prompt: 'The following are multiple choice questions (with options) about elementary mathematics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      formal_logic:
+        task_prompt: 'The following are multiple choice questions (with options) about formal logic.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      global_facts:
+        task_prompt: 'The following are multiple choice questions (with options) about global facts.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_biology:
+        task_prompt: 'The following are multiple choice questions (with options) about high school biology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_chemistry:
+        task_prompt: 'The following are multiple choice questions (with options) about high school chemistry.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_computer_science:
+        task_prompt: 'The following are multiple choice questions (with options) about high school computer science.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_european_history:
+        task_prompt: 'The following are multiple choice questions (with options) about high school European history.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_geography:
+        task_prompt: 'The following are multiple choice questions (with options) about high school geography.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_government_and_politics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school government and politics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_macroeconomics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school macroeconomics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_mathematics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school mathematics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_microeconomics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school microeconomics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_physics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school physics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_psychology:
+        task_prompt: 'The following are multiple choice questions (with options) about high school psychology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_statistics:
+        task_prompt: 'The following are multiple choice questions (with options) about high school statistics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_us_history:
+        task_prompt: 'The following are multiple choice questions (with options) about high school US history.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      high_school_world_history:
+        task_prompt: 'The following are multiple choice questions (with options) about high school world history.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      human_aging:
+        task_prompt: 'The following are multiple choice questions (with options) about human aging.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      human_sexuality:
+        task_prompt: 'The following are multiple choice questions (with options) about human sexuality.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      international_law:
+        task_prompt: 'The following are multiple choice questions (with options) about international law.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      jurisprudence:
+        task_prompt: 'The following are multiple choice questions (with options) about jurisprudence.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      logical_fallacies:
+        task_prompt: 'The following are multiple choice questions (with options) about logical fallacies.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      machine_learning:
+        task_prompt: 'The following are multiple choice questions (with options) about machine learning.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      management:
+        task_prompt: 'The following are multiple choice questions (with options) about management.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      marketing:
+        task_prompt: 'The following are multiple choice questions (with options) about marketing.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      medical_genetics:
+        task_prompt: 'The following are multiple choice questions (with options) about medical genetics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      miscellaneous:
+        task_prompt: 'The following are multiple choice questions (with options) about miscellaneous topics.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      moral_disputes:
+        task_prompt: 'The following are multiple choice questions (with options) about moral disputes.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      moral_scenarios:
+        task_prompt: 'The following are multiple choice questions (with options) about moral scenarios.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      nutrition:
+        task_prompt: 'The following are multiple choice questions (with options) about nutrition.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      philosophy:
+        task_prompt: 'The following are multiple choice questions (with options) about philosophy.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      prehistory:
+        task_prompt: 'The following are multiple choice questions (with options) about prehistory.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      professional_accounting:
+        task_prompt: 'The following are multiple choice questions (with options) about professional accounting.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      professional_law:
+        task_prompt: 'The following are multiple choice questions (with options) about professional law.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      professional_medicine:
+        task_prompt: 'The following are multiple choice questions (with options) about professional medicine.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      professional_psychology:
+        task_prompt: 'The following are multiple choice questions (with options) about professional psychology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      public_relations:
+        task_prompt: 'The following are multiple choice questions (with options) about public relations.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      security_studies:
+        task_prompt: 'The following are multiple choice questions (with options) about security studies.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      sociology:
+        task_prompt: 'The following are multiple choice questions (with options) about sociology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      us_foreign_policy:
+        task_prompt: 'The following are multiple choice questions (with options) about US foreign policy.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      virology:
+        task_prompt: 'The following are multiple choice questions (with options) about virology.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3
+      world_religions:
+        task_prompt: 'The following are multiple choice questions (with options) about world religions.'
+        answer_format: 'Answer with only the corresponding letter (e.g. (A)).'
+        generation_length: 3

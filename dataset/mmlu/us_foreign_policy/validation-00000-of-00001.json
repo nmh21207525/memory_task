@@ -1,0 +1,145 @@
+[
+  {
+    "subject": "us_foreign_policy",
+    "question": "What policies did Alexander Hamilton pursue to build the American economy?",
+    "choices": [
+      "Free trade with all European countries on an equal basis and a smaller government role in the economy",
+      "Establishment of a national currency and higher government spending",
+      "Tariffs to protect American manufacturing, establishment of a national bank, and the repayment of all debts.",
+      "Limits on immigration and imported technology to encourage higher wages"
+    ],
+    "answer": "C",
+    "input": "Question: What policies did Alexander Hamilton pursue to build the American economy?\nOptions:\n(A) Free trade with all European countries on an equal basis and a smaller government role in the economy\n(B) Establishment of a national currency and higher government spending\n(C) Tariffs to protect American manufacturing, establishment of a national bank, and the repayment of all debts.\n(D) Limits on immigration and imported technology to encourage higher wages\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "How did relations with Russia develop under George H.W. Bush?",
+    "choices": [
+      "Cautious support for Gorbachev and Yeltsin",
+      "Unreserved support for Gorbachev and Yeltsin",
+      "Denouncement of Gorbachev, but support for Yeltsin",
+      "Denouncement of Gorbachev and Yeltsin"
+    ],
+    "answer": "A",
+    "input": "Question: How did relations with Russia develop under George H.W. Bush?\nOptions:\n(A) Cautious support for Gorbachev and Yeltsin\n(B) Unreserved support for Gorbachev and Yeltsin\n(C) Denouncement of Gorbachev, but support for Yeltsin\n(D) Denouncement of Gorbachev and Yeltsin\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "What fact impinged upon America's 'neutral' stance towards the belligerent in World War I between 1915 and 1917?",
+    "choices": [
+      "US banks funded the allies much more than Germany and Austria-Hungary",
+      "US banks funded Germany and Austria-Hungary much more than the allies",
+      "Wilson secretly favoured the German position",
+      "None of the above"
+    ],
+    "answer": "A",
+    "input": "Question: What fact impinged upon America's 'neutral' stance towards the belligerent in World War I between 1915 and 1917?\nOptions:\n(A) US banks funded the allies much more than Germany and Austria-Hungary\n(B) US banks funded Germany and Austria-Hungary much more than the allies\n(C) Wilson secretly favoured the German position\n(D) None of the above\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "Who were the original five permanent members on the UN Security Council?",
+    "choices": [
+      "United States, Soviet Union, Germany, France, and Great Britain",
+      "United States, Germany, France, Great Britain, and Japan",
+      "United States, Great Britain, Republic of China, India, and Brazil",
+      "United States, Soviet Union, France, Great Britain, and Republic of China"
+    ],
+    "answer": "D",
+    "input": "Question: Who were the original five permanent members on the UN Security Council?\nOptions:\n(A) United States, Soviet Union, Germany, France, and Great Britain\n(B) United States, Germany, France, Great Britain, and Japan\n(C) United States, Great Britain, Republic of China, India, and Brazil\n(D) United States, Soviet Union, France, Great Britain, and Republic of China\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "According to Realists, what accounts for the onset of the Cold War?",
+    "choices": [
+      "Ideological differences",
+      "A power vacuum",
+      "The expansionist nature of the Soviet Union",
+      "Both b and c"
+    ],
+    "answer": "D",
+    "input": "Question: According to Realists, what accounts for the onset of the Cold War?\nOptions:\n(A) Ideological differences\n(B) A power vacuum\n(C) The expansionist nature of the Soviet Union\n(D) Both b and c\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "What is soft power?",
+    "choices": [
+      "Use of coercive measures short of war, such as economic sanctions",
+      "Ways in which the values and culture of a country provide it with influence in the international system",
+      "Ineffective use of one's power",
+      "When states use carrots (incentives) instead of sticks (threats) to influence other countries."
+    ],
+    "answer": "B",
+    "input": "Question: What is soft power?\nOptions:\n(A) Use of coercive measures short of war, such as economic sanctions\n(B) Ways in which the values and culture of a country provide it with influence in the international system\n(C) Ineffective use of one's power\n(D) When states use carrots (incentives) instead of sticks (threats) to influence other countries.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "Why did Congress oppose Wilson's proposal for the League of Nations?",
+    "choices": [
+      "It feared the League would encourage Soviet influence in the US",
+      "It feared the League would be anti-democratic",
+      "It feared the League would commit the US to an international alliance",
+      "Both a and b"
+    ],
+    "answer": "C",
+    "input": "Question: Why did Congress oppose Wilson's proposal for the League of Nations?\nOptions:\n(A) It feared the League would encourage Soviet influence in the US\n(B) It feared the League would be anti-democratic\n(C) It feared the League would commit the US to an international alliance\n(D) Both a and b\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "What is the core reason why the US is viewed as exceptional?",
+    "choices": [
+      "Because it is a great power but uses that power sparingly",
+      "Because of its intensely liberal character, which is rooted in a sense of its special mission",
+      "Because of its exclusive concentration on issues of power and security",
+      "Because of its despotic character, which is rooted in a sense of its special mission"
+    ],
+    "answer": "B",
+    "input": "Question: What is the core reason why the US is viewed as exceptional?\nOptions:\n(A) Because it is a great power but uses that power sparingly\n(B) Because of its intensely liberal character, which is rooted in a sense of its special mission\n(C) Because of its exclusive concentration on issues of power and security\n(D) Because of its despotic character, which is rooted in a sense of its special mission\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "What is meant by a grand strategy of 'primacy'?",
+    "choices": [
+      "Assurance of US parity with other powers",
+      "Striving for American dominance in the international system",
+      "Putting America's interests first",
+      "Promotion of America as the world's first democracy"
+    ],
+    "answer": "B",
+    "input": "Question: What is meant by a grand strategy of 'primacy'?\nOptions:\n(A) Assurance of US parity with other powers\n(B) Striving for American dominance in the international system\n(C) Putting America's interests first\n(D) Promotion of America as the world's first democracy\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "Which factor is cited by Revisionists as the primary cause of the Cold War?",
+    "choices": [
+      "The threat posed by the Soviet Union",
+      "Domestic concerns of the US",
+      "Soviet ideology",
+      "None of the above"
+    ],
+    "answer": "B",
+    "input": "Question: Which factor is cited by Revisionists as the primary cause of the Cold War?\nOptions:\n(A) The threat posed by the Soviet Union\n(B) Domestic concerns of the US\n(C) Soviet ideology\n(D) None of the above\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "us_foreign_policy",
+    "question": "Who is considered the “father” of containment?",
+    "choices": [
+      "George Kennan",
+      "John Foster Dulles",
+      "Henry Kissinger",
+      "Dwight Eisenhower"
+    ],
+    "answer": "A",
+    "input": "Question: Who is considered the “father” of containment?\nOptions:\n(A) George Kennan\n(B) John Foster Dulles\n(C) Henry Kissinger\n(D) Dwight Eisenhower\nAnswer:",
+    "target": "(A)"
+  }
+]

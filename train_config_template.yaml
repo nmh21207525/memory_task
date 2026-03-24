@@ -1,0 +1,35 @@
+### model
+model_name_or_path: /path/to/base-model
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+template: qwen
+
+### dataset (DYNAMICALLY FILLED)
+# dataset:
+# dataset_dir:
+# cutoff_len:
+
+preprocessing_num_workers: 1
+packing: false
+overwrite_cache: true
+
+### output (DYNAMICALLY FILLED)
+# output_dir:
+logging_steps: 5
+plot_loss: true
+overwrite_output_dir: true
+
+### train (MOSTLY OVERRIDDEN BY SCRIPT)
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 0.0001
+num_train_epochs: 3.0
+lr_scheduler_type: constant
+warmup_steps: 0
+pure_bf16: true
+
+### save / eval (DYNAMICALLY OVERRIDDEN)
+save_strategy: "no"

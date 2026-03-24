@@ -1,0 +1,431 @@
+[
+  {
+    "subject": "nutrition",
+    "question": "Which of the following statements about plasma lipoproteins is correct?",
+    "choices": [
+      "They have a hydrophobic core of triacylglycerol and cholesterol esters",
+      "They have a hydrophobic core of phospholipids and free cholesterol",
+      "They have a hydrophilic core of triacylglycerol and cholesterol esters",
+      "They have a hydrophobic core of phospholipid and apolipoproteins"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following statements about plasma lipoproteins is correct?\nOptions:\n(A) They have a hydrophobic core of triacylglycerol and cholesterol esters\n(B) They have a hydrophobic core of phospholipids and free cholesterol\n(C) They have a hydrophilic core of triacylglycerol and cholesterol esters\n(D) They have a hydrophobic core of phospholipid and apolipoproteins\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following statements is correct?",
+    "choices": [
+      "Insulin suppresses the activity of glycogen synthase",
+      "Insulin mediates glucose uptake in the brain",
+      "\"Prediabetes\" is a condition characterized by an increased risk for the future development of type 2 diabetes",
+      "The rise in insulin concentration after meal ingestion is reduced in type 1 but not in type 2 diabetes"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following statements is correct?\nOptions:\n(A) Insulin suppresses the activity of glycogen synthase\n(B) Insulin mediates glucose uptake in the brain\n(C) \"Prediabetes\" is a condition characterized by an increased risk for the future development of type 2 diabetes\n(D) The rise in insulin concentration after meal ingestion is reduced in type 1 but not in type 2 diabetes\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What mechanisms potentially accelerate age related cognitive decline (as of 2020 medical knowledge)",
+    "choices": [
+      "Glucose neurotoxicity",
+      "Insulin insensitivity",
+      "Systemic inflammation",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: What mechanisms potentially accelerate age related cognitive decline (as of 2020 medical knowledge)\nOptions:\n(A) Glucose neurotoxicity\n(B) Insulin insensitivity\n(C) Systemic inflammation\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following are not true regarding macrobiotic and vegan diets?",
+    "choices": [
+      "Low in fat",
+      "High in fibre",
+      "Low in sugar",
+      "Low energy density"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following are not true regarding macrobiotic and vegan diets?\nOptions:\n(A) Low in fat\n(B) High in fibre\n(C) Low in sugar\n(D) Low energy density\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "On average, obese people have a higher basal metabolic rate (BMR) than lean people, mainly because the body of the obese has more (in kg):",
+    "choices": [
+      "adipose tissue (fat mass)",
+      "Lean mass (fat-free mass)",
+      "glycogen",
+      "water"
+    ],
+    "answer": "B",
+    "input": "Question: On average, obese people have a higher basal metabolic rate (BMR) than lean people, mainly because the body of the obese has more (in kg):\nOptions:\n(A) adipose tissue (fat mass)\n(B) Lean mass (fat-free mass)\n(C) glycogen\n(D) water\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following factors inhibits non-haem iron bioavailability the most?",
+    "choices": [
+      "Phytic acid",
+      "Citric acid",
+      "Vegetable protein",
+      "Calcium"
+    ],
+    "answer": "A",
+    "input": "Question: Which of the following factors inhibits non-haem iron bioavailability the most?\nOptions:\n(A) Phytic acid\n(B) Citric acid\n(C) Vegetable protein\n(D) Calcium\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following vitamins is involved in transamination of amino acids?",
+    "choices": [
+      "Niacin",
+      "Riboflavin",
+      "Thiamin",
+      "Vitamin B6"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following vitamins is involved in transamination of amino acids?\nOptions:\n(A) Niacin\n(B) Riboflavin\n(C) Thiamin\n(D) Vitamin B6\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following is the most frequently used anthropometric measure to estimate body mass?",
+    "choices": [
+      "Fat-free mass",
+      "Body fat",
+      "Body height",
+      "Body weight"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is the most frequently used anthropometric measure to estimate body mass?\nOptions:\n(A) Fat-free mass\n(B) Body fat\n(C) Body height\n(D) Body weight\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What is the immediate source of chemical energy that can be used by skeletal muscle tissue to allow muscle contraction?",
+    "choices": [
+      "glucose",
+      "ADP",
+      "ATP",
+      "AMP"
+    ],
+    "answer": "C",
+    "input": "Question: What is the immediate source of chemical energy that can be used by skeletal muscle tissue to allow muscle contraction?\nOptions:\n(A) glucose\n(B) ADP\n(C) ATP\n(D) AMP\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What are the functions of dietary fat?",
+    "choices": [
+      "Provide energy to the body",
+      "Form part of cellular membranes",
+      "Cell signalling",
+      "All options given are correct"
+    ],
+    "answer": "D",
+    "input": "Question: What are the functions of dietary fat?\nOptions:\n(A) Provide energy to the body\n(B) Form part of cellular membranes\n(C) Cell signalling\n(D) All options given are correct\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following will result in an increase in the rate of tissue protein synthesis?",
+    "choices": [
+      "Increased glucagon secretion in the fasting state.",
+      "Increased insulin secretion in the fed state.",
+      "Increased availability of lysine in the fed state.",
+      "Secretion of cortisol under conditions of stress."
+    ],
+    "answer": "B",
+    "input": "Question: Which of the following will result in an increase in the rate of tissue protein synthesis?\nOptions:\n(A) Increased glucagon secretion in the fasting state.\n(B) Increased insulin secretion in the fed state.\n(C) Increased availability of lysine in the fed state.\n(D) Secretion of cortisol under conditions of stress.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following mechanisms contributes to a decrease in plasma calcium concentration?",
+    "choices": [
+      "The action of vitamin D on the intestine",
+      "The action of parathyroid hormone on the intestine",
+      "The action of parathyroid hormone on the kidney",
+      "The action of calcitonin on the kidney"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following mechanisms contributes to a decrease in plasma calcium concentration?\nOptions:\n(A) The action of vitamin D on the intestine\n(B) The action of parathyroid hormone on the intestine\n(C) The action of parathyroid hormone on the kidney\n(D) The action of calcitonin on the kidney\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "From the options listed, which type of carbohydrate cannot be metabolised by oral bacteria",
+    "choices": [
+      "maltose",
+      "malto-triose",
+      "starch",
+      "glucose"
+    ],
+    "answer": "C",
+    "input": "Question: From the options listed, which type of carbohydrate cannot be metabolised by oral bacteria\nOptions:\n(A) maltose\n(B) malto-triose\n(C) starch\n(D) glucose\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What are entitlements to food?",
+    "choices": [
+      "The term refers to social welfare programmes, e.g. the Fair Price food shops in India.",
+      "It means the pathways through which people access food, whether by production, purchase, social protection programmes or other means.",
+      "When countries enact right-to-food legislation, then people are entitled to food.",
+      "The term is a reference to agrarian reform programmes that provide farmers with land titles."
+    ],
+    "answer": "B",
+    "input": "Question: What are entitlements to food?\nOptions:\n(A) The term refers to social welfare programmes, e.g. the Fair Price food shops in India.\n(B) It means the pathways through which people access food, whether by production, purchase, social protection programmes or other means.\n(C) When countries enact right-to-food legislation, then people are entitled to food.\n(D) The term is a reference to agrarian reform programmes that provide farmers with land titles.\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "The \"fear of becoming fat\" observed in patients with AN is best understood as a:",
+    "choices": [
+      "Paranoid delusion",
+      "Somatic delusion",
+      "Overvalued idea",
+      "Obsessive idea"
+    ],
+    "answer": "C",
+    "input": "Question: The \"fear of becoming fat\" observed in patients with AN is best understood as a:\nOptions:\n(A) Paranoid delusion\n(B) Somatic delusion\n(C) Overvalued idea\n(D) Obsessive idea\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following is a function of vitamin B12?",
+    "choices": [
+      "Synthesis of TMP (thymidine monophosphate)",
+      "Decarboxylation of amino acids to form amine neurotransmitters",
+      "Synthesis of methionine from homocysteine",
+      "Carboxylation of pyruvate to oxaloacetate"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following is a function of vitamin B12?\nOptions:\n(A) Synthesis of TMP (thymidine monophosphate)\n(B) Decarboxylation of amino acids to form amine neurotransmitters\n(C) Synthesis of methionine from homocysteine\n(D) Carboxylation of pyruvate to oxaloacetate\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Deficiency of which of the following vitamins results in megaloblastic anaemia?",
+    "choices": [
+      "Folate",
+      "Niacin",
+      "Riboflavin",
+      "Vitamin B6"
+    ],
+    "answer": "A",
+    "input": "Question: Deficiency of which of the following vitamins results in megaloblastic anaemia?\nOptions:\n(A) Folate\n(B) Niacin\n(C) Riboflavin\n(D) Vitamin B6\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following is not a reason for following a vegetarian diet?",
+    "choices": [
+      "Religious belief",
+      "For better health",
+      "To reduce global carbon dioxide and methane emissions",
+      "None of the options given are correct"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the following is not a reason for following a vegetarian diet?\nOptions:\n(A) Religious belief\n(B) For better health\n(C) To reduce global carbon dioxide and methane emissions\n(D) None of the options given are correct\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What is the energy need of a sedentary 43-year old woman who weighs 63 kg?",
+    "choices": [
+      "1250 kcal/day",
+      "1350 kcal/day",
+      "1525 kcal/day",
+      "1800 kcal/day"
+    ],
+    "answer": "B",
+    "input": "Question: What is the energy need of a sedentary 43-year old woman who weighs 63 kg?\nOptions:\n(A) 1250 kcal/day\n(B) 1350 kcal/day\n(C) 1525 kcal/day\n(D) 1800 kcal/day\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Normal growth can be defined as BMI between:",
+    "choices": [
+      "75th and 2nd BMI centile",
+      "91st and 2nd BMI centile",
+      "99.6th and 0.4th BMI centile",
+      "75th and 25th BMI centile"
+    ],
+    "answer": "B",
+    "input": "Question: Normal growth can be defined as BMI between:\nOptions:\n(A) 75th and 2nd BMI centile\n(B) 91st and 2nd BMI centile\n(C) 99.6th and 0.4th BMI centile\n(D) 75th and 25th BMI centile\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Why were low-carbohydrate diets not recommended previously?",
+    "choices": [
+      "Due to less weight loss efficacy",
+      "Due to low adherence to the diet",
+      "Due to the high protein content of the diet",
+      "Due to possible cardiovascular side-effects"
+    ],
+    "answer": "D",
+    "input": "Question: Why were low-carbohydrate diets not recommended previously?\nOptions:\n(A) Due to less weight loss efficacy\n(B) Due to low adherence to the diet\n(C) Due to the high protein content of the diet\n(D) Due to possible cardiovascular side-effects\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Malnutrition in older adults is associated with which of the following?",
+    "choices": [
+      "An increased mortality and morbidity",
+      "Reduced length of hospital",
+      "An improvement in physical function",
+      "A reduced susceptibility to infection"
+    ],
+    "answer": "A",
+    "input": "Question: Malnutrition in older adults is associated with which of the following?\nOptions:\n(A) An increased mortality and morbidity\n(B) Reduced length of hospital\n(C) An improvement in physical function\n(D) A reduced susceptibility to infection\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the following will have the lowest glycaemic index?",
+    "choices": [
+      "A baked apple",
+      "A raw apple",
+      "A raw potato",
+      "Apple juice"
+    ],
+    "answer": "C",
+    "input": "Question: Which of the following will have the lowest glycaemic index?\nOptions:\n(A) A baked apple\n(B) A raw apple\n(C) A raw potato\n(D) Apple juice\nAnswer:",
+    "target": "(C)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which statement best describes the process of absorption of vitamins from the intestine?",
+    "choices": [
+      "All of the options given are correct",
+      "Vitamin E is absorbed by a protein which normally binds peroxidised fatty acids to scavenge them",
+      "It is necessary to dephosphorylate thiamine pyrophosphate or pyridoxal phosphate before they can be absorbed",
+      "Oxidised vitamin C (dehydroascorbic acid) is absorbed by a glucose transporter"
+    ],
+    "answer": "A",
+    "input": "Question: Which statement best describes the process of absorption of vitamins from the intestine?\nOptions:\n(A) All of the options given are correct\n(B) Vitamin E is absorbed by a protein which normally binds peroxidised fatty acids to scavenge them\n(C) It is necessary to dephosphorylate thiamine pyrophosphate or pyridoxal phosphate before they can be absorbed\n(D) Oxidised vitamin C (dehydroascorbic acid) is absorbed by a glucose transporter\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Randomised, controlled trials provide strong evidence that an observed effect is due to the intervention (the assigned exposure). One reason is because",
+    "choices": [
+      "when the participants are randomised, many characteristics and possible confounding factors are likely to be evenly distributed in the groups.",
+      "it is easier to measure the outcome variable with great precision in randomised, controlled trials compared to in other study designs.",
+      "the exposure level and the outcome are measured at the same time.",
+      "the study participants are volunteers and therefore motivated to take part in the study."
+    ],
+    "answer": "A",
+    "input": "Question: Randomised, controlled trials provide strong evidence that an observed effect is due to the intervention (the assigned exposure). One reason is because\nOptions:\n(A) when the participants are randomised, many characteristics and possible confounding factors are likely to be evenly distributed in the groups.\n(B) it is easier to measure the outcome variable with great precision in randomised, controlled trials compared to in other study designs.\n(C) the exposure level and the outcome are measured at the same time.\n(D) the study participants are volunteers and therefore motivated to take part in the study.\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which nutrient intake is fairly similar for countries in north and south Europe?",
+    "choices": [
+      "PUFA",
+      "MUFA",
+      "SFA",
+      "Protein"
+    ],
+    "answer": "A",
+    "input": "Question: Which nutrient intake is fairly similar for countries in north and south Europe?\nOptions:\n(A) PUFA\n(B) MUFA\n(C) SFA\n(D) Protein\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "It is true about Bulimia Nervosa that:",
+    "choices": [
+      "Patients usually have a BMI<17.5 kg/m2",
+      "It has an equal gender distribution",
+      "Some patients have purging without binge eating episodes",
+      "Self-induced vomiting is the most frequent compensatory behaviour"
+    ],
+    "answer": "D",
+    "input": "Question: It is true about Bulimia Nervosa that:\nOptions:\n(A) Patients usually have a BMI<17.5 kg/m2\n(B) It has an equal gender distribution\n(C) Some patients have purging without binge eating episodes\n(D) Self-induced vomiting is the most frequent compensatory behaviour\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "A common anthropometric measure for infants is:",
+    "choices": [
+      "Standing height",
+      "Recumbent length",
+      "Sitting height",
+      "Laying height"
+    ],
+    "answer": "B",
+    "input": "Question: A common anthropometric measure for infants is:\nOptions:\n(A) Standing height\n(B) Recumbent length\n(C) Sitting height\n(D) Laying height\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which of the mechanisms below can explain why high protein diets are optimal for weight loss and weight maintenance?",
+    "choices": [
+      "Synergistic effect of GLP-1 and PYY on the appetite centres in the brain",
+      "Preservation of lean body mass",
+      "A higher thermic effect of protein than carbohydrates and fats",
+      "All of the options above"
+    ],
+    "answer": "D",
+    "input": "Question: Which of the mechanisms below can explain why high protein diets are optimal for weight loss and weight maintenance?\nOptions:\n(A) Synergistic effect of GLP-1 and PYY on the appetite centres in the brain\n(B) Preservation of lean body mass\n(C) A higher thermic effect of protein than carbohydrates and fats\n(D) All of the options above\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "Which is the most reliable type of observational study for investigating the link between diet and cancer?",
+    "choices": [
+      "Randomised controlled trial",
+      "Prospective study",
+      "Ecological study",
+      "Case-control study"
+    ],
+    "answer": "B",
+    "input": "Question: Which is the most reliable type of observational study for investigating the link between diet and cancer?\nOptions:\n(A) Randomised controlled trial\n(B) Prospective study\n(C) Ecological study\n(D) Case-control study\nAnswer:",
+    "target": "(B)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What is the difference between LCD and VLCD?",
+    "choices": [
+      "VLCD provides less energy than LCD and usually does not include natural foods",
+      "LCD provides less energy than LCD and usually does not include natural foods",
+      "LCD provides less energy than VLCD and usually includes natural foods",
+      "VLCD provides less energy than LCD and usually includes natural foods"
+    ],
+    "answer": "A",
+    "input": "Question: What is the difference between LCD and VLCD?\nOptions:\n(A) VLCD provides less energy than LCD and usually does not include natural foods\n(B) LCD provides less energy than LCD and usually does not include natural foods\n(C) LCD provides less energy than VLCD and usually includes natural foods\n(D) VLCD provides less energy than LCD and usually includes natural foods\nAnswer:",
+    "target": "(A)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What was the Green Revolution?",
+    "choices": [
+      "The term refers to the use of plant residues ('green manure') for fertiliser.",
+      "It is a reference to the 1992 UN Conference on Environment and Development.",
+      "It refers to the appointment of Green Party ministers in Germany's coalition governments between 1998 and 2005.",
+      "It refers to the widespread adoption of high-yielding cereal crop varieties by farmers in many developing countries starting in the mid-1960s."
+    ],
+    "answer": "D",
+    "input": "Question: What was the Green Revolution?\nOptions:\n(A) The term refers to the use of plant residues ('green manure') for fertiliser.\n(B) It is a reference to the 1992 UN Conference on Environment and Development.\n(C) It refers to the appointment of Green Party ministers in Germany's coalition governments between 1998 and 2005.\n(D) It refers to the widespread adoption of high-yielding cereal crop varieties by farmers in many developing countries starting in the mid-1960s.\nAnswer:",
+    "target": "(D)"
+  },
+  {
+    "subject": "nutrition",
+    "question": "What is the role of fatty acids in the body?",
+    "choices": [
+      "Oxidized by cells to provide energy",
+      "Neuroendocrine regulation of appetite",
+      "Gastrointestinal hormone influencing stomach emptying, gall bladder contraction and intestinal motility.",
+      "All of the above"
+    ],
+    "answer": "D",
+    "input": "Question: What is the role of fatty acids in the body?\nOptions:\n(A) Oxidized by cells to provide energy\n(B) Neuroendocrine regulation of appetite\n(C) Gastrointestinal hormone influencing stomach emptying, gall bladder contraction and intestinal motility.\n(D) All of the above\nAnswer:",
+    "target": "(D)"
+  }
+]
