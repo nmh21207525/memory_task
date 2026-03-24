@@ -1,6 +1,6 @@
 torch
 tqdm
-vllm
+vllm==0.15.1
 pyyaml
 bitsandbytes
 torchao
