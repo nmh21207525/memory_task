@@ -20,9 +20,16 @@ pip install -r requirements/metrics.txt
 
 ## 使用
 ### BBH
-
+```bash
+bash bbh_run_fewshot_pipeline_simple.sh
+```
 ### ARC
-
+```bash
+bash arc_run_fewshot_pipeline_simple.sh
+```
 ### MMLU
 
 ### Password
+```bash
+bash password_run_fewshot_pipeline_simple.sh
+```
