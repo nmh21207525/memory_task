@@ -112,8 +112,22 @@ def calculate_dynamic_cutoff(tokenizer, texts: List[str], buffer: int, min_cutof
     return max(max_len + buffer, min_cutoff_len)
 
 
-def setup_workspace(args: argparse.Namespace) -> Dict[str, str]:
-    work_dir = os.path.abspath(args.workspace_dir)
+def sanitize_path_component(name: str) -> str:
+    """将任意名称转换为适合目录名的安全片段。"""
+    cleaned = re.sub(r"[^A-Za-z0-9._-]+", "_", str(name).strip())
+    cleaned = cleaned.strip("._-")
+    return cleaned or "unknown"
+
+
+def resolve_workspace_dir(base_workspace_dir: str, model_path: str, dataset: str) -> str:
+    """基于根目录生成隔离 workspace：<base>/<model>/<dataset>。"""
+    model_name = sanitize_path_component(os.path.basename(os.path.normpath(model_path)))
+    dataset_name = sanitize_path_component(dataset)
+    return os.path.join(os.path.abspath(base_workspace_dir), model_name, dataset_name)
+
+
+def setup_workspace(work_dir: str, results_dir: str, logs_dir: str) -> Dict[str, str]:
+    work_dir = os.path.abspath(work_dir)
     data_dir = os.path.join(work_dir, "data")
     output_dir = os.path.join(work_dir, "output")
     config_path = os.path.join(work_dir, "train_config.yaml")
@@ -122,8 +136,8 @@ def setup_workspace(args: argparse.Namespace) -> Dict[str, str]:
     if os.path.exists(work_dir):
         shutil.rmtree(work_dir)
     os.makedirs(data_dir, exist_ok=True)
-    os.makedirs(os.path.abspath(args.results_dir), exist_ok=True)
-    os.makedirs(os.path.abspath(args.logs_dir), exist_ok=True)
+    os.makedirs(os.path.abspath(results_dir), exist_ok=True)
+    os.makedirs(os.path.abspath(logs_dir), exist_ok=True)
 
     ds_config = {
         "train_batch_size": "auto",
@@ -461,9 +475,14 @@ def main() -> None:
     if train_size <= 0:
         raise ValueError("train_size must be greater than 0")
 
+    run_workspace_dir = resolve_workspace_dir(args.workspace_dir, args.model_path, args.dataset)
+    run_logs_dir = resolve_workspace_dir(args.logs_dir, args.model_path, args.dataset)
+
     print(f"Training GPU(s): {gpu_ids}")
     print(f"Inference GPU: {main_gpu}")
     print(f"dataset={args.dataset} few_shot_k={args.few_shot_k} train_size={train_size} epochs={args.epochs}")
+    print(f"workspace_dir={run_workspace_dir}")
+    print(f"logs_dir={run_logs_dir}")
 
     dataset_cfg = load_dataset_config(args.dataset, args.dataset_dir, args.task_registry)
     selected_units = list_training_units(args.dataset, dataset_cfg, args.task_names)
@@ -473,7 +492,7 @@ def main() -> None:
         selected_units = [args.eval_split]
         eval_units = [args.eval_split]
 
-    paths = setup_workspace(args)
+    paths = setup_workspace(run_workspace_dir, args.results_dir, run_logs_dir)
     from transformers import AutoTokenizer
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_path, trust_remote_code=True)
@@ -547,7 +566,7 @@ def main() -> None:
 
         time.sleep(3)
         if args.save_training_logs:
-            save_training_logs(train_unit, os.path.abspath(args.logs_dir), paths["OUTPUT_DIR"])
+            save_training_logs(train_unit, run_logs_dir, paths["OUTPUT_DIR"])
 
         if args.run_checkpoint_eval:
             checkpoint_dirs = sorted(
