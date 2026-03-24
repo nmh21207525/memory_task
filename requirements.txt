@@ -16,3 +16,4 @@ omegaconf
 psutil
 peft
 deepspeed
+tensorboard
