@@ -45,10 +45,10 @@ def str2bool(v: str) -> bool:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Unified few-shot pipeline for BBH, ARC, and task-style datasets like Password."
+        description="Unified few-shot pipeline for BBH, ARC, MMLU, and task-style datasets like Password."
     )
     parser.add_argument("--gpu_ids", type=str, default="0,1,2,3", help="Training GPUs, for example 0,1,2,3")
-    parser.add_argument("--dataset", choices=["bbh", "arc", "password"], required=True, help="Dataset name")
+    parser.add_argument("--dataset", choices=["bbh", "arc", "password", "mmlu"], required=True, help="Dataset name")
     parser.add_argument("--dataset_dir", type=str, default=None, help="Override dataset directory")
     parser.add_argument("--task_registry", type=str, default=None, help="Registry YAML/JSON, default registry_<dataset>.yaml")
     parser.add_argument("--task_names", type=str, default="", help="Task-style datasets only: comma-separated task list; empty means all")
@@ -507,7 +507,7 @@ def main() -> None:
         print(f"\n{'=' * 12} unit [{unit_index}/{len(selected_units)}]: {train_unit} {'=' * 12}")
 
         # Task-style datasets evaluate the current task; ARC evaluates the selected split.
-        current_eval_units = [train_unit] if args.dataset in {"bbh", "password"} else eval_units
+        current_eval_units = [train_unit] if args.dataset in {"bbh", "password", "mmlu"} else eval_units
 
         try:
             train_examples_all = load_training_examples(args.dataset, dataset_cfg, train_unit)

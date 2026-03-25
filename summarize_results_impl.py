@@ -11,7 +11,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description="汇总 few-shot 全流程评测结果")
     parser.add_argument("--results_dir", type=str, required=True, help="结果目录，支持递归读取")
     parser.add_argument("--output_dir", type=str, default=None, help="输出目录，默认 results_dir/acc_analysis_<mode>")
-    parser.add_argument("--mode", choices=["auto", "bbh", "arc", "password"], default="auto", help="统计模式")
+    parser.add_argument("--mode", choices=["auto", "bbh", "arc", "password", "mmlu"], default="auto", help="统计模式")
     parser.add_argument("--stage_filter", type=str, default="", help="仅统计指定 stage，逗号分隔")
     parser.add_argument("--train_task_filter", type=str, default="", help="仅统计指定 train_task，逗号分隔")
     parser.add_argument("--eval_task_filter", type=str, default="", help="仅统计指定 eval_task，逗号分隔")

@@ -1,6 +1,6 @@
 datasets:
   mmlu:
-    data_dir: ./fewshot_pipeline/dataset/mmlu
+    data_dir: ./dataset/mmlu
     default_prompt:
       task_prompt: 'The following are multiple choice questions (with options).'
       answer_format: 'Answer with only the corresponding letter (e.g. (A)).'

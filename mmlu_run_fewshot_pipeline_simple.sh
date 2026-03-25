@@ -3,9 +3,9 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-MODEL_PATH="/mnt/jinbo/RLRM/model/Qwen/Qwen2.5-3B-Instruct"
-DATASET="arc"
-GPU_IDS="0,1"
+MODEL_PATH="/mnt/jinbo/RLRM/model/Qwen/Qwen2.5-1.5B-Instruct"
+DATASET="mmlu"
+GPU_IDS="2,3"
 TASK_NAMES=""
 EVAL_SPLIT="test"
 FEW_SHOT_K=5
@@ -18,51 +18,33 @@ SKIP_TRAINING=false
 usage() {
   cat <<EOF
 Usage:
-  bash run_fewshot_pipeline_simple.sh --model_path /path/to/model --dataset bbh|arc|password [options]
+  bash mmlu_run_fewshot_pipeline_simple.sh --model_path /path/to/model [options]
 
 Required:
   --model_path PATH
-  --dataset bbh|arc|password
 
 Common options:
   --gpu_ids 0,1,2,3
-  --task_names task1,task2        BBH/password only
-  --eval_split validation|test    ARC only
+  --task_names abstract_algebra,anatomy   MMLU subject list, empty means all subjects
   --few_shot_k 5
-  --train_size 5                  default = few_shot_k
+  --train_size 5                          default = few_shot_k
   --epochs 3
   --repeat_times 10
   --results_dir PATH
   --skip_training true|false
 
 Split semantics:
-  BBH/password: current task's first train_size samples are used for TTT/SFT and few-shot support;
-       the remaining samples are evaluated.
-  ARC: current split's first train_size samples are used for TTT/SFT and few-shot support;
-       the remaining samples in that same split are evaluated.
-
-Examples:
-  bash run_fewshot_pipeline_simple.sh \\
-    --model_path /mnt/model/Qwen2.5-1.5B-Instruct \\
-    --dataset bbh \\
-    --task_names boolean_expressions,date_understanding \\
-    --gpu_ids 0,1,2,3
-
-  bash run_fewshot_pipeline_simple.sh \\
-    --model_path /mnt/model/Qwen2.5-1.5B-Instruct \\
-    --dataset arc \\
-    --eval_split validation \\
-    --gpu_ids 0,1,2,3
+  MMLU: for each subject, only test split is used in full flow.
+        The first train_size samples are used for TTT/SFT and few-shot support;
+        the remaining samples in that same test split are evaluated.
 EOF
 }
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
     --model_path) MODEL_PATH="$2"; shift 2 ;;
-    --dataset) DATASET="$2"; shift 2 ;;
     --gpu_ids) GPU_IDS="$2"; shift 2 ;;
     --task_names) TASK_NAMES="$2"; shift 2 ;;
-    --eval_split) EVAL_SPLIT="$2"; shift 2 ;;
     --few_shot_k) FEW_SHOT_K="$2"; shift 2 ;;
     --train_size) TRAIN_SIZE="$2"; shift 2 ;;
     --epochs) EPOCHS="$2"; shift 2 ;;
@@ -74,7 +56,7 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-if [[ -z "$MODEL_PATH" || -z "$DATASET" ]]; then
+if [[ -z "$MODEL_PATH" ]]; then
   usage
   exit 1
 fi
@@ -87,8 +69,8 @@ echo "Run few-shot pipeline"
 echo "  model_path  = ${MODEL_PATH}"
 echo "  dataset     = ${DATASET}"
 echo "  gpu_ids     = ${GPU_IDS}"
-echo "  task_names  = ${TASK_NAMES:-<all/default>}"
-echo "  eval_split  = ${EVAL_SPLIT}"
+echo "  task_names  = ${TASK_NAMES:-<all subjects>}"
+echo "  eval_split  = test (fixed for mmlu)"
 echo "  few_shot_k  = ${FEW_SHOT_K}"
 echo "  train_size  = ${TRAIN_SIZE}"
 echo "  epochs      = ${EPOCHS}"

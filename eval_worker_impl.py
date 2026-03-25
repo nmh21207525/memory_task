@@ -263,11 +263,11 @@ def compute_acc_norm_arc(
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="vLLM 评测 worker，支持 BBH/ARC/Password 的 zero-shot 与 few-shot")
-    parser.add_argument("--dataset", choices=["bbh", "arc", "password"], required=True, help="数据集名称")
+    parser = argparse.ArgumentParser(description="vLLM 评测 worker，支持 BBH/ARC/MMLU/Password 的 zero-shot 与 few-shot")
+    parser.add_argument("--dataset", choices=["bbh", "arc", "password", "mmlu"], required=True, help="数据集名称")
     parser.add_argument("--dataset_dir", type=str, default=None, help="数据集目录覆盖")
     parser.add_argument("--task_registry", type=str, default=None, help="任务注册表 YAML/JSON")
-    parser.add_argument("--eval_unit", type=str, required=True, help="评测单元：BBH task 名或 ARC split 名")
+    parser.add_argument("--eval_unit", type=str, required=True, help="评测单元：BBH/Password/MMLU task 名或 ARC split 名")
     parser.add_argument("--train_unit", type=str, default="", help="训练单元名称，仅用于结果记录")
     parser.add_argument("--model_path", type=str, required=True)
     parser.add_argument("--output_path", type=str, required=True)
@@ -329,44 +329,30 @@ def main() -> None:
         print(f"vLLM 初始化失败: {e}")
         sys.exit(1)
 
-    # 根据数据集选择评测方法
-    if args.dataset == "arc":
-        # ARC: 使用 acc_norm（基于选项概率的多选题评测）
-        print("[Worker] Using acc_norm for ARC multiple-choice evaluation")
-        acc_percent, details = compute_acc_norm_arc(
-            llm=llm,
-            dataset_cfg=dataset_cfg,
-            prompt_spec=prompt_spec,
-            eval_examples=eval_examples,
-            few_shot_prompt_prefix=few_shot_prompt_prefix,
-        )
-        acc = acc_percent / 100.0
-        print(f"Accuracy (acc_norm): {acc_percent:.2f}%")
-    else:
-        # BBH/Password: 使用标准的文本匹配评测
-        preds = run_vllm_inference(
-            llm=llm,
-            questions=eval_questions,
-            dataset_cfg=dataset_cfg,
-            prompt_spec=prompt_spec,
-            max_new_tokens=prompt_spec.generation_length,
-            few_shot_prompt_prefix=few_shot_prompt_prefix,
-        )
+    # 全数据集统一使用标准 acc 文本匹配评测。
+    preds = run_vllm_inference(
+        llm=llm,
+        questions=eval_questions,
+        dataset_cfg=dataset_cfg,
+        prompt_spec=prompt_spec,
+        max_new_tokens=prompt_spec.generation_length,
+        few_shot_prompt_prefix=few_shot_prompt_prefix,
+    )
 
-        acc_percent = compute_accuracy(preds, eval_targets)
-        acc = acc_percent / 100.0
-        print(f"Accuracy: {acc_percent:.2f}%")
+    acc_percent = compute_accuracy(preds, eval_targets)
+    acc = acc_percent / 100.0
+    print(f"Accuracy: {acc_percent:.2f}%")
 
-        details = []
-        for inp, tgt, pred in zip(eval_questions, eval_targets, preds):
-            details.append(
-                {
-                    "input": inp,
-                    "target": tgt,
-                    "prediction": pred,
-                    "is_correct": is_prediction_correct(pred, tgt),
-                }
-            )
+    details = []
+    for inp, tgt, pred in zip(eval_questions, eval_targets, preds):
+        details.append(
+            {
+                "input": inp,
+                "target": tgt,
+                "prediction": pred,
+                "is_correct": is_prediction_correct(pred, tgt),
+            }
+        )
 
     # Extract model name from path (e.g., /path/to/Qwen2.5-1.5B-Instruct -> Qwen2.5-1.5B-Instruct)
     model_name = os.path.basename(os.path.normpath(args.model_path))

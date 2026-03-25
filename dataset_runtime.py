@@ -10,7 +10,7 @@ import yaml
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-SUPPORTED_DATASETS = {"bbh", "arc", "password"}
+SUPPORTED_DATASETS = {"bbh", "arc", "password", "mmlu"}
 
 
 @dataclass
@@ -81,6 +81,17 @@ def _default_config(dataset_name: str) -> Dict[str, Any]:
                 "generation_length": 32,
             },
         }
+    if dataset_name == "mmlu":
+        return {
+            "data_dir": os.path.join(SCRIPT_DIR, "dataset", "mmlu"),
+            "question_template": "{input}",
+            "eval_split_default": "test-00000-of-00001.json",
+            "default_prompt": {
+                "task_prompt": "The following are multiple choice questions (with options).",
+                "answer_format": "Answer with only the corresponding letter (e.g. (A)).",
+                "generation_length": 3,
+            },
+        }
     raise ConfigError(f"暂不支持的数据集: {dataset_name}")
 
 
@@ -128,6 +139,18 @@ def list_training_units(dataset_name: str, dataset_cfg: Dict[str, Any], task_nam
     if dataset_name == "arc":
         return [str(dataset_cfg.get("eval_split_default", "test"))]
 
+    if dataset_name == "mmlu":
+        subject_dirs = sorted(
+            [
+                name
+                for name in os.listdir(dataset_cfg["data_dir"])
+                if os.path.isdir(os.path.join(dataset_cfg["data_dir"], name))
+            ]
+        )
+        if not subject_dirs:
+            raise FileNotFoundError(f"未在 {dataset_cfg['data_dir']} 下找到 MMLU subject 目录")
+        return subject_dirs
+
     # BBH 和 password 使用相同的文件扫描逻辑
     pattern = os.path.join(dataset_cfg["data_dir"], dataset_cfg.get("file_pattern", "*.json"))
     files = sorted(glob.glob(pattern))
@@ -146,6 +169,10 @@ def list_eval_units(
 ) -> List[str]:
     if dataset_name == "arc":
         return [eval_split or dataset_cfg.get("eval_split_default", "validation")]
+
+    if dataset_name == "mmlu":
+        # MMLU 按 subject 评测，每个 subject 内部固定使用 test split。
+        return list(selected_units)
 
     if eval_scope == "all_dataset_tasks":
         return list_training_units(dataset_name, dataset_cfg, task_names=None)
@@ -195,6 +222,25 @@ def _load_arc_jsonl(path: str) -> List[Dict[str, Any]]:
     return examples
 
 
+def _load_mmlu_subject_examples(subject_dir: str, split_file: str) -> List[Dict[str, str]]:
+    file_path = os.path.join(subject_dir, split_file)
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(f"MMLU split 文件不存在: {file_path}")
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    if not isinstance(data, list):
+        raise ConfigError(f"MMLU 文件格式错误（期望 list）: {file_path}")
+
+    examples: List[Dict[str, str]] = []
+    for item in data:
+        if not isinstance(item, dict) or "input" not in item or "target" not in item:
+            raise ConfigError(f"MMLU 样本缺少 input/target: {file_path}")
+        examples.append({"input": str(item["input"]), "target": str(item["target"])})
+    return examples
+
+
 def load_unit_examples(dataset_name: str, dataset_cfg: Dict[str, Any], unit_name: str) -> List[Dict[str, str]]:
     if dataset_name == "bbh":
         file_path = os.path.join(dataset_cfg["data_dir"], f"{unit_name}.json")
@@ -207,6 +253,13 @@ def load_unit_examples(dataset_name: str, dataset_cfg: Dict[str, Any], unit_name
         if not os.path.exists(file_path):
             raise FileNotFoundError(f"Password 任务文件不存在: {file_path}")
         return _load_bbh_examples(file_path)  # 格式兼容，直接复用
+
+    if dataset_name == "mmlu":
+        subject_dir = os.path.join(dataset_cfg["data_dir"], unit_name)
+        if not os.path.isdir(subject_dir):
+            raise FileNotFoundError(f"MMLU subject 目录不存在: {subject_dir}")
+        split_file = str(dataset_cfg.get("eval_split_default", "test-00000-of-00001.json"))
+        return _load_mmlu_subject_examples(subject_dir, split_file)
 
     file_path = os.path.join(dataset_cfg["data_dir"], f"{unit_name}.jsonl")
     if not os.path.exists(file_path):
@@ -239,7 +292,7 @@ def prepare_eval_examples(
 
 def resolve_prompt_spec(dataset_name: str, dataset_cfg: Dict[str, Any], unit_name: str) -> PromptSpec:
     task_prompts = dataset_cfg.get("task_prompts", {})
-    if dataset_name == "bbh" and unit_name in task_prompts:
+    if dataset_name in {"bbh", "mmlu"} and unit_name in task_prompts:
         prompt_data = task_prompts[unit_name]
         return PromptSpec(
             task_prompt=str(prompt_data.get("task_prompt", "")),

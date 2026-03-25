@@ -28,6 +28,9 @@ bash bbh_run_fewshot_pipeline_simple.sh
 bash arc_run_fewshot_pipeline_simple.sh
 ```
 ### MMLU
+```bash
+bash mmlu_run_fewshot_pipeline_simple.sh
+```
 
 ### Password
 ```bash
