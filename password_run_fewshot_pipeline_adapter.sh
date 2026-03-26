@@ -9,7 +9,7 @@ DATASET="password"
 # 可按你的并发需求单独设置
 GPU_IDS="4,5,6,7"
 TRAIN_GPU_IDS=""
-INFERENCE_GPU_ID="4"
+INFERENCE_GPU_ID=""
 
 TASK_NAMES=""
 EVAL_SPLIT="test"

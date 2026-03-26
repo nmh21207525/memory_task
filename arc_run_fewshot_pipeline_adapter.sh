@@ -9,7 +9,7 @@ DATASET="arc"
 # 可以在四个脚本里分别设置，例如 bbh=0,1,2,3 arc=4,5,6,7
 GPU_IDS="4,5,6,7"
 TRAIN_GPU_IDS=""
-INFERENCE_GPU_ID="4"
+INFERENCE_GPU_ID=""
 
 TASK_NAMES=""
 EVAL_SPLIT="test"
