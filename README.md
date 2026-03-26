@@ -37,3 +37,27 @@ bash mmlu_run_fewshot_pipeline_simple.sh
 bash password_run_fewshot_pipeline_simple.sh
 ```
 
+### Adapter Pipeline (Persistent vLLM + LoRA Adapter Eval)
+```bash
+bash run_fewshot_pipeline_adapter.sh --model_path /path/to/model --dataset bbh
+
+# dataset-specific entrypoints
+bash bbh_run_fewshot_pipeline_adapter.sh --model_path /path/to/model
+bash arc_run_fewshot_pipeline_adapter.sh --model_path /path/to/model
+bash password_run_fewshot_pipeline_adapter.sh --model_path /path/to/model
+bash mmlu_run_fewshot_pipeline_adapter.sh --model_path /path/to/model
+
+# dual-pool GPU settings (default infer=0, train=auto from remaining GPUs)
+bash run_fewshot_pipeline_adapter.sh \
+	--model_path /path/to/model \
+	--dataset bbh \
+	--inference_gpu_id 0 \
+	--train_gpu_ids 1,2,3
+```
+
+Auto split fallback policy (when `train_gpu_ids` is not provided):
+- 4+ GPUs: inference=0, training=remaining GPUs
+- 3 GPUs: inference=0, training=1,2
+- 2 GPUs: inference=0, training=1
+- 1 GPU: inference=0, training=0 (serial mode)
+

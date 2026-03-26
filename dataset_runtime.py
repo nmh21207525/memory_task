@@ -365,6 +365,7 @@ def run_vllm_inference(
     temperature: float = 0.0,
     top_p: float = 1.0,
     stop: Optional[List[str]] = None,
+    lora_request: Optional[Any] = None,
 ) -> List[str]:
     from vllm import SamplingParams
 
@@ -393,7 +394,10 @@ def run_vllm_inference(
         max_tokens=max_new_tokens,
         stop=stop,
     )
-    outputs = llm.generate(prompts, params)
+    if lora_request is not None:
+        outputs = llm.generate(prompts, params, lora_request=lora_request)
+    else:
+        outputs = llm.generate(prompts, params)
 
     preds: List[str] = []
     for out in outputs:
