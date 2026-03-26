@@ -71,7 +71,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--run_post_ft_eval", type=str2bool, default=True, help="Run post-fine-tuning evaluation")
     parser.add_argument("--pre_eval_modes", type=str, default="few-shot", help="zero-shot / few-shot / both / off")
     parser.add_argument("--post_eval_modes", type=str, default="zero-shot", help="zero-shot / few-shot / both / off")
-    parser.add_argument("--run_checkpoint_eval", type=str2bool, default=True, help="Evaluate intermediate checkpoints")
+    parser.add_argument(
+        "--run_checkpoint_eval",
+        type=str2bool,
+        default=False,
+        help="Evaluate intermediate checkpoints (disabled by default to reduce storage)",
+    )
 
     parser.add_argument("--max_model_len", type=int, default=4096, help="vLLM max context length")
     parser.add_argument("--gpu_memory_utilization", type=float, default=0.90, help="vLLM GPU memory utilization")
@@ -254,13 +259,10 @@ def create_dataset_and_config(
     config["logging_steps"] = 5
     config["deepspeed"] = paths["DS_CONFIG_PATH"]
 
-    if args.run_checkpoint_eval:
-        config["save_strategy"] = "epoch"
-        config["save_total_limit"] = max(1, int(args.epochs))
-    else:
-        config["save_strategy"] = "no"
-        config.pop("save_total_limit", None)
-        config.pop("save_steps", None)
+    # 默认低存储模式：不保存中间 checkpoint，仅保留最终导出评测链路。
+    config["save_strategy"] = "no"
+    config.pop("save_total_limit", None)
+    config.pop("save_steps", None)
 
     with open(paths["CONFIG_PATH"], "w", encoding="utf-8") as f:
         yaml.dump(config, f, sort_keys=False, allow_unicode=True)
@@ -481,8 +483,16 @@ def main() -> None:
     print(f"Training GPU(s): {gpu_ids}")
     print(f"Inference GPU: {main_gpu}")
     print(f"dataset={args.dataset} few_shot_k={args.few_shot_k} train_size={train_size} epochs={args.epochs}")
+    print(
+        f"train_batch(per_device={args.per_device_train_batch_size}, "
+        f"grad_accum={args.gradient_accumulation_steps})"
+    )
     print(f"workspace_dir={run_workspace_dir}")
     print(f"logs_dir={run_logs_dir}")
+
+    if args.run_checkpoint_eval:
+        print("[Info] run_checkpoint_eval=true 已请求，但当前默认策略不保存中间 checkpoint，将跳过中间 checkpoint 评估。")
+        args.run_checkpoint_eval = False
 
     dataset_cfg = load_dataset_config(args.dataset, args.dataset_dir, args.task_registry)
     selected_units = list_training_units(args.dataset, dataset_cfg, args.task_names)

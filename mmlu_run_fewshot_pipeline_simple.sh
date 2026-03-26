@@ -13,6 +13,9 @@ TRAIN_SIZE=""
 EPOCHS=3
 REPEAT_TIMES=10
 RESULTS_DIR="${SCRIPT_DIR}/results"
+WORKSPACE_DIR="/mnt/niumiaohe/pwd_memory_task/workspace_fewshot"
+PER_DEVICE_TRAIN_BATCH_SIZE=2
+GRADIENT_ACCUMULATION_STEPS=4
 SKIP_TRAINING=false
 
 usage() {
@@ -31,6 +34,9 @@ Common options:
   --epochs 3
   --repeat_times 10
   --results_dir PATH
+  --workspace_dir PATH
+  --per_device_train_batch_size 2
+  --gradient_accumulation_steps 4
   --skip_training true|false
 
 Split semantics:
@@ -50,6 +56,9 @@ while [[ $# -gt 0 ]]; do
     --epochs) EPOCHS="$2"; shift 2 ;;
     --repeat_times) REPEAT_TIMES="$2"; shift 2 ;;
     --results_dir) RESULTS_DIR="$2"; shift 2 ;;
+    --workspace_dir) WORKSPACE_DIR="$2"; shift 2 ;;
+    --per_device_train_batch_size) PER_DEVICE_TRAIN_BATCH_SIZE="$2"; shift 2 ;;
+    --gradient_accumulation_steps) GRADIENT_ACCUMULATION_STEPS="$2"; shift 2 ;;
     --skip_training) SKIP_TRAINING="$2"; shift 2 ;;
     -h|--help) usage; exit 0 ;;
     *) echo "Unknown argument: $1"; usage; exit 1 ;;
@@ -76,6 +85,9 @@ echo "  train_size  = ${TRAIN_SIZE}"
 echo "  epochs      = ${EPOCHS}"
 echo "  repeat_times = ${REPEAT_TIMES}"
 echo "  results_dir = ${RESULTS_DIR}"
+echo "  workspace_dir = ${WORKSPACE_DIR}"
+echo "  per_device_train_batch_size = ${PER_DEVICE_TRAIN_BATCH_SIZE}"
+echo "  gradient_accumulation_steps = ${GRADIENT_ACCUMULATION_STEPS}"
 echo "  skip_train  = ${SKIP_TRAINING}"
 
 python "${SCRIPT_DIR}/pipeline_core.py" \
@@ -89,6 +101,9 @@ python "${SCRIPT_DIR}/pipeline_core.py" \
   --epochs "$EPOCHS" \
   --repeat_times "$REPEAT_TIMES" \
   --results_dir "$RESULTS_DIR" \
+  --workspace_dir "$WORKSPACE_DIR" \
+  --per_device_train_batch_size "$PER_DEVICE_TRAIN_BATCH_SIZE" \
+  --gradient_accumulation_steps "$GRADIENT_ACCUMULATION_STEPS" \
   --skip_training "$SKIP_TRAINING"
 
 python "${SCRIPT_DIR}/summarize_results_impl.py" \
