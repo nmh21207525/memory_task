@@ -3,7 +3,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-MODEL_PATH="/mnt/jinbo/RLRM/model/Qwen/Qwen2.5-3B-Instruct"
+MODEL_PATH="/mnt/jinbo/RLRM/model/Qwen/Qwen2.5-1.5B-Instruct"
 DATASET="password"
 GPU_IDS="2,3"
 TASK_NAMES=""
@@ -14,7 +14,7 @@ EPOCHS=3
 REPEAT_TIMES=10
 RESULTS_DIR="${SCRIPT_DIR}/results"
 WORKSPACE_DIR="${SCRIPT_DIR}/workspace_fewshot"
-PER_DEVICE_TRAIN_BATCH_SIZE=2
+PER_DEVICE_TRAIN_BATCH_SIZE=4
 GRADIENT_ACCUMULATION_STEPS=4
 SKIP_TRAINING=false
 
